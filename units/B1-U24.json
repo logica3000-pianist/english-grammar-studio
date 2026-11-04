@@ -1,0 +1,642 @@
+{
+  "id": "B1-U24",
+  "level": "B1",
+  "title": "Verb and adjective preposition patterns",
+  "order": 24,
+  "prerequisites": [
+    "B1-U23"
+  ],
+  "objectives": [
+    "Choose prepositions in common verb and adjective patterns.",
+    "Use an -ing form after a preposition.",
+    "Distinguish listen to from hear with a direct object."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Some English verbs and adjectives are commonly followed by a particular preposition. We say ‘listen to music’, ‘wait for a bus’ and ‘be interested in art’. The preposition connects the first word to a noun, pronoun or -ing form: ‘She is interested in music’ and ‘She is interested in learning music’.",
+        "These combinations are useful to learn as whole patterns. A translation from another language may suggest a different preposition, but English has its own established combinations. Context matters because the same word can have more than one pattern or meaning."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Common verb patterns include listen to someone or something, wait for someone or something, depend on someone or something, belong to someone, and pay for something: ‘We waited for the bus’ and ‘This book belongs to Ana’. Pay can also have other patterns, including pay someone for something: ‘I paid the driver for the journey’.",
+        "Common adjective patterns include good at an activity, interested in a subject, afraid of something, responsible for something and proud of someone or something. A form of be often comes before the adjective: ‘He is good at chess’ and ‘They are responsible for the project’. The subject of be agrees with the person or thing described."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "When a verb follows a preposition in these patterns, it normally takes an -ing form: ‘She is good at solving puzzles’, ‘I am interested in learning Spanish’ and ‘Thank you for helping’. Here in, at and for are prepositions, so the next verb has -ing in these examples.",
+        "Compare ‘listen to music’ with ‘hear music’. Listen focuses on paying attention and normally takes to before its object. Hear can directly take an object: ‘I can hear music’. Compare ‘wait for the bus’ with ‘expect the bus’: expect can take a direct object without for in this meaning."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not omit the preposition from the learned pattern: ‘She listens to music’, not ‘She listens music’. Do not add an extra preposition to a direct-object verb: ‘I heard the news’, not ‘I heard to the news’. In ‘good at swimming’, use an -ing form after at rather than a to-infinitive.",
+        "A preposition does not always belong exclusively to one word. A person may be ‘good with children’ or ‘good to a friend’, with meanings different from ‘good at chess’. Rather than applying one combination to every situation, learn the word, its preposition and a short example together."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She listens to music on the train.",
+      "note": "Listen to introduces what she pays attention to."
+    },
+    {
+      "sentence": "We waited for the bus.",
+      "note": "Wait for introduces the thing awaited."
+    },
+    {
+      "sentence": "The result depends on the weather.",
+      "note": "Depend on introduces the relevant factor."
+    },
+    {
+      "sentence": "This book belongs to Ana.",
+      "note": "Belong to introduces the owner."
+    },
+    {
+      "sentence": "He is good at solving puzzles.",
+      "note": "Good at is followed by an -ing form."
+    },
+    {
+      "sentence": "She is interested in learning Spanish.",
+      "note": "Interested in is followed by an -ing form."
+    },
+    {
+      "sentence": "They are responsible for the project.",
+      "note": "Responsible for introduces the area of responsibility."
+    },
+    {
+      "sentence": "I heard the news yesterday.",
+      "note": "Hear takes a direct object in this sentence."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She listens music.",
+      "correct": "She listens to music.",
+      "reason": "Listen takes to before its object in this pattern."
+    },
+    {
+      "incorrect": "I am interested in learn Spanish.",
+      "correct": "I am interested in learning Spanish.",
+      "reason": "Use an -ing form after the preposition in here."
+    },
+    {
+      "incorrect": "He is good in chess.",
+      "correct": "He is good at chess.",
+      "reason": "Good at is the usual pattern for an activity or skill."
+    }
+  ],
+  "summary": [
+    "Learn common verb and adjective patterns with their prepositions.",
+    "Use an -ing form when a verb follows a preposition in these patterns.",
+    "Check meaning and context because a word can have several patterns."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U24-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She plays songs through her headphones and enjoys them on the train. She listens ___ music.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Listen to introduces what she listens to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "of"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“to” fits here. Listen to introduces what she listens to.",
+        "b": "“at” does not fit here. Listen to introduces what she listens to.",
+        "c": "“for” does not fit here. Listen to introduces what she listens to.",
+        "d": "“of” does not fit here. Listen to introduces what she listens to."
+      }
+    },
+    {
+      "id": "B1-U24-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We are waiting ___ the bus.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Wait for introduces the thing awaited.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“on” does not fit here. Wait for introduces the thing awaited.",
+        "b": "“at” does not fit here. Wait for introduces the thing awaited.",
+        "c": "“for” fits here. Wait for introduces the thing awaited.",
+        "d": "“to” does not fit here. Wait for introduces the thing awaited."
+      }
+    },
+    {
+      "id": "B1-U24-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The result depends ___ the weather.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Depend on introduces the relevant factor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "of"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“to” does not fit here. Depend on introduces the relevant factor.",
+        "b": "“for” does not fit here. Depend on introduces the relevant factor.",
+        "c": "“of” does not fit here. Depend on introduces the relevant factor.",
+        "d": "“on” fits here. Depend on introduces the relevant factor."
+      }
+    },
+    {
+      "id": "B1-U24-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He is interested ___ art.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Interested in introduces the subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“at” does not fit here. Interested in introduces the subject.",
+        "b": "“in” fits here. Interested in introduces the subject.",
+        "c": "“on” does not fit here. Interested in introduces the subject.",
+        "d": "“to” does not fit here. Interested in introduces the subject."
+      }
+    },
+    {
+      "id": "B1-U24-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She is good ___ chess.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Good at introduces an activity or skill.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“in” does not fit here. Good at introduces an activity or skill.",
+        "b": "“to” does not fit here. Good at introduces an activity or skill.",
+        "c": "“for” does not fit here. Good at introduces an activity or skill.",
+        "d": "“at” fits here. Good at introduces an activity or skill."
+      }
+    },
+    {
+      "id": "B1-U24-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They are responsible ___ the project.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Responsible for introduces the responsibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to” does not fit here. Responsible for introduces the responsibility.",
+        "b": "“for” fits here. Responsible for introduces the responsibility.",
+        "c": "“at” does not fit here. Responsible for introduces the responsibility.",
+        "d": "“on” does not fit here. Responsible for introduces the responsibility."
+      }
+    },
+    {
+      "id": "B1-U24-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She is interested in ___ Spanish.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Use an -ing form after the preposition in.",
+      "options": [
+        {
+          "id": "a",
+          "text": "learn"
+        },
+        {
+          "id": "b",
+          "text": "to learn"
+        },
+        {
+          "id": "c",
+          "text": "learning"
+        },
+        {
+          "id": "d",
+          "text": "learns"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“learn” does not fit here. Use an -ing form after the preposition in.",
+        "b": "“to learn” does not fit here. Use an -ing form after the preposition in.",
+        "c": "“learning” fits here. Use an -ing form after the preposition in.",
+        "d": "“learns” does not fit here. Use an -ing form after the preposition in."
+      }
+    },
+    {
+      "id": "B1-U24-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses hear correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Hear takes a direct object in this sentence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I heard the news."
+        },
+        {
+          "id": "b",
+          "text": "I heard to the news."
+        },
+        {
+          "id": "c",
+          "text": "I heard for the news."
+        },
+        {
+          "id": "d",
+          "text": "I heard at the news."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“I heard the news.” fits here. Hear takes a direct object in this sentence.",
+        "b": "“I heard to the news.” does not fit here. Hear takes a direct object in this sentence.",
+        "c": "“I heard for the news.” does not fit here. Hear takes a direct object in this sentence.",
+        "d": "“I heard at the news.” does not fit here. Hear takes a direct object in this sentence."
+      }
+    },
+    {
+      "id": "B1-U24-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: listen ___ music.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Listen to introduces the object.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U24-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: wait ___ a bus.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Wait for introduces the thing awaited.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U24-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: depend ___ the weather.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Depend on introduces the relevant factor.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "B1-U24-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: belong ___ Ana.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Belong to introduces the owner.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U24-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: good ___ chess.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Good at introduces an activity or skill.",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "B1-U24-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: interested ___ art.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Interested in introduces the subject.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "B1-U24-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: responsible ___ the project.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Responsible for introduces the responsibility.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U24-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: She is good at ___. (swim)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Use an -ing form after at.",
+      "accepted_answers": [
+        "swimming"
+      ]
+    },
+    {
+      "id": "B1-U24-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: listens music",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Listen takes to before its object.",
+      "source_sentence": "She listens music every day.",
+      "target_segment": "listens music",
+      "accepted_answers": [
+        "listens to music"
+      ]
+    },
+    {
+      "id": "B1-U24-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: waited the bus",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Wait takes for before the thing awaited.",
+      "source_sentence": "We waited the bus.",
+      "target_segment": "waited the bus",
+      "accepted_answers": [
+        "waited for the bus"
+      ]
+    },
+    {
+      "id": "B1-U24-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: in",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Good at is the usual pattern for a skill.",
+      "source_sentence": "He is good in chess.",
+      "target_segment": "in",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "B1-U24-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: learn",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Use an -ing form after in here.",
+      "source_sentence": "She is interested in learn Spanish.",
+      "target_segment": "learn",
+      "accepted_answers": [
+        "learning"
+      ]
+    },
+    {
+      "id": "B1-U24-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Belongs to introduces the owner.",
+      "source_sentence": "Ana owns this book. Use belong.",
+      "keyword": "belongs",
+      "target_sentence": "This book ___ Ana.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "belongs to"
+      ]
+    },
+    {
+      "id": "B1-U24-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Depends on introduces the relevant factor.",
+      "source_sentence": "The weather determines the result. Use depend.",
+      "keyword": "depends",
+      "target_sentence": "The result ___ the weather.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "depends on"
+      ]
+    },
+    {
+      "id": "B1-U24-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Good at is followed by an -ing form here.",
+      "source_sentence": "Solving puzzles is one of his skills. Use good.",
+      "keyword": "good",
+      "target_sentence": "He is ___ puzzles.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "good at solving"
+      ]
+    },
+    {
+      "id": "B1-U24-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U24"
+      ],
+      "explanation": "Interested in is followed by an -ing form here.",
+      "source_sentence": "Learning Spanish interests her. Use interested.",
+      "keyword": "interested",
+      "target_sentence": "She is ___ Spanish.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "interested in learning"
+      ]
+    }
+  ]
+}

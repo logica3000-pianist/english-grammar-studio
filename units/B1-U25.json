@@ -1,0 +1,653 @@
+{
+  "id": "B1-U25",
+  "level": "B1",
+  "title": "Coherence across clauses: cumulative review",
+  "order": 25,
+  "prerequisites": [
+    "B1-U24"
+  ],
+  "objectives": [
+    "Choose links for reasons, results and contrast.",
+    "Use although and despite with appropriate structures.",
+    "Review past perfect, relative clauses and verb patterns in connected sentences."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Coherence means that ideas fit together in a way the reader can follow. A linking word can show a reason, result, contrast or unexpected result. Compare ‘The road was closed, so we took another route’ with ‘We took another route because the road was closed’. Both describe the same situation, but so introduces the result and because introduces the reason.",
+        "Although introduces a contrast that may seem surprising: ‘Although it was raining, we enjoyed the walk’. The rain makes the enjoyment less expected, but it does not prevent it. However can connect contrasting statements: ‘It was raining. However, we enjoyed the walk’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Because and although introduce clauses, which normally have a subject and a verb: ‘because the road was closed’ and ‘although it was late’. These clauses can come before or after the main clause. When one comes first, a comma commonly follows it: ‘Because it was late, we left’. When it comes second, a comma is not normally required: ‘We left because it was late’.",
+        "Despite introduces a noun phrase or an -ing form rather than a full finite clause: ‘despite the rain’ and ‘despite feeling tired’. So can introduce a result in another clause: ‘It was late, so we left’. However can begin a new sentence; a comma often follows it: ‘It was late. However, we continued’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Although the café was busy, we found a table’ with ‘Despite the crowds, we found a table’. Both express a contrast, but although is followed by a clause and despite by a noun phrase. ‘The café was busy, so we went elsewhere’ expresses a result, not the same unexpected outcome.",
+        "A clear reference also helps coherence. In ‘Maya returned the book because she had finished it’, she refers to Maya and it to the book. If several people or objects could be meant, repeat a name or noun rather than leaving the reader to guess. Use a consistent time sequence: had finished places the finishing before the return."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not combine although and but as two links for the same relationship: use ‘Although it rained, we walked’ or ‘It rained, but we walked’, not ‘Although it rained, but we walked’. Do not use despite directly before a full clause in the basic pattern: use ‘despite the rain’ or ‘although it rained’.",
+        "Linking words do not make every relationship logical. ‘The road was closed because we took another route’ says that our choice caused the closure, which differs from the intended meaning. Check which idea is the cause and which is the result. More than one link may be grammatical in a context but express a different relationship."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The road was closed, so we took another route.",
+      "note": "So introduces the result."
+    },
+    {
+      "sentence": "We took another route because the road was closed.",
+      "note": "Because introduces the reason."
+    },
+    {
+      "sentence": "Although it rained, we enjoyed the walk.",
+      "note": "Although introduces an unexpected contrast."
+    },
+    {
+      "sentence": "Despite the rain, we enjoyed the walk.",
+      "note": "Despite is followed by a noun phrase."
+    },
+    {
+      "sentence": "Despite feeling tired, Maya continued.",
+      "note": "Despite is followed by an -ing form."
+    },
+    {
+      "sentence": "It was late. However, we continued.",
+      "note": "However connects contrasting statements."
+    },
+    {
+      "sentence": "Maya returned the book because she had finished it.",
+      "note": "The pronouns refer to Maya and the book; finishing came first."
+    },
+    {
+      "sentence": "Because the café was busy, we went elsewhere.",
+      "note": "An opening reason clause is followed by a comma."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Although it rained, but we walked.",
+      "correct": "Although it rained, we walked.",
+      "reason": "Do not use although and but for the same link."
+    },
+    {
+      "incorrect": "Despite it was raining, we walked.",
+      "correct": "Although it was raining, we walked.",
+      "reason": "A full clause can follow although in this pattern."
+    },
+    {
+      "incorrect": "The road was closed because we took another route.",
+      "correct": "We took another route because the road was closed.",
+      "reason": "Because must introduce the intended reason."
+    }
+  ],
+  "summary": [
+    "Use because for a reason and so for a result.",
+    "Use although with a clause and despite with a noun phrase or -ing form.",
+    "Make pronoun reference and the time sequence clear."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U25-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The road was closed, ___ we took another route. Introduce the result.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "So introduces the result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "although"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“because” does not fit here. So introduces the result.",
+        "b": "“so” fits here. So introduces the result.",
+        "c": "“although” does not fit here. So introduces the result.",
+        "d": "“despite” does not fit here. So introduces the result."
+      }
+    },
+    {
+      "id": "B1-U25-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We left ___ it was late. Introduce the reason.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Because introduces the reason.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "despite"
+        },
+        {
+          "id": "c",
+          "text": "because"
+        },
+        {
+          "id": "d",
+          "text": "however"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“so” does not fit here. Because introduces the reason.",
+        "b": "“despite” does not fit here. Because introduces the reason.",
+        "c": "“because” fits here. Because introduces the reason.",
+        "d": "“however” does not fit here. Because introduces the reason."
+      }
+    },
+    {
+      "id": "B1-U25-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ it was raining, we enjoyed the walk. Introduce the unexpected contrast.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Although introduces a clause expressing contrast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Despite of"
+        },
+        {
+          "id": "c",
+          "text": "Because of"
+        },
+        {
+          "id": "d",
+          "text": "So"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Although” fits here. Although introduces a clause expressing contrast.",
+        "b": "“Despite of” does not fit here. Although introduces a clause expressing contrast.",
+        "c": "“Because of” does not fit here. Although introduces a clause expressing contrast.",
+        "d": "“So” does not fit here. Although introduces a clause expressing contrast."
+      }
+    },
+    {
+      "id": "B1-U25-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ the rain, we enjoyed the walk. Choose the link before a noun phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Despite can introduce the noun phrase the rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Because"
+        },
+        {
+          "id": "c",
+          "text": "So"
+        },
+        {
+          "id": "d",
+          "text": "Despite"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Although” does not fit here. Despite can introduce the noun phrase the rain.",
+        "b": "“Because” does not fit here. Despite can introduce the noun phrase the rain.",
+        "c": "“So” does not fit here. Despite can introduce the noun phrase the rain.",
+        "d": "“Despite” fits here. Despite can introduce the noun phrase the rain."
+      }
+    },
+    {
+      "id": "B1-U25-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya returned the book after she ___ it. Use the past perfect for the earlier event.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U21"
+      ],
+      "explanation": "Had finished places the finishing before the return.",
+      "options": [
+        {
+          "id": "a",
+          "text": "finishes"
+        },
+        {
+          "id": "b",
+          "text": "has finish"
+        },
+        {
+          "id": "c",
+          "text": "finishing"
+        },
+        {
+          "id": "d",
+          "text": "had finished"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“finishes” does not fit here. Had finished places the finishing before the return.",
+        "b": "“has finish” does not fit here. Had finished places the finishing before the return.",
+        "c": "“finishing” does not fit here. Had finished places the finishing before the return.",
+        "d": "“had finished” fits here. Had finished places the finishing before the return."
+      }
+    },
+    {
+      "id": "B1-U25-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The woman ___ called is my colleague. Choose who or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the person and is the subject of called.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "whose car"
+        },
+        {
+          "id": "d",
+          "text": "which car"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“who” fits here. Who refers to the person and is the subject of called.",
+        "b": "“where” does not fit here. Who refers to the person and is the subject of called.",
+        "c": "“whose car” does not fit here. Who refers to the person and is the subject of called.",
+        "d": "“which car” does not fit here. Who refers to the person and is the subject of called."
+      }
+    },
+    {
+      "id": "B1-U25-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I enjoy ___ on the train. (read)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to reading"
+        },
+        {
+          "id": "b",
+          "text": "read"
+        },
+        {
+          "id": "c",
+          "text": "reading"
+        },
+        {
+          "id": "d",
+          "text": "to read"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to reading” does not fit here. Enjoy takes an -ing form.",
+        "b": "“read” does not fit here. Enjoy takes an -ing form.",
+        "c": "“reading” fits here. Enjoy takes an -ing form.",
+        "d": "“to read” does not fit here. Enjoy takes an -ing form."
+      }
+    },
+    {
+      "id": "B1-U25-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She is good ___ chess.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U24"
+      ],
+      "explanation": "Good at introduces a skill.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“in” does not fit here. Good at introduces a skill.",
+        "b": "“at” fits here. Good at introduces a skill.",
+        "c": "“on” does not fit here. Good at introduces a skill.",
+        "d": "“for” does not fit here. Good at introduces a skill."
+      }
+    },
+    {
+      "id": "B1-U25-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Introduce the result: It was late, ___ we left.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "So introduces the result.",
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "B1-U25-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Introduce the reason: We left ___ it was late.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Because introduces the reason.",
+      "accepted_answers": [
+        "because"
+      ]
+    },
+    {
+      "id": "B1-U25-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use although: ___ it rained, we walked.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Although introduces the contrasting clause.",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B1-U25-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use despite: ___ the rain, we walked.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Despite introduces the noun phrase.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "B1-U25-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past perfect: She had ___ before we arrived. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U21"
+      ],
+      "explanation": "Left is the participle after had.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B1-U25-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use who: The student ___ called left a message.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of called.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U25-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: He enjoys ___. (swim)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "accepted_answers": [
+        "swimming"
+      ]
+    },
+    {
+      "id": "B1-U25-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: afraid ___ spiders.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U24"
+      ],
+      "explanation": "Afraid of introduces the source of fear.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "B1-U25-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: but we walked",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Do not combine although and but for the same link.",
+      "source_sentence": "Although it rained, but we walked.",
+      "target_segment": "but we walked",
+      "accepted_answers": [
+        "we walked"
+      ]
+    },
+    {
+      "id": "B1-U25-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Although can introduce the clause it was raining.",
+      "source_sentence": "Despite it was raining, we walked.",
+      "target_segment": "Despite",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B1-U25-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U21"
+      ],
+      "explanation": "Use the participle eaten after had.",
+      "source_sentence": "He had ate lunch before the meeting.",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U25-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: learn",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U25",
+        "B1-U24"
+      ],
+      "explanation": "Use an -ing form after in here.",
+      "source_sentence": "He is interested in learn French.",
+      "target_segment": "learn",
+      "accepted_answers": [
+        "learning"
+      ]
+    },
+    {
+      "id": "B1-U25-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "So introduces the result.",
+      "source_sentence": "The road was closed. As a result, we took another route.",
+      "keyword": "so",
+      "target_sentence": "The road was closed, ___ we took another route.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "B1-U25-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Because introduces the reason clause.",
+      "source_sentence": "We stayed home. The reason was the rain.",
+      "keyword": "raining",
+      "target_sentence": "We stayed home because ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "it was raining"
+      ]
+    },
+    {
+      "id": "B1-U25-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U25"
+      ],
+      "explanation": "Although introduces the contrast.",
+      "source_sentence": "It rained, but we enjoyed the walk. Use although.",
+      "keyword": "Although",
+      "target_sentence": "___ it rained, we enjoyed the walk.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B1-U25-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U25",
+        "B1-U21"
+      ],
+      "explanation": "Had finished places the completion before the return.",
+      "source_sentence": "Maya finished the book. Then she returned it. Use the past perfect for the earlier action.",
+      "keyword": "finished",
+      "target_sentence": "Maya returned the book after she ___ it.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had finished"
+      ]
+    }
+  ]
+}

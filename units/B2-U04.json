@@ -1,0 +1,643 @@
+{
+  "id": "B2-U04",
+  "level": "B2",
+  "title": "Narrative aspect and viewpoint",
+  "order": 4,
+  "prerequisites": [
+    "B2-U03"
+  ],
+  "objectives": [
+    "Use past simple and past continuous to present events and background in a narrative.",
+    "Use past perfect simple and continuous to establish an earlier viewpoint or duration.",
+    "Choose aspect according to the meaning the narrator wants to emphasise."
+  ],
+  "explanation": [
+    {
+      "heading": "A narrative viewpoint",
+      "paragraphs": [
+        "Narrators choose a reference point in the past and present events from that viewpoint. The past simple typically moves the main sequence forward: “Maya opened the envelope and read the letter.” The past continuous often presents an activity as already in progress at a reference time: “Rain was falling when Maya arrived.”",
+        "Aspect is a choice of viewpoint, not simply a rule about long and short actions. “She worked all evening” presents the period as a whole; “She was working at eight” looks at the activity from within it."
+      ]
+    },
+    {
+      "heading": "Looking further back",
+      "paragraphs": [
+        "Use had plus a past participle to locate an event before a past reference point: “When Maya arrived, the guests had left.” Their departure preceded her arrival. “When Maya arrived, the guests left” normally presents arrival first and departure second.",
+        "Use had been plus an -ing form to focus on an activity or its duration before a past reference point: “She had been waiting for an hour when the doors opened.” This form does not automatically mean the activity was incomplete; context determines whether it continued."
+      ]
+    },
+    {
+      "heading": "Sequence and interpretation",
+      "paragraphs": [
+        "Words such as before and after can establish the order without a past perfect: “After she locked the door, she left.” A past perfect can still make the earlier viewpoint explicit: “After she had locked the door, she left.” It is not necessary to change every earlier verb to the past perfect when the sequence is already clear.",
+        "Past continuous can describe overlapping background activities: “While I was cooking, Leo was setting the table.” A simple past event can interrupt a background activity: “While I was cooking, the lights went out.” The interruption does not by itself prove that the background activity stopped permanently."
+      ]
+    },
+    {
+      "heading": "Form and cautions",
+      "paragraphs": [
+        "Past continuous uses was or were plus an -ing form. Past perfect simple uses had plus a past participle, and past perfect continuous uses had been plus an -ing form. Questions invert the auxiliary and subject: “Had they left?”; negatives use had not or hadn’t.",
+        "Stative verbs such as know are not normally used in continuous forms for a state: “She had known him for years”, not normally “She had been knowing him”. Some verbs can be stative or dynamic depending on meaning, so use context rather than a fixed list."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The guests left when Maya arrived.",
+      "note": "Arrival is followed by departure in the ordinary sequential reading."
+    },
+    {
+      "sentence": "The guests had left when Maya arrived.",
+      "note": "Departure occurred before arrival."
+    },
+    {
+      "sentence": "Rain was falling when we stepped outside.",
+      "note": "The rain is background in progress at that point."
+    },
+    {
+      "sentence": "I was reading while he was cooking.",
+      "note": "Two activities are viewed as overlapping."
+    },
+    {
+      "sentence": "He had been driving for hours before he stopped.",
+      "note": "The continuous highlights duration leading up to stopping."
+    },
+    {
+      "sentence": "She had known them for years.",
+      "note": "The state verb know normally takes a simple form here."
+    },
+    {
+      "sentence": "After he checked the figures, he sent the email.",
+      "note": "After makes the sequence clear without a past perfect."
+    },
+    {
+      "sentence": "She wrote all morning.",
+      "note": "The simple form presents the period as a whole."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "When I arrived, they had went home.",
+      "correct": "When I arrived, they had gone home.",
+      "reason": "Use the past participle gone after had."
+    },
+    {
+      "incorrect": "She was wait when I called.",
+      "correct": "She was waiting when I called.",
+      "reason": "Use an -ing form after was in the past continuous."
+    },
+    {
+      "incorrect": "He had been knowing her for years.",
+      "correct": "He had known her for years.",
+      "reason": "Know normally expresses a state and takes a simple form here."
+    }
+  ],
+  "summary": [
+    "Past simple commonly presents events as a sequence; past continuous views an activity in progress.",
+    "Past perfect places an event or state before a past reference point; the continuous can emphasise activity or duration.",
+    "Select the form for the intended viewpoint; sequence markers sometimes make past perfect unnecessary."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U04-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The film started before we arrived. Which sentence makes this order explicit?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had started places the start before our arrival.",
+      "options": [
+        {
+          "id": "a",
+          "text": "When we arrived, the film had started."
+        },
+        {
+          "id": "b",
+          "text": "When we arrived, the film started."
+        },
+        {
+          "id": "c",
+          "text": "When we arrived, the film was starting later."
+        },
+        {
+          "id": "d",
+          "text": "When we arrived, the film has started."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Correct. Had started places the start before our arrival.",
+        "b": "Not quite. Had started places the start before our arrival.",
+        "c": "Not quite. Had started places the start before our arrival.",
+        "d": "Not quite. Had started places the start before our arrival."
+      }
+    },
+    {
+      "id": "B2-U04-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence presents the rain as background in progress when the train arrived?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Was raining presents background in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It rained tomorrow when the train arrived."
+        },
+        {
+          "id": "b",
+          "text": "It was raining when the train arrived."
+        },
+        {
+          "id": "c",
+          "text": "It has rained when the train arrived."
+        },
+        {
+          "id": "d",
+          "text": "It rains when the train arrived yesterday."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Not quite. Was raining presents background in progress.",
+        "b": "Correct. Was raining presents background in progress.",
+        "c": "Not quite. Was raining presents background in progress.",
+        "d": "Not quite. Was raining presents background in progress."
+      }
+    },
+    {
+      "id": "B2-U04-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “When Ana called, Ben left”, what is the usual sequence?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The usual sequential reading places the call before the departure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ben left before Ana called."
+        },
+        {
+          "id": "b",
+          "text": "Both events necessarily lasted an hour."
+        },
+        {
+          "id": "c",
+          "text": "Ana called, and then Ben left."
+        },
+        {
+          "id": "d",
+          "text": "Ben has not left yet."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Not quite. The usual sequential reading places the call before the departure.",
+        "b": "Not quite. The usual sequential reading places the call before the departure.",
+        "c": "Correct. The usual sequential reading places the call before the departure.",
+        "d": "Not quite. The usual sequential reading places the call before the departure."
+      }
+    },
+    {
+      "id": "B2-U04-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which form emphasises the duration of an activity up to a past reference point?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had been waiting can highlight a duration leading up to a past point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been waiting"
+        },
+        {
+          "id": "b",
+          "text": "has been waiting"
+        },
+        {
+          "id": "c",
+          "text": "will wait"
+        },
+        {
+          "id": "d",
+          "text": "waits"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Correct. Had been waiting can highlight a duration leading up to a past point.",
+        "b": "Not quite. Had been waiting can highlight a duration leading up to a past point.",
+        "c": "Not quite. Had been waiting can highlight a duration leading up to a past point.",
+        "d": "Not quite. Had been waiting can highlight a duration leading up to a past point."
+      }
+    },
+    {
+      "id": "B2-U04-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is the most natural account of a state lasting until a past point?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Know normally uses the simple form for a state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He had been knowing her for years."
+        },
+        {
+          "id": "b",
+          "text": "He had known her for years."
+        },
+        {
+          "id": "c",
+          "text": "He had know her for years."
+        },
+        {
+          "id": "d",
+          "text": "He was knowing her for years."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Not quite. Know normally uses the simple form for a state.",
+        "b": "Correct. Know normally uses the simple form for a state.",
+        "c": "Not quite. Know normally uses the simple form for a state.",
+        "d": "Not quite. Know normally uses the simple form for a state."
+      }
+    },
+    {
+      "id": "B2-U04-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "After locking the door, Sam left. Which statement is true?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "After makes the sequence clear; past perfect is optional here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Past perfect is compulsory after after."
+        },
+        {
+          "id": "b",
+          "text": "Sam left before locking the door."
+        },
+        {
+          "id": "c",
+          "text": "After establishes the order even without past perfect."
+        },
+        {
+          "id": "d",
+          "text": "The sentence describes a future event."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Not quite. After makes the sequence clear; past perfect is optional here.",
+        "b": "Not quite. After makes the sequence clear; past perfect is optional here.",
+        "c": "Correct. After makes the sequence clear; past perfect is optional here.",
+        "d": "Not quite. After makes the sequence clear; past perfect is optional here."
+      }
+    },
+    {
+      "id": "B2-U04-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence presents two activities as overlapping?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The two past continuous forms present activities in progress at the same time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "While I was cooking, Lee was setting the table."
+        },
+        {
+          "id": "b",
+          "text": "I had cooked before Lee arrived."
+        },
+        {
+          "id": "c",
+          "text": "Lee set the table after I left."
+        },
+        {
+          "id": "d",
+          "text": "I will cook while Lee eats."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Correct. The two past continuous forms present activities in progress at the same time.",
+        "b": "Not quite. The two past continuous forms present activities in progress at the same time.",
+        "c": "Not quite. The two past continuous forms present activities in progress at the same time.",
+        "d": "Not quite. The two past continuous forms present activities in progress at the same time."
+      }
+    },
+    {
+      "id": "B2-U04-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct past perfect question.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Invert had and the subject and use the past participle left.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had they leave?"
+        },
+        {
+          "id": "b",
+          "text": "Did they had left?"
+        },
+        {
+          "id": "c",
+          "text": "Had they left?"
+        },
+        {
+          "id": "d",
+          "text": "Have they left yesterday?"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Not quite. Invert had and the subject and use the past participle left.",
+        "b": "Not quite. Invert had and the subject and use the past participle left.",
+        "c": "Correct. Invert had and the subject and use the past participle left.",
+        "d": "Not quite. Invert had and the subject and use the past participle left."
+      }
+    },
+    {
+      "id": "B2-U04-E09",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past continuous of read: At eight, I ___ in the library.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Was reading presents the activity in progress at eight.",
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "B2-U04-E10",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past perfect of leave: The guests ___ before Maya arrived.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had left locates departure before arrival.",
+      "accepted_answers": [
+        "had left"
+      ]
+    },
+    {
+      "id": "B2-U04-E11",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past perfect continuous of wait: She ___ for an hour when the doors opened.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had been waiting emphasises duration before the doors opened.",
+      "accepted_answers": [
+        "had been waiting"
+      ]
+    },
+    {
+      "id": "B2-U04-E12",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past simple of fall: While they were walking, the tree ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The past simple presents the fall as an event in the narrative.",
+      "accepted_answers": [
+        "fell"
+      ]
+    },
+    {
+      "id": "B2-U04-E13",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past perfect of know: By 2020, we ___ each other for ten years.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Know normally takes a simple form for a state.",
+      "accepted_answers": [
+        "had known"
+      ]
+    },
+    {
+      "id": "B2-U04-E14",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past continuous of cook: While I ___, the phone rang.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Was cooking establishes the background activity.",
+      "accepted_answers": [
+        "was cooking"
+      ]
+    },
+    {
+      "id": "B2-U04-E15",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past perfect of write: She ___ the report before the meeting began.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Written is the past participle of write.",
+      "accepted_answers": [
+        "had written"
+      ]
+    },
+    {
+      "id": "B2-U04-E16",
+      "type": "gap",
+      "instruction": "Complete the gap using the specified form. Write only the missing words.",
+      "prompt": "Use the past perfect continuous of travel: They ___ for hours before they stopped.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had been travelling emphasises the activity leading up to the stop.",
+      "accepted_answers": [
+        "had been travelling",
+        "had been traveling"
+      ]
+    },
+    {
+      "id": "B2-U04-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Correct the indicated segment.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The past participle of go is gone.",
+      "source_sentence": "When we arrived, they had went home.",
+      "target_segment": "had went",
+      "accepted_answers": [
+        "had gone"
+      ]
+    },
+    {
+      "id": "B2-U04-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Correct the indicated segment.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The past continuous requires was plus an -ing form.",
+      "source_sentence": "I was read when the alarm rang.",
+      "target_segment": "was read",
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "B2-U04-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Correct the indicated segment.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Know normally takes the simple form for a state.",
+      "source_sentence": "She had been knowing him for years.",
+      "target_segment": "had been knowing",
+      "accepted_answers": [
+        "had known"
+      ]
+    },
+    {
+      "id": "B2-U04-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Correct the indicated segment.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "The past perfect requires had plus a past participle.",
+      "source_sentence": "They had finish the work before noon.",
+      "target_segment": "had finish",
+      "accepted_answers": [
+        "had finished"
+      ]
+    },
+    {
+      "id": "B2-U04-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had left places departure before arrival.",
+      "source_sentence": "The train departed before we arrived.",
+      "keyword": "LEFT",
+      "target_sentence": "When we arrived, the train ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had left"
+      ]
+    },
+    {
+      "id": "B2-U04-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had been waiting emphasises duration before the opening.",
+      "source_sentence": "An hour of waiting preceded the doors opening.",
+      "keyword": "WAITING",
+      "target_sentence": "She ___ for an hour when the doors opened.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had been waiting"
+      ]
+    },
+    {
+      "id": "B2-U04-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Was reading presents the activity in progress when the phone rang.",
+      "source_sentence": "I was in the middle of reading when the phone rang.",
+      "keyword": "READING",
+      "target_sentence": "When the phone rang, I ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "B2-U04-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U04"
+      ],
+      "explanation": "Had not completed is the negative past perfect.",
+      "source_sentence": "They had completed the task before noon. Make this negative.",
+      "keyword": "NOT",
+      "target_sentence": "They ___ the task before noon.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "had not completed"
+      ]
+    }
+  ]
+}

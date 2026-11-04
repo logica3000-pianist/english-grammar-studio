@@ -1,0 +1,659 @@
+{
+  "id": "B2-U10",
+  "level": "B2",
+  "title": "Hypothetical meaning: cumulative review",
+  "order": 10,
+  "prerequisites": [
+    "B2-U09"
+  ],
+  "objectives": [
+    "Interpret hypothetical past forms in context.",
+    "Use it’s time and as if in controlled contexts.",
+    "Review wishes, conditional patterns and modal perfects."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "English often uses past forms to signal hypothetical distance rather than past time. ‘If I had more time, I would read more’ imagines a different present situation. ‘I wish I knew the answer’ expresses dissatisfaction with a present state. In both examples, the past form helps mark the situation as imagined or contrary to what the speaker expects.",
+        "Other expressions can also create hypothetical meanings. ‘It's time we left’ says that leaving should happen now or soon, often with a suggestion that it is late. ‘He talks as if he knew everyone’ can suggest that his manner gives that impression, although the speaker may doubt it. These are meanings created by the whole context, not by past forms alone."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a hypothetical present, if, wish and if only commonly take a past form: ‘If she lived nearer, she would visit’ and ‘If only she lived nearer’. For a hypothetical past event, use a past perfect form: ‘If she had lived nearer, she would have visited’ and ‘I wish she had visited’. A mixed conditional can connect a past condition to a present result: ‘If I had studied medicine, I would be a doctor now’.",
+        "After it's time plus a subject, a past form can express that an action is due: ‘It's time we went home’. After as if or as though, a past form can suggest a hypothetical or doubtful comparison: ‘She speaks as if she knew the answer’. A present form may also be used when the comparison is presented as real or plausible: ‘It looks as if it is raining’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘She speaks as if she knew the answer’ with ‘It looks as if it is raining’. In the first, the speaker may doubt that she knows; in the second, the speaker describes an apparently real situation. Neither structure alone guarantees whether the proposition is true. Context, tone and verb choice contribute to the meaning.",
+        "This review also revisits modal perfect forms. ‘You should have checked’ can judge a missed advisable action. ‘She might have left’ expresses a possibility about a past event. ‘If she had left, she would have called’ imagines a past condition and result. The meanings differ even though all three include have and a participle."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use would in the basic if clause just because the result has would: ‘If I had time, I would help’, not ‘If I would have time, I would help’. Would can occur in some if clauses with other meanings, including willingness; that is a separate use.",
+        "Do not automatically infer that a past form refers to yesterday. In ‘It's time we left’, left refers to an action due now or soon. In a narrative, the same form can of course describe a finished past action. The surrounding words determine which interpretation is intended."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If I had time, I would help.",
+      "note": "Had expresses a hypothetical present condition."
+    },
+    {
+      "sentence": "I wish I knew the answer.",
+      "note": "Knew expresses an imagined present state."
+    },
+    {
+      "sentence": "If only we had checked the address.",
+      "note": "Had checked expresses regret about the past."
+    },
+    {
+      "sentence": "It's time we left.",
+      "note": "Left refers to an action due now or soon."
+    },
+    {
+      "sentence": "She speaks as if she knew the answer.",
+      "note": "The past form can signal a hypothetical or doubtful comparison."
+    },
+    {
+      "sentence": "It looks as if it is raining.",
+      "note": "The present form presents the comparison as apparently real."
+    },
+    {
+      "sentence": "You should have checked the address.",
+      "note": "Should have can judge a missed advisable action."
+    },
+    {
+      "sentence": "She might have left already.",
+      "note": "Might have expresses a possibility about a past event."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "If I would have time, I would help.",
+      "correct": "If I had time, I would help.",
+      "reason": "Use a past form in this basic hypothetical if clause."
+    },
+    {
+      "incorrect": "I wish I have checked yesterday.",
+      "correct": "I wish I had checked yesterday.",
+      "reason": "Use past perfect for this past regret."
+    },
+    {
+      "incorrect": "It’s time we to leave.",
+      "correct": "It’s time we left.",
+      "reason": "Use a past form after it’s time plus a subject in this pattern."
+    }
+  ],
+  "summary": [
+    "Past forms can express hypothetical distance rather than past time.",
+    "It’s time plus a past form can express that an action is due.",
+    "Modal perfects and hypothetical conditionals express different kinds of meaning."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U10-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I do not have time now. If I ___ time, I would help.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10",
+        "B1-U09"
+      ],
+      "explanation": "Had expresses the hypothetical present condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "had had yesterday"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have” does not fit here. Had expresses the hypothetical present condition.",
+        "b": "“had” fits here. Had expresses the hypothetical present condition.",
+        "c": "“had had yesterday” does not fit here. Had expresses the hypothetical present condition.",
+        "d": "“will have” does not fit here. Had expresses the hypothetical present condition."
+      }
+    },
+    {
+      "id": "B2-U10-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I did not check yesterday. I wish I ___ .",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses regret about the past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "check"
+        },
+        {
+          "id": "b",
+          "text": "would checks"
+        },
+        {
+          "id": "c",
+          "text": "have check"
+        },
+        {
+          "id": "d",
+          "text": "had checked"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“check” does not fit here. Had checked expresses regret about the past.",
+        "b": "“would checks” does not fit here. Had checked expresses regret about the past.",
+        "c": "“have check” does not fit here. Had checked expresses regret about the past.",
+        "d": "“had checked” fits here. Had checked expresses regret about the past."
+      }
+    },
+    {
+      "id": "B2-U10-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We should leave now; it is already late. It’s time we ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "It’s time plus a subject and past form expresses an action due now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "left"
+        },
+        {
+          "id": "b",
+          "text": "leave yesterday"
+        },
+        {
+          "id": "c",
+          "text": "will leaving"
+        },
+        {
+          "id": "d",
+          "text": "to left"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“left” fits here. It’s time plus a subject and past form expresses an action due now.",
+        "b": "“leave yesterday” does not fit here. It’s time plus a subject and past form expresses an action due now.",
+        "c": "“will leaving” does not fit here. It’s time plus a subject and past form expresses an action due now.",
+        "d": "“to left” does not fit here. It’s time plus a subject and past form expresses an action due now."
+      }
+    },
+    {
+      "id": "B2-U10-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She behaves as if she ___ the answer, but I doubt she does.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "Knew can signal the doubtful comparison.",
+      "options": [
+        {
+          "id": "a",
+          "text": "knows yesterday"
+        },
+        {
+          "id": "b",
+          "text": "will knew"
+        },
+        {
+          "id": "c",
+          "text": "knew"
+        },
+        {
+          "id": "d",
+          "text": "is knowing"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“knows yesterday” does not fit here. Knew can signal the doubtful comparison.",
+        "b": "“will knew” does not fit here. Knew can signal the doubtful comparison.",
+        "c": "“knew” fits here. Knew can signal the doubtful comparison.",
+        "d": "“is knowing” does not fit here. Knew can signal the doubtful comparison."
+      }
+    },
+    {
+      "id": "B2-U10-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "It looks as if it ___ raining now; it probably is.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "Is presents an apparently real situation now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were yesterday"
+        },
+        {
+          "id": "b",
+          "text": "had been yesterday"
+        },
+        {
+          "id": "c",
+          "text": "would been"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“were yesterday” does not fit here. Is presents an apparently real situation now.",
+        "b": "“had been yesterday” does not fit here. Is presents an apparently real situation now.",
+        "c": "“would been” does not fit here. Is presents an apparently real situation now.",
+        "d": "“is” fits here. Is presents an apparently real situation now."
+      }
+    },
+    {
+      "id": "B2-U10-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I did not take the job; imagine I live in Berlin now as a result. If I had taken it, I ___ there now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U08"
+      ],
+      "explanation": "Would live expresses the imagined present result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would have lived yesterday"
+        },
+        {
+          "id": "b",
+          "text": "had live"
+        },
+        {
+          "id": "c",
+          "text": "would live"
+        },
+        {
+          "id": "d",
+          "text": "will lived"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“would have lived yesterday” does not fit here. Would live expresses the imagined present result.",
+        "b": "“had live” does not fit here. Would live expresses the imagined present result.",
+        "c": "“would live” fits here. Would live expresses the imagined present result.",
+        "d": "“will lived” does not fit here. Would live expresses the imagined present result."
+      }
+    },
+    {
+      "id": "B2-U10-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Checking was advisable but did not happen. You ___ checked.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U07"
+      ],
+      "explanation": "Should have checked judges the missed action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should have"
+        },
+        {
+          "id": "b",
+          "text": "must to"
+        },
+        {
+          "id": "c",
+          "text": "should of"
+        },
+        {
+          "id": "d",
+          "text": "could has"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“should have” fits here. Should have checked judges the missed action.",
+        "b": "“must to” does not fit here. Should have checked judges the missed action.",
+        "c": "“should of” does not fit here. Should have checked judges the missed action.",
+        "d": "“could has” does not fit here. Should have checked judges the missed action."
+      }
+    },
+    {
+      "id": "B2-U10-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses an imagined past condition and past result?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U08"
+      ],
+      "explanation": "Had called and would have answered form the hypothetical past pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If she calls, I will answer."
+        },
+        {
+          "id": "b",
+          "text": "If she had called, I would have answered."
+        },
+        {
+          "id": "c",
+          "text": "If she knew, she would answer now."
+        },
+        {
+          "id": "d",
+          "text": "She might have called."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“If she calls, I will answer.” does not fit here. Had called and would have answered form the hypothetical past pattern.",
+        "b": "“If she had called, I would have answered.” fits here. Had called and would have answered form the hypothetical past pattern.",
+        "c": "“If she knew, she would answer now.” does not fit here. Had called and would have answered form the hypothetical past pattern.",
+        "d": "“She might have called.” does not fit here. Had called and would have answered form the hypothetical past pattern."
+      }
+    },
+    {
+      "id": "B2-U10-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the hypothetical past form: If I ___ more time now, I would help. (have)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B1-U09"
+      ],
+      "explanation": "Had expresses a hypothetical present condition.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U10-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past perfect: I wish I had ___ the address yesterday. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses the past regret.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U10-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past form: It’s time we ___. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "The past form expresses an action due now.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U10-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past form for a doubtful comparison: She speaks as if she ___ the answer. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "Knew can signal the hypothetical comparison.",
+      "accepted_answers": [
+        "knew"
+      ]
+    },
+    {
+      "id": "B2-U10-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would: If I had taken the job, I ___ live there now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U08"
+      ],
+      "explanation": "Would live expresses the imagined present result.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B2-U10-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use have: You should ___ checked the address.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U07"
+      ],
+      "explanation": "Should have plus a participle judges a missed action.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U10-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use might: She ___ have left; I am not certain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U06"
+      ],
+      "explanation": "Might have expresses an uncertain past possibility.",
+      "accepted_answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "B2-U10-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: If they had left earlier, they would have ___ the bus. (catch)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U08"
+      ],
+      "explanation": "Caught is the participle after would have.",
+      "accepted_answers": [
+        "caught"
+      ]
+    },
+    {
+      "id": "B2-U10-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: would have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B1-U09"
+      ],
+      "explanation": "Use a past form in this basic hypothetical if clause.",
+      "source_sentence": "If she would have more time, she would help.",
+      "target_segment": "would have",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U10-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U09"
+      ],
+      "explanation": "Use past perfect for the regret.",
+      "source_sentence": "I wish I have checked yesterday.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U10-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "Use a past form after it’s time plus a subject in this pattern.",
+      "source_sentence": "It’s time we to leave.",
+      "target_segment": "to leave",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U10-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U10",
+        "B2-U07"
+      ],
+      "explanation": "Use the participle eaten after should have.",
+      "source_sentence": "They should have ate before leaving.",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B2-U10-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U10"
+      ],
+      "explanation": "Left expresses an action due now.",
+      "source_sentence": "We should leave now; it is already late.",
+      "keyword": "left",
+      "target_sentence": "It’s time we ___ .",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U10-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U10",
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses past regret.",
+      "source_sentence": "I did not check the address yesterday and regret it.",
+      "keyword": "checked",
+      "target_sentence": "I wish I ___ the address yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had checked"
+      ]
+    },
+    {
+      "id": "B2-U10-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U10",
+        "B2-U08"
+      ],
+      "explanation": "Would live expresses the imagined present result.",
+      "source_sentence": "I did not take the job; imagine that I did and live there now.",
+      "keyword": "live",
+      "target_sentence": "If I had taken the job, I ___ there now.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would live"
+      ]
+    },
+    {
+      "id": "B2-U10-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U10",
+        "B2-U06"
+      ],
+      "explanation": "Might have left expresses an uncertain past possibility.",
+      "source_sentence": "I am not certain whether she left. Use might.",
+      "keyword": "might",
+      "target_sentence": "She ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "might have left"
+      ]
+    }
+  ]
+}

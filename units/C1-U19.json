@@ -1,0 +1,642 @@
+{
+  "id": "C1-U19",
+  "level": "C1",
+  "title": "Concession and nuanced clause relations",
+  "order": 19,
+  "prerequisites": [
+    "C1-U18"
+  ],
+  "objectives": [
+    "Select a connector for concession or contrast.",
+    "Form clauses after although and phrases after despite.",
+    "Distinguish established facts from hypothetical conditions."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Concession acknowledges a fact or possibility that might be expected to weaken another statement, while presenting the other statement as still valid. “Although the route was long, we arrived on time” accepts the length of the route but reports an outcome that may seem surprising. The two ideas are not logically incompatible; the writer presents their relationship as noteworthy.",
+        "A concessive expression can show that a writer has considered a counterpoint. “The sample is small. Nevertheless, the pattern merits investigation” acknowledges a limitation while maintaining a cautious conclusion. A concession is not evidence that the conclusion is true; it helps organise the argument."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Although and even though introduce clauses with a subject and finite verb: “Although the sample was small, the results were consistent.” Even though often makes the acknowledged contrast more emphatic. Despite and in spite of are prepositions and normally take a noun phrase or -ing clause: “Despite the small sample” or “Despite being tired”.",
+        "Nevertheless and nonetheless are linking adverbs, not subordinating conjunctions. They can introduce a separate sentence or follow a semicolon: “The sample was small. Nevertheless, the results were consistent.” “The sample was small; nevertheless, the results were consistent.” Punctuation conventions vary, but two independent clauses should not normally be joined by only a comma in standard edited prose."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "While can mark contrast rather than time: “The first method is inexpensive, while the second is faster.” Context determines the intended relation. Whereas often marks a contrast between two features: “The north was dry, whereas the south was wet.” Neither connector by itself says that one clause causes the other.",
+        "“Even if the results improve, the team will continue testing” considers a possible condition and says the action will hold regardless. “Even though the results improved, the team continued testing” treats improvement as an established fact in the stated past context. Preserve that difference when rewriting."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid following despite directly with a finite clause: use “Despite the delay” or “Despite the fact that there was a delay”, not “Despite there was a delay”. With although, use a finite clause: “Although there was a delay”. “Despite the fact that” is grammatical but can be wordier than a simple although-clause.",
+        "Do not insert but after although in the same basic two-clause construction: “Although it rained, we left”, not “Although it rained, but we left”. In other contexts a later but may introduce an additional contrast. Select the connector and punctuation to show the actual relationship between the ideas."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Although the route was long, we arrived on time.",
+      "note": "Although introduces a finite concessive clause."
+    },
+    {
+      "sentence": "Despite the delay, the meeting started on time.",
+      "note": "Despite takes the noun phrase the delay."
+    },
+    {
+      "sentence": "Despite being tired, she completed the report.",
+      "note": "Despite takes an -ing clause."
+    },
+    {
+      "sentence": "The sample was small; nevertheless, the results were consistent.",
+      "note": "Nevertheless links two independent clauses."
+    },
+    {
+      "sentence": "The north was dry, whereas the south was wet.",
+      "note": "Whereas presents a contrast between conditions."
+    },
+    {
+      "sentence": "Even if it rains, we will go.",
+      "note": "Even if presents a possible condition."
+    },
+    {
+      "sentence": "Even though it rained, we went.",
+      "note": "Even though presents rain as an established past fact here."
+    },
+    {
+      "sentence": "While the first route is shorter, the second is safer.",
+      "note": "While expresses contrast in this context."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Despite there was a delay, we arrived on time.",
+      "correct": "Despite the delay, we arrived on time.",
+      "reason": "Despite takes a noun phrase here, not a bare finite clause."
+    },
+    {
+      "incorrect": "Although it rained, but we left.",
+      "correct": "Although it rained, we left.",
+      "reason": "Do not add but to the basic although construction."
+    },
+    {
+      "incorrect": "Despite she was tired, she finished.",
+      "correct": "Although she was tired, she finished.",
+      "reason": "Although introduces the finite clause she was tired."
+    }
+  ],
+  "summary": [
+    "Concession acknowledges a point while maintaining another claim.",
+    "Although takes a finite clause; despite takes a noun phrase or -ing clause.",
+    "Distinguish an established fact with even though from a possible condition with even if."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U19-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a concessive finite clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the finite clause the route was long.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite the delay, we left."
+        },
+        {
+          "id": "b",
+          "text": "Despite being tired, she worked."
+        },
+        {
+          "id": "c",
+          "text": "Although the route was long, we arrived on time."
+        },
+        {
+          "id": "d",
+          "text": "The sample was small; nevertheless, it was useful."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Despite the delay, we left.” does not fit here. Although introduces the finite clause the route was long.",
+        "b": "“Despite being tired, she worked.” does not fit here. Although introduces the finite clause the route was long.",
+        "c": "“Although the route was long, we arrived on time.” fits here. Although introduces the finite clause the route was long.",
+        "d": "“The sample was small; nevertheless, it was useful.” does not fit here. Although introduces the finite clause the route was long."
+      }
+    },
+    {
+      "id": "C1-U19-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the phrase: ___ the delay, the meeting started on time.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite can take the noun phrase the delay.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite"
+        },
+        {
+          "id": "b",
+          "text": "Although was"
+        },
+        {
+          "id": "c",
+          "text": "Even though was"
+        },
+        {
+          "id": "d",
+          "text": "Whereas was"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Despite” fits here. Despite can take the noun phrase the delay.",
+        "b": "“Although was” does not fit here. Despite can take the noun phrase the delay.",
+        "c": "“Even though was” does not fit here. Despite can take the noun phrase the delay.",
+        "d": "“Whereas was” does not fit here. Despite can take the noun phrase the delay."
+      }
+    },
+    {
+      "id": "C1-U19-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the possible condition.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Even if considers a possible condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Even though it rained, we went."
+        },
+        {
+          "id": "b",
+          "text": "Although it rained, we went."
+        },
+        {
+          "id": "c",
+          "text": "Despite the rain, we went."
+        },
+        {
+          "id": "d",
+          "text": "Even if it rains, we will go."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Even though it rained, we went.” does not fit here. Even if considers a possible condition.",
+        "b": "“Although it rained, we went.” does not fit here. Even if considers a possible condition.",
+        "c": "“Despite the rain, we went.” does not fit here. Even if considers a possible condition.",
+        "d": "“Even if it rains, we will go.” fits here. Even if considers a possible condition."
+      }
+    },
+    {
+      "id": "C1-U19-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence has standard punctuation for two independent clauses?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "A semicolon separates the independent clauses before nevertheless.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was late, nevertheless, we left."
+        },
+        {
+          "id": "b",
+          "text": "It was late; nevertheless, we left."
+        },
+        {
+          "id": "c",
+          "text": "It was late although, we left."
+        },
+        {
+          "id": "d",
+          "text": "It was late despite, we left."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was late, nevertheless, we left.” does not fit here. A semicolon separates the independent clauses before nevertheless.",
+        "b": "“It was late; nevertheless, we left.” fits here. A semicolon separates the independent clauses before nevertheless.",
+        "c": "“It was late although, we left.” does not fit here. A semicolon separates the independent clauses before nevertheless.",
+        "d": "“It was late despite, we left.” does not fit here. A semicolon separates the independent clauses before nevertheless."
+      }
+    },
+    {
+      "id": "C1-U19-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the contrast: The north was dry, ___ the south was wet.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Whereas introduces a contrasting finite clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "despite"
+        },
+        {
+          "id": "b",
+          "text": "whereas"
+        },
+        {
+          "id": "c",
+          "text": "in spite of"
+        },
+        {
+          "id": "d",
+          "text": "nevertheless of"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“despite” does not fit here. Whereas introduces a contrasting finite clause.",
+        "b": "“whereas” fits here. Whereas introduces a contrasting finite clause.",
+        "c": "“in spite of” does not fit here. Whereas introduces a contrasting finite clause.",
+        "d": "“nevertheless of” does not fit here. Whereas introduces a contrasting finite clause."
+      }
+    },
+    {
+      "id": "C1-U19-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite can be followed by an -ing clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite being tired, she worked."
+        },
+        {
+          "id": "b",
+          "text": "Despite she was tired, she worked."
+        },
+        {
+          "id": "c",
+          "text": "Although tired she was but she worked."
+        },
+        {
+          "id": "d",
+          "text": "Despite of being tired, she worked."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Despite being tired, she worked.” fits here. Despite can be followed by an -ing clause.",
+        "b": "“Despite she was tired, she worked.” does not fit here. Despite can be followed by an -ing clause.",
+        "c": "“Although tired she was but she worked.” does not fit here. Despite can be followed by an -ing clause.",
+        "d": "“Despite of being tired, she worked.” does not fit here. Despite can be followed by an -ing clause."
+      }
+    },
+    {
+      "id": "C1-U19-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence presents rain as an established fact in the past context?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Even though it rained acknowledges a past fact.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Even if it rains, we will go."
+        },
+        {
+          "id": "b",
+          "text": "If it rains, we may go."
+        },
+        {
+          "id": "c",
+          "text": "Should it rain, we may go."
+        },
+        {
+          "id": "d",
+          "text": "Even though it rained, we went."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Even if it rains, we will go.” does not fit here. Even though it rained acknowledges a past fact.",
+        "b": "“If it rains, we may go.” does not fit here. Even though it rained acknowledges a past fact.",
+        "c": "“Should it rain, we may go.” does not fit here. Even though it rained acknowledges a past fact.",
+        "d": "“Even though it rained, we went.” fits here. Even though it rained acknowledges a past fact."
+      }
+    },
+    {
+      "id": "C1-U19-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about concession is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Concession presents one idea despite an acknowledged counterpoint.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It always states a cause."
+        },
+        {
+          "id": "b",
+          "text": "It proves the main claim."
+        },
+        {
+          "id": "c",
+          "text": "It acknowledges a point while maintaining another claim."
+        },
+        {
+          "id": "d",
+          "text": "It requires two separate sentences."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“It always states a cause.” does not fit here. Concession presents one idea despite an acknowledged counterpoint.",
+        "b": "“It proves the main claim.” does not fit here. Concession presents one idea despite an acknowledged counterpoint.",
+        "c": "“It acknowledges a point while maintaining another claim.” fits here. Concession presents one idea despite an acknowledged counterpoint.",
+        "d": "“It requires two separate sentences.” does not fit here. Concession presents one idea despite an acknowledged counterpoint."
+      }
+    },
+    {
+      "id": "C1-U19-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ the delay, we arrived on time. Use despite.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite takes the noun phrase the delay.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "C1-U19-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ it rained, we went. Use although.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the finite clause it rained.",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "C1-U19-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Despite ___ tired, she worked. (be)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite can take an -ing clause.",
+      "accepted_answers": [
+        "being"
+      ]
+    },
+    {
+      "id": "C1-U19-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The north was dry, ___ the south was wet. Use whereas.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Whereas introduces the contrast.",
+      "accepted_answers": [
+        "whereas"
+      ]
+    },
+    {
+      "id": "C1-U19-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Even ___ it rains, we will go. Express a possibility.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Even if introduces the possible condition.",
+      "accepted_answers": [
+        "if"
+      ]
+    },
+    {
+      "id": "C1-U19-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Even ___ it rained, we went. Express an acknowledged past fact.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Even though acknowledges the established fact.",
+      "accepted_answers": [
+        "though"
+      ]
+    },
+    {
+      "id": "C1-U19-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "In spite ___ the delay, we arrived on time.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "In spite of takes a noun phrase.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "C1-U19-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Despite the fact ___ it rained, we went.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "The fact that introduces the finite content clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "C1-U19-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Although can introduce the finite clause there was a delay.",
+      "source_sentence": "Despite there was a delay, we arrived on time.",
+      "target_segment": "Despite",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "C1-U19-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: but we left",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Remove but from the basic although construction.",
+      "source_sentence": "Although it rained, but we left.",
+      "target_segment": "but we left",
+      "accepted_answers": [
+        "we left"
+      ]
+    },
+    {
+      "id": "C1-U19-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: In spite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "In spite of is the complete preposition.",
+      "source_sentence": "In spite the delay, we arrived on time.",
+      "target_segment": "In spite",
+      "accepted_answers": [
+        "In spite of"
+      ]
+    },
+    {
+      "id": "C1-U19-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite of",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite is not followed by of.",
+      "source_sentence": "Despite of being tired, she continued.",
+      "target_segment": "Despite of",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "C1-U19-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the acknowledged fact.",
+      "source_sentence": "It rained, but we left. Begin with although.",
+      "keyword": "Although",
+      "target_sentence": "___, we left.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Although it rained"
+      ]
+    },
+    {
+      "id": "C1-U19-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Despite takes an -ing clause.",
+      "source_sentence": "Although she was tired, she worked. Begin with despite.",
+      "keyword": "Despite",
+      "target_sentence": "___, she worked.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Despite being tired"
+      ]
+    },
+    {
+      "id": "C1-U19-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Nevertheless links the independent clauses; the comma is conventional.",
+      "source_sentence": "The sample was small, but the results were consistent. Use nevertheless after a semicolon.",
+      "keyword": "nevertheless",
+      "target_sentence": "The sample was small; ___, the results were consistent.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "nevertheless"
+      ]
+    },
+    {
+      "id": "C1-U19-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U19"
+      ],
+      "explanation": "Even if introduces the possible condition.",
+      "source_sentence": "Even if rain occurs, we will go. Use rains.",
+      "keyword": "rains",
+      "target_sentence": "Even if ___, we will go.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "it rains"
+      ]
+    }
+  ]
+}

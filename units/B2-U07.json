@@ -1,0 +1,645 @@
+{
+  "id": "B2-U07",
+  "level": "B2",
+  "title": "Modals of criticism and missed opportunity",
+  "order": 7,
+  "prerequisites": [
+    "B2-U06"
+  ],
+  "objectives": [
+    "Interpret modal perfect forms in context.",
+    "Distinguish past criticism from deduction and unused opportunity.",
+    "Form modal perfect structures with past participles."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Modal perfect forms can describe how a speaker judges a past action. ‘You should have checked the address’ says checking was advisable and, in the intended context, did not happen. It can express criticism, regret or a suggestion about a missed action; tone and context determine how the sentence sounds.",
+        "‘You shouldn't have shared the password’ judges a past action negatively and normally implies it occurred. ‘I could have called’ can describe a past opportunity or ability that was not used, although could have can also express a possibility about what happened. The context distinguishes those meanings."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use should or shouldn't plus have and a past participle: ‘should have checked’ and ‘shouldn't have shared’. Use could have plus a past participle for an unused possibility or opportunity: ‘We could have taken a taxi, but we walked’. Use needn't have plus a participle for an action that happened but was unnecessary: ‘You needn't have bought tickets; entry was free’.",
+        "Compare didn't need to with needn't have. ‘We didn't need to buy tickets, so we didn't’ states that there was no need and, with the added clause, that no tickets were bought. ‘We needn't have bought tickets’ implies the purchase happened but was unnecessary. Didn't need to alone does not always establish whether the action happened; context can clarify."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘You should have called’ with ‘You must have called’. The first expresses a judgement that calling was advisable but did not happen in the intended situation. The second is a deduction that a call probably happened. The word after the modal, have, does not make the meanings identical.",
+        "A speaker may soften criticism by changing the phrasing: ‘It might have helped to call first’. With could have, add context when necessary: ‘We could have left earlier, but chose not to’ describes an unused option; ‘They could have left already’ describes uncertainty about a possible event. Both patterns are grammatical but convey different meanings."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a past simple form after modal have: say ‘should have gone’, not ‘should have went’. Avoid writing should of for should have in standard written English, even though the contracted pronunciation should've may sound similar.",
+        "Don't assume every should have sentence is an accusation. ‘I should have brought a coat’ can express the speaker's own regret. Likewise, could have does not prove that an action was possible under every imaginable condition; it presents an option or possibility from the speaker's viewpoint. Exercises state the intended interpretation where forms overlap."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You should have checked the address.",
+      "note": "The speaker judges the unperformed check to have been advisable."
+    },
+    {
+      "sentence": "You shouldn't have shared the password.",
+      "note": "The speaker judges the sharing negatively."
+    },
+    {
+      "sentence": "We could have taken a taxi, but we walked.",
+      "note": "Could have describes an unused option."
+    },
+    {
+      "sentence": "They could have left already.",
+      "note": "Could have can instead express uncertainty about a past event."
+    },
+    {
+      "sentence": "You needn't have bought tickets; entry was free.",
+      "note": "The purchase happened but was unnecessary."
+    },
+    {
+      "sentence": "We didn't need to buy tickets, so we didn't.",
+      "note": "The added clause establishes that no tickets were bought."
+    },
+    {
+      "sentence": "I should have brought a coat.",
+      "note": "The speaker expresses regret about their own choice."
+    },
+    {
+      "sentence": "You must have called; I can see it in the log.",
+      "note": "Must have expresses deduction, not advice."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "You should have went.",
+      "correct": "You should have gone.",
+      "reason": "Use the past participle gone after have."
+    },
+    {
+      "incorrect": "We could of left earlier.",
+      "correct": "We could have left earlier.",
+      "reason": "Use have in standard writing."
+    },
+    {
+      "incorrect": "She needn’t have buy tickets.",
+      "correct": "She needn’t have bought tickets.",
+      "reason": "Use the participle bought after have."
+    }
+  ],
+  "summary": [
+    "Should have can judge a missed advisable action; shouldn’t have can criticise an action taken.",
+    "Could have can describe an unused opportunity or a past possibility, depending on context.",
+    "Needn’t have implies an unnecessary action occurred; didn’t need to alone does not settle whether it occurred."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U07-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The address was not checked, although checking was advisable. You ___ checked it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should have checked judges the missed advisable action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should to"
+        },
+        {
+          "id": "b",
+          "text": "must has"
+        },
+        {
+          "id": "c",
+          "text": "should of"
+        },
+        {
+          "id": "d",
+          "text": "should have"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“should to” does not fit here. Should have checked judges the missed advisable action.",
+        "b": "“must has” does not fit here. Should have checked judges the missed advisable action.",
+        "c": "“should of” does not fit here. Should have checked judges the missed advisable action.",
+        "d": "“should have” fits here. Should have checked judges the missed advisable action."
+      }
+    },
+    {
+      "id": "B2-U07-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The password was shared, and that was a mistake. You ___ shared it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Shouldn’t have shared judges the action negatively.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn’t have"
+        },
+        {
+          "id": "b",
+          "text": "should have"
+        },
+        {
+          "id": "c",
+          "text": "could to"
+        },
+        {
+          "id": "d",
+          "text": "needn’t to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“shouldn’t have” fits here. Shouldn’t have shared judges the action negatively.",
+        "b": "“should have” does not fit here. Shouldn’t have shared judges the action negatively.",
+        "c": "“could to” does not fit here. Shouldn’t have shared judges the action negatively.",
+        "d": "“needn’t to” does not fit here. Shouldn’t have shared judges the action negatively."
+      }
+    },
+    {
+      "id": "B2-U07-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We walked, but taking a taxi was an available unused option. We ___ taken a taxi.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Could have taken describes the unused option.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must have"
+        },
+        {
+          "id": "b",
+          "text": "could to"
+        },
+        {
+          "id": "c",
+          "text": "could have"
+        },
+        {
+          "id": "d",
+          "text": "had can"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“must have” does not fit here. Could have taken describes the unused option.",
+        "b": "“could to” does not fit here. Could have taken describes the unused option.",
+        "c": "“could have” fits here. Could have taken describes the unused option.",
+        "d": "“had can” does not fit here. Could have taken describes the unused option."
+      }
+    },
+    {
+      "id": "B2-U07-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Tickets were bought, but entry was free. You ___ bought them.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Needn’t have bought implies the unnecessary purchase happened.",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn’t need to have buy"
+        },
+        {
+          "id": "b",
+          "text": "needn’t have"
+        },
+        {
+          "id": "c",
+          "text": "should to have"
+        },
+        {
+          "id": "d",
+          "text": "must has"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“didn’t need to have buy” does not fit here. Needn’t have bought implies the unnecessary purchase happened.",
+        "b": "“needn’t have” fits here. Needn’t have bought implies the unnecessary purchase happened.",
+        "c": "“should to have” does not fit here. Needn’t have bought implies the unnecessary purchase happened.",
+        "d": "“must has” does not fit here. Needn’t have bought implies the unnecessary purchase happened."
+      }
+    },
+    {
+      "id": "B2-U07-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the past deduction: The call log shows a call, so he ___ called.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Must have called expresses the deduction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should of"
+        },
+        {
+          "id": "b",
+          "text": "must have"
+        },
+        {
+          "id": "c",
+          "text": "needn’t to"
+        },
+        {
+          "id": "d",
+          "text": "should to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“should of” does not fit here. Must have called expresses the deduction.",
+        "b": "“must have” fits here. Must have called expresses the deduction.",
+        "c": "“needn’t to” does not fit here. Must have called expresses the deduction.",
+        "d": "“should to” does not fit here. Must have called expresses the deduction."
+      }
+    },
+    {
+      "id": "B2-U07-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence explicitly says tickets were not bought?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "The final clause explicitly says no purchase occurred.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We didn’t need to buy them, so we didn’t."
+        },
+        {
+          "id": "b",
+          "text": "We needn’t have bought them."
+        },
+        {
+          "id": "c",
+          "text": "We bought them unnecessarily."
+        },
+        {
+          "id": "d",
+          "text": "We should have bought them."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“We didn’t need to buy them, so we didn’t.” fits here. The final clause explicitly says no purchase occurred.",
+        "b": "“We needn’t have bought them.” does not fit here. The final clause explicitly says no purchase occurred.",
+        "c": "“We bought them unnecessarily.” does not fit here. The final clause explicitly says no purchase occurred.",
+        "d": "“We should have bought them.” does not fit here. The final clause explicitly says no purchase occurred."
+      }
+    },
+    {
+      "id": "B2-U07-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the standard written form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should have is followed by the participle gone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She should of went."
+        },
+        {
+          "id": "b",
+          "text": "She should has gone."
+        },
+        {
+          "id": "c",
+          "text": "She should have gone."
+        },
+        {
+          "id": "d",
+          "text": "She should have went."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She should of went.” does not fit here. Should have is followed by the participle gone.",
+        "b": "“She should has gone.” does not fit here. Should have is followed by the participle gone.",
+        "c": "“She should have gone.” fits here. Should have is followed by the participle gone.",
+        "d": "“She should have went.” does not fit here. Should have is followed by the participle gone."
+      }
+    },
+    {
+      "id": "B2-U07-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses regret about one’s own choice?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should have brought can express regret about a missed action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I must have brought a coat."
+        },
+        {
+          "id": "b",
+          "text": "I can bring a coat."
+        },
+        {
+          "id": "c",
+          "text": "I am bringing a coat."
+        },
+        {
+          "id": "d",
+          "text": "I should have brought a coat."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I must have brought a coat.” does not fit here. Should have brought can express regret about a missed action.",
+        "b": "“I can bring a coat.” does not fit here. Should have brought can express regret about a missed action.",
+        "c": "“I am bringing a coat.” does not fit here. Should have brought can express regret about a missed action.",
+        "d": "“I should have brought a coat.” fits here. Should have brought can express regret about a missed action."
+      }
+    },
+    {
+      "id": "B2-U07-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use should: You ___ have checked the address; you did not check it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should have checked judges the missed action.",
+      "accepted_answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "B2-U07-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: She should have ___ earlier. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Gone is the participle of go.",
+      "accepted_answers": [
+        "gone"
+      ]
+    },
+    {
+      "id": "B2-U07-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: We could have ___ a taxi. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Taken is the participle of take.",
+      "accepted_answers": [
+        "taken"
+      ]
+    },
+    {
+      "id": "B2-U07-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use have: They could ___ called, but chose not to.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Use have after could.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U07-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use needn’t: You ___ have bought tickets; you bought them unnecessarily.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Needn’t have implies an unnecessary action occurred.",
+      "accepted_answers": [
+        "needn’t",
+        "needn't"
+      ]
+    },
+    {
+      "id": "B2-U07-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use not: You should ___ have shared the password.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should not have judges the past action negatively.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "B2-U07-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: You needn’t have ___ tickets. (buy)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Bought is the participle of buy.",
+      "accepted_answers": [
+        "bought"
+      ]
+    },
+    {
+      "id": "B2-U07-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use must for a strong deduction: He ___ have called; the log confirms it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Must have called expresses a strong deduction.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "B2-U07-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: went",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Use the participle gone after have.",
+      "source_sentence": "She should have went earlier.",
+      "target_segment": "went",
+      "accepted_answers": [
+        "gone"
+      ]
+    },
+    {
+      "id": "B2-U07-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: of",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Use have in the standard written modal perfect.",
+      "source_sentence": "They could of called.",
+      "target_segment": "of",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U07-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: buy",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Use the participle bought after have.",
+      "source_sentence": "You needn’t have buy tickets.",
+      "target_segment": "buy",
+      "accepted_answers": [
+        "bought"
+      ]
+    },
+    {
+      "id": "B2-U07-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Use have after a modal.",
+      "source_sentence": "He must has called.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U07-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Should have checked judges the missed advisable action.",
+      "source_sentence": "You did not check the address, but doing so was advisable.",
+      "keyword": "should",
+      "target_sentence": "You ___ the address.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "should have checked"
+      ]
+    },
+    {
+      "id": "B2-U07-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Needn’t have bought implies the purchase happened unnecessarily.",
+      "source_sentence": "They took a taxi even though buying a ticket was unnecessary. They bought tickets.",
+      "keyword": null,
+      "target_sentence": "They ___ tickets.",
+      "min_words": 3,
+      "max_words": 4,
+      "accepted_answers": [
+        "needn’t have bought",
+        "need not have bought"
+      ]
+    },
+    {
+      "id": "B2-U07-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Could have taken describes the unused option.",
+      "source_sentence": "We walked, although taking a taxi was an available unused option.",
+      "keyword": "could",
+      "target_sentence": "We ___ a taxi.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "could have taken"
+      ]
+    },
+    {
+      "id": "B2-U07-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U07"
+      ],
+      "explanation": "Shouldn’t have shared judges the past action negatively.",
+      "source_sentence": "Sharing the password happened and was a mistake.",
+      "keyword": null,
+      "target_sentence": "You ___ the password.",
+      "min_words": 3,
+      "max_words": 4,
+      "accepted_answers": [
+        "shouldn’t have shared",
+        "should not have shared"
+      ]
+    }
+  ]
+}

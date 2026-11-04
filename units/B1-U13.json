@@ -1,0 +1,643 @@
+{
+  "id": "B1-U13",
+  "level": "B1",
+  "title": "Defining relative clauses",
+  "order": 13,
+  "prerequisites": [
+    "B1-U12"
+  ],
+  "objectives": [
+    "Identify the role of a relative pronoun.",
+    "Use defining clauses to identify people and things.",
+    "Omit an object relative pronoun where appropriate."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A defining relative clause gives information needed to identify which person or thing we mean. In ‘The student who sits by the window is Maya’, who sits by the window identifies the student. Without it, the listener may not know which student we are discussing. A defining clause comes immediately after the noun it describes.",
+        "Relative words connect the clause to that noun. We commonly use who or that for people and which or that for things: ‘the woman who teaches us’ and ‘the book that I borrowed’. Where can refer to a place: ‘the café where we met’. Whose expresses a relationship or possession: ‘the student whose bag was lost’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A relative pronoun can be the subject of its clause: ‘The woman who lives next door is a doctor’. Who is the subject of lives, so we do not add another subject: not ‘the woman who she lives’. The relative pronoun must remain when it is the subject in this basic pattern.",
+        "The relative pronoun can also be the object: ‘The book that I borrowed is interesting’. I is the subject of borrowed and that refers to the object. In defining clauses, we can often leave out an object relative pronoun: ‘The book I borrowed is interesting’. We cannot normally leave out who in ‘the woman who lives next door’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The people who work on Fridays’ with ‘The people who I met on Friday’. In the first clause, who is the subject of work. In the second, I is the subject of met, and who refers to the people I met. In informal English the object who can often be omitted: ‘The people I met on Friday’.",
+        "A defining clause is normally written without commas. It identifies or restricts the noun: ‘Students who have tickets may enter’ means the students with tickets may enter; it does not necessarily include all students. The next unit looks at clauses that add extra information and use commas."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not repeat the object after a relative pronoun: say ‘the book that I bought’, not ‘the book that I bought it’. In the second version, that already refers to the book, so it is an unnecessary extra object. Similarly, say ‘the woman who lives here’, not ‘the woman who she lives here’.",
+        "Who and that can both be possible for people in defining clauses, and which and that can both be possible for things. Choose according to the context or the instruction in a question. Whom occurs as an object form for people, especially in formal English, but who or an omitted object pronoun is common in everyday English."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The student who sits by the window is Maya.",
+      "note": "Who is the subject of sits."
+    },
+    {
+      "sentence": "The book that I borrowed is interesting.",
+      "note": "That refers to the object of borrowed."
+    },
+    {
+      "sentence": "The book I borrowed is interesting.",
+      "note": "The object relative pronoun is omitted."
+    },
+    {
+      "sentence": "The people who work here are friendly.",
+      "note": "Who identifies the people and is the subject of work."
+    },
+    {
+      "sentence": "The woman that I met teaches music.",
+      "note": "That refers to the person met."
+    },
+    {
+      "sentence": "This is the café where we met.",
+      "note": "Where refers to the place."
+    },
+    {
+      "sentence": "The student whose bag was lost spoke to the teacher.",
+      "note": "Whose connects the student with the bag."
+    },
+    {
+      "sentence": "Students who have tickets may enter.",
+      "note": "The clause identifies the relevant students."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The woman who she lives here is a doctor.",
+      "correct": "The woman who lives here is a doctor.",
+      "reason": "Who already functions as the subject."
+    },
+    {
+      "incorrect": "The book that I bought it is new.",
+      "correct": "The book that I bought is new.",
+      "reason": "That already refers to the object."
+    },
+    {
+      "incorrect": "The person lives here is a teacher.",
+      "correct": "The person who lives here is a teacher.",
+      "reason": "The subject relative pronoun is needed in this pattern."
+    }
+  ],
+  "summary": [
+    "A defining relative clause identifies the noun and normally has no commas.",
+    "A subject relative pronoun stays; an object relative pronoun can often be omitted.",
+    "Who or that can refer to people; which or that can refer to things."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U13-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The teacher ___ works here is friendly. Choose who or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the person and is the subject of works.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose book"
+        },
+        {
+          "id": "d",
+          "text": "which book"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“where” does not fit here. Who refers to the person and is the subject of works.",
+        "b": "“who” fits here. Who refers to the person and is the subject of works.",
+        "c": "“whose book” does not fit here. Who refers to the person and is the subject of works.",
+        "d": "“which book” does not fit here. Who refers to the person and is the subject of works."
+      }
+    },
+    {
+      "id": "B1-U13-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The book ___ I borrowed is interesting. Choose which or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Which refers to the book, the object of borrowed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "who book"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“where” does not fit here. Which refers to the book, the object of borrowed.",
+        "b": "“whose” does not fit here. Which refers to the book, the object of borrowed.",
+        "c": "“which” fits here. Which refers to the book, the object of borrowed.",
+        "d": "“who book” does not fit here. Which refers to the book, the object of borrowed."
+      }
+    },
+    {
+      "id": "B1-U13-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The café ___ we met is closed. Choose where or who.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "when person"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“where” fits here. Where refers to the place.",
+        "b": "“who” does not fit here. Where refers to the place.",
+        "c": "“whose” does not fit here. Where refers to the place.",
+        "d": "“when person” does not fit here. Where refers to the place."
+      }
+    },
+    {
+      "id": "B1-U13-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The student ___ bag was lost spoke to the teacher.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the student with the bag.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“who” does not fit here. Whose connects the student with the bag.",
+        "b": "“where” does not fit here. Whose connects the student with the bag.",
+        "c": "“which” does not fit here. Whose connects the student with the bag.",
+        "d": "“whose” fits here. Whose connects the student with the bag."
+      }
+    },
+    {
+      "id": "B1-U13-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence can omit the relative pronoun?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "That is the object of bought and can be omitted in this defining clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The woman who lives here smiled."
+        },
+        {
+          "id": "b",
+          "text": "The person who called left."
+        },
+        {
+          "id": "c",
+          "text": "The dog that barked ran away."
+        },
+        {
+          "id": "d",
+          "text": "The book that I bought is new."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The woman who lives here smiled.” does not fit here. That is the object of bought and can be omitted in this defining clause.",
+        "b": "“The person who called left.” does not fit here. That is the object of bought and can be omitted in this defining clause.",
+        "c": "“The dog that barked ran away.” does not fit here. That is the object of bought and can be omitted in this defining clause.",
+        "d": "“The book that I bought is new.” fits here. That is the object of bought and can be omitted in this defining clause."
+      }
+    },
+    {
+      "id": "B1-U13-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence needs the subject relative pronoun?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of lives and cannot normally be omitted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The person who lives next door is a doctor."
+        },
+        {
+          "id": "b",
+          "text": "The book that I read was good."
+        },
+        {
+          "id": "c",
+          "text": "The film that we saw was long."
+        },
+        {
+          "id": "d",
+          "text": "The cake that he made was good."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The person who lives next door is a doctor.” fits here. Who is the subject of lives and cannot normally be omitted.",
+        "b": "“The book that I read was good.” does not fit here. Who is the subject of lives and cannot normally be omitted.",
+        "c": "“The film that we saw was long.” does not fit here. Who is the subject of lives and cannot normally be omitted.",
+        "d": "“The cake that he made was good.” does not fit here. Who is the subject of lives and cannot normally be omitted."
+      }
+    },
+    {
+      "id": "B1-U13-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The man ___ I met works here. Choose who or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the person met.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "whose bag"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "which car"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“where” does not fit here. Who refers to the person met.",
+        "b": "“whose bag” does not fit here. Who refers to the person met.",
+        "c": "“who” fits here. Who refers to the person met.",
+        "d": "“which car” does not fit here. Who refers to the person met."
+      }
+    },
+    {
+      "id": "B1-U13-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence avoids repeating the object?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "That already refers to the object of bought.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The book that I bought it is new."
+        },
+        {
+          "id": "b",
+          "text": "The book that I bought is new."
+        },
+        {
+          "id": "c",
+          "text": "The book that it I bought is new."
+        },
+        {
+          "id": "d",
+          "text": "The book that I bought it was it new."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The book that I bought it is new.” does not fit here. That already refers to the object of bought.",
+        "b": "“The book that I bought is new.” fits here. That already refers to the object of bought.",
+        "c": "“The book that it I bought is new.” does not fit here. That already refers to the object of bought.",
+        "d": "“The book that I bought it was it new.” does not fit here. That already refers to the object of bought."
+      }
+    },
+    {
+      "id": "B1-U13-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose who or where: The woman ___ teaches us is kind.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who refers to a person and is the subject.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U13-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose which or where: The film ___ we watched was long.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Which refers to the film.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U13-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose where or who: The house ___ I lived is old.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B1-U13-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whose: The man ___ car broke down called for help.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the man with the car.",
+      "accepted_answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "B1-U13-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use that: The book ___ I borrowed was new.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "That refers to the object.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B1-U13-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use who: The student ___ lives here is Ana.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of lives.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U13-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use where: The shop ___ I work is small.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B1-U13-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whose: The child ___ toy is missing is upset.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Whose expresses the relationship.",
+      "accepted_answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "B1-U13-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who he",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who already functions as the subject.",
+      "source_sentence": "The man who he lives here is kind.",
+      "target_segment": "who he",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U13-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that I bought it",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "That already refers to the object.",
+      "source_sentence": "The book that I bought it is new.",
+      "target_segment": "that I bought it",
+      "accepted_answers": [
+        "that I bought"
+      ]
+    },
+    {
+      "id": "B1-U13-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: woman lives",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "A subject relative pronoun is needed.",
+      "source_sentence": "The woman lives here is a doctor.",
+      "target_segment": "woman lives",
+      "accepted_answers": [
+        "woman who lives",
+        "woman that lives"
+      ]
+    },
+    {
+      "id": "B1-U13-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who bag",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Whose expresses the relationship with the bag.",
+      "source_sentence": "The student who bag was lost called.",
+      "target_segment": "who bag",
+      "accepted_answers": [
+        "whose bag"
+      ]
+    },
+    {
+      "id": "B1-U13-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of works.",
+      "source_sentence": "A teacher works here. The teacher is friendly. Use who.",
+      "keyword": "who",
+      "target_sentence": "The teacher ___ is friendly.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "who works here"
+      ]
+    },
+    {
+      "id": "B1-U13-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "That refers to the object of borrowed.",
+      "source_sentence": "I borrowed a book. The book is new. Use that.",
+      "keyword": "that",
+      "target_sentence": "The book ___ is new.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "that I borrowed"
+      ]
+    },
+    {
+      "id": "B1-U13-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "source_sentence": "We met at a café. The café is closed. Use where.",
+      "keyword": "where",
+      "target_sentence": "The café ___ is closed.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "where we met"
+      ]
+    },
+    {
+      "id": "B1-U13-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the student with the bag.",
+      "source_sentence": "A student’s bag was lost. The student called. Use whose.",
+      "keyword": "whose",
+      "target_sentence": "The student ___ called.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "whose bag was lost"
+      ]
+    }
+  ]
+}

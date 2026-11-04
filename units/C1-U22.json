@@ -1,0 +1,646 @@
+{
+  "id": "C1-U22",
+  "level": "C1",
+  "title": "Complex verb complementation and meaning",
+  "order": 22,
+  "prerequisites": [
+    "C1-U21"
+  ],
+  "objectives": [
+    "Choose complements after persuade, suggest and make.",
+    "Distinguish the meanings of remember and stop patterns.",
+    "Form active and passive make constructions."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A verb complement is a structure that completes or develops the meaning of a verb. Different verbs allow different patterns: “She persuaded him to wait”, “She suggested waiting” and “She suggested that he wait”. Knowing the meaning of the first verb is not enough; a learner must also know which structures it permits.",
+        "Sometimes the same verb allows more than one complement with a change of meaning. “I remembered to lock the door” says that I did not forget the required action. “I remember locking the door” describes a memory of a previous action. The difference is semantic, not just a matter of form."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Persuade normally takes an object followed by a to-infinitive: “They persuaded us to stay.” Suggest can take an -ing clause or a that-clause: “They suggested leaving” and “They suggested that we leave”. The mandative subjunctive leave is one formal option; in British English, “that we should leave” is another. “They suggested us to leave” is not standard in this meaning.",
+        "Some verbs allow an object and a bare infinitive: “She made him apologise.” In the corresponding passive, the to-infinitive is normally used: “He was made to apologise.” Let ordinarily takes an object and a bare infinitive in the active: “They let us enter.” Passive alternatives often use allow: “We were allowed to enter.”"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare “She stopped speaking” with “She stopped to speak”. The first means that her speaking ended; the second means that she paused another activity in order to speak. “Try restarting the device” proposes an experiment; “try to restart the device” emphasises making an attempt. Context may make the practical difference small, but the forms direct attention differently.",
+        "“I regret telling her” expresses regret about a past disclosure. “We regret to inform you that the service is closed” is a formal formula for giving unwelcome information now. In both cases, the clause following regret contributes to the interpretation; do not assume that one form always refers to every past or future situation."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid adding to after active make: “The delay made us reconsider”, not “made us to reconsider”. In the passive, however, to is normally required: “We were made to reconsider.” The change in voice changes the complementation pattern.",
+        "Not every verb accepts the same transformation. Advise can take an object plus a to-infinitive, as in “They advised us to wait”, whereas suggest normally does not take that pattern. Consult examples in context when learning a new verb, and distinguish grammatical error from a grammatical alternative with a different meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "They persuaded us to stay.",
+      "note": "Persuade takes an object and a to-infinitive."
+    },
+    {
+      "sentence": "They suggested leaving early.",
+      "note": "Suggest can take an -ing clause."
+    },
+    {
+      "sentence": "They suggested that we should leave.",
+      "note": "The should-clause is a common British mandative pattern."
+    },
+    {
+      "sentence": "The coach made us practise.",
+      "note": "Active make takes an object and a bare infinitive."
+    },
+    {
+      "sentence": "We were made to practise.",
+      "note": "The passive normally uses a to-infinitive."
+    },
+    {
+      "sentence": "I remembered to lock the door.",
+      "note": "The speaker did not forget the action."
+    },
+    {
+      "sentence": "I remember locking the door.",
+      "note": "The speaker recalls a previous action."
+    },
+    {
+      "sentence": "She stopped to speak to a colleague.",
+      "note": "She paused another activity in order to speak."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "They suggested us to leave.",
+      "correct": "They suggested that we leave.",
+      "reason": "Suggest does not normally take an object plus to-infinitive in this meaning."
+    },
+    {
+      "incorrect": "The coach made us to practise.",
+      "correct": "The coach made us practise.",
+      "reason": "Active make takes a bare infinitive after its object."
+    },
+    {
+      "incorrect": "We were made practise.",
+      "correct": "We were made to practise.",
+      "reason": "The passive normally uses a to-infinitive."
+    }
+  ],
+  "summary": [
+    "Verb complementation depends on the particular verb and its meaning.",
+    "Some -ing and infinitive patterns produce different interpretations.",
+    "Active make and its passive use different infinitive patterns."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U22-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct persuade pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They persuaded that us leave."
+        },
+        {
+          "id": "b",
+          "text": "They persuaded us to stay."
+        },
+        {
+          "id": "c",
+          "text": "They persuaded us staying to."
+        },
+        {
+          "id": "d",
+          "text": "They persuaded to us stay."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“They persuaded that us leave.” does not fit here. Persuade takes an object and a to-infinitive.",
+        "b": "“They persuaded us to stay.” fits here. Persuade takes an object and a to-infinitive.",
+        "c": "“They persuaded us staying to.” does not fit here. Persuade takes an object and a to-infinitive.",
+        "d": "“They persuaded to us stay.” does not fit here. Persuade takes an object and a to-infinitive."
+      }
+    },
+    {
+      "id": "C1-U22-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct suggest pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Suggest can take an -ing clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They suggested us to leave."
+        },
+        {
+          "id": "b",
+          "text": "They suggested we to leaving."
+        },
+        {
+          "id": "c",
+          "text": "They suggested to us leaving to."
+        },
+        {
+          "id": "d",
+          "text": "They suggested leaving early."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They suggested us to leave.” does not fit here. Suggest can take an -ing clause.",
+        "b": "“They suggested we to leaving.” does not fit here. Suggest can take an -ing clause.",
+        "c": "“They suggested to us leaving to.” does not fit here. Suggest can take an -ing clause.",
+        "d": "“They suggested leaving early.” fits here. Suggest can take an -ing clause."
+      }
+    },
+    {
+      "id": "C1-U22-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence says the speaker recalls an earlier action?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Remember plus -ing refers to a memory of an earlier action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I remember locking the door."
+        },
+        {
+          "id": "b",
+          "text": "I remembered to lock the door."
+        },
+        {
+          "id": "c",
+          "text": "I intend to lock the door."
+        },
+        {
+          "id": "d",
+          "text": "I will remember to lock the door."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“I remember locking the door.” fits here. Remember plus -ing refers to a memory of an earlier action.",
+        "b": "“I remembered to lock the door.” does not fit here. Remember plus -ing refers to a memory of an earlier action.",
+        "c": "“I intend to lock the door.” does not fit here. Remember plus -ing refers to a memory of an earlier action.",
+        "d": "“I will remember to lock the door.” does not fit here. Remember plus -ing refers to a memory of an earlier action."
+      }
+    },
+    {
+      "id": "C1-U22-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence means she paused another activity in order to speak?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Stop plus a to-infinitive expresses the purpose of stopping here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She stopped speaking."
+        },
+        {
+          "id": "b",
+          "text": "She finished speaking."
+        },
+        {
+          "id": "c",
+          "text": "She stopped to speak."
+        },
+        {
+          "id": "d",
+          "text": "She continued speaking."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She stopped speaking.” does not fit here. Stop plus a to-infinitive expresses the purpose of stopping here.",
+        "b": "“She finished speaking.” does not fit here. Stop plus a to-infinitive expresses the purpose of stopping here.",
+        "c": "“She stopped to speak.” fits here. Stop plus a to-infinitive expresses the purpose of stopping here.",
+        "d": "“She continued speaking.” does not fit here. Stop plus a to-infinitive expresses the purpose of stopping here."
+      }
+    },
+    {
+      "id": "C1-U22-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the active make pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Active make takes an object and a bare infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The coach made us to practise."
+        },
+        {
+          "id": "b",
+          "text": "The coach made us practising to."
+        },
+        {
+          "id": "c",
+          "text": "The coach made to us practise."
+        },
+        {
+          "id": "d",
+          "text": "The coach made us practise."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The coach made us to practise.” does not fit here. Active make takes an object and a bare infinitive.",
+        "b": "“The coach made us practising to.” does not fit here. Active make takes an object and a bare infinitive.",
+        "c": "“The coach made to us practise.” does not fit here. Active make takes an object and a bare infinitive.",
+        "d": "“The coach made us practise.” fits here. Active make takes an object and a bare infinitive."
+      }
+    },
+    {
+      "id": "C1-U22-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the passive make pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Passive be made normally takes a to-infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We were made practise."
+        },
+        {
+          "id": "b",
+          "text": "We were made practising."
+        },
+        {
+          "id": "c",
+          "text": "We were made to practise."
+        },
+        {
+          "id": "d",
+          "text": "We were make to practise."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“We were made practise.” does not fit here. Passive be made normally takes a to-infinitive.",
+        "b": "“We were made practising.” does not fit here. Passive be made normally takes a to-infinitive.",
+        "c": "“We were made to practise.” fits here. Passive be made normally takes a to-infinitive.",
+        "d": "“We were make to practise.” does not fit here. Passive be made normally takes a to-infinitive."
+      }
+    },
+    {
+      "id": "C1-U22-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence proposes an experiment?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Try plus -ing can propose testing a method.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Try restarting the device."
+        },
+        {
+          "id": "b",
+          "text": "Remember restarting the device."
+        },
+        {
+          "id": "c",
+          "text": "Stop restarting the device."
+        },
+        {
+          "id": "d",
+          "text": "Regret restarting the device."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Try restarting the device.” fits here. Try plus -ing can propose testing a method.",
+        "b": "“Remember restarting the device.” does not fit here. Try plus -ing can propose testing a method.",
+        "c": "“Stop restarting the device.” does not fit here. Try plus -ing can propose testing a method.",
+        "d": "“Regret restarting the device.” does not fit here. Try plus -ing can propose testing a method."
+      }
+    },
+    {
+      "id": "C1-U22-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is a formal formula introducing unwelcome information?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Regret to inform is a formal formula used when delivering unwelcome information.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We regret informing you last week."
+        },
+        {
+          "id": "b",
+          "text": "We regret to inform you that the service is closed."
+        },
+        {
+          "id": "c",
+          "text": "We enjoy informing you now."
+        },
+        {
+          "id": "d",
+          "text": "We remember informing you last week."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“We regret informing you last week.” does not fit here. Regret to inform is a formal formula used when delivering unwelcome information.",
+        "b": "“We regret to inform you that the service is closed.” fits here. Regret to inform is a formal formula used when delivering unwelcome information.",
+        "c": "“We enjoy informing you now.” does not fit here. Regret to inform is a formal formula used when delivering unwelcome information.",
+        "d": "“We remember informing you last week.” does not fit here. Regret to inform is a formal formula used when delivering unwelcome information."
+      }
+    },
+    {
+      "id": "C1-U22-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They persuaded us ___ stay.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U22-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They suggested ___ early. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Suggest can take an -ing clause.",
+      "accepted_answers": [
+        "leaving"
+      ]
+    },
+    {
+      "id": "C1-U22-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The coach made us ___. (practise)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Active make takes a bare infinitive; both spellings are accepted.",
+      "accepted_answers": [
+        "practise",
+        "practice"
+      ]
+    },
+    {
+      "id": "C1-U22-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We were made ___ practise.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Passive be made normally takes a to-infinitive.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U22-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I remember ___ the door earlier. (lock)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Remember plus -ing refers to the memory of an earlier action.",
+      "accepted_answers": [
+        "locking"
+      ]
+    },
+    {
+      "id": "C1-U22-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I remembered ___ lock the door before leaving.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Remember to lock expresses not forgetting the required action.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U22-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She stopped ___ speak to a colleague.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "The to-infinitive gives the purpose of stopping.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U22-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Try ___ the device as an experiment. (restart)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Try plus -ing proposes testing a method.",
+      "accepted_answers": [
+        "restarting"
+      ]
+    },
+    {
+      "id": "C1-U22-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: us to leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Suggest can take a mandative that-clause in this meaning.",
+      "source_sentence": "They suggested us to leave.",
+      "target_segment": "us to leave",
+      "accepted_answers": [
+        "that we leave",
+        "that we should leave"
+      ]
+    },
+    {
+      "id": "C1-U22-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to practise",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Active make takes a bare infinitive.",
+      "source_sentence": "The coach made us to practise.",
+      "target_segment": "to practise",
+      "accepted_answers": [
+        "practise",
+        "practice"
+      ]
+    },
+    {
+      "id": "C1-U22-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: made practise",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Passive be made normally takes a to-infinitive.",
+      "source_sentence": "We were made practise.",
+      "target_segment": "made practise",
+      "accepted_answers": [
+        "made to practise",
+        "made to practice"
+      ]
+    },
+    {
+      "id": "C1-U22-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: them wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "source_sentence": "She persuaded them wait.",
+      "target_segment": "them wait",
+      "accepted_answers": [
+        "them to wait"
+      ]
+    },
+    {
+      "id": "C1-U22-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "source_sentence": "They successfully got us to stay by persuading us. Express this using persuade.",
+      "keyword": "persuaded",
+      "target_sentence": "They ___ stay.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "persuaded us to"
+      ]
+    },
+    {
+      "id": "C1-U22-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Passive be made uses a to-infinitive.",
+      "source_sentence": "The coach made us practise. Use the passive.",
+      "keyword": "made",
+      "target_sentence": "We ___ practise.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "were made to"
+      ]
+    },
+    {
+      "id": "C1-U22-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Stopped to speak gives the purpose of stopping.",
+      "source_sentence": "She paused another activity in order to speak. Use stopped.",
+      "keyword": "stopped",
+      "target_sentence": "She ___ speak.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "stopped to"
+      ]
+    },
+    {
+      "id": "C1-U22-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U22"
+      ],
+      "explanation": "Remember plus -ing expresses a memory of an earlier action.",
+      "source_sentence": "I recall that I locked the door. Use remember.",
+      "keyword": "remember",
+      "target_sentence": "I ___ the door.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "remember locking"
+      ]
+    }
+  ]
+}

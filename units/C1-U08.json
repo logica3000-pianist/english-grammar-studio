@@ -1,0 +1,642 @@
+{
+  "id": "C1-U08",
+  "level": "C1",
+  "title": "Cleft and pseudo-cleft sentences",
+  "order": 8,
+  "prerequisites": [
+    "C1-U07"
+  ],
+  "objectives": [
+    "Identify the focused element in a cleft.",
+    "Form it-clefts and what-clefts with appropriate clause order.",
+    "Select a cleft for a specified contrast."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A cleft sentence divides a message into two clauses to highlight one part of it. Compare “Maya found the key” with “It was Maya who found the key.” The second version presents Maya as the focused element: it is particularly useful when correcting the idea that someone else found it. The event remains the same, but the sentence guides the listener towards a different point of contrast.",
+        "A pseudo-cleft also divides information, usually beginning with a what-clause: “What we need is a quieter room.” This can introduce a need before naming the solution. Such structures are useful when the context makes the focus relevant; they can sound unnecessarily elaborate if every sentence uses them."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "An it-cleft often has it plus be, a focused element, and a clause introduced by who or that: “It was the guide who found the route” or “It was the route that the guide found.” Who is common for people; that can refer to people or things in many it-clefts. The choice of tense in be reflects the intended time, as in “It is the cost that concerns us.”",
+        "A common pseudo-cleft consists of a what-clause, be, and the focused information: “What she wanted was a break.” The what-clause is generally treated as singular in examples such as “What matters is the result”. When the complement is plural, usage can vary: both “What we need is more chairs” and “What we need are more chairs” occur."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Suppose two reports reached the director, but only the second prompted a response. “It was the second report that prompted the response” identifies the relevant report. To contrast the time, a writer might say “It was on Tuesday that the director responded.” In both cases, the clause following the focus helps identify the event being discussed.",
+        "In a meeting, “What I suggest is a short break” sets up the proposal and then supplies it. “All we need is a signature” is a related focusing construction: all we need names a restricted requirement. The choice between a cleft and a simple sentence depends on what the listener already knows and what should be highlighted."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "A cleft can change the information structure without changing the basic event, but it can also suggest a contrast or exclusiveness that a simple sentence does not force. “It was Lea who called” is especially natural when the caller is in question; it need not state that nobody else ever called. Avoid treating every cleft as a strict logical claim of uniqueness.",
+        "Keep the parts grammatical: “It was the guide who found the route”, not “It was the guide who did found the route”. After did, a base form would be needed, but no did is necessary here. In a what-clause, retain the required subject and verb: “What we need is time”, not “What need we is time”."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It was Maya who found the key.",
+      "note": "Maya is the focused person."
+    },
+    {
+      "sentence": "It was the key that Maya found.",
+      "note": "The key is the focused object."
+    },
+    {
+      "sentence": "It was on Tuesday that the director responded.",
+      "note": "The time expression is focused."
+    },
+    {
+      "sentence": "It is the cost that concerns us.",
+      "note": "The present-tense cleft highlights the cost."
+    },
+    {
+      "sentence": "What we need is a quieter room.",
+      "note": "The what-clause introduces the need before its specification."
+    },
+    {
+      "sentence": "What she wanted was a break.",
+      "note": "Was matches the past framing of the statement."
+    },
+    {
+      "sentence": "All we need is a signature.",
+      "note": "The construction focuses a restricted requirement."
+    },
+    {
+      "sentence": "Maya found the key.",
+      "note": "The simple sentence is natural when no special contrast is needed."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "It was Maya who did found the key.",
+      "correct": "It was Maya who found the key.",
+      "reason": "The relative clause does not need did here."
+    },
+    {
+      "incorrect": "What need we is more time.",
+      "correct": "What we need is more time.",
+      "reason": "The what-clause has statement word order."
+    },
+    {
+      "incorrect": "It was the key that Maya find yesterday.",
+      "correct": "It was the key that Maya found yesterday.",
+      "reason": "The past event takes found in the clause."
+    }
+  ],
+  "summary": [
+    "An it-cleft highlights an element in a divided sentence.",
+    "A what-cleft can introduce a category before identifying its content.",
+    "Use these structures when their focus serves the surrounding discourse."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U08-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the cleft that focuses the person who found the key.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Maya is the focused person after it was.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the key who Maya found."
+        },
+        {
+          "id": "b",
+          "text": "What Maya was found the key."
+        },
+        {
+          "id": "c",
+          "text": "It Maya who was found the key."
+        },
+        {
+          "id": "d",
+          "text": "It was Maya who found the key."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“It was the key who Maya found.” does not fit here. Maya is the focused person after it was.",
+        "b": "“What Maya was found the key.” does not fit here. Maya is the focused person after it was.",
+        "c": "“It Maya who was found the key.” does not fit here. Maya is the focused person after it was.",
+        "d": "“It was Maya who found the key.” fits here. Maya is the focused person after it was."
+      }
+    },
+    {
+      "id": "C1-U08-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the cleft that focuses the object Maya found.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The key appears in the focused position after it was.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the key that Maya found."
+        },
+        {
+          "id": "b",
+          "text": "It was Maya who found the key."
+        },
+        {
+          "id": "c",
+          "text": "It was Maya that the key found."
+        },
+        {
+          "id": "d",
+          "text": "What was Maya found the key."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It was the key that Maya found.” fits here. The key appears in the focused position after it was.",
+        "b": "“It was Maya who found the key.” does not fit here. The key appears in the focused position after it was.",
+        "c": "“It was Maya that the key found.” does not fit here. The key appears in the focused position after it was.",
+        "d": "“What was Maya found the key.” does not fit here. The key appears in the focused position after it was."
+      }
+    },
+    {
+      "id": "C1-U08-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the pseudo-cleft: What we need ___ more time.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The what-clause is followed by is before the focused complement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "need"
+        },
+        {
+          "id": "b",
+          "text": "are is"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does is"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“need” does not fit here. The what-clause is followed by is before the focused complement.",
+        "b": "“are is” does not fit here. The what-clause is followed by is before the focused complement.",
+        "c": "“is” fits here. The what-clause is followed by is before the focused complement.",
+        "d": "“does is” does not fit here. The what-clause is followed by is before the focused complement."
+      }
+    },
+    {
+      "id": "C1-U08-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence focuses the time of the response?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "On Tuesday occupies the focused position in the it-cleft.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the director who responded on Tuesday."
+        },
+        {
+          "id": "b",
+          "text": "It was on Tuesday that the director responded."
+        },
+        {
+          "id": "c",
+          "text": "What the director did was respond."
+        },
+        {
+          "id": "d",
+          "text": "The director responded on Tuesday."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was the director who responded on Tuesday.” does not fit here. On Tuesday occupies the focused position in the it-cleft.",
+        "b": "“It was on Tuesday that the director responded.” fits here. On Tuesday occupies the focused position in the it-cleft.",
+        "c": "“What the director did was respond.” does not fit here. On Tuesday occupies the focused position in the it-cleft.",
+        "d": "“The director responded on Tuesday.” does not fit here. On Tuesday occupies the focused position in the it-cleft."
+      }
+    },
+    {
+      "id": "C1-U08-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence has normal order inside the what-clause?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The embedded what-clause uses statement order: we need.",
+      "options": [
+        {
+          "id": "a",
+          "text": "What need we is a break."
+        },
+        {
+          "id": "b",
+          "text": "What do we need is a break."
+        },
+        {
+          "id": "c",
+          "text": "What we need is a break."
+        },
+        {
+          "id": "d",
+          "text": "What we do need is a break is."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“What need we is a break.” does not fit here. The embedded what-clause uses statement order: we need.",
+        "b": "“What do we need is a break.” does not fit here. The embedded what-clause uses statement order: we need.",
+        "c": "“What we need is a break.” fits here. The embedded what-clause uses statement order: we need.",
+        "d": "“What we do need is a break is.” does not fit here. The embedded what-clause uses statement order: we need."
+      }
+    },
+    {
+      "id": "C1-U08-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about it-clefts is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "A cleft can make an element prominent in a contrast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They can highlight an element for contrast."
+        },
+        {
+          "id": "b",
+          "text": "They always express a question."
+        },
+        {
+          "id": "c",
+          "text": "They always prove no other event occurred."
+        },
+        {
+          "id": "d",
+          "text": "They cannot refer to the past."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“They can highlight an element for contrast.” fits here. A cleft can make an element prominent in a contrast.",
+        "b": "“They always express a question.” does not fit here. A cleft can make an element prominent in a contrast.",
+        "c": "“They always prove no other event occurred.” does not fit here. A cleft can make an element prominent in a contrast.",
+        "d": "“They cannot refer to the past.” does not fit here. A cleft can make an element prominent in a contrast."
+      }
+    },
+    {
+      "id": "C1-U08-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the sentence that focuses a proposed action.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The what-clause introduces the proposal and is identifies it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was I suggest a short break."
+        },
+        {
+          "id": "b",
+          "text": "What I suggest is a short break."
+        },
+        {
+          "id": "c",
+          "text": "What do I suggest is a break."
+        },
+        {
+          "id": "d",
+          "text": "What I suggest are is a break."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was I suggest a short break.” does not fit here. The what-clause introduces the proposal and is identifies it.",
+        "b": "“What I suggest is a short break.” fits here. The what-clause introduces the proposal and is identifies it.",
+        "c": "“What do I suggest is a break.” does not fit here. The what-clause introduces the proposal and is identifies it.",
+        "d": "“What I suggest are is a break.” does not fit here. The what-clause introduces the proposal and is identifies it."
+      }
+    },
+    {
+      "id": "C1-U08-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the cleft with a correctly formed relative clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The past form found appears without unnecessary did.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the guide who did found it."
+        },
+        {
+          "id": "b",
+          "text": "It was the guide who finded it."
+        },
+        {
+          "id": "c",
+          "text": "It the guide who found it."
+        },
+        {
+          "id": "d",
+          "text": "It was the guide who found it."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“It was the guide who did found it.” does not fit here. The past form found appears without unnecessary did.",
+        "b": "“It was the guide who finded it.” does not fit here. The past form found appears without unnecessary did.",
+        "c": "“It the guide who found it.” does not fit here. The past form found appears without unnecessary did.",
+        "d": "“It was the guide who found it.” fits here. The past form found appears without unnecessary did."
+      }
+    },
+    {
+      "id": "C1-U08-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was Lina ___ solved the puzzle. Use who.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Who introduces the clause about the focused person.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "C1-U08-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was the report ___ caused concern. Use that.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "That introduces the clause about the focused thing.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "C1-U08-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What we need ___ a clear plan. Use is.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Is links the what-clause to the focused complement.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U08-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What she wanted ___ a break. Use was.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Was matches this past framing.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U08-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It ___ on Friday that the parcel arrived. Use was.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Was forms the past it-cleft.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U08-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What I ___ is a short break. (suggest)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The subject I takes the base form suggest.",
+      "accepted_answers": [
+        "suggest"
+      ]
+    },
+    {
+      "id": "C1-U08-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "All we ___ is a signature. (need)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "We takes the base verb need.",
+      "accepted_answers": [
+        "need"
+      ]
+    },
+    {
+      "id": "C1-U08-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was the guide who ___ the route yesterday. (find)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Found is the past form of find.",
+      "accepted_answers": [
+        "found"
+      ]
+    },
+    {
+      "id": "C1-U08-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: need we",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The embedded what-clause uses statement order.",
+      "source_sentence": "What need we is a clear plan.",
+      "target_segment": "need we",
+      "accepted_answers": [
+        "we need"
+      ]
+    },
+    {
+      "id": "C1-U08-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: did found",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The clause needs the past verb found without did.",
+      "source_sentence": "It was the guide who did found the route.",
+      "target_segment": "did found",
+      "accepted_answers": [
+        "found"
+      ]
+    },
+    {
+      "id": "C1-U08-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: find",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The past context takes found.",
+      "source_sentence": "It was the key that Maya find yesterday.",
+      "target_segment": "find",
+      "accepted_answers": [
+        "found"
+      ]
+    },
+    {
+      "id": "C1-U08-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "The singular complement a break takes was in this sentence.",
+      "source_sentence": "What she wanted were a break.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U08-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Who found completes the clause about Maya.",
+      "source_sentence": "Maya found the key. Focus Maya with an it-cleft.",
+      "keyword": "who",
+      "target_sentence": "It was Maya ___ the key.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "who found"
+      ]
+    },
+    {
+      "id": "C1-U08-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "That Maya found completes the object-focused cleft.",
+      "source_sentence": "Maya found the key. Focus the key with an it-cleft.",
+      "keyword": "that",
+      "target_sentence": "It was the key ___.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "that Maya found"
+      ]
+    },
+    {
+      "id": "C1-U08-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "Is links the what-clause to the focused need.",
+      "source_sentence": "We need a clear plan. Begin with what.",
+      "keyword": "is",
+      "target_sentence": "What we need ___.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "is a clear plan"
+      ]
+    },
+    {
+      "id": "C1-U08-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U08"
+      ],
+      "explanation": "That introduces the clause after the focused time.",
+      "source_sentence": "The director responded on Tuesday. Focus the time.",
+      "keyword": "that",
+      "target_sentence": "It was on Tuesday ___.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "that the director responded"
+      ]
+    }
+  ]
+}

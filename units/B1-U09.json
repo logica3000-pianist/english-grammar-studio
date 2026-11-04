@@ -1,0 +1,642 @@
+{
+  "id": "B1-U09",
+  "level": "B1",
+  "title": "Second conditional",
+  "order": 9,
+  "prerequisites": [
+    "B1-U08"
+  ],
+  "objectives": [
+    "Form second conditional sentences.",
+    "Distinguish imagined situations from real future possibilities.",
+    "Use would and could to express different imagined results."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The second conditional describes an imagined or hypothetical situation in the present or future and its imagined result. ‘If I lived near the sea, I would swim every day’ suggests that I do not live near the sea now. ‘If I won the competition next month, I would travel’ describes a possible but imagined future outcome. The speaker presents the condition as less real or less likely, rather than stating that it can never happen.",
+        "This differs from a basic first conditional such as ‘If I have time tomorrow, I will call’. The first conditional treats the future condition as a real possibility. ‘If I had more time, I would call’ imagines a different situation. The choice depends on the speaker's view, not on a fixed numerical probability."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A common pattern is if plus past simple, followed by would and a base verb: ‘If she had a car, she would drive to work’. Although had is a past form, it refers to an imagined present situation here. Use the base verb after would: ‘would drive’, not ‘would drives’. Would has the same form with every subject.",
+        "For a negative result, use would not or wouldn't: ‘If it were cheaper, I wouldn't wait’. The clauses can change order: ‘I would travel if I had more money’. When the if clause comes first, use a comma between the clauses; when it comes second, a comma is not normally needed."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In hypothetical conditions with be, were is common with all subjects, especially in more formal English: ‘If I were you, I would ask’. Was is also used by many speakers after I, he, she or it, particularly in informal English: ‘If I was free, I would help’. ‘If I were you’ is a common expression for advice.",
+        "Could can replace would in the result when the meaning is ability or possibility: ‘If I had a bicycle, I could cycle to work’. Could cycle means I would be able to cycle; would cycle says what I would do. These are related but not identical meanings."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not normally use would in the if clause of the basic pattern: say ‘If I had more time, I would study’, not ‘If I would have more time, I would study’. Would can appear after if for other meanings, such as willingness, but that is not the basic conditional pattern practised here.",
+        "Do not confuse the hypothetical past form with a finished past event. ‘If I knew the answer, I would tell you’ refers to an imagined present situation; it does not say that I knew the answer yesterday. For a finished past hypothetical situation, English uses a different pattern introduced later."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If I lived near the sea, I would swim every day.",
+      "note": "The speaker imagines a different present situation."
+    },
+    {
+      "sentence": "If she had a car, she would drive to work.",
+      "note": "Had is a past form used for a hypothetical present condition."
+    },
+    {
+      "sentence": "If I won next month, I would travel.",
+      "note": "The sentence imagines a future outcome."
+    },
+    {
+      "sentence": "I would help if I had time.",
+      "note": "The result clause can come first."
+    },
+    {
+      "sentence": "If I were you, I would ask for help.",
+      "note": "If I were you is a common advice expression."
+    },
+    {
+      "sentence": "If I was free, I would help.",
+      "note": "Was is also used in informal hypothetical conditions."
+    },
+    {
+      "sentence": "If we had a bicycle, we could cycle there.",
+      "note": "Could expresses imagined ability."
+    },
+    {
+      "sentence": "If it were cheaper, I wouldn't wait.",
+      "note": "Wouldn't makes the imagined result negative."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "If I would have time, I would help.",
+      "correct": "If I had time, I would help.",
+      "reason": "Use a past form in the basic hypothetical if clause."
+    },
+    {
+      "incorrect": "If she knew, she would tells us.",
+      "correct": "If she knew, she would tell us.",
+      "reason": "Use the base verb after would."
+    },
+    {
+      "incorrect": "If I have more money, I would travel.",
+      "correct": "If I had more money, I would travel.",
+      "reason": "Use had for the intended hypothetical present condition."
+    }
+  ],
+  "summary": [
+    "Use a past form after if and would plus the base verb for an imagined present or future situation.",
+    "Were and was can both occur with singular subjects in hypothetical conditions; were is common in formal use.",
+    "Could in the result expresses imagined ability or possibility."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U09-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I do not live near the sea. If I ___ near the sea, I would swim daily.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Lived expresses the hypothetical present condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "live"
+        },
+        {
+          "id": "b",
+          "text": "lived"
+        },
+        {
+          "id": "c",
+          "text": "will live"
+        },
+        {
+          "id": "d",
+          "text": "would live"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“live” does not fit here. Lived expresses the hypothetical present condition.",
+        "b": "“lived” fits here. Lived expresses the hypothetical present condition.",
+        "c": "“will live” does not fit here. Lived expresses the hypothetical present condition.",
+        "d": "“would live” does not fit here. Lived expresses the hypothetical present condition."
+      }
+    },
+    {
+      "id": "B1-U09-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If she had more time, she ___ learn French.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would plus the base verb expresses the imagined result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "woulds"
+        },
+        {
+          "id": "c",
+          "text": "would to"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will” does not fit here. Would plus the base verb expresses the imagined result.",
+        "b": "“woulds” does not fit here. Would plus the base verb expresses the imagined result.",
+        "c": "“would to” does not fit here. Would plus the base verb expresses the imagined result.",
+        "d": "“would” fits here. Would plus the base verb expresses the imagined result."
+      }
+    },
+    {
+      "id": "B1-U09-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If I ___ you, I would ask for help. Choose the standard advice expression.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "If I were you is a common advice expression.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "will be"
+        },
+        {
+          "id": "d",
+          "text": "would be"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“were” fits here. If I were you is a common advice expression.",
+        "b": "“am” does not fit here. If I were you is a common advice expression.",
+        "c": "“will be” does not fit here. If I were you is a common advice expression.",
+        "d": "“would be” does not fit here. If I were you is a common advice expression."
+      }
+    },
+    {
+      "id": "B1-U09-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If we had a car, we could ___ there.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use the base verb after could.",
+      "options": [
+        {
+          "id": "a",
+          "text": "drove"
+        },
+        {
+          "id": "b",
+          "text": "drives"
+        },
+        {
+          "id": "c",
+          "text": "drive"
+        },
+        {
+          "id": "d",
+          "text": "to drive"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“drove” does not fit here. Use the base verb after could.",
+        "b": "“drives” does not fit here. Use the base verb after could.",
+        "c": "“drive” fits here. Use the base verb after could.",
+        "d": "“to drive” does not fit here. Use the base verb after could."
+      }
+    },
+    {
+      "id": "B1-U09-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If he knew the answer, he ___ tell us.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would tell expresses the imagined result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "woulds"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“would” fits here. Would tell expresses the imagined result.",
+        "b": "“will” does not fit here. Would tell expresses the imagined result.",
+        "c": "“does” does not fit here. Would tell expresses the imagined result.",
+        "d": "“woulds” does not fit here. Would tell expresses the imagined result."
+      }
+    },
+    {
+      "id": "B1-U09-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence describes an imagined present situation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Had and would call present an imagined situation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I have time tomorrow, I will call."
+        },
+        {
+          "id": "b",
+          "text": "If I had time yesterday, I called."
+        },
+        {
+          "id": "c",
+          "text": "If I had more time, I would call."
+        },
+        {
+          "id": "d",
+          "text": "If I will have time, I will call."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“If I have time tomorrow, I will call.” does not fit here. Had and would call present an imagined situation.",
+        "b": "“If I had time yesterday, I called.” does not fit here. Had and would call present an imagined situation.",
+        "c": "“If I had more time, I would call.” fits here. Had and would call present an imagined situation.",
+        "d": "“If I will have time, I will call.” does not fit here. Had and would call present an imagined situation."
+      }
+    },
+    {
+      "id": "B1-U09-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If the ticket were cheaper, I ___ buy it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would buy expresses the imagined result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will to"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "woulds"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will to” does not fit here. Would buy expresses the imagined result.",
+        "b": "“am” does not fit here. Would buy expresses the imagined result.",
+        "c": "“woulds” does not fit here. Would buy expresses the imagined result.",
+        "d": "“would” fits here. Would buy expresses the imagined result."
+      }
+    },
+    {
+      "id": "B1-U09-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence follows the basic second conditional pattern?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use a past form after if and would plus the base verb in the result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If he would know, he would help."
+        },
+        {
+          "id": "b",
+          "text": "If he knew, he would help."
+        },
+        {
+          "id": "c",
+          "text": "If he knows, he would to help."
+        },
+        {
+          "id": "d",
+          "text": "If he knowing, he would help."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“If he would know, he would help.” does not fit here. Use a past form after if and would plus the base verb in the result.",
+        "b": "“If he knew, he would help.” fits here. Use a past form after if and would plus the base verb in the result.",
+        "c": "“If he knows, he would to help.” does not fit here. Use a past form after if and would plus the base verb in the result.",
+        "d": "“If he knowing, he would help.” does not fit here. Use a past form after if and would plus the base verb in the result."
+      }
+    },
+    {
+      "id": "B1-U09-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past form of have: If I ___ more time, I would study.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Had expresses the hypothetical condition.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U09-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would: If she lived nearby, she ___ visit.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would introduces the imagined result.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U09-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: If I had a car, I would ___ to work. (drive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use the base verb after would.",
+      "accepted_answers": [
+        "drive"
+      ]
+    },
+    {
+      "id": "B1-U09-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the advice expression: If I ___ you, I would wait.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "If I were you is the common advice expression.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "B1-U09-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past form of know: If he ___ the answer, he would tell us.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Knew is the hypothetical past form.",
+      "accepted_answers": [
+        "knew"
+      ]
+    },
+    {
+      "id": "B1-U09-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use could: If they had a car, they ___ drive there.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Could expresses imagined ability.",
+      "accepted_answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "B1-U09-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would not without a contraction: If it were expensive, I ___ buy it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would not makes the imagined result negative.",
+      "accepted_answers": [
+        "would not"
+      ]
+    },
+    {
+      "id": "B1-U09-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: If we had a map, we would ___ the way. (find)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use the base verb after would.",
+      "accepted_answers": [
+        "find"
+      ]
+    },
+    {
+      "id": "B1-U09-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: would have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use had in this basic hypothetical if clause.",
+      "source_sentence": "If I would have time, I would help.",
+      "target_segment": "would have",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U09-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: tells",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use the base verb after would.",
+      "source_sentence": "If she knew, she would tells us.",
+      "target_segment": "tells",
+      "accepted_answers": [
+        "tell"
+      ]
+    },
+    {
+      "id": "B1-U09-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: drives",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use the base verb after would.",
+      "source_sentence": "If he had a car, he would drives.",
+      "target_segment": "drives",
+      "accepted_answers": [
+        "drive"
+      ]
+    },
+    {
+      "id": "B1-U09-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: would know",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Use knew in this basic hypothetical if clause.",
+      "source_sentence": "If I would know, I would answer.",
+      "target_segment": "would know",
+      "accepted_answers": [
+        "knew"
+      ]
+    },
+    {
+      "id": "B1-U09-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Could drive expresses imagined ability.",
+      "source_sentence": "I do not have a car, so I cannot drive to work. Imagine having one.",
+      "keyword": "could",
+      "target_sentence": "If I had a car, I ___ to work.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "could drive"
+      ]
+    },
+    {
+      "id": "B1-U09-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would visit expresses the imagined result.",
+      "source_sentence": "She does not live nearby. Imagine that she does and visits us.",
+      "keyword": "would",
+      "target_sentence": "If she lived nearby, she ___ us.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would visit"
+      ]
+    },
+    {
+      "id": "B1-U09-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would help expresses the imagined result.",
+      "source_sentence": "I would help if I had time.",
+      "keyword": "help",
+      "target_sentence": "If I had time, I ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would help"
+      ]
+    },
+    {
+      "id": "B1-U09-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U09"
+      ],
+      "explanation": "Would ask completes the advice expression.",
+      "source_sentence": "My advice is to ask for help. Use the expression if I were you.",
+      "keyword": "would",
+      "target_sentence": "If I were you, I ___ for help.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would ask"
+      ]
+    }
+  ]
+}

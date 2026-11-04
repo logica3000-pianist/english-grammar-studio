@@ -1,0 +1,658 @@
+{
+  "id": "A2-U15",
+  "level": "A2",
+  "title": "Imperatives and classroom language: cumulative review",
+  "order": 15,
+  "prerequisites": [
+    "A2-U14"
+  ],
+  "objectives": [
+    "Give positive and negative classroom instructions.",
+    "Make courteous requests using please or could.",
+    "Review earlier verb forms and pronouns in classroom contexts."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "An imperative is a verb form used to give an instruction, make a request or give advice. In a classroom, a teacher might say ‘Open your books’ or ‘Listen carefully’. The person listening is usually understood, so we do not normally write or say the subject you. The context and tone tell us whether the sentence sounds like an instruction, a request or advice.",
+        "This unit also reviews language from earlier lessons. You will use present simple forms for routines, present continuous forms for actions now, pronouns to refer to people, and can or could for requests. These forms can all be useful when people work together in a classroom."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a positive imperative, start with the base form of the verb: ‘Read the question’, ‘Write your name’ or ‘Be quiet’. Use the same form for one listener and for several listeners. You can add please to make a request more polite: ‘Please sit down’ or ‘Sit down, please’. A polite tone also matters.",
+        "For a negative imperative, put do not or don’t before the base form: ‘Don’t talk during the recording’ and ‘Please don’t open the window’. Use don’t be with the verb be: ‘Don’t be late’. Do not add -s to the verb. A written imperative often ends with a full stop; an exclamation mark can show a stronger tone."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Instructions can have more than one step: ‘Read the text and answer the questions’. In class, you may also hear ‘Work in pairs’, ‘Look at the board’, ‘Check your answers’ and ‘Ask your partner’. These instructions use ordinary verbs in the base form. A partner is a person you work with.",
+        "There are other polite ways to ask someone to act. ‘Could you repeat that, please?’ is a question that makes a request; ‘Please repeat that’ is an imperative request. Both can be polite. When you need help, ‘Can you help me?’ uses the modal can and the object pronoun me."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use an -ing form by itself for the ordinary imperative: say ‘Open your book’, not ‘Opening your book’. Do not put not after the main verb to make a negative: say ‘Don’t write’, not ‘Write not’. In a question with could, the pattern is different: ‘Could you repeat that?’ includes a subject.",
+        "An imperative can be friendly or firm. ‘Sit down’ is not automatically rude, but a direct instruction can sound abrupt in some situations. Please, the relationship between the speakers and the tone all affect the message. This review combines classroom language with grammar from earlier units."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Open your books at page ten.",
+      "note": "Open is the base form in an instruction."
+    },
+    {
+      "sentence": "Please listen to your partner.",
+      "note": "Please makes the instruction more courteous."
+    },
+    {
+      "sentence": "Write your name here.",
+      "note": "The listener is understood."
+    },
+    {
+      "sentence": "Don’t use your phone during the test.",
+      "note": "Don’t makes the imperative negative."
+    },
+    {
+      "sentence": "Don’t be late for class.",
+      "note": "Use don’t before the base form be."
+    },
+    {
+      "sentence": "Could you repeat that, please?",
+      "note": "Could you introduces a polite question used as a request."
+    },
+    {
+      "sentence": "Work in pairs and check your answers.",
+      "note": "Two base verbs give two instructions."
+    },
+    {
+      "sentence": "Give the worksheet to her.",
+      "note": "Her is an object pronoun after to."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Opens your book.",
+      "correct": "Open your book.",
+      "reason": "Use the base form open in an imperative."
+    },
+    {
+      "incorrect": "Not talk in class.",
+      "correct": "Don’t talk in class.",
+      "reason": "Use don’t before the base verb for a negative imperative."
+    },
+    {
+      "incorrect": "Don’t are late.",
+      "correct": "Don’t be late.",
+      "reason": "Use the base form be after don’t."
+    }
+  ],
+  "summary": [
+    "Use the base form of a verb to give an instruction or request.",
+    "Use don’t or do not before the base form for a negative instruction.",
+    "Please, could and a suitable tone can make a request more courteous."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U15-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The teacher says: ___ your name at the top of the page.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base form write in an instruction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Writes"
+        },
+        {
+          "id": "b",
+          "text": "Writing"
+        },
+        {
+          "id": "c",
+          "text": "To write"
+        },
+        {
+          "id": "d",
+          "text": "Write"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Writes” does not fit here. Use the base form write in an instruction.",
+        "b": "“Writing” does not fit here. Use the base form write in an instruction.",
+        "c": "“To write” does not fit here. Use the base form write in an instruction.",
+        "d": "“Write” fits here. Use the base form write in an instruction."
+      }
+    },
+    {
+      "id": "A2-U15-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Please ___ your books.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base form open after please.",
+      "options": [
+        {
+          "id": "a",
+          "text": "open"
+        },
+        {
+          "id": "b",
+          "text": "opening"
+        },
+        {
+          "id": "c",
+          "text": "opens"
+        },
+        {
+          "id": "d",
+          "text": "to open"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“open” fits here. Use the base form open after please.",
+        "b": "“opening” does not fit here. Use the base form open after please.",
+        "c": "“opens” does not fit here. Use the base form open after please.",
+        "d": "“to open” does not fit here. Use the base form open after please."
+      }
+    },
+    {
+      "id": "A2-U15-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The sign says: ___ talk during the test.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use don’t before the base verb for a negative instruction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not"
+        },
+        {
+          "id": "b",
+          "text": "Doesn’t"
+        },
+        {
+          "id": "c",
+          "text": "Don’t"
+        },
+        {
+          "id": "d",
+          "text": "Isn’t"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Not” does not fit here. Use don’t before the base verb for a negative instruction.",
+        "b": "“Doesn’t” does not fit here. Use don’t before the base verb for a negative instruction.",
+        "c": "“Don’t” fits here. Use don’t before the base verb for a negative instruction.",
+        "d": "“Isn’t” does not fit here. Use don’t before the base verb for a negative instruction."
+      }
+    },
+    {
+      "id": "A2-U15-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Make a polite question: ___ repeat the word, please?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U14"
+      ],
+      "explanation": "Could you repeat is a common polite request.",
+      "options": [
+        {
+          "id": "a",
+          "text": "You could"
+        },
+        {
+          "id": "b",
+          "text": "Could you"
+        },
+        {
+          "id": "c",
+          "text": "Do you can"
+        },
+        {
+          "id": "d",
+          "text": "Are you"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“You could” does not fit here. Could you repeat is a common polite request.",
+        "b": "“Could you” fits here. Could you repeat is a common polite request.",
+        "c": "“Do you can” does not fit here. Could you repeat is a common polite request.",
+        "d": "“Are you” does not fit here. Could you repeat is a common polite request."
+      }
+    },
+    {
+      "id": "A2-U15-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Give the paper to Ana. Give it to ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U13"
+      ],
+      "explanation": "Her is the object pronoun for Ana after to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "she"
+        },
+        {
+          "id": "b",
+          "text": "her"
+        },
+        {
+          "id": "c",
+          "text": "hers"
+        },
+        {
+          "id": "d",
+          "text": "they"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“she” does not fit here. Her is the object pronoun for Ana after to.",
+        "b": "“her” fits here. Her is the object pronoun for Ana after to.",
+        "c": "“hers” does not fit here. Her is the object pronoun for Ana after to.",
+        "d": "“they” does not fit here. Her is the object pronoun for Ana after to."
+      }
+    },
+    {
+      "id": "A2-U15-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Our lessons ___ at nine every day.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U02"
+      ],
+      "explanation": "A routine with the plural subject lessons takes start.",
+      "options": [
+        {
+          "id": "a",
+          "text": "start"
+        },
+        {
+          "id": "b",
+          "text": "is starting"
+        },
+        {
+          "id": "c",
+          "text": "startings"
+        },
+        {
+          "id": "d",
+          "text": "are start"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“start” fits here. A routine with the plural subject lessons takes start.",
+        "b": "“is starting” does not fit here. A routine with the plural subject lessons takes start.",
+        "c": "“startings” does not fit here. A routine with the plural subject lessons takes start.",
+        "d": "“are start” does not fit here. A routine with the plural subject lessons takes start."
+      }
+    },
+    {
+      "id": "A2-U15-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look! The students ___ a text now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U06"
+      ],
+      "explanation": "Use are reading for the plural subject and action now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "read every day"
+        },
+        {
+          "id": "b",
+          "text": "reads"
+        },
+        {
+          "id": "c",
+          "text": "is read"
+        },
+        {
+          "id": "d",
+          "text": "are reading"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“read every day” does not fit here. Use are reading for the plural subject and action now.",
+        "b": "“reads” does not fit here. Use are reading for the plural subject and action now.",
+        "c": "“is read” does not fit here. Use are reading for the plural subject and action now.",
+        "d": "“are reading” fits here. Use are reading for the plural subject and action now."
+      }
+    },
+    {
+      "id": "A2-U15-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Can Leo speak English? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U14"
+      ],
+      "explanation": "Use he can in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "he do"
+        },
+        {
+          "id": "b",
+          "text": "he is"
+        },
+        {
+          "id": "c",
+          "text": "he can"
+        },
+        {
+          "id": "d",
+          "text": "he cans"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“he do” does not fit here. Use he can in the positive short answer.",
+        "b": "“he is” does not fit here. Use he can in the positive short answer.",
+        "c": "“he can” fits here. Use he can in the positive short answer.",
+        "d": "“he cans” does not fit here. Use he can in the positive short answer."
+      }
+    },
+    {
+      "id": "A2-U15-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ your books, please. (close)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base verb close for the instruction.",
+      "accepted_answers": [
+        "Close"
+      ]
+    },
+    {
+      "id": "A2-U15-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ not write on the wall.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Do not plus the base verb makes a negative instruction.",
+      "accepted_answers": [
+        "Do"
+      ]
+    },
+    {
+      "id": "A2-U15-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Please don’t ___ late. (be)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base form be after don’t.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "A2-U15-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you help me, please? Use the less direct modal taught in the previous unit.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U14"
+      ],
+      "explanation": "Could you is a common polite request.",
+      "accepted_answers": [
+        "Could"
+      ]
+    },
+    {
+      "id": "A2-U15-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Give the papers to the students. Give the papers to ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U13"
+      ],
+      "explanation": "Them is the object form referring to the students.",
+      "accepted_answers": [
+        "them"
+      ]
+    },
+    {
+      "id": "A2-U15-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is my pencil. It is ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U13"
+      ],
+      "explanation": "Mine means my pencil.",
+      "accepted_answers": [
+        "mine"
+      ]
+    },
+    {
+      "id": "A2-U15-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ three desks in the room.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U08"
+      ],
+      "explanation": "Three desks is plural, so use are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U15-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ to class by bus every day. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U02"
+      ],
+      "explanation": "A singular subject takes goes for a routine.",
+      "accepted_answers": [
+        "goes"
+      ]
+    },
+    {
+      "id": "A2-U15-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Writes",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "An imperative uses the base form write.",
+      "source_sentence": "Writes your answer here.",
+      "target_segment": "Writes",
+      "accepted_answers": [
+        "Write"
+      ]
+    },
+    {
+      "id": "A2-U15-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: opens",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base form after don’t.",
+      "source_sentence": "Don’t opens the door.",
+      "target_segment": "opens",
+      "accepted_answers": [
+        "open"
+      ]
+    },
+    {
+      "id": "A2-U15-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: she",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U13"
+      ],
+      "explanation": "Use the object form her after the preposition to.",
+      "source_sentence": "Please give the paper to she.",
+      "target_segment": "she",
+      "accepted_answers": [
+        "her"
+      ]
+    },
+    {
+      "id": "A2-U15-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: children is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U15",
+        "A2-U06"
+      ],
+      "explanation": "The plural subject children takes are.",
+      "source_sentence": "The children is listening now.",
+      "target_segment": "children is",
+      "accepted_answers": [
+        "children are"
+      ]
+    },
+    {
+      "id": "A2-U15-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use the base form close in an instruction.",
+      "source_sentence": "I ask you to close your book. Give the instruction politely.",
+      "keyword": "close",
+      "target_sentence": "Please ___ your book.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "close"
+      ]
+    },
+    {
+      "id": "A2-U15-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U15"
+      ],
+      "explanation": "Use don’t or do not before the base verb.",
+      "source_sentence": "I tell you not to speak.",
+      "keyword": null,
+      "target_sentence": "___ speak.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "Don’t",
+        "Do not"
+      ]
+    },
+    {
+      "id": "A2-U15-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U15",
+        "A2-U14"
+      ],
+      "explanation": "Could you repeat is a request.",
+      "source_sentence": "Ask a person to repeat that using could.",
+      "keyword": "Could",
+      "target_sentence": "___ that, please?",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Could you repeat"
+      ]
+    },
+    {
+      "id": "A2-U15-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U15",
+        "A2-U13",
+        "A2-U14"
+      ],
+      "explanation": "Them replaces the students as the object of help.",
+      "source_sentence": "The teachers can help the students. Replace the students with an object pronoun.",
+      "keyword": "them",
+      "target_sentence": "The teachers can help ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "them"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "B2-U18",
+  "level": "B2",
+  "title": "Reduced relative clauses",
+  "order": 18,
+  "prerequisites": [
+    "B2-U17"
+  ],
+  "objectives": [
+    "Recognise active and passive reduced relative clauses.",
+    "Form controlled reductions without changing the intended meaning.",
+    "Distinguish an ongoing passive from a completed passive description."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A reduced relative clause modifies a noun without using a full relative clause. ‘The people waiting outside can come in’ can correspond to ‘The people who are waiting outside can come in’. The -ing phrase identifies the people. ‘The documents signed yesterday are on the desk’ can correspond to ‘The documents that were signed yesterday are on the desk’.",
+        "Reduced clauses can make writing more concise, especially in descriptions and formal texts. They are not simply shorter versions of every relative clause. The time, aspect and meaning of the original clause must remain clear, and some reductions sound unnatural or change the intended meaning."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "An -ing form can replace some active relative clauses, particularly when the clause describes an action in progress or a characteristic activity: ‘The people who are waiting outside’ becomes ‘the people waiting outside’. The noun being modified is understood as the performer of the activity.",
+        "A past participle can replace some passive relative clauses: ‘The documents that were signed yesterday’ becomes ‘the documents signed yesterday’. The documents received the action. In some contexts, being plus a participle can retain a passive action-in-progress meaning: ‘The road being repaired is closed’ describes an ongoing repair."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The engineer repairing the machine is Ana’ with ‘The machine repaired yesterday is working’. The engineer performs the repair; the machine received an earlier repair. ‘The machine being repaired is not available’ focuses on an ongoing passive activity. These forms are not interchangeable if they change who performs or receives the action.",
+        "A reduced phrase normally follows the noun it modifies: ‘the students waiting outside’. It does not normally need a relative pronoun or a finite form of be: ‘the students waiting outside’, not ‘the students who waiting outside’. A full relative clause can still be clearer, especially when time or aspect would otherwise be ambiguous."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume an -ing clause always means an action happening at the exact moment of speaking. ‘People working night shifts’ can describe a characteristic activity. Nor does a bare past participle always specify exactly when an action happened; context supplies the time.",
+        "Avoid reducing a clause if the resulting phrase would misrepresent the intended relationship. ‘The man who I saw’ cannot simply become ‘the man seeing’ when he was the person I saw: seeing would make him the performer. Keep the full clause or use a different wording that preserves the meaning. Some reduced forms have several possible interpretations, so exercises specify the intended relationship."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The people waiting outside can come in.",
+      "note": "Waiting describes the people as performers of the activity."
+    },
+    {
+      "sentence": "The documents signed yesterday are on the desk.",
+      "note": "Signed describes documents that received the earlier action."
+    },
+    {
+      "sentence": "The road being repaired is closed.",
+      "note": "Being repaired presents an ongoing passive activity."
+    },
+    {
+      "sentence": "The engineer repairing the machine is Ana.",
+      "note": "The engineer performs the repair."
+    },
+    {
+      "sentence": "The machine repaired yesterday is working.",
+      "note": "The machine received the repair."
+    },
+    {
+      "sentence": "People working night shifts need rest.",
+      "note": "Working can describe a characteristic activity."
+    },
+    {
+      "sentence": "The people who are waiting outside can come in.",
+      "note": "The full relative clause can express the same intended relationship."
+    },
+    {
+      "sentence": "The documents that were signed yesterday are on the desk.",
+      "note": "The full passive relative clause specifies the earlier action."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The students who waiting outside can enter.",
+      "correct": "The students waiting outside can enter.",
+      "reason": "The reduced -ing clause does not take who in this pattern."
+    },
+    {
+      "incorrect": "The documents signing yesterday are on the desk.",
+      "correct": "The documents signed yesterday are on the desk.",
+      "reason": "Use a passive participle because the documents received the action."
+    },
+    {
+      "incorrect": "The road being repair is closed.",
+      "correct": "The road being repaired is closed.",
+      "reason": "Use the past participle after being in this passive pattern."
+    }
+  ],
+  "summary": [
+    "An -ing phrase can reduce some active relative clauses.",
+    "A past participle can reduce some passive relative clauses; being plus a participle can show passive progress.",
+    "Preserve the original subject, time and meaning when reducing a clause."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U18-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The people who are waiting outside can enter. Choose the reduction.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Waiting describes the people performing the ongoing action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The people waited outside can enter."
+        },
+        {
+          "id": "b",
+          "text": "The people who waiting outside can enter."
+        },
+        {
+          "id": "c",
+          "text": "The people waiting outside can enter."
+        },
+        {
+          "id": "d",
+          "text": "The people being waited outside can enter."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The people waited outside can enter.” does not fit here. Waiting describes the people performing the ongoing action.",
+        "b": "“The people who waiting outside can enter.” does not fit here. Waiting describes the people performing the ongoing action.",
+        "c": "“The people waiting outside can enter.” fits here. Waiting describes the people performing the ongoing action.",
+        "d": "“The people being waited outside can enter.” does not fit here. Waiting describes the people performing the ongoing action."
+      }
+    },
+    {
+      "id": "B2-U18-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The documents that were signed yesterday are on the desk. Choose the reduction.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Signed describes the documents receiving the earlier action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The documents signed yesterday are on the desk."
+        },
+        {
+          "id": "b",
+          "text": "The documents signing yesterday are on the desk."
+        },
+        {
+          "id": "c",
+          "text": "The documents who signed yesterday are on the desk."
+        },
+        {
+          "id": "d",
+          "text": "The documents being sign yesterday are on the desk."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The documents signed yesterday are on the desk.” fits here. Signed describes the documents receiving the earlier action.",
+        "b": "“The documents signing yesterday are on the desk.” does not fit here. Signed describes the documents receiving the earlier action.",
+        "c": "“The documents who signed yesterday are on the desk.” does not fit here. Signed describes the documents receiving the earlier action.",
+        "d": "“The documents being sign yesterday are on the desk.” does not fit here. Signed describes the documents receiving the earlier action."
+      }
+    },
+    {
+      "id": "B2-U18-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The road is receiving repairs now. Which phrase preserves that ongoing passive meaning?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Being repaired presents the road as receiving an ongoing action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the road repairing the workers"
+        },
+        {
+          "id": "b",
+          "text": "the road being repair"
+        },
+        {
+          "id": "c",
+          "text": "the road who repairs"
+        },
+        {
+          "id": "d",
+          "text": "the road being repaired"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“the road repairing the workers” does not fit here. Being repaired presents the road as receiving an ongoing action.",
+        "b": "“the road being repair” does not fit here. Being repaired presents the road as receiving an ongoing action.",
+        "c": "“the road who repairs” does not fit here. Being repaired presents the road as receiving an ongoing action.",
+        "d": "“the road being repaired” fits here. Being repaired presents the road as receiving an ongoing action."
+      }
+    },
+    {
+      "id": "B2-U18-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The engineer is repairing the machine. Which phrase identifies the engineer?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Repairing describes the engineer as the performer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the engineer repaired by the machine"
+        },
+        {
+          "id": "b",
+          "text": "the engineer repairing the machine"
+        },
+        {
+          "id": "c",
+          "text": "the engineer being repaired by the machine"
+        },
+        {
+          "id": "d",
+          "text": "the engineer repair yesterday"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“the engineer repaired by the machine” does not fit here. Repairing describes the engineer as the performer.",
+        "b": "“the engineer repairing the machine” fits here. Repairing describes the engineer as the performer.",
+        "c": "“the engineer being repaired by the machine” does not fit here. Repairing describes the engineer as the performer.",
+        "d": "“the engineer repair yesterday” does not fit here. Repairing describes the engineer as the performer."
+      }
+    },
+    {
+      "id": "B2-U18-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “the machine repaired yesterday”, what received the repair?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Repaired modifies the machine, the entity receiving the action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The engineer."
+        },
+        {
+          "id": "b",
+          "text": "The machine."
+        },
+        {
+          "id": "c",
+          "text": "The word yesterday."
+        },
+        {
+          "id": "d",
+          "text": "An unnamed café."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The engineer.” does not fit here. Repaired modifies the machine, the entity receiving the action.",
+        "b": "“The machine.” fits here. Repaired modifies the machine, the entity receiving the action.",
+        "c": "“The word yesterday.” does not fit here. Repaired modifies the machine, the entity receiving the action.",
+        "d": "“An unnamed café.” does not fit here. Repaired modifies the machine, the entity receiving the action."
+      }
+    },
+    {
+      "id": "B2-U18-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly retains the full clause for the man I saw?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Who I saw identifies the man as the person seen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The man who I saw was tall."
+        },
+        {
+          "id": "b",
+          "text": "The man seeing by me was tall."
+        },
+        {
+          "id": "c",
+          "text": "The man seeing was tall; this always means I saw him."
+        },
+        {
+          "id": "d",
+          "text": "The man saw by I was tall."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The man who I saw was tall.” fits here. Who I saw identifies the man as the person seen.",
+        "b": "“The man seeing by me was tall.” does not fit here. Who I saw identifies the man as the person seen.",
+        "c": "“The man seeing was tall; this always means I saw him.” does not fit here. Who I saw identifies the man as the person seen.",
+        "d": "“The man saw by I was tall.” does not fit here. Who I saw identifies the man as the person seen."
+      }
+    },
+    {
+      "id": "B2-U18-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase can describe a characteristic activity rather than an action at this exact moment?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Working night shifts can describe a characteristic activity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "people be worked night shifts"
+        },
+        {
+          "id": "b",
+          "text": "people who working night shifts"
+        },
+        {
+          "id": "c",
+          "text": "people having work shifts"
+        },
+        {
+          "id": "d",
+          "text": "people working night shifts"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“people be worked night shifts” does not fit here. Working night shifts can describe a characteristic activity.",
+        "b": "“people who working night shifts” does not fit here. Working night shifts can describe a characteristic activity.",
+        "c": "“people having work shifts” does not fit here. Working night shifts can describe a characteristic activity.",
+        "d": "“people working night shifts” fits here. Working night shifts can describe a characteristic activity."
+      }
+    },
+    {
+      "id": "B2-U18-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correctly formed?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Being repaired is an ongoing passive reduced clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The road being repair is closed."
+        },
+        {
+          "id": "b",
+          "text": "The students who waiting can enter."
+        },
+        {
+          "id": "c",
+          "text": "The road being repaired is closed."
+        },
+        {
+          "id": "d",
+          "text": "The documents signing yesterday were signed by Ana."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The road being repair is closed.” does not fit here. Being repaired is an ongoing passive reduced clause.",
+        "b": "“The students who waiting can enter.” does not fit here. Being repaired is an ongoing passive reduced clause.",
+        "c": "“The road being repaired is closed.” fits here. Being repaired is an ongoing passive reduced clause.",
+        "d": "“The documents signing yesterday were signed by Ana.” does not fit here. Being repaired is an ongoing passive reduced clause."
+      }
+    },
+    {
+      "id": "B2-U18-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: The people ___ outside can enter. (wait)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Waiting describes the people performing the activity.",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "B2-U18-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past participle: The documents ___ yesterday are here. (sign)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Signed describes the documents receiving the action.",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "B2-U18-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use being: The road ___ repaired is closed; repairs are happening now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Being repaired expresses ongoing passive activity.",
+      "accepted_answers": [
+        "being"
+      ]
+    },
+    {
+      "id": "B2-U18-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past participle: The bridge ___ in 1900 is still used. (build)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Built describes the bridge as the entity built.",
+      "accepted_answers": [
+        "built"
+      ]
+    },
+    {
+      "id": "B2-U18-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: The engineer ___ the machine is Ana. (repair)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Repairing describes the engineer as the performer.",
+      "accepted_answers": [
+        "repairing"
+      ]
+    },
+    {
+      "id": "B2-U18-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past participle: The machine ___ yesterday is working. (repair)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Repaired describes the machine receiving the action.",
+      "accepted_answers": [
+        "repaired"
+      ]
+    },
+    {
+      "id": "B2-U18-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past participle after being: The car being ___ is unavailable. (service)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Being serviced presents an ongoing passive activity.",
+      "accepted_answers": [
+        "serviced"
+      ]
+    },
+    {
+      "id": "B2-U18-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: The students ___ outside can enter. (stand)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Standing describes the students as performers.",
+      "accepted_answers": [
+        "standing"
+      ]
+    },
+    {
+      "id": "B2-U18-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who waiting",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Use the -ing form without who in this reduced pattern.",
+      "source_sentence": "The students who waiting outside can enter.",
+      "target_segment": "who waiting",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "B2-U18-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "The documents received the signatures. Replace: signing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Use the past participle for the passive relationship.",
+      "source_sentence": "The documents signing yesterday are on the desk.",
+      "target_segment": "signing",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "B2-U18-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: repair",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Use the past participle after being.",
+      "source_sentence": "The road being repair is closed.",
+      "target_segment": "repair",
+      "accepted_answers": [
+        "repaired"
+      ]
+    },
+    {
+      "id": "B2-U18-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: build",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Use the past participle for the passive relationship.",
+      "source_sentence": "The bridge build in 1900 is still used.",
+      "target_segment": "build",
+      "accepted_answers": [
+        "built"
+      ]
+    },
+    {
+      "id": "B2-U18-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Waiting identifies the performers of the activity.",
+      "source_sentence": "The people who are waiting outside can enter. Use a reduced clause.",
+      "keyword": "waiting",
+      "target_sentence": "The people ___ can enter.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "waiting outside"
+      ]
+    },
+    {
+      "id": "B2-U18-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Signed identifies documents receiving the earlier action.",
+      "source_sentence": "The documents that were signed yesterday are here. Use a reduced clause.",
+      "keyword": "signed",
+      "target_sentence": "The documents ___ are here.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "signed yesterday"
+      ]
+    },
+    {
+      "id": "B2-U18-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Being repaired retains passive progress.",
+      "source_sentence": "The road that is being repaired is closed. Retain the ongoing passive meaning.",
+      "keyword": "being",
+      "target_sentence": "The road ___ is closed.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "being repaired"
+      ]
+    },
+    {
+      "id": "B2-U18-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U18"
+      ],
+      "explanation": "Repairing identifies the engineer as the performer.",
+      "source_sentence": "The engineer who is repairing the machine is Ana. Use a reduced clause.",
+      "keyword": "repairing",
+      "target_sentence": "The engineer ___ is Ana.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "repairing the machine"
+      ]
+    }
+  ]
+}

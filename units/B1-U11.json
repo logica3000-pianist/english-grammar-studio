@@ -1,0 +1,642 @@
+{
+  "id": "B1-U11",
+  "level": "B1",
+  "title": "Gerunds and infinitives after common verbs",
+  "order": 11,
+  "prerequisites": [
+    "B1-U10"
+  ],
+  "objectives": [
+    "Choose -ing or a to-infinitive after common verbs.",
+    "Form negative infinitive and -ing patterns.",
+    "Distinguish two meanings of stop followed by a verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "When one verb follows another, the first verb often determines the form of the second. Some verbs are commonly followed by an -ing form: ‘I enjoy reading’ and ‘She avoided answering’. Other verbs are commonly followed by a to-infinitive: ‘They decided to leave’ and ‘I hope to see you’. A to-infinitive is to plus the base form of a verb.",
+        "The -ing form used in patterns such as ‘enjoy reading’ is often called a gerund. It names an activity. The form looks the same as the -ing form in ‘She is reading’, but its role in the sentence is different. Learning the first verb together with its pattern helps you choose the next form."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Common verbs followed by -ing include enjoy, avoid, finish, suggest and mind: ‘We finished eating’ and ‘I suggest taking a taxi’. A negative -ing form can use not before -ing: ‘She suggested not driving’. The subject of the activity depends on context; a different person can also be identified in some more advanced patterns.",
+        "Common verbs followed by a to-infinitive include decide, hope, plan, want and promise: ‘They decided to leave’ and ‘I hope to return’. A negative infinitive uses not before to: ‘He decided not to go’. Do not put an extra to after the infinitive marker: ‘plan to visit’, not ‘plan to to visit’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I enjoy swimming’ with ‘I want to swim’. Both concern swimming, but enjoy and want take different patterns. ‘I enjoy swimming’ says the activity gives me pleasure. ‘I want to swim’ expresses a wish. The pattern belongs to the first verb, so changing that verb can require a different form.",
+        "Some verbs allow both forms. Like, love and hate often allow -ing or a to-infinitive in many contexts: ‘I like reading’ and ‘I like to read’. Meaning and context can affect the choice. Other verbs can change meaning with the form that follows: ‘She stopped smoking’ means she stopped the activity, whether temporarily or permanently, while ‘She stopped to smoke’ means she stopped another activity in order to smoke."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a to-infinitive directly after enjoy in this pattern: ‘enjoy reading’, not ‘enjoy to read’. Do not use an -ing form directly after decide in this pattern: ‘decide to leave’, not ‘decide leaving’. These are verb-specific patterns; do not assume every -ing form or infinitive works after every verb.",
+        "Some verbs have additional patterns beyond the ones taught here. Suggest, for example, can be followed by a clause: ‘I suggest that we leave’. This unit practises the common -ing pattern after suggest and does not ask you to memorise every possible structure. In exercises, use the stated verb and context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I enjoy reading on the train.",
+      "note": "Enjoy is followed by an -ing form."
+    },
+    {
+      "sentence": "She avoided answering the question.",
+      "note": "Avoid is followed by an -ing form."
+    },
+    {
+      "sentence": "We finished eating at eight.",
+      "note": "Finish is followed by an -ing form."
+    },
+    {
+      "sentence": "They decided to leave early.",
+      "note": "Decide is followed here by a to-infinitive."
+    },
+    {
+      "sentence": "I hope to see you soon.",
+      "note": "Hope is followed by a to-infinitive."
+    },
+    {
+      "sentence": "He decided not to go.",
+      "note": "Not comes before the to-infinitive."
+    },
+    {
+      "sentence": "She stopped smoking last year.",
+      "note": "Stopped smoking means she ceased the activity; context can show whether she stopped permanently."
+    },
+    {
+      "sentence": "She stopped to smoke.",
+      "note": "Stopped to smoke means she stopped another activity in order to smoke."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I enjoy to read.",
+      "correct": "I enjoy reading.",
+      "reason": "Use an -ing form after enjoy."
+    },
+    {
+      "incorrect": "They decided leaving.",
+      "correct": "They decided to leave.",
+      "reason": "Use a to-infinitive after decide in this pattern."
+    },
+    {
+      "incorrect": "She suggested to take a taxi.",
+      "correct": "She suggested taking a taxi.",
+      "reason": "Use an -ing form in this suggest pattern."
+    }
+  ],
+  "summary": [
+    "Enjoy, avoid and finish commonly take an -ing form.",
+    "Decide, hope, plan and want commonly take a to-infinitive.",
+    "Some verbs allow both forms, sometimes with a change in meaning."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U11-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I enjoy ___ on the train. (read)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Enjoy is followed by an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to read"
+        },
+        {
+          "id": "b",
+          "text": "read"
+        },
+        {
+          "id": "c",
+          "text": "to reading"
+        },
+        {
+          "id": "d",
+          "text": "reading"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“to read” does not fit here. Enjoy is followed by an -ing form.",
+        "b": "“read” does not fit here. Enjoy is followed by an -ing form.",
+        "c": "“to reading” does not fit here. Enjoy is followed by an -ing form.",
+        "d": "“reading” fits here. Enjoy is followed by an -ing form."
+      }
+    },
+    {
+      "id": "B1-U11-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They decided ___ early. (leave)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Decide is followed by a to-infinitive here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "leaving"
+        },
+        {
+          "id": "b",
+          "text": "to leave"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "to leaving"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“leaving” does not fit here. Decide is followed by a to-infinitive here.",
+        "b": "“to leave” fits here. Decide is followed by a to-infinitive here.",
+        "c": "“leave” does not fit here. Decide is followed by a to-infinitive here.",
+        "d": "“to leaving” does not fit here. Decide is followed by a to-infinitive here."
+      }
+    },
+    {
+      "id": "B1-U11-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She avoided ___ the question. (answer)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Avoid is followed by an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to answer"
+        },
+        {
+          "id": "b",
+          "text": "answer"
+        },
+        {
+          "id": "c",
+          "text": "answering"
+        },
+        {
+          "id": "d",
+          "text": "to answering"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to answer” does not fit here. Avoid is followed by an -ing form.",
+        "b": "“answer” does not fit here. Avoid is followed by an -ing form.",
+        "c": "“answering” fits here. Avoid is followed by an -ing form.",
+        "d": "“to answering” does not fit here. Avoid is followed by an -ing form."
+      }
+    },
+    {
+      "id": "B1-U11-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We hope ___ you soon. (see)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Hope is followed by a to-infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to see"
+        },
+        {
+          "id": "b",
+          "text": "seeing"
+        },
+        {
+          "id": "c",
+          "text": "see"
+        },
+        {
+          "id": "d",
+          "text": "to seeing"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“to see” fits here. Hope is followed by a to-infinitive.",
+        "b": "“seeing” does not fit here. Hope is followed by a to-infinitive.",
+        "c": "“see” does not fit here. Hope is followed by a to-infinitive.",
+        "d": "“to seeing” does not fit here. Hope is followed by a to-infinitive."
+      }
+    },
+    {
+      "id": "B1-U11-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He finished ___ at eight. (eat)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Finish is followed by an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to eat"
+        },
+        {
+          "id": "b",
+          "text": "eat"
+        },
+        {
+          "id": "c",
+          "text": "eating"
+        },
+        {
+          "id": "d",
+          "text": "to eating"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to eat” does not fit here. Finish is followed by an -ing form.",
+        "b": "“eat” does not fit here. Finish is followed by an -ing form.",
+        "c": "“eating” fits here. Finish is followed by an -ing form.",
+        "d": "“to eating” does not fit here. Finish is followed by an -ing form."
+      }
+    },
+    {
+      "id": "B1-U11-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I suggested ___ a taxi. (take)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "This suggest pattern takes an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to take"
+        },
+        {
+          "id": "b",
+          "text": "taking"
+        },
+        {
+          "id": "c",
+          "text": "take"
+        },
+        {
+          "id": "d",
+          "text": "to taking"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to take” does not fit here. This suggest pattern takes an -ing form.",
+        "b": "“taking” fits here. This suggest pattern takes an -ing form.",
+        "c": "“take” does not fit here. This suggest pattern takes an -ing form.",
+        "d": "“to taking” does not fit here. This suggest pattern takes an -ing form."
+      }
+    },
+    {
+      "id": "B1-U11-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She stopped smoking. What does this mean?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Stopped smoking means she ceased the activity; context can show whether the change is permanent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She stopped the activity of smoking."
+        },
+        {
+          "id": "b",
+          "text": "She paused another activity in order to smoke."
+        },
+        {
+          "id": "c",
+          "text": "She plans to smoke."
+        },
+        {
+          "id": "d",
+          "text": "She is smoking now."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "This describes the activity she stopped. Stopped smoking means she ceased the activity; context can show whether the change is permanent.",
+        "b": "This does not state the meaning of stopped smoking. Stopped smoking means she ceased the activity; context can show whether the change is permanent.",
+        "c": "This does not state the meaning of stopped smoking. Stopped smoking means she ceased the activity; context can show whether the change is permanent.",
+        "d": "This does not state the meaning of stopped smoking. Stopped smoking means she ceased the activity; context can show whether the change is permanent."
+      }
+    },
+    {
+      "id": "B1-U11-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She stopped to smoke. What does this mean?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Stopped to smoke expresses the purpose of stopping another activity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She gave up smoking."
+        },
+        {
+          "id": "b",
+          "text": "She never smoked."
+        },
+        {
+          "id": "c",
+          "text": "She finished smoking."
+        },
+        {
+          "id": "d",
+          "text": "She paused another activity in order to smoke."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She gave up smoking.” does not fit here. Stopped to smoke expresses the purpose of stopping another activity.",
+        "b": "“She never smoked.” does not fit here. Stopped to smoke expresses the purpose of stopping another activity.",
+        "c": "“She finished smoking.” does not fit here. Stopped to smoke expresses the purpose of stopping another activity.",
+        "d": "“She paused another activity in order to smoke.” fits here. Stopped to smoke expresses the purpose of stopping another activity."
+      }
+    },
+    {
+      "id": "B1-U11-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: I enjoy ___ on the train. (read)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "accepted_answers": [
+        "reading"
+      ]
+    },
+    {
+      "id": "B1-U11-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: They decided ___ early. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Decide takes a to-infinitive here.",
+      "accepted_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "id": "B1-U11-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: She avoided ___ late. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Avoid takes an -ing form.",
+      "accepted_answers": [
+        "arriving"
+      ]
+    },
+    {
+      "id": "B1-U11-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: We hope ___ again. (meet)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Hope takes a to-infinitive.",
+      "accepted_answers": [
+        "to meet"
+      ]
+    },
+    {
+      "id": "B1-U11-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: He finished ___ dinner. (cook)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Finish takes an -ing form.",
+      "accepted_answers": [
+        "cooking"
+      ]
+    },
+    {
+      "id": "B1-U11-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: I plan ___ tomorrow. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Plan takes a to-infinitive.",
+      "accepted_answers": [
+        "to travel"
+      ]
+    },
+    {
+      "id": "B1-U11-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the negative to-infinitive: She decided ___ . (not/go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Not comes before to go.",
+      "accepted_answers": [
+        "not to go"
+      ]
+    },
+    {
+      "id": "B1-U11-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: I suggest ___ the bus. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Suggest takes an -ing form in this pattern.",
+      "accepted_answers": [
+        "taking"
+      ]
+    },
+    {
+      "id": "B1-U11-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to read",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Use an -ing form after enjoy.",
+      "source_sentence": "I enjoy to read.",
+      "target_segment": "to read",
+      "accepted_answers": [
+        "reading"
+      ]
+    },
+    {
+      "id": "B1-U11-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: leaving",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Use a to-infinitive after decide here.",
+      "source_sentence": "She decided leaving.",
+      "target_segment": "leaving",
+      "accepted_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "id": "B1-U11-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to answer",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Use an -ing form after avoid.",
+      "source_sentence": "They avoided to answer.",
+      "target_segment": "to answer",
+      "accepted_answers": [
+        "answering"
+      ]
+    },
+    {
+      "id": "B1-U11-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: seeing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Use a to-infinitive after hope.",
+      "source_sentence": "We hope seeing you.",
+      "target_segment": "seeing",
+      "accepted_answers": [
+        "to see"
+      ]
+    },
+    {
+      "id": "B1-U11-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "source_sentence": "Reading gives me pleasure.",
+      "keyword": "reading",
+      "target_sentence": "I enjoy ___ .",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "reading"
+      ]
+    },
+    {
+      "id": "B1-U11-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Decide takes a to-infinitive.",
+      "source_sentence": "They made a decision to leave.",
+      "keyword": "leave",
+      "target_sentence": "They decided ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "id": "B1-U11-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Stopped smoking means she gave up the activity.",
+      "source_sentence": "She gave up smoking.",
+      "keyword": "smoking",
+      "target_sentence": "She stopped ___ .",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "smoking"
+      ]
+    },
+    {
+      "id": "B1-U11-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U11"
+      ],
+      "explanation": "Not comes before the to-infinitive.",
+      "source_sentence": "He made a decision that he would not go.",
+      "keyword": "go",
+      "target_sentence": "He decided ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "not to go"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "B2-U13",
+  "level": "B2",
+  "title": "Reporting verbs and complementation",
+  "order": 13,
+  "prerequisites": [
+    "B2-U12"
+  ],
+  "objectives": [
+    "Choose reporting verbs without changing the speaker’s meaning.",
+    "Form common reporting-verb complements.",
+    "Distinguish suggest from advise in their common patterns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Reporting verbs do more than repeat words: they can describe the speaker's intention or attitude. ‘Maya promised to call’ presents the statement as a promise, while ‘Maya offered to call’ presents it as an offer. ‘Maya admitted making a mistake’ indicates that she acknowledged it. Choosing a reporting verb can therefore add information that a neutral verb such as said does not provide.",
+        "Different reporting verbs take different grammatical patterns. The words that complete a verb are its complements. A verb may be followed by a to-infinitive, an -ing form, a that-clause, or an object and an infinitive. Many verbs allow more than one pattern, sometimes with different meanings, so learn the verb together with the structure and context."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Promise and offer can be followed by a to-infinitive: ‘He promised to help’ and ‘She offered to drive’. Advise and encourage can take a person followed by a to-infinitive: ‘The doctor advised me to rest’ and ‘They encouraged us to apply’. Warn can use a person and not to for a warning: ‘She warned him not to touch it’.",
+        "Admit and deny can be followed by an -ing form: ‘She admitted making a mistake’ and ‘He denied taking the keys’. Suggest can be followed by an -ing form or a that-clause: ‘They suggested taking a taxi’ and ‘They suggested that we take a taxi’. The clause can include should in British English: ‘They suggested that we should take a taxi’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Maya promised to call’ and ‘Maya suggested calling’. The first normally identifies Maya as the person who will call. The second reports a proposed action; the context determines who is expected to call. ‘Maya suggested that Ben call’ names Ben as the person expected to act.",
+        "Reporting verbs can shape the reader's understanding of evidence. ‘The company claimed that the product worked’ attributes the claim to the company without confirming it. ‘The company admitted that the product failed’ indicates acknowledgement of a failure. Do not substitute one reporting verb for another if the original context does not support the added meaning."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a person plus a to-infinitive directly after suggest in the pattern taught here: say ‘She suggested that we leave’ or ‘She suggested leaving’, not ‘She suggested us to leave’. Advise has a different pattern: ‘She advised us to leave’. Do not use a to-infinitive directly after admit in this pattern: ‘He admitted taking it’.",
+        "These patterns are not an exhaustive list. For example, promise can also introduce a that-clause, and advise can be followed by an -ing form when no person is stated: ‘The guide advised leaving early’. The exercises specify the required verb or structure when several grammatical reports are possible."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya promised to call.",
+      "note": "Promise plus a to-infinitive reports a commitment."
+    },
+    {
+      "sentence": "She offered to drive.",
+      "note": "Offer plus a to-infinitive reports an offer."
+    },
+    {
+      "sentence": "The doctor advised me to rest.",
+      "note": "Advise takes a person and a to-infinitive here."
+    },
+    {
+      "sentence": "They encouraged us to apply.",
+      "note": "Encourage takes a person and a to-infinitive."
+    },
+    {
+      "sentence": "She warned him not to touch it.",
+      "note": "Not comes before the to-infinitive."
+    },
+    {
+      "sentence": "He denied taking the keys.",
+      "note": "Deny takes an -ing form here."
+    },
+    {
+      "sentence": "They suggested that we take a taxi.",
+      "note": "Suggest introduces a that-clause."
+    },
+    {
+      "sentence": "The company claimed that the product worked.",
+      "note": "Claim attributes the statement without confirming it."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She suggested us to leave.",
+      "correct": "She suggested that we leave.",
+      "reason": "Use a that-clause or -ing pattern after suggest here."
+    },
+    {
+      "incorrect": "He admitted to take the keys.",
+      "correct": "He admitted taking the keys.",
+      "reason": "Use the -ing form in this admit pattern."
+    },
+    {
+      "incorrect": "The doctor advised to me rest.",
+      "correct": "The doctor advised me to rest.",
+      "reason": "Use advise plus a person and a to-infinitive."
+    }
+  ],
+  "summary": [
+    "Choose a reporting verb whose meaning matches the original statement.",
+    "Learn verb-specific complementation patterns.",
+    "Use the required subject and verb form in a that-clause."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U13-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“I promise I will call.” Maya ___ call.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Promised to reports the commitment.",
+      "options": [
+        {
+          "id": "a",
+          "text": "suggested to"
+        },
+        {
+          "id": "b",
+          "text": "denied to"
+        },
+        {
+          "id": "c",
+          "text": "promised to"
+        },
+        {
+          "id": "d",
+          "text": "admitted call"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“suggested to” does not fit here. Promised to reports the commitment.",
+        "b": "“denied to” does not fit here. Promised to reports the commitment.",
+        "c": "“promised to” fits here. Promised to reports the commitment.",
+        "d": "“admitted call” does not fit here. Promised to reports the commitment."
+      }
+    },
+    {
+      "id": "B2-U13-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“You should rest,” the doctor told me. The doctor advised ___ rest.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Advise takes a person and a to-infinitive here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "me to"
+        },
+        {
+          "id": "b",
+          "text": "to me"
+        },
+        {
+          "id": "c",
+          "text": "me rest"
+        },
+        {
+          "id": "d",
+          "text": "me for"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“me to” fits here. Advise takes a person and a to-infinitive here.",
+        "b": "“to me” does not fit here. Advise takes a person and a to-infinitive here.",
+        "c": "“me rest” does not fit here. Advise takes a person and a to-infinitive here.",
+        "d": "“me for” does not fit here. Advise takes a person and a to-infinitive here."
+      }
+    },
+    {
+      "id": "B2-U13-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“I took the keys,” Ben acknowledged. Ben admitted ___ the keys.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Admitted taking reports his acknowledgement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to take"
+        },
+        {
+          "id": "b",
+          "text": "take"
+        },
+        {
+          "id": "c",
+          "text": "that taking"
+        },
+        {
+          "id": "d",
+          "text": "taking"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“to take” does not fit here. Admitted taking reports his acknowledgement.",
+        "b": "“take” does not fit here. Admitted taking reports his acknowledgement.",
+        "c": "“that taking” does not fit here. Admitted taking reports his acknowledgement.",
+        "d": "“taking” fits here. Admitted taking reports his acknowledgement."
+      }
+    },
+    {
+      "id": "B2-U13-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“Let’s take a taxi,” she proposed. She suggested ___ a taxi.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Suggested taking is the -ing pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "us to take"
+        },
+        {
+          "id": "b",
+          "text": "taking"
+        },
+        {
+          "id": "c",
+          "text": "to take"
+        },
+        {
+          "id": "d",
+          "text": "take"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“us to take” does not fit here. Suggested taking is the -ing pattern.",
+        "b": "“taking” fits here. Suggested taking is the -ing pattern.",
+        "c": "“to take” does not fit here. Suggested taking is the -ing pattern.",
+        "d": "“take” does not fit here. Suggested taking is the -ing pattern."
+      }
+    },
+    {
+      "id": "B2-U13-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“Do not touch it,” Maya warned him. Maya warned him ___ touch it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Warned him not to reports the warning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to not touching"
+        },
+        {
+          "id": "b",
+          "text": "not to"
+        },
+        {
+          "id": "c",
+          "text": "not"
+        },
+        {
+          "id": "d",
+          "text": "do not to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to not touching” does not fit here. Warned him not to reports the warning.",
+        "b": "“not to” fits here. Warned him not to reports the warning.",
+        "c": "“not” does not fit here. Warned him not to reports the warning.",
+        "d": "“do not to” does not fit here. Warned him not to reports the warning."
+      }
+    },
+    {
+      "id": "B2-U13-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "“I did not take the keys,” he said. He denied ___ them.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Denied taking reports the denial.",
+      "options": [
+        {
+          "id": "a",
+          "text": "taking"
+        },
+        {
+          "id": "b",
+          "text": "to take"
+        },
+        {
+          "id": "c",
+          "text": "take"
+        },
+        {
+          "id": "d",
+          "text": "that to take"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“taking” fits here. Denied taking reports the denial.",
+        "b": "“to take” does not fit here. Denied taking reports the denial.",
+        "c": "“take” does not fit here. Denied taking reports the denial.",
+        "d": "“that to take” does not fit here. Denied taking reports the denial."
+      }
+    },
+    {
+      "id": "B2-U13-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence attributes a claim without confirming it?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Claimed attributes the statement to the company.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The company proved that the device worked."
+        },
+        {
+          "id": "b",
+          "text": "The company admitted that the device failed."
+        },
+        {
+          "id": "c",
+          "text": "The device certainly worked."
+        },
+        {
+          "id": "d",
+          "text": "The company claimed that the device worked."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The company proved that the device worked.” does not fit here. Claimed attributes the statement to the company.",
+        "b": "“The company admitted that the device failed.” does not fit here. Claimed attributes the statement to the company.",
+        "c": "“The device certainly worked.” does not fit here. Claimed attributes the statement to the company.",
+        "d": "“The company claimed that the device worked.” fits here. Claimed attributes the statement to the company."
+      }
+    },
+    {
+      "id": "B2-U13-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the common suggest pattern correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Suggest can be followed by an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She suggested us to leave."
+        },
+        {
+          "id": "b",
+          "text": "She suggested to us leave."
+        },
+        {
+          "id": "c",
+          "text": "She suggested leaving."
+        },
+        {
+          "id": "d",
+          "text": "She suggested we to leave."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She suggested us to leave.” does not fit here. Suggest can be followed by an -ing form.",
+        "b": "“She suggested to us leave.” does not fit here. Suggest can be followed by an -ing form.",
+        "c": "“She suggested leaving.” fits here. Suggest can be followed by an -ing form.",
+        "d": "“She suggested we to leave.” does not fit here. Suggest can be followed by an -ing form."
+      }
+    },
+    {
+      "id": "B2-U13-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: She promised ___ . (call)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Promise takes a to-infinitive here.",
+      "accepted_answers": [
+        "to call"
+      ]
+    },
+    {
+      "id": "B2-U13-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: He offered ___ . (help)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Offer takes a to-infinitive here.",
+      "accepted_answers": [
+        "to help"
+      ]
+    },
+    {
+      "id": "B2-U13-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: She admitted ___ a mistake. (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Admit takes an -ing form here.",
+      "accepted_answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "B2-U13-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: He denied ___ the keys. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Deny takes an -ing form here.",
+      "accepted_answers": [
+        "taking"
+      ]
+    },
+    {
+      "id": "B2-U13-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: The doctor advised me ___ rest.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Advise takes a person and a to-infinitive here.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U13-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the warning: She warned him ___ to touch it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Not precedes the infinitive in this negative warning.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "B2-U13-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: They suggested ___ a taxi. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Suggest takes an -ing form here.",
+      "accepted_answers": [
+        "taking"
+      ]
+    },
+    {
+      "id": "B2-U13-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: They encouraged us ___ apply.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Encourage takes a person and a to-infinitive here.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U13-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: us to leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Suggest can take a that-clause or an -ing form here.",
+      "source_sentence": "She suggested us to leave.",
+      "target_segment": "us to leave",
+      "accepted_answers": [
+        "that we leave",
+        "leaving"
+      ]
+    },
+    {
+      "id": "B2-U13-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to take",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Deny takes an -ing form here.",
+      "source_sentence": "He denied to take the keys.",
+      "target_segment": "to take",
+      "accepted_answers": [
+        "taking"
+      ]
+    },
+    {
+      "id": "B2-U13-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to me rest",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Use advise plus person and to-infinitive.",
+      "source_sentence": "The doctor advised to me rest.",
+      "target_segment": "to me rest",
+      "accepted_answers": [
+        "me to rest"
+      ]
+    },
+    {
+      "id": "B2-U13-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: not touch",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Use not to plus the base verb.",
+      "source_sentence": "She warned him not touch it.",
+      "target_segment": "not touch",
+      "accepted_answers": [
+        "not to touch"
+      ]
+    },
+    {
+      "id": "B2-U13-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Promised to call reports the commitment.",
+      "source_sentence": "Maya said: “I promise I will call.”",
+      "keyword": "promised",
+      "target_sentence": "Maya ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "promised to call"
+      ]
+    },
+    {
+      "id": "B2-U13-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Advised me to rest reports the advice.",
+      "source_sentence": "The doctor told me: “You should rest.”",
+      "keyword": "advised",
+      "target_sentence": "The doctor ___ .",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "advised me to rest"
+      ]
+    },
+    {
+      "id": "B2-U13-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Denied taking reports the denial.",
+      "source_sentence": "Ben said: “I did not take the keys.”",
+      "keyword": "denied",
+      "target_sentence": "Ben ___ the keys.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "denied taking"
+      ]
+    },
+    {
+      "id": "B2-U13-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U13"
+      ],
+      "explanation": "Suggested taking reports the proposal.",
+      "source_sentence": "Maya said: “Let’s take a taxi.”",
+      "keyword": "suggested",
+      "target_sentence": "Maya ___ a taxi.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "suggested taking"
+      ]
+    }
+  ]
+}

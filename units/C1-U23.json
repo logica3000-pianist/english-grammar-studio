@@ -1,0 +1,642 @@
+{
+  "id": "C1-U23",
+  "level": "C1",
+  "title": "Register shifts in speech and writing",
+  "order": 23,
+  "prerequisites": [
+    "C1-U22"
+  ],
+  "objectives": [
+    "Contrast formal and conversational grammatical choices.",
+    "Rewrite requests and relative clauses for a specified context.",
+    "Recognise when a register shift changes the intended meaning."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Register is the choice of language suited to a situation, audience and purpose. A message to a friend, a customer-service reply and a research report can all use standard English while favouring different grammatical choices. Formality is not a scale of grammatical correctness: “Who did you speak to?” is standard and natural in conversation, while “To whom did you speak?” is more formal.",
+        "A successful register shift preserves the relevant message while changing its presentation. It may replace a contraction with a full form, make a request less direct, or choose a more explicit connection. The writer must also consider the relationship with the audience; an overly elaborate email can sound distant."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Contractions are common in speech and informal writing: “We can’t attend.” A formal report may prefer “We cannot attend.” Both express the same negative modal meaning here. In formal relative clauses, a preposition can precede whom or which: “the colleague to whom I spoke”. In everyday speech, a final preposition is natural: “the colleague I spoke to”.",
+        "Requests can use different levels of directness. “Send the file” is a direct imperative; “Could you send the file?” is an indirect question used as a request. Tone, relationship and context all affect politeness, so no single structure guarantees a polite effect in every situation."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare an informal update, “The tests didn’t work, so we’ll try again”, with “The tests were unsuccessful; consequently, we will repeat them.” The second uses full forms and a formal linking adverb. It preserves the intended sequence and outcome, although it may be unnecessarily formal for a quick message to a close colleague.",
+        "A speaker may use ellipsis where a formal document needs fuller reference: “Finished?” “Almost.” In a report, “The review is almost complete” identifies the subject and state. Passive voice and nominalisation can also be useful, but they should not obscure the actor when identifying that actor matters."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not “correct” a stranded preposition solely because a formal alternative exists. Both “the person I spoke to” and “the person to whom I spoke” are grammatical. The second may be inappropriate for a very casual exchange because of its register, not because it violates grammar.",
+        "A change in wording must preserve the intended force. “You must send the file” expresses obligation; “You could send the file” may express a suggestion. Replacing one with the other merely to sound polite can change the instruction. Choose a form that fits both the relationship and the actual requirement."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Who did you speak to?",
+      "note": "A final preposition is standard and natural in conversation."
+    },
+    {
+      "sentence": "To whom did you speak?",
+      "note": "The fronted preposition sounds more formal."
+    },
+    {
+      "sentence": "We can’t attend.",
+      "note": "The contraction is common in informal communication."
+    },
+    {
+      "sentence": "We cannot attend.",
+      "note": "The full form can suit formal writing."
+    },
+    {
+      "sentence": "Could you send the file?",
+      "note": "A question form can make a request less direct."
+    },
+    {
+      "sentence": "Send the file.",
+      "note": "An imperative makes a direct request or instruction."
+    },
+    {
+      "sentence": "The review is almost complete.",
+      "note": "The full sentence states the subject and its condition."
+    },
+    {
+      "sentence": "The tests failed; consequently, we will repeat them.",
+      "note": "Consequently presents the second action as a result in formal prose."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The colleague to who I spoke replied.",
+      "correct": "The colleague to whom I spoke replied.",
+      "reason": "Whom follows the fronted preposition in this formal pattern."
+    },
+    {
+      "incorrect": "Could you sending the file?",
+      "correct": "Could you send the file?",
+      "reason": "Could takes the base verb send."
+    },
+    {
+      "incorrect": "The tests failed; consequently, we will repeats them.",
+      "correct": "The tests failed; consequently, we will repeat them.",
+      "reason": "Will takes the base form repeat."
+    }
+  ],
+  "summary": [
+    "Register choices depend on audience, purpose and relationship.",
+    "Conversational and formal structures can both be standard.",
+    "Preserve meaning and force when changing register."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U23-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the natural conversational relative clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "A final preposition is standard and natural in conversation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the colleague to that I spoke"
+        },
+        {
+          "id": "b",
+          "text": "the colleague to who I spoke"
+        },
+        {
+          "id": "c",
+          "text": "the colleague I spoke to"
+        },
+        {
+          "id": "d",
+          "text": "the colleague I spoke to her"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“the colleague to that I spoke” does not fit here. A final preposition is standard and natural in conversation.",
+        "b": "“the colleague to who I spoke” does not fit here. A final preposition is standard and natural in conversation.",
+        "c": "“the colleague I spoke to” fits here. A final preposition is standard and natural in conversation.",
+        "d": "“the colleague I spoke to her” does not fit here. A final preposition is standard and natural in conversation."
+      }
+    },
+    {
+      "id": "C1-U23-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the formal fronted relative clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "A fronted preposition can precede whom for a person.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the colleague to whom I spoke"
+        },
+        {
+          "id": "b",
+          "text": "the colleague to that I spoke"
+        },
+        {
+          "id": "c",
+          "text": "the colleague to who I spoke"
+        },
+        {
+          "id": "d",
+          "text": "the colleague to where I spoke"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“the colleague to whom I spoke” fits here. A fronted preposition can precede whom for a person.",
+        "b": "“the colleague to that I spoke” does not fit here. A fronted preposition can precede whom for a person.",
+        "c": "“the colleague to who I spoke” does not fit here. A fronted preposition can precede whom for a person.",
+        "d": "“the colleague to where I spoke” does not fit here. A fronted preposition can precede whom for a person."
+      }
+    },
+    {
+      "id": "C1-U23-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the full negative form suitable for a formal report.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Cannot is the full negative form of can here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We can’t attends."
+        },
+        {
+          "id": "b",
+          "text": "We cannot to attend."
+        },
+        {
+          "id": "c",
+          "text": "We no can attend."
+        },
+        {
+          "id": "d",
+          "text": "We cannot attend."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“We can’t attends.” does not fit here. Cannot is the full negative form of can here.",
+        "b": "“We cannot to attend.” does not fit here. Cannot is the full negative form of can here.",
+        "c": "“We no can attend.” does not fit here. Cannot is the full negative form of can here.",
+        "d": "“We cannot attend.” fits here. Cannot is the full negative form of can here."
+      }
+    },
+    {
+      "id": "C1-U23-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the less direct request.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Could you send uses a question form to make a request.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Send the file."
+        },
+        {
+          "id": "b",
+          "text": "Could you send the file?"
+        },
+        {
+          "id": "c",
+          "text": "The file is sent."
+        },
+        {
+          "id": "d",
+          "text": "You sent the file."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Send the file.” does not fit here. Could you send uses a question form to make a request.",
+        "b": "“Could you send the file?” fits here. Could you send uses a question form to make a request.",
+        "c": "“The file is sent.” does not fit here. Could you send uses a question form to make a request.",
+        "d": "“You sent the file.” does not fit here. Could you send uses a question form to make a request."
+      }
+    },
+    {
+      "id": "C1-U23-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which pair has the same negative modal meaning?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Can’t and cannot express the same negative modal form in this context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must send / could send"
+        },
+        {
+          "id": "b",
+          "text": "can’t attend / cannot attend"
+        },
+        {
+          "id": "c",
+          "text": "will send / sent"
+        },
+        {
+          "id": "d",
+          "text": "may send / must send"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“must send / could send” does not fit here. Can’t and cannot express the same negative modal form in this context.",
+        "b": "“can’t attend / cannot attend” fits here. Can’t and cannot express the same negative modal form in this context.",
+        "c": "“will send / sent” does not fit here. Can’t and cannot express the same negative modal form in this context.",
+        "d": "“may send / must send” does not fit here. Can’t and cannot express the same negative modal form in this context."
+      }
+    },
+    {
+      "id": "C1-U23-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about a final preposition is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "A final preposition is standard in many everyday constructions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is standard in many conversational clauses."
+        },
+        {
+          "id": "b",
+          "text": "It is always incorrect."
+        },
+        {
+          "id": "c",
+          "text": "It is possible only in poetry."
+        },
+        {
+          "id": "d",
+          "text": "It always changes a request into an obligation."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It is standard in many conversational clauses.” fits here. A final preposition is standard in many everyday constructions.",
+        "b": "“It is always incorrect.” does not fit here. A final preposition is standard in many everyday constructions.",
+        "c": "“It is possible only in poetry.” does not fit here. A final preposition is standard in many everyday constructions.",
+        "d": "“It always changes a request into an obligation.” does not fit here. A final preposition is standard in many everyday constructions."
+      }
+    },
+    {
+      "id": "C1-U23-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence clearly identifies the subject in a report?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "The full sentence identifies the review and its state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Almost."
+        },
+        {
+          "id": "b",
+          "text": "Finished?"
+        },
+        {
+          "id": "c",
+          "text": "Nearly."
+        },
+        {
+          "id": "d",
+          "text": "The review is almost complete."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Almost.” does not fit here. The full sentence identifies the review and its state.",
+        "b": "“Finished?” does not fit here. The full sentence identifies the review and its state.",
+        "c": "“Nearly.” does not fit here. The full sentence identifies the review and its state.",
+        "d": "“The review is almost complete.” fits here. The full sentence identifies the review and its state."
+      }
+    },
+    {
+      "id": "C1-U23-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Why might “must” not be replaced by “could” when rewriting an instruction?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Must and could can express different force.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both always mean the same thing."
+        },
+        {
+          "id": "b",
+          "text": "Could is never grammatical."
+        },
+        {
+          "id": "c",
+          "text": "The change can weaken an obligation into a possibility or suggestion."
+        },
+        {
+          "id": "d",
+          "text": "Must cannot appear in writing."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Both always mean the same thing.” does not fit here. Must and could can express different force.",
+        "b": "“Could is never grammatical.” does not fit here. Must and could can express different force.",
+        "c": "“The change can weaken an obligation into a possibility or suggestion.” fits here. Must and could can express different force.",
+        "d": "“Must cannot appear in writing.” does not fit here. Must and could can express different force."
+      }
+    },
+    {
+      "id": "C1-U23-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the full form: We ___ attend. (cannot)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Cannot is the full negative form.",
+      "accepted_answers": [
+        "cannot"
+      ]
+    },
+    {
+      "id": "C1-U23-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Could you ___ the file? (send)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Could takes the base verb send.",
+      "accepted_answers": [
+        "send"
+      ]
+    },
+    {
+      "id": "C1-U23-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The colleague to ___ I spoke replied.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Whom follows the fronted preposition for a person.",
+      "accepted_answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "C1-U23-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The colleague I spoke ___ replied.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "The preposition can remain at the end of the relative clause.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U23-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The tests failed; consequently, we ___ repeat them.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Will plus the base verb expresses the intended future action.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "C1-U23-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The review ___ almost complete.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Is links the subject to its condition.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U23-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We ___ not attend. Use can.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Can not is a possible spaced form; cannot is the standard single-word full form in this context.",
+      "accepted_answers": [
+        "can"
+      ]
+    },
+    {
+      "id": "C1-U23-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The report was late; therefore, we ___ it the next day. (send, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Sent is the past form of send.",
+      "accepted_answers": [
+        "sent"
+      ]
+    },
+    {
+      "id": "C1-U23-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Whom follows the fronted preposition.",
+      "source_sentence": "The colleague to who I spoke replied.",
+      "target_segment": "who",
+      "accepted_answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "C1-U23-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: sending",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Could takes the base verb.",
+      "source_sentence": "Could you sending the file?",
+      "target_segment": "sending",
+      "accepted_answers": [
+        "send"
+      ]
+    },
+    {
+      "id": "C1-U23-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to attend",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Cannot takes the base verb without to.",
+      "source_sentence": "We cannot to attend.",
+      "target_segment": "to attend",
+      "accepted_answers": [
+        "attend"
+      ]
+    },
+    {
+      "id": "C1-U23-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: repeats",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Will takes the base verb.",
+      "source_sentence": "The tests failed; consequently, we will repeats them.",
+      "target_segment": "repeats",
+      "accepted_answers": [
+        "repeat"
+      ]
+    },
+    {
+      "id": "C1-U23-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Cannot is the full form of can’t.",
+      "source_sentence": "We can’t attend. Use the full negative form.",
+      "keyword": "cannot",
+      "target_sentence": "We ___ attend.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "cannot"
+      ]
+    },
+    {
+      "id": "C1-U23-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "To whom I spoke is the more formal relative clause.",
+      "source_sentence": "The colleague I spoke to replied. Use a fronted preposition.",
+      "keyword": "whom",
+      "target_sentence": "The colleague ___ replied.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "to whom I spoke"
+      ]
+    },
+    {
+      "id": "C1-U23-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Could you send is an indirect request.",
+      "source_sentence": "Send the file. Form a less direct request using could.",
+      "keyword": "could",
+      "target_sentence": "___ the file?",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Could you send"
+      ]
+    },
+    {
+      "id": "C1-U23-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U23"
+      ],
+      "explanation": "Will repeat preserves the intended future action.",
+      "source_sentence": "The tests failed, so we will repeat them. Use consequently after a semicolon.",
+      "keyword": "repeat",
+      "target_sentence": "The tests failed; consequently, we ___ them.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "will repeat"
+      ]
+    }
+  ]
+}

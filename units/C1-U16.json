@@ -1,0 +1,642 @@
+{
+  "id": "C1-U16",
+  "level": "C1",
+  "title": "Hedging, stance and cautious claims",
+  "order": 16,
+  "prerequisites": [
+    "C1-U15"
+  ],
+  "objectives": [
+    "Distinguish possibility, tendency and scope.",
+    "Form common modal and appears-to patterns.",
+    "Select a level of certainty appropriate to stated evidence."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A hedge limits the force or scope of a claim. It can show uncertainty, identify a tendency rather than a universal rule, or signal that a conclusion is based on incomplete evidence. “The change may reduce costs” presents a possibility; “The change reduces costs” presents a more direct claim. Neither wording is automatically better: the choice should match what the writer knows.",
+        "Hedging is common in research, professional discussion and polite disagreement. It can prevent a claim from going beyond the evidence. It can also make a recommendation less abrupt: “It might be useful to check the figures” is less direct than “Check the figures”. The listener still needs enough information to understand the recommendation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Modal verbs such as may, might and could can express possibility. Adverbs such as generally, often and apparently can qualify frequency or source, but they are not interchangeable: “generally” concerns a broad pattern, while “apparently” signals how something seems or is reported. Expressions such as “appears to” and “seems to” present an interpretation without asserting it in the most direct way.",
+        "A quantifier can also narrow scope. “Some participants reported a delay” does not imply that all participants did. “Most participants reported a delay” claims a majority; it is stronger than some in ordinary use. An accurate percentage is often clearer than either expression when reliable figures are available."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare “The survey proves that the policy works” with “The survey suggests that the policy may work.” The second sentence treats the results as evidence for a possible conclusion rather than as conclusive proof. It is suitable only if that degree of uncertainty reflects the evidence; the writer should not weaken a well-established fact merely to sound academic.",
+        "In a meeting, “There may be a problem with the schedule” opens the issue without claiming certainty. “The schedule is wrong” may be appropriate after the team has verified an error. In both cases, a precise explanation of the evidence helps the listener assess the statement."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not treat all hedges as synonyms. “The results generally improved” states a broad pattern; “The results possibly improved” questions whether improvement occurred. The position of a hedge also matters: “Some students may pass” leaves open which and how many, while “Most students may pass” predicts a possible majority.",
+        "Avoid stacking several vague expressions when one would communicate the intended stance: “It may possibly perhaps be useful” is grammatically possible but often unnecessarily weak and awkward. Distinguish uncertainty from politeness and from limited frequency. Choose the device whose meaning matches the actual claim."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The change may reduce costs.",
+      "note": "May presents a possible effect."
+    },
+    {
+      "sentence": "The results generally improved.",
+      "note": "Generally describes a broad pattern, not an absolute rule."
+    },
+    {
+      "sentence": "Some participants reported delays.",
+      "note": "Some limits the claim to an unspecified part of the group."
+    },
+    {
+      "sentence": "Most participants reported delays.",
+      "note": "Most claims a majority in ordinary use."
+    },
+    {
+      "sentence": "The figures appear to support the proposal.",
+      "note": "Appear to marks an interpretation of the figures."
+    },
+    {
+      "sentence": "It might be useful to check the figures.",
+      "note": "Might makes the suggestion less direct."
+    },
+    {
+      "sentence": "The schedule is wrong; the verified dates do not match.",
+      "note": "A direct claim can be appropriate when supported by evidence."
+    },
+    {
+      "sentence": "Apparently, the meeting has moved.",
+      "note": "Apparently signals how the information seems or is reported."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The figures may supports the proposal.",
+      "correct": "The figures may support the proposal.",
+      "reason": "May takes the base form support."
+    },
+    {
+      "incorrect": "The policy appears reduce costs.",
+      "correct": "The policy appears to reduce costs.",
+      "reason": "Appears takes a to-infinitive in this pattern."
+    },
+    {
+      "incorrect": "Some participant reported delays.",
+      "correct": "Some participants reported delays.",
+      "reason": "Use plural participants for an unspecified group of countable people here."
+    }
+  ],
+  "summary": [
+    "Hedges qualify certainty, frequency or scope in different ways.",
+    "Choose the strength of a claim to match the evidence.",
+    "Use precise qualifiers and avoid unnecessary stacking."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U16-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a possible effect, not a definite result.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "May presents the reduction as possible.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The change reduces costs."
+        },
+        {
+          "id": "b",
+          "text": "The change has certainly reduced costs."
+        },
+        {
+          "id": "c",
+          "text": "The change did reduce costs yesterday."
+        },
+        {
+          "id": "d",
+          "text": "The change may reduce costs."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The change reduces costs.” does not fit here. May presents the reduction as possible.",
+        "b": "“The change has certainly reduced costs.” does not fit here. May presents the reduction as possible.",
+        "c": "“The change did reduce costs yesterday.” does not fit here. May presents the reduction as possible.",
+        "d": "“The change may reduce costs.” fits here. May presents the reduction as possible."
+      }
+    },
+    {
+      "id": "C1-U16-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence reports a broad tendency?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Generally qualifies the frequency or overall pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The results generally improved."
+        },
+        {
+          "id": "b",
+          "text": "The results possibly improved."
+        },
+        {
+          "id": "c",
+          "text": "The results cannot improve."
+        },
+        {
+          "id": "d",
+          "text": "The results did not ever improve."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The results generally improved.” fits here. Generally qualifies the frequency or overall pattern.",
+        "b": "“The results possibly improved.” does not fit here. Generally qualifies the frequency or overall pattern.",
+        "c": "“The results cannot improve.” does not fit here. Generally qualifies the frequency or overall pattern.",
+        "d": "“The results did not ever improve.” does not fit here. Generally qualifies the frequency or overall pattern."
+      }
+    },
+    {
+      "id": "C1-U16-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which expression refers to a majority in ordinary use?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Most participants refers to more than half in ordinary use.",
+      "options": [
+        {
+          "id": "a",
+          "text": "no participants"
+        },
+        {
+          "id": "b",
+          "text": "one participant"
+        },
+        {
+          "id": "c",
+          "text": "most participants"
+        },
+        {
+          "id": "d",
+          "text": "neither participant"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“no participants” does not fit here. Most participants refers to more than half in ordinary use.",
+        "b": "“one participant” does not fit here. Most participants refers to more than half in ordinary use.",
+        "c": "“most participants” fits here. Most participants refers to more than half in ordinary use.",
+        "d": "“neither participant” does not fit here. Most participants refers to more than half in ordinary use."
+      }
+    },
+    {
+      "id": "C1-U16-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the grammatical hedged claim.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "May is followed by the base form reduce.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The plan may reduces costs."
+        },
+        {
+          "id": "b",
+          "text": "The plan may reduce costs."
+        },
+        {
+          "id": "c",
+          "text": "The plan may to reduce costs."
+        },
+        {
+          "id": "d",
+          "text": "The plan may reducing costs."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The plan may reduces costs.” does not fit here. May is followed by the base form reduce.",
+        "b": "“The plan may reduce costs.” fits here. May is followed by the base form reduce.",
+        "c": "“The plan may to reduce costs.” does not fit here. May is followed by the base form reduce.",
+        "d": "“The plan may reducing costs.” does not fit here. May is followed by the base form reduce."
+      }
+    },
+    {
+      "id": "C1-U16-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the interpretation: The figures appear ___ the proposal.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Appear is followed by a to-infinitive here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "support"
+        },
+        {
+          "id": "b",
+          "text": "supporting to"
+        },
+        {
+          "id": "c",
+          "text": "to support"
+        },
+        {
+          "id": "d",
+          "text": "supports"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“support” does not fit here. Appear is followed by a to-infinitive here.",
+        "b": "“supporting to” does not fit here. Appear is followed by a to-infinitive here.",
+        "c": "“to support” fits here. Appear is followed by a to-infinitive here.",
+        "d": "“supports” does not fit here. Appear is followed by a to-infinitive here."
+      }
+    },
+    {
+      "id": "C1-U16-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which is a less direct suggestion?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Might be useful presents the suggestion tentatively.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It might be useful to check the figures."
+        },
+        {
+          "id": "b",
+          "text": "Check the figures now!"
+        },
+        {
+          "id": "c",
+          "text": "The figures were checked."
+        },
+        {
+          "id": "d",
+          "text": "The figures are definitely wrong."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It might be useful to check the figures.” fits here. Might be useful presents the suggestion tentatively.",
+        "b": "“Check the figures now!” does not fit here. Might be useful presents the suggestion tentatively.",
+        "c": "“The figures were checked.” does not fit here. Might be useful presents the suggestion tentatively.",
+        "d": "“The figures are definitely wrong.” does not fit here. Might be useful presents the suggestion tentatively."
+      }
+    },
+    {
+      "id": "C1-U16-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “Some participants reported delays” establish?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Some limits the statement without identifying the entire group.",
+      "options": [
+        {
+          "id": "a",
+          "text": "All participants reported delays."
+        },
+        {
+          "id": "b",
+          "text": "An unspecified part of the group reported delays."
+        },
+        {
+          "id": "c",
+          "text": "No participants reported delays."
+        },
+        {
+          "id": "d",
+          "text": "The delays were proven to affect everyone."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“All participants reported delays.” does not fit here. Some limits the statement without identifying the entire group.",
+        "b": "“An unspecified part of the group reported delays.” fits here. Some limits the statement without identifying the entire group.",
+        "c": "“No participants reported delays.” does not fit here. Some limits the statement without identifying the entire group.",
+        "d": "“The delays were proven to affect everyone.” does not fit here. Some limits the statement without identifying the entire group."
+      }
+    },
+    {
+      "id": "C1-U16-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which practice improves precision?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Different qualifiers express different kinds and degrees of limitation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use may perhaps possibly in every sentence."
+        },
+        {
+          "id": "b",
+          "text": "Replace all figures with vague language."
+        },
+        {
+          "id": "c",
+          "text": "Treat apparently and generally as identical."
+        },
+        {
+          "id": "d",
+          "text": "Match the qualifier to the evidence and intended meaning."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Use may perhaps possibly in every sentence.” does not fit here. Different qualifiers express different kinds and degrees of limitation.",
+        "b": "“Replace all figures with vague language.” does not fit here. Different qualifiers express different kinds and degrees of limitation.",
+        "c": "“Treat apparently and generally as identical.” does not fit here. Different qualifiers express different kinds and degrees of limitation.",
+        "d": "“Match the qualifier to the evidence and intended meaning.” fits here. Different qualifiers express different kinds and degrees of limitation."
+      }
+    },
+    {
+      "id": "C1-U16-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a modal of possibility: The plan ___ reduce costs. Use may.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "May presents a possible effect.",
+      "accepted_answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "C1-U16-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The figures appear ___ support the proposal.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Appear is followed by a to-infinitive here.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U16-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: The plan might ___ costs. (reduce)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Might takes the base form reduce.",
+      "accepted_answers": [
+        "reduce"
+      ]
+    },
+    {
+      "id": "C1-U16-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the broad-pattern adverb: The results ___ improved. Use generally.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Generally describes an overall tendency.",
+      "accepted_answers": [
+        "generally"
+      ]
+    },
+    {
+      "id": "C1-U16-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the specified quantifier for an unspecified subset: ___ participants reported delays. Use some.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Some limits the claim to part of the group.",
+      "accepted_answers": [
+        "Some"
+      ]
+    },
+    {
+      "id": "C1-U16-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the specified quantifier for a majority: ___ participants agreed. Use most.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Most refers to a majority in ordinary use.",
+      "accepted_answers": [
+        "Most"
+      ]
+    },
+    {
+      "id": "C1-U16-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use seems with an infinitive: The plan seems ___ be effective.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Seems to be presents an interpretation.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U16-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: It might be useful to ___ the figures. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "To is followed by the base form check.",
+      "accepted_answers": [
+        "check"
+      ]
+    },
+    {
+      "id": "C1-U16-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: reduces",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "May takes the base form reduce.",
+      "source_sentence": "The plan may reduces costs.",
+      "target_segment": "reduces",
+      "accepted_answers": [
+        "reduce"
+      ]
+    },
+    {
+      "id": "C1-U16-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: appear support",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Appear takes a to-infinitive in this pattern.",
+      "source_sentence": "The figures appear support the proposal.",
+      "target_segment": "appear support",
+      "accepted_answers": [
+        "appear to support"
+      ]
+    },
+    {
+      "id": "C1-U16-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: participant",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Some participants refers to a plural group.",
+      "source_sentence": "Some participant reported delays.",
+      "target_segment": "participant",
+      "accepted_answers": [
+        "participants"
+      ]
+    },
+    {
+      "id": "C1-U16-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to reduce",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Might takes the base form without to.",
+      "source_sentence": "The plan might to reduce costs.",
+      "target_segment": "to reduce",
+      "accepted_answers": [
+        "reduce"
+      ]
+    },
+    {
+      "id": "C1-U16-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "May reduce expresses the possible effect.",
+      "source_sentence": "Perhaps the change will reduce costs. Use may.",
+      "keyword": "may",
+      "target_sentence": "The change ___ costs.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "may reduce"
+      ]
+    },
+    {
+      "id": "C1-U16-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Appear to support presents a cautious interpretation.",
+      "source_sentence": "The figures seem to support the proposal. Use appear.",
+      "keyword": "appear",
+      "target_sentence": "The figures ___ the proposal.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "appear to support"
+      ]
+    },
+    {
+      "id": "C1-U16-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Might be useful to check presents a tentative suggestion.",
+      "source_sentence": "Checking the figures might be useful. Begin with it.",
+      "keyword": "might",
+      "target_sentence": "It ___ the figures.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "might be useful to check"
+      ]
+    },
+    {
+      "id": "C1-U16-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U16"
+      ],
+      "explanation": "Generally improved describes an overall tendency.",
+      "source_sentence": "The results improved in general. Use generally.",
+      "keyword": "generally",
+      "target_sentence": "The results ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "generally improved"
+      ]
+    }
+  ]
+}

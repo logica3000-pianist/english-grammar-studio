@@ -1,0 +1,663 @@
+{
+  "id": "B2-U15",
+  "level": "B2",
+  "title": "Reporting and evidence: cumulative review",
+  "order": 15,
+  "prerequisites": [
+    "B2-U14"
+  ],
+  "objectives": [
+    "Attribute information using according to and reporting verbs.",
+    "Distinguish a possibility or claim from a confirmed fact.",
+    "Review impersonal passives and reporting-verb complements."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "When reporting information, it is useful to distinguish a source's claim from an established fact. ‘According to the survey, 60% of respondents preferred option A’ attributes the figure to a particular source. It does not, by itself, explain how the survey was conducted or guarantee that its findings apply to everyone.",
+        "The reporting verb also shapes the meaning. ‘The company claims that the device saves energy’ tells us what the company asserts; the reporter does not necessarily endorse it. ‘The company admits that the device failed’ reports an acknowledgement. Neither verb should be substituted for the other without evidence of the speaker's attitude."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "According to is followed by a noun phrase naming a source: ‘according to the report’ or ‘according to the researchers’. A that-clause can follow a reporting verb: ‘The report states that costs fell’. In formal writing, a comma commonly follows an opening according to phrase: ‘According to the report, costs fell’.",
+        "Other structures include impersonal passives: ‘It is reported that costs fell’ and ‘Costs are reported to have fallen’. The perfect infinitive in the latter places the fall before the present reporting viewpoint. These structures can leave the source unnamed; when a named source is available and matters, including it makes the attribution clearer."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Words such as may, might, apparently and allegedly can limit or frame a claim. ‘The change may reduce costs’ presents a possibility, not a guarantee. ‘The company allegedly ignored the warning’ reports an allegation and does not establish that the company did so. Use these words only when their meaning matches the evidence and context.",
+        "Compare ‘The survey suggests that customers prefer option A’ with ‘The survey proves that every customer prefers option A’. The second claim is stronger and may go beyond what a sample supports. Grammar can express a cautious conclusion, but the quality and scope of the evidence must also support the statement."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not write ‘According to the report says that costs fell’. According to already introduces the source; say ‘According to the report, costs fell’ or ‘The report says that costs fell’. Do not automatically turn ‘is said to have failed’ into ‘failed’ if the task is to preserve uncertainty or attribution.",
+        "This review revisits reporting-verb complements. ‘She admitted making a mistake’ uses an -ing form, while ‘She promised to respond’ uses a to-infinitive. It also revisits modal perfect deduction: ‘The parcel might have been delivered’ expresses a possible earlier event. Choose wording according to the source, degree of certainty and time."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "According to the survey, 60% preferred option A.",
+      "note": "According to attributes the figure to the survey."
+    },
+    {
+      "sentence": "The company claims that the device saves energy.",
+      "note": "Claims attributes an assertion without confirming it."
+    },
+    {
+      "sentence": "The company admitted that the device failed.",
+      "note": "Admitted reports an acknowledgement."
+    },
+    {
+      "sentence": "The change may reduce costs.",
+      "note": "May expresses a possibility."
+    },
+    {
+      "sentence": "It is reported that costs fell.",
+      "note": "The impersonal passive reports the statement without naming a source."
+    },
+    {
+      "sentence": "Costs are reported to have fallen.",
+      "note": "The perfect infinitive places the fall before the reporting viewpoint."
+    },
+    {
+      "sentence": "She admitted making a mistake.",
+      "note": "Admit takes an -ing form in this pattern."
+    },
+    {
+      "sentence": "The parcel might have been delivered.",
+      "note": "The modal perfect passive expresses a possible past event."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "According to the report says that costs fell.",
+      "correct": "According to the report, costs fell.",
+      "reason": "Do not combine according to with says in this structure."
+    },
+    {
+      "incorrect": "She admitted to make a mistake.",
+      "correct": "She admitted making a mistake.",
+      "reason": "Use an -ing form in this admit pattern."
+    },
+    {
+      "incorrect": "Costs are reported to has fallen.",
+      "correct": "Costs are reported to have fallen.",
+      "reason": "Use have in the perfect infinitive."
+    }
+  ],
+  "summary": [
+    "Attribute claims to their sources when relevant.",
+    "Choose reporting verbs and modal words that match the evidence.",
+    "Use accurate complementation and infinitive forms in reported statements."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U15-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correctly attributed sentence.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "According to introduces the source without an extra says.",
+      "options": [
+        {
+          "id": "a",
+          "text": "According to the report says costs fell."
+        },
+        {
+          "id": "b",
+          "text": "According the report to costs fell."
+        },
+        {
+          "id": "c",
+          "text": "The report according to says costs fell."
+        },
+        {
+          "id": "d",
+          "text": "According to the report, costs fell."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“According to the report says costs fell.” does not fit here. According to introduces the source without an extra says.",
+        "b": "“According the report to costs fell.” does not fit here. According to introduces the source without an extra says.",
+        "c": "“The report according to says costs fell.” does not fit here. According to introduces the source without an extra says.",
+        "d": "“According to the report, costs fell.” fits here. According to introduces the source without an extra says."
+      }
+    },
+    {
+      "id": "B2-U15-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The finding is possible, not guaranteed. The change ___ reduce costs.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "May expresses possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "may"
+        },
+        {
+          "id": "b",
+          "text": "must certainly"
+        },
+        {
+          "id": "c",
+          "text": "proved"
+        },
+        {
+          "id": "d",
+          "text": "always did"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“may” fits here. May expresses possibility.",
+        "b": "“must certainly” does not fit here. May expresses possibility.",
+        "c": "“proved” does not fit here. May expresses possibility.",
+        "d": "“always did” does not fit here. May expresses possibility."
+      }
+    },
+    {
+      "id": "B2-U15-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The company acknowledged a failure. It ___ that the device failed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Admitted reports the acknowledgement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "denied"
+        },
+        {
+          "id": "b",
+          "text": "promised to"
+        },
+        {
+          "id": "c",
+          "text": "admitted"
+        },
+        {
+          "id": "d",
+          "text": "offered to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“denied” does not fit here. Admitted reports the acknowledgement.",
+        "b": "“promised to” does not fit here. Admitted reports the acknowledgement.",
+        "c": "“admitted” fits here. Admitted reports the acknowledgement.",
+        "d": "“offered to” does not fit here. Admitted reports the acknowledgement."
+      }
+    },
+    {
+      "id": "B2-U15-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The report attributes an assertion to a company without confirming it. The company ___ the device saves energy.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Claims that attributes the assertion.",
+      "options": [
+        {
+          "id": "a",
+          "text": "proved"
+        },
+        {
+          "id": "b",
+          "text": "claims that"
+        },
+        {
+          "id": "c",
+          "text": "knows with certainty"
+        },
+        {
+          "id": "d",
+          "text": "denied that"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“proved” does not fit here. Claims that attributes the assertion.",
+        "b": "“claims that” fits here. Claims that attributes the assertion.",
+        "c": "“knows with certainty” does not fit here. Claims that attributes the assertion.",
+        "d": "“denied that” does not fit here. Claims that attributes the assertion."
+      }
+    },
+    {
+      "id": "B2-U15-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Costs fell before the present report. Costs are reported ___ fallen.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U14"
+      ],
+      "explanation": "The perfect infinitive places the fall earlier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to has"
+        },
+        {
+          "id": "b",
+          "text": "to having"
+        },
+        {
+          "id": "c",
+          "text": "to have"
+        },
+        {
+          "id": "d",
+          "text": "that have"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to has” does not fit here. The perfect infinitive places the fall earlier.",
+        "b": "“to having” does not fit here. The perfect infinitive places the fall earlier.",
+        "c": "“to have” fits here. The perfect infinitive places the fall earlier.",
+        "d": "“that have” does not fit here. The perfect infinitive places the fall earlier."
+      }
+    },
+    {
+      "id": "B2-U15-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She acknowledged a mistake. She admitted ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Admitted making is the -ing pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "making"
+        },
+        {
+          "id": "b",
+          "text": "to make"
+        },
+        {
+          "id": "c",
+          "text": "make"
+        },
+        {
+          "id": "d",
+          "text": "to making"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“making” fits here. Admitted making is the -ing pattern.",
+        "b": "“to make” does not fit here. Admitted making is the -ing pattern.",
+        "c": "“make” does not fit here. Admitted making is the -ing pattern.",
+        "d": "“to making” does not fit here. Admitted making is the -ing pattern."
+      }
+    },
+    {
+      "id": "B2-U15-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The parcel possibly arrived earlier. It might ___ delivered.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U11"
+      ],
+      "explanation": "Might have been delivered is a modal perfect passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been"
+        },
+        {
+          "id": "b",
+          "text": "have been"
+        },
+        {
+          "id": "c",
+          "text": "have be"
+        },
+        {
+          "id": "d",
+          "text": "to have been"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“has been” does not fit here. Might have been delivered is a modal perfect passive.",
+        "b": "“have been” fits here. Might have been delivered is a modal perfect passive.",
+        "c": "“have be” does not fit here. Might have been delivered is a modal perfect passive.",
+        "d": "“to have been” does not fit here. Might have been delivered is a modal perfect passive."
+      }
+    },
+    {
+      "id": "B2-U15-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which wording is the most cautious?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "Suggests and some avoid claiming universal proof.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The survey proves every customer agrees."
+        },
+        {
+          "id": "b",
+          "text": "Every customer certainly agrees."
+        },
+        {
+          "id": "c",
+          "text": "The evidence guarantees universal agreement."
+        },
+        {
+          "id": "d",
+          "text": "The survey suggests that some customers agree."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The survey proves every customer agrees.” does not fit here. Suggests and some avoid claiming universal proof.",
+        "b": "“Every customer certainly agrees.” does not fit here. Suggests and some avoid claiming universal proof.",
+        "c": "“The evidence guarantees universal agreement.” does not fit here. Suggests and some avoid claiming universal proof.",
+        "d": "“The survey suggests that some customers agree.” fits here. Suggests and some avoid claiming universal proof."
+      }
+    },
+    {
+      "id": "B2-U15-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the attribution: According ___ the report, costs fell.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "According to introduces the source.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U15-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use may: The change ___ reduce costs; it is possible.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "May expresses possibility.",
+      "accepted_answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "B2-U15-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the it-pattern: It is reported ___ costs fell.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U14"
+      ],
+      "explanation": "That introduces the reported clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B2-U15-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use have: Costs are reported to ___ fallen earlier.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U14"
+      ],
+      "explanation": "To have fallen is a perfect infinitive.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U15-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: She admitted ___ an error. (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Admit takes an -ing form here.",
+      "accepted_answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "B2-U15-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: He promised ___ . (respond)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Promise takes a to-infinitive here.",
+      "accepted_answers": [
+        "to respond"
+      ]
+    },
+    {
+      "id": "B2-U15-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use been: The parcel might have ___ delivered.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U11"
+      ],
+      "explanation": "Might have been plus a participle forms the modal perfect passive.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U15-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The report has been ___. (sign)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U11"
+      ],
+      "explanation": "Signed is the participle in the present perfect passive.",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "B2-U15-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: the report says",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "According to already introduces the source; remove says.",
+      "source_sentence": "According to the report says costs fell.",
+      "target_segment": "the report says",
+      "accepted_answers": [
+        "the report,"
+      ],
+      "grading": {
+        "case_sensitive": false,
+        "ignore_terminal_punctuation": false
+      }
+    },
+    {
+      "id": "B2-U15-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to make",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Use an -ing form after admit here.",
+      "source_sentence": "She admitted to make a mistake.",
+      "target_segment": "to make",
+      "accepted_answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "B2-U15-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U14"
+      ],
+      "explanation": "Use have in the perfect infinitive.",
+      "source_sentence": "Costs are reported to has fallen.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U15-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: be",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U15",
+        "B2-U11"
+      ],
+      "explanation": "Use have been in the modal perfect passive.",
+      "source_sentence": "The parcel might have be delivered.",
+      "target_segment": "be",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U15-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U15"
+      ],
+      "explanation": "According to attributes the statement to the report.",
+      "source_sentence": "The report states that costs fell. Use according to.",
+      "keyword": "According",
+      "target_sentence": "___, costs fell.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "According to the report"
+      ]
+    },
+    {
+      "id": "B2-U15-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U15",
+        "B2-U14"
+      ],
+      "explanation": "The perfect infinitive places the fall earlier.",
+      "source_sentence": "People now report that costs fell earlier. Begin with costs.",
+      "keyword": "reported",
+      "target_sentence": "Costs ___ earlier.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "are reported to have fallen"
+      ]
+    },
+    {
+      "id": "B2-U15-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U15",
+        "B2-U13"
+      ],
+      "explanation": "Admitted making reports the acknowledgement.",
+      "source_sentence": "Maya acknowledged making a mistake.",
+      "keyword": "admitted",
+      "target_sentence": "Maya ___ a mistake.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "admitted making"
+      ]
+    },
+    {
+      "id": "B2-U15-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U15",
+        "B2-U11"
+      ],
+      "explanation": "Might have been delivered reports the possible past event in the passive.",
+      "source_sentence": "Someone might have delivered the parcel. Use the passive.",
+      "keyword": "delivered",
+      "target_sentence": "The parcel ___ .",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "might have been delivered"
+      ]
+    }
+  ]
+}

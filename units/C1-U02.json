@@ -1,0 +1,642 @@
+{
+  "id": "C1-U02",
+  "level": "C1",
+  "title": "Future in the past and viewpoint",
+  "order": 2,
+  "prerequisites": [
+    "C1-U01"
+  ],
+  "objectives": [
+    "Locate the reference time and the later event in a narrative.",
+    "Select forms for an earlier prediction, intention, arrangement or imminent action.",
+    "Interpret whether the context establishes fulfilment."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A future-in-the-past expression presents an event as later than a reference point in the past. In 2020, for example, someone might have said, “The new station will open in 2022.” A later account can report that viewpoint: “In 2020, officials said that the station would open in 2022.” The opening is future relative to the announcement, even though both dates are now in the past.",
+        "The form describes what was expected, planned, arranged or imminent from that earlier viewpoint. It does not automatically prove that the later event happened. “She thought the train would arrive at six” reports her expectation; the surrounding account must tell us whether the train actually arrived then."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Would plus the base form can report a prediction, expectation or promise from a past viewpoint: “They expected the work would take a week.” Was or were going to plus the base form can present an earlier plan or prediction: “I was going to call.” The choice of was or were agrees with the subject.",
+        "Was or were about to plus the base form marks an event as imminent at the past reference time. Was or were to plus the base form can present a formal arrangement or an event seen as part of a subsequent sequence. Was or were to have plus a past participle can describe an arrangement that did not happen: “The chair was to have spoken, but fell ill.”"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In a diary entry, “I was about to leave when the phone rang” places the call immediately before the intended departure. The sentence does not say whether the person eventually left. In a retrospective account, “The decision would change the company” presents a later result from the earlier point in the narrative; the wider context presents the change as a known historical outcome.",
+        "To express an expectation of completion before a later deadline, use would have plus the past participle: “They expected that by Friday they would have completed the survey.” Here expected supplies the past viewpoint and by Friday supplies the later deadline. The same shape can occur in conditional sentences with a different interpretation."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Compare “She would call” with “She was going to call”. In a suitable context, the first may report a promise or expectation; the second foregrounds an earlier intention. Neither alone guarantees that she called. Context can add non-fulfilment: “She was going to call, but forgot.” Do not assume all examples with going to imply a cancelled plan.",
+        "Avoid using a past reporting verb as the only cue to meaning: “He said he would leave” is different from “He said he had left”. The former places leaving later than his statement; the latter places it earlier. In formal retrospective prose, was to can describe an arranged or later event, but its precise interpretation depends on context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "In 2019, the council predicted the bridge would open in 2021.",
+      "note": "Would open is later than the past prediction."
+    },
+    {
+      "sentence": "Mira was going to phone, but her meeting ran late.",
+      "note": "The earlier intention is presented without proving a call occurred."
+    },
+    {
+      "sentence": "I was about to leave when the bell rang.",
+      "note": "The intended departure was imminent at the past reference point."
+    },
+    {
+      "sentence": "The delegation was to meet the minister the next morning.",
+      "note": "Was to presents a formal arrangement from a past viewpoint."
+    },
+    {
+      "sentence": "The speaker was to have arrived at noon, but the flight was cancelled.",
+      "note": "Was to have arrived describes an unfulfilled arrangement."
+    },
+    {
+      "sentence": "They expected they would have finished by Friday.",
+      "note": "Would have finished presents completion before a later deadline as an expectation."
+    },
+    {
+      "sentence": "No one knew that the decision would change the town.",
+      "note": "Would presents a later outcome from the earlier narrative viewpoint."
+    },
+    {
+      "sentence": "He said he had left before the meeting.",
+      "note": "Had left locates the departure before the past statement or its stated reference point."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She expected the train would arrives at six.",
+      "correct": "She expected the train would arrive at six.",
+      "reason": "Would takes the base form arrive."
+    },
+    {
+      "incorrect": "They were about leave when it started raining.",
+      "correct": "They were about to leave when it started raining.",
+      "reason": "About to requires to before the base verb."
+    },
+    {
+      "incorrect": "The chair was to have spoke, but fell ill.",
+      "correct": "The chair was to have spoken, but fell ill.",
+      "reason": "Have takes the past participle spoken."
+    }
+  ],
+  "summary": [
+    "Future in the past places an event later than a past reference point.",
+    "Would, was going to, was about to and was to express different viewpoints or contexts.",
+    "An earlier expectation or intention does not by itself establish what actually happened."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U02-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In 2018 they predicted that the centre ___ in 2020. Choose the backshifted report.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would open locates the predicted opening after the past prediction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will opens"
+        },
+        {
+          "id": "b",
+          "text": "has opening"
+        },
+        {
+          "id": "c",
+          "text": "had open"
+        },
+        {
+          "id": "d",
+          "text": "would open"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will opens” does not fit here. Would open locates the predicted opening after the past prediction.",
+        "b": "“has opening” does not fit here. Would open locates the predicted opening after the past prediction.",
+        "c": "“had open” does not fit here. Would open locates the predicted opening after the past prediction.",
+        "d": "“would open” fits here. Would open locates the predicted opening after the past prediction."
+      }
+    },
+    {
+      "id": "C1-U02-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the imminent-action pattern: He was ___ when the lights went out.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Was about to plus the base verb marks an imminent action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "about to leave"
+        },
+        {
+          "id": "b",
+          "text": "about leaving"
+        },
+        {
+          "id": "c",
+          "text": "about leave"
+        },
+        {
+          "id": "d",
+          "text": "about left"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“about to leave” fits here. Was about to plus the base verb marks an imminent action.",
+        "b": "“about leaving” does not fit here. Was about to plus the base verb marks an imminent action.",
+        "c": "“about leave” does not fit here. Was about to plus the base verb marks an imminent action.",
+        "d": "“about left” does not fit here. Was about to plus the base verb marks an imminent action."
+      }
+    },
+    {
+      "id": "C1-U02-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Select the sentence that explicitly states that a planned speech did not occur.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Was to have spoken plus the cancellation explicitly presents a plan that was not fulfilled.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She was going to speak at noon."
+        },
+        {
+          "id": "b",
+          "text": "She expected she would speak."
+        },
+        {
+          "id": "c",
+          "text": "She was to have spoken, but the event was cancelled."
+        },
+        {
+          "id": "d",
+          "text": "She was about to speak when the bell rang."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She was going to speak at noon.” does not fit here. Was to have spoken plus the cancellation explicitly presents a plan that was not fulfilled.",
+        "b": "“She expected she would speak.” does not fit here. Was to have spoken plus the cancellation explicitly presents a plan that was not fulfilled.",
+        "c": "“She was to have spoken, but the event was cancelled.” fits here. Was to have spoken plus the cancellation explicitly presents a plan that was not fulfilled.",
+        "d": "“She was about to speak when the bell rang.” does not fit here. Was to have spoken plus the cancellation explicitly presents a plan that was not fulfilled."
+      }
+    },
+    {
+      "id": "C1-U02-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “She thought the train would arrive at six”, what is established about its arrival?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would reports her expectation; the outcome requires more context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It definitely arrived at six."
+        },
+        {
+          "id": "b",
+          "text": "The sentence alone does not establish what happened."
+        },
+        {
+          "id": "c",
+          "text": "It definitely failed to arrive."
+        },
+        {
+          "id": "d",
+          "text": "It arrived before she thought this."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It definitely arrived at six.” does not fit here. Would reports her expectation; the outcome requires more context.",
+        "b": "“The sentence alone does not establish what happened.” fits here. Would reports her expectation; the outcome requires more context.",
+        "c": "“It definitely failed to arrive.” does not fit here. Would reports her expectation; the outcome requires more context.",
+        "d": "“It arrived before she thought this.” does not fit here. Would reports her expectation; the outcome requires more context."
+      }
+    },
+    {
+      "id": "C1-U02-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the past intention: We ___ a taxi, but decided to walk.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Were going to take presents the earlier intention; but introduces the change.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to taking"
+        },
+        {
+          "id": "b",
+          "text": "were go to take"
+        },
+        {
+          "id": "c",
+          "text": "were going to take"
+        },
+        {
+          "id": "d",
+          "text": "would taking"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“are going to taking” does not fit here. Were going to take presents the earlier intention; but introduces the change.",
+        "b": "“were go to take” does not fit here. Were going to take presents the earlier intention; but introduces the change.",
+        "c": "“were going to take” fits here. Were going to take presents the earlier intention; but introduces the change.",
+        "d": "“would taking” does not fit here. Were going to take presents the earlier intention; but introduces the change."
+      }
+    },
+    {
+      "id": "C1-U02-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the past-viewpoint expectation of completion by Friday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would have finished expresses expected completion before the stated deadline.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They expected they would have finished by Friday."
+        },
+        {
+          "id": "b",
+          "text": "They expected they will finished by Friday."
+        },
+        {
+          "id": "c",
+          "text": "They expected they would had finished by Friday."
+        },
+        {
+          "id": "d",
+          "text": "They expected they have finishing by Friday."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“They expected they would have finished by Friday.” fits here. Would have finished expresses expected completion before the stated deadline.",
+        "b": "“They expected they will finished by Friday.” does not fit here. Would have finished expresses expected completion before the stated deadline.",
+        "c": "“They expected they would had finished by Friday.” does not fit here. Would have finished expresses expected completion before the stated deadline.",
+        "d": "“They expected they have finishing by Friday.” does not fit here. Would have finished expresses expected completion before the stated deadline."
+      }
+    },
+    {
+      "id": "C1-U02-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which report places departure before the statement?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Had left places the departure before the past reporting point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He said he would leave."
+        },
+        {
+          "id": "b",
+          "text": "He said he had left."
+        },
+        {
+          "id": "c",
+          "text": "He said he was going to leave later."
+        },
+        {
+          "id": "d",
+          "text": "He said he would be about to leave later."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“He said he would leave.” does not fit here. Had left places the departure before the past reporting point.",
+        "b": "“He said he had left.” fits here. Had left places the departure before the past reporting point.",
+        "c": "“He said he was going to leave later.” does not fit here. Had left places the departure before the past reporting point.",
+        "d": "“He said he would be about to leave later.” does not fit here. Had left places the departure before the past reporting point."
+      }
+    },
+    {
+      "id": "C1-U02-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the formal arrangement: The ministers ___ the following morning.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Were to meet uses plural were and the base form meet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was to meeting"
+        },
+        {
+          "id": "b",
+          "text": "were to have meet"
+        },
+        {
+          "id": "c",
+          "text": "were to met"
+        },
+        {
+          "id": "d",
+          "text": "were to meet"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“was to meeting” does not fit here. Were to meet uses plural were and the base form meet.",
+        "b": "“were to have meet” does not fit here. Were to meet uses plural were and the base form meet.",
+        "c": "“were to met” does not fit here. Were to meet uses plural were and the base form meet.",
+        "d": "“were to meet” fits here. Were to meet uses plural were and the base form meet."
+      }
+    },
+    {
+      "id": "C1-U02-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would for the prediction: They believed the plan ___ succeed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would places the predicted success after the past belief.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "C1-U02-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the imminent-action pattern: She was about ___ start when we arrived.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "About to is followed by the base form.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U02-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the earlier intention pattern: I was ___ to write, but forgot.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Was going to write describes the earlier intention.",
+      "accepted_answers": [
+        "going"
+      ]
+    },
+    {
+      "id": "C1-U02-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the formal arrangement: The guests were to ___ at noon. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Were to is followed by the base form arrive.",
+      "accepted_answers": [
+        "arrive"
+      ]
+    },
+    {
+      "id": "C1-U02-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the unfulfilled arrangement: She was to have ___, but fell ill. (speak)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Have is followed by the past participle spoken.",
+      "accepted_answers": [
+        "spoken"
+      ]
+    },
+    {
+      "id": "C1-U02-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the expectation of prior completion: They expected they would have ___ by Friday. (finish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Have is followed by the past participle finished.",
+      "accepted_answers": [
+        "finished"
+      ]
+    },
+    {
+      "id": "C1-U02-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the plural form: The directors ___ about to leave.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "The plural subject directors takes were.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "C1-U02-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would for the later outcome: They did not know the discovery ___ transform the field.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would presents the transformation from the earlier viewpoint.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "C1-U02-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: about leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "About to requires to before the base verb.",
+      "source_sentence": "They were about leave when the alarm sounded.",
+      "target_segment": "about leave",
+      "accepted_answers": [
+        "about to leave"
+      ]
+    },
+    {
+      "id": "C1-U02-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: spoke",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Use the past participle spoken after have.",
+      "source_sentence": "The chair was to have spoke, but fell ill.",
+      "target_segment": "spoke",
+      "accepted_answers": [
+        "spoken"
+      ]
+    },
+    {
+      "id": "C1-U02-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: taking",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Use the base form after going to.",
+      "source_sentence": "We were going to taking a taxi, but walked.",
+      "target_segment": "taking",
+      "accepted_answers": [
+        "take"
+      ]
+    },
+    {
+      "id": "C1-U02-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "The plural subject directors takes were.",
+      "source_sentence": "The directors was to meet at noon.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "C1-U02-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would close places the expected closure after the past expectation.",
+      "source_sentence": "In 2020 they predicted that the library would close in 2022. Use the past expectation pattern.",
+      "keyword": "would",
+      "target_sentence": "In 2020 they expected the library ___ in 2022.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would close"
+      ]
+    },
+    {
+      "id": "C1-U02-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Was about to leave indicates imminent action at that point.",
+      "source_sentence": "I was on the point of leaving when the phone rang. Use the imminent-action pattern.",
+      "keyword": "about",
+      "target_sentence": "I ___ when the phone rang.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "was about to leave"
+      ]
+    },
+    {
+      "id": "C1-U02-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Were going to take describes the earlier plan.",
+      "source_sentence": "They planned to take the train, but changed their minds. Use an earlier-intention pattern.",
+      "keyword": "going",
+      "target_sentence": "They ___ the train, but changed their minds.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "were going to take"
+      ]
+    },
+    {
+      "id": "C1-U02-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U02"
+      ],
+      "explanation": "Would have completed expresses expected completion by the deadline.",
+      "source_sentence": "They expected to complete the audit before Friday. Express expected completion by Friday.",
+      "keyword": "have",
+      "target_sentence": "They expected they ___ the audit by Friday.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "would have completed"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "C1-U01",
+  "level": "C1",
+  "title": "Aspect choices and discourse perspective",
+  "order": 1,
+  "prerequisites": [
+    "B2-U25"
+  ],
+  "objectives": [
+    "Analyse how aspect frames sequence, background and result.",
+    "Distinguish state and activity meanings of verbs.",
+    "Select an aspect that matches a specified discourse focus."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Aspect helps a speaker select a viewpoint on an event: as a whole, in progress, completed before a reference point, or connected to a later point. The choice can influence how a narrative unfolds. ‘Maya opened the door and entered’ presents two events in sequence; ‘Maya was opening the door when the alarm sounded’ views the opening as in progress at the moment of the alarm.",
+        "These forms do not label the event itself as inherently short or long. ‘She worked there for twenty years’ presents a long period as a whole. ‘She was working there that summer’ views the situation from within a period and can suggest temporary circumstances. The speaker's purpose and context guide the choice."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "The present perfect simple can foreground a result, completed number or experience: ‘The team has completed three trials’. The present perfect continuous can foreground activity, duration or a recent visible effect: ‘The team has been conducting trials all morning’. With some verbs, either form can describe a situation continuing to now: ‘They have worked here for years’ and ‘They have been working here for years’.",
+        "The past perfect locates a situation before a past reference point: ‘By the time the meeting began, Ana had left’. The past perfect continuous can foreground activity or duration before that point: ‘She had been working for hours before the meeting began’. The form had been working does not by itself establish whether the activity stopped immediately before the meeting."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "The progressive can frame a change as temporary or developing: ‘The population is growing’ describes a trend in progress. It can also present a repeated action as noticeable or irritating: ‘He's always interrupting me’. Always in that sentence does not literally establish that interruption occurs at every moment; tone and context can convey the speaker's attitude.",
+        "Verb meaning matters. Know in the sense of possessing knowledge normally takes a simple form: ‘I have known her for years’. Think can describe an opinion in ‘I think the plan is sound’ or an activity in ‘I'm thinking about the plan’. The progressive is available in the activity meaning, not because every occurrence of think behaves alike."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not infer completion solely from a form when the context does not require it. ‘I've been painting the room’ foregrounds the activity; the room might or might not be finished. ‘I've painted the room’ commonly presents the task as completed, though real usage can be shaped by context.",
+        "Avoid mechanically replacing every past simple with a past perfect merely because one event occurred earlier. A clear sequence may not need it: ‘She sat down and opened her notes’. The past perfect is useful when a speaker wants to establish an earlier viewpoint, especially if the events are not presented in chronological order."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya opened the door and entered.",
+      "note": "The simple forms present a sequence of events."
+    },
+    {
+      "sentence": "Maya was opening the door when the alarm sounded.",
+      "note": "The progressive frames the opening as in progress at the alarm."
+    },
+    {
+      "sentence": "The team has completed three trials.",
+      "note": "The simple perfect foregrounds a completed number."
+    },
+    {
+      "sentence": "The team has been conducting trials all morning.",
+      "note": "The continuous foregrounds activity and duration."
+    },
+    {
+      "sentence": "She had been working for hours before the meeting.",
+      "note": "The activity is viewed from a later past reference point."
+    },
+    {
+      "sentence": "He's always interrupting me.",
+      "note": "The progressive can convey an attitude towards repeated behaviour."
+    },
+    {
+      "sentence": "I think the plan is sound.",
+      "note": "Think expresses an opinion here."
+    },
+    {
+      "sentence": "I'm thinking about the plan.",
+      "note": "Think expresses an activity here."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have been knowing her for years.",
+      "correct": "I have known her for years.",
+      "reason": "Know normally uses the simple form in this state meaning."
+    },
+    {
+      "incorrect": "She has been write reports all morning.",
+      "correct": "She has been writing reports all morning.",
+      "reason": "The continuous requires an -ing form after been."
+    },
+    {
+      "incorrect": "The team has completed three trials yesterday.",
+      "correct": "The team completed three trials yesterday.",
+      "reason": "Yesterday identifies a finished past time in this context."
+    }
+  ],
+  "summary": [
+    "Aspect presents an event from a particular viewpoint rather than merely measuring its length.",
+    "Simple and continuous perfect forms can overlap while foregrounding different information.",
+    "Verb meaning and discourse context influence which aspect is natural."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U01-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Foreground a completed number in an unfinished period: The team ___ three trials today.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Has completed foregrounds the completed number.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been complete"
+        },
+        {
+          "id": "b",
+          "text": "has completed"
+        },
+        {
+          "id": "c",
+          "text": "has been completing three trials for"
+        },
+        {
+          "id": "d",
+          "text": "has wrote"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“has been complete” does not fit here. Has completed foregrounds the completed number.",
+        "b": "“has completed” fits here. Has completed foregrounds the completed number.",
+        "c": "“has been completing three trials for” does not fit here. Has completed foregrounds the completed number.",
+        "d": "“has wrote” does not fit here. Has completed foregrounds the completed number."
+      }
+    },
+    {
+      "id": "C1-U01-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Frame the opening as in progress when the alarm sounded: Maya ___ the door when the alarm sounded.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Was opening views the action as in progress at the alarm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "opened earlier and finished"
+        },
+        {
+          "id": "b",
+          "text": "has opening"
+        },
+        {
+          "id": "c",
+          "text": "opens tomorrow"
+        },
+        {
+          "id": "d",
+          "text": "was opening"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“opened earlier and finished” does not fit here. Was opening views the action as in progress at the alarm.",
+        "b": "“has opening” does not fit here. Was opening views the action as in progress at the alarm.",
+        "c": "“opens tomorrow” does not fit here. Was opening views the action as in progress at the alarm.",
+        "d": "“was opening” fits here. Was opening views the action as in progress at the alarm."
+      }
+    },
+    {
+      "id": "C1-U01-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Express the activity meaning of think currently in progress: I ___ about the plan.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Am thinking presents an activity in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am thinking"
+        },
+        {
+          "id": "b",
+          "text": "am knowing"
+        },
+        {
+          "id": "c",
+          "text": "have think"
+        },
+        {
+          "id": "d",
+          "text": "thinked"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“am thinking” fits here. Am thinking presents an activity in progress.",
+        "b": "“am knowing” does not fit here. Am thinking presents an activity in progress.",
+        "c": "“have think” does not fit here. Am thinking presents an activity in progress.",
+        "d": "“thinked” does not fit here. Am thinking presents an activity in progress."
+      }
+    },
+    {
+      "id": "C1-U01-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Present the events in chronological sequence: She sat down and ___ her notes.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Opened advances the sequence in the past simple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been opening since tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "has opening"
+        },
+        {
+          "id": "c",
+          "text": "opened"
+        },
+        {
+          "id": "d",
+          "text": "was open"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“had been opening since tomorrow” does not fit here. Opened advances the sequence in the past simple.",
+        "b": "“has opening” does not fit here. Opened advances the sequence in the past simple.",
+        "c": "“opened” fits here. Opened advances the sequence in the past simple.",
+        "d": "“was open” does not fit here. Opened advances the sequence in the past simple."
+      }
+    },
+    {
+      "id": "C1-U01-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Use the usual state meaning: I ___ her for years and still know her.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Have known is the usual form for this state meaning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been knowing"
+        },
+        {
+          "id": "b",
+          "text": "had know"
+        },
+        {
+          "id": "c",
+          "text": "am know"
+        },
+        {
+          "id": "d",
+          "text": "have known"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have been knowing” does not fit here. Have known is the usual form for this state meaning.",
+        "b": "“had know” does not fit here. Have known is the usual form for this state meaning.",
+        "c": "“am know” does not fit here. Have known is the usual form for this state meaning.",
+        "d": "“have known” fits here. Have known is the usual form for this state meaning."
+      }
+    },
+    {
+      "id": "C1-U01-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "A speaker is irritated by a repeated habit. He ___ me. Use the progressive.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Is always interrupting can convey an attitude to repeated behaviour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "always interrupting"
+        },
+        {
+          "id": "b",
+          "text": "has always interrupt"
+        },
+        {
+          "id": "c",
+          "text": "is always interrupting"
+        },
+        {
+          "id": "d",
+          "text": "is always interrupted by"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“always interrupting” does not fit here. Is always interrupting can convey an attitude to repeated behaviour.",
+        "b": "“has always interrupt” does not fit here. Is always interrupting can convey an attitude to repeated behaviour.",
+        "c": "“is always interrupting” fits here. Is always interrupting can convey an attitude to repeated behaviour.",
+        "d": "“is always interrupted by” does not fit here. Is always interrupting can convey an attitude to repeated behaviour."
+      }
+    },
+    {
+      "id": "C1-U01-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence foregrounds duration before a past meeting?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Had been working foregrounds the earlier activity and duration.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had been working for hours before the meeting."
+        },
+        {
+          "id": "b",
+          "text": "She has completed three reports today."
+        },
+        {
+          "id": "c",
+          "text": "She works tomorrow."
+        },
+        {
+          "id": "d",
+          "text": "She will have work by noon."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“She had been working for hours before the meeting.” fits here. Had been working foregrounds the earlier activity and duration.",
+        "b": "“She has completed three reports today.” does not fit here. Had been working foregrounds the earlier activity and duration.",
+        "c": "“She works tomorrow.” does not fit here. Had been working foregrounds the earlier activity and duration.",
+        "d": "“She will have work by noon.” does not fit here. Had been working foregrounds the earlier activity and duration."
+      }
+    },
+    {
+      "id": "C1-U01-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about the progressive is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "The progressive foregrounds activity; context can leave completion open.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It always proves an action is unfinished."
+        },
+        {
+          "id": "b",
+          "text": "It can foreground an activity without settling whether it is complete."
+        },
+        {
+          "id": "c",
+          "text": "It always indicates a short event."
+        },
+        {
+          "id": "d",
+          "text": "It cannot describe a temporary situation."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It always proves an action is unfinished.” does not fit here. The progressive foregrounds activity; context can leave completion open.",
+        "b": "“It can foreground an activity without settling whether it is complete.” fits here. The progressive foregrounds activity; context can leave completion open.",
+        "c": "“It always indicates a short event.” does not fit here. The progressive foregrounds activity; context can leave completion open.",
+        "d": "“It cannot describe a temporary situation.” does not fit here. The progressive foregrounds activity; context can leave completion open."
+      }
+    },
+    {
+      "id": "C1-U01-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past continuous: Maya ___ opening the door when the alarm sounded.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Was opening frames the action as in progress.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U01-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect simple: The team has ___ three trials. (complete)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Completed is the participle after has.",
+      "accepted_answers": [
+        "completed"
+      ]
+    },
+    {
+      "id": "C1-U01-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect continuous: They have been ___ trials. (conduct)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Been is followed by an -ing form in the continuous.",
+      "accepted_answers": [
+        "conducting"
+      ]
+    },
+    {
+      "id": "C1-U01-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect continuous: She had ___ working for hours.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Had been plus -ing forms the past perfect continuous.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "C1-U01-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the usual simple state form: I have ___ her for years. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Known is the participle in the usual state form.",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "C1-U01-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the progressive for the activity meaning: I am ___ about the plan. (think)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Thinking presents the mental activity in progress.",
+      "accepted_answers": [
+        "thinking"
+      ]
+    },
+    {
+      "id": "C1-U01-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past simple for the next event: She sat down and ___ her notes. (open)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Opened advances the sequence.",
+      "accepted_answers": [
+        "opened"
+      ]
+    },
+    {
+      "id": "C1-U01-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use always with the progressive: He is ___ interrupting me; the speaker is irritated.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Always with the progressive can convey an attitude to repeated behaviour.",
+      "accepted_answers": [
+        "always"
+      ]
+    },
+    {
+      "id": "C1-U01-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: been knowing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Know normally uses the simple form for this state.",
+      "source_sentence": "We have been knowing our neighbours for years.",
+      "target_segment": "been knowing",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "C1-U01-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: write",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Use an -ing form after been.",
+      "source_sentence": "She has been write reports all morning.",
+      "target_segment": "write",
+      "accepted_answers": [
+        "writing"
+      ]
+    },
+    {
+      "id": "C1-U01-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has completed",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Use the past simple with yesterday in this context.",
+      "source_sentence": "The team has completed three trials yesterday.",
+      "target_segment": "has completed",
+      "accepted_answers": [
+        "completed"
+      ]
+    },
+    {
+      "id": "C1-U01-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: work",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Use an -ing form after had been.",
+      "source_sentence": "They had been work for hours before the meeting.",
+      "target_segment": "work",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "C1-U01-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Has completed foregrounds the completed number.",
+      "source_sentence": "The team completed three trials today; today is not over. Use the present perfect simple.",
+      "keyword": "completed",
+      "target_sentence": "The team ___ three trials today.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "has completed"
+      ]
+    },
+    {
+      "id": "C1-U01-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Had been working foregrounds the activity and duration.",
+      "source_sentence": "She worked for hours before the meeting. Foreground duration using the past perfect continuous.",
+      "keyword": "working",
+      "target_sentence": "She ___ for hours before the meeting.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had been working"
+      ]
+    },
+    {
+      "id": "C1-U01-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Was opening frames progress at the alarm.",
+      "source_sentence": "The opening was in progress when the alarm sounded.",
+      "keyword": "opening",
+      "target_sentence": "Maya ___ the door when the alarm sounded.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was opening"
+      ]
+    },
+    {
+      "id": "C1-U01-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U01"
+      ],
+      "explanation": "Have known expresses the continuing state.",
+      "source_sentence": "I have known Ana for years and still know her.",
+      "keyword": "known",
+      "target_sentence": "I ___ Ana for years.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have known"
+      ]
+    }
+  ]
+}

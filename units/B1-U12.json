@@ -1,0 +1,642 @@
+{
+  "id": "B1-U12",
+  "level": "B1",
+  "title": "Infinitives of purpose and purpose clauses",
+  "order": 12,
+  "prerequisites": [
+    "B1-U11"
+  ],
+  "objectives": [
+    "Express purpose using a to-infinitive.",
+    "Use so that with its own subject and verb.",
+    "Form a negative purpose with in order not to or so as not to."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We can explain the purpose of an action by saying why someone does it. A common way is to use to plus a base verb: ‘I went to the shop to buy milk’. Buying milk was my purpose. The infinitive follows the action and gives the reason for doing it, rather than simply adding another event.",
+        "We can also use in order to or so as to before a base verb: ‘She left early in order to catch the train’. These expressions can make the purpose explicit and are often useful in careful or formal writing. In many everyday sentences, a simple to-infinitive is natural."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use to, in order to or so as to followed by the base form: ‘We opened the window to get some air’. For a negative purpose, use in order not to or so as not to: ‘He spoke quietly so as not to wake the baby’. These patterns normally describe the purpose of the subject of the main clause.",
+        "A purpose clause with so that has a subject and a verb: ‘I wrote the address down so that I could remember it’. The subject after so that can be different: ‘She spoke slowly so that everyone could understand’. Modal verbs such as can, could, will or would often appear in these clauses, according to the time and meaning."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I opened the window to get some air’ with ‘I opened the window so that the room could get some air’. In the first, the infinitive gives my purpose without a new subject. In the second, so that introduces a clause with its own subject, the room. Choose a clear sentence so the reader can identify the intended purpose.",
+        "For can introduce a noun describing a purpose: ‘I went to the shop for milk’. Do not confuse that with a purpose infinitive: ‘I went to the shop to buy milk’. The word for also appears in other structures, such as ‘a tool for cutting paper’; these are not the same as saying ‘for buy milk’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "In a basic purpose sentence, do not use for directly before a base verb: say ‘I went out to buy bread’, not ‘I went out for buy bread’. Use so that with a subject and a verb: ‘She spoke slowly so that we could understand’, not ‘so that understand’.",
+        "A to-infinitive can have roles other than purpose. ‘I decided to leave’ gives the complement of decide; ‘I left to catch the bus’ expresses the purpose of leaving. Context determines the meaning. Be careful when rewriting: changing the subject or the possibility expressed by a modal can change the meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I went to the shop to buy milk.",
+      "note": "To buy introduces the purpose of going."
+    },
+    {
+      "sentence": "She left early in order to catch the train.",
+      "note": "In order to makes the purpose explicit."
+    },
+    {
+      "sentence": "He spoke quietly so as not to wake the baby.",
+      "note": "So as not to introduces a negative purpose."
+    },
+    {
+      "sentence": "I wrote it down so that I could remember it.",
+      "note": "So that introduces a clause with a subject and verb."
+    },
+    {
+      "sentence": "She spoke slowly so that everyone could understand.",
+      "note": "The purpose clause has a different subject."
+    },
+    {
+      "sentence": "I went to the shop for milk.",
+      "note": "For introduces the noun milk."
+    },
+    {
+      "sentence": "I went to the shop to buy milk.",
+      "note": "To introduces the base verb buy."
+    },
+    {
+      "sentence": "We saved money to buy a computer.",
+      "note": "The infinitive expresses the purpose of saving."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I went out for buy bread.",
+      "correct": "I went out to buy bread.",
+      "reason": "Use to before the base verb for this purpose."
+    },
+    {
+      "incorrect": "She left early to catches the train.",
+      "correct": "She left early to catch the train.",
+      "reason": "Use the base form after to."
+    },
+    {
+      "incorrect": "He spoke slowly so that understand.",
+      "correct": "He spoke slowly so that we could understand.",
+      "reason": "A so that clause needs a subject and a finite verb."
+    }
+  ],
+  "summary": [
+    "Use to plus a base verb to express purpose.",
+    "Use in order not to or so as not to for a negative purpose.",
+    "Use so that plus a subject and verb for a purpose clause."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U12-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I went to the shop ___ milk. (buy)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses the purpose.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to buy"
+        },
+        {
+          "id": "b",
+          "text": "for buy"
+        },
+        {
+          "id": "c",
+          "text": "buying"
+        },
+        {
+          "id": "d",
+          "text": "to buying"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“to buy” fits here. To buy expresses the purpose.",
+        "b": "“for buy” does not fit here. To buy expresses the purpose.",
+        "c": "“buying” does not fit here. To buy expresses the purpose.",
+        "d": "“to buying” does not fit here. To buy expresses the purpose."
+      }
+    },
+    {
+      "id": "B1-U12-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She spoke slowly so that everyone ___ understand.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Could forms the verb phrase in the purpose clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "understanding"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "could to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to” does not fit here. Could forms the verb phrase in the purpose clause.",
+        "b": "“understanding” does not fit here. Could forms the verb phrase in the purpose clause.",
+        "c": "“could” fits here. Could forms the verb phrase in the purpose clause.",
+        "d": "“could to” does not fit here. Could forms the verb phrase in the purpose clause."
+      }
+    },
+    {
+      "id": "B1-U12-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He left early in order ___ the train. (catch)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "In order to is followed by the base verb.",
+      "options": [
+        {
+          "id": "a",
+          "text": "catch"
+        },
+        {
+          "id": "b",
+          "text": "catching"
+        },
+        {
+          "id": "c",
+          "text": "for catch"
+        },
+        {
+          "id": "d",
+          "text": "to catch"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“catch” does not fit here. In order to is followed by the base verb.",
+        "b": "“catching” does not fit here. In order to is followed by the base verb.",
+        "c": "“for catch” does not fit here. In order to is followed by the base verb.",
+        "d": "“to catch” fits here. In order to is followed by the base verb."
+      }
+    },
+    {
+      "id": "B1-U12-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He whispered so as ___ the baby. (not/wake)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "So as not to introduces a negative purpose.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to not waking"
+        },
+        {
+          "id": "b",
+          "text": "not to wake"
+        },
+        {
+          "id": "c",
+          "text": "not wake"
+        },
+        {
+          "id": "d",
+          "text": "not waking"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to not waking” does not fit here. So as not to introduces a negative purpose.",
+        "b": "“not to wake” fits here. So as not to introduces a negative purpose.",
+        "c": "“not wake” does not fit here. So as not to introduces a negative purpose.",
+        "d": "“not waking” does not fit here. So as not to introduces a negative purpose."
+      }
+    },
+    {
+      "id": "B1-U12-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I went to the shop ___ milk. Choose a preposition before the noun.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "For can introduce the noun milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "so that"
+        },
+        {
+          "id": "c",
+          "text": "in order to"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“to” does not fit here. For can introduce the noun milk.",
+        "b": "“so that” does not fit here. For can introduce the noun milk.",
+        "c": "“in order to” does not fit here. For can introduce the noun milk.",
+        "d": "“for” fits here. For can introduce the noun milk."
+      }
+    },
+    {
+      "id": "B1-U12-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We saved money ___ a computer. (buy)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses the purpose of saving.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for buy"
+        },
+        {
+          "id": "b",
+          "text": "to buy"
+        },
+        {
+          "id": "c",
+          "text": "buying"
+        },
+        {
+          "id": "d",
+          "text": "to buying"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“for buy” does not fit here. To buy expresses the purpose of saving.",
+        "b": "“to buy” fits here. To buy expresses the purpose of saving.",
+        "c": "“buying” does not fit here. To buy expresses the purpose of saving.",
+        "d": "“to buying” does not fit here. To buy expresses the purpose of saving."
+      }
+    },
+    {
+      "id": "B1-U12-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I wrote it down ___ I could remember it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "So that introduces a clause with a subject and verb.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in order to"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "so that"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“in order to” does not fit here. So that introduces a clause with a subject and verb.",
+        "b": "“to” does not fit here. So that introduces a clause with a subject and verb.",
+        "c": "“so that” fits here. So that introduces a clause with a subject and verb.",
+        "d": "“for” does not fit here. So that introduces a clause with a subject and verb."
+      }
+    },
+    {
+      "id": "B1-U12-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly expresses purpose?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use to plus the base verb buy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She went out to buy bread."
+        },
+        {
+          "id": "b",
+          "text": "She went out for buy bread."
+        },
+        {
+          "id": "c",
+          "text": "She went out to buying bread."
+        },
+        {
+          "id": "d",
+          "text": "She went out so that buy bread."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“She went out to buy bread.” fits here. Use to plus the base verb buy.",
+        "b": "“She went out for buy bread.” does not fit here. Use to plus the base verb buy.",
+        "c": "“She went out to buying bread.” does not fit here. Use to plus the base verb buy.",
+        "d": "“She went out so that buy bread.” does not fit here. Use to plus the base verb buy."
+      }
+    },
+    {
+      "id": "B1-U12-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: I called to ___ a question. (ask)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use the base verb after to.",
+      "accepted_answers": [
+        "ask"
+      ]
+    },
+    {
+      "id": "B1-U12-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: She left early to ___ the train. (catch)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use the base verb after to.",
+      "accepted_answers": [
+        "catch"
+      ]
+    },
+    {
+      "id": "B1-U12-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the purpose link: He spoke slowly so ___ we could understand.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "So that introduces the purpose clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B1-U12-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the link: We saved money in ___ to travel.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "In order to introduces purpose.",
+      "accepted_answers": [
+        "order"
+      ]
+    },
+    {
+      "id": "B1-U12-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the negative purpose: She whispered so as not ___ wake the baby.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use so as not to plus the base verb.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U12-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or to: I went out ___ buy bread.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use to before the base verb buy.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U12-E15",
+      "type": "gap",
+      "instruction": "Choose for or to; milk is a noun in this sentence.",
+      "prompt": "Choose for or to: I went to the shop ___ milk.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "For introduces the noun milk here.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U12-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: They met to ___ the plan. (discuss)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use the base form after to.",
+      "accepted_answers": [
+        "discuss"
+      ]
+    },
+    {
+      "id": "B1-U12-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: for buy",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use to plus a base verb to express this purpose.",
+      "source_sentence": "I went out for buy bread.",
+      "target_segment": "for buy",
+      "accepted_answers": [
+        "to buy"
+      ]
+    },
+    {
+      "id": "B1-U12-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: catches",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use the base verb after to.",
+      "source_sentence": "She left early to catches the train.",
+      "target_segment": "catches",
+      "accepted_answers": [
+        "catch"
+      ]
+    },
+    {
+      "id": "B1-U12-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: order buy",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "In order to is followed by a base verb.",
+      "source_sentence": "We saved money in order buy a car.",
+      "target_segment": "order buy",
+      "accepted_answers": [
+        "order to buy"
+      ]
+    },
+    {
+      "id": "B1-U12-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: not wake",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "Use so as not to plus the base verb.",
+      "source_sentence": "He whispered so as not wake the baby.",
+      "target_segment": "not wake",
+      "accepted_answers": [
+        "not to wake"
+      ]
+    },
+    {
+      "id": "B1-U12-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses the purpose.",
+      "source_sentence": "I went to the shop because I wanted to buy milk. Express purpose with to.",
+      "keyword": "buy",
+      "target_sentence": "I went to the shop ___ milk.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to buy"
+      ]
+    },
+    {
+      "id": "B1-U12-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "So that introduces the purpose clause.",
+      "source_sentence": "She spoke slowly because she wanted everyone to understand.",
+      "keyword": "that",
+      "target_sentence": "She spoke slowly ___ everyone could understand.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "so that"
+      ]
+    },
+    {
+      "id": "B1-U12-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "So as not to introduces a negative purpose.",
+      "source_sentence": "He whispered because he did not want to wake the baby.",
+      "keyword": "wake",
+      "target_sentence": "He whispered so as ___ the baby.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "not to wake"
+      ]
+    },
+    {
+      "id": "B1-U12-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U12"
+      ],
+      "explanation": "In order to plus a base verb expresses purpose.",
+      "source_sentence": "We saved money because we wanted to travel.",
+      "keyword": "travel",
+      "target_sentence": "We saved money in order ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to travel"
+      ]
+    }
+  ]
+}

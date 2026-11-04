@@ -1,0 +1,642 @@
+{
+  "id": "B1-U08",
+  "level": "B1",
+  "title": "Zero and first conditionals",
+  "order": 8,
+  "prerequisites": [
+    "B1-U07"
+  ],
+  "objectives": [
+    "Distinguish general results from future possibilities.",
+    "Form zero and first conditional sentences.",
+    "Use present simple after if in the basic first conditional."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A conditional sentence connects a condition with a result. The condition is often introduced by if: ‘If it rains, we will stay inside’. The rain is a possible future condition; staying inside is the result in that situation. A conditional does not say that the condition will definitely happen.",
+        "We use a zero conditional for a general result that follows a condition, such as a regular fact or a rule: ‘If you heat ice, it melts’. We use a first conditional for a real future possibility and its likely or intended result: ‘If it rains tomorrow, we will stay inside’. The context tells us whether the result is general or concerns a future situation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A common zero conditional pattern is if plus present simple, followed by present simple: ‘If the temperature falls below zero, water freezes’ under suitable conditions. A common first conditional pattern is if plus present simple, followed by will and a base verb: ‘If she calls, I will answer’. The present form in the if clause can refer to the future condition.",
+        "The order can change without changing the basic relationship: ‘We will stay inside if it rains’. When the if clause comes first, a comma usually separates the clauses in writing. When the result comes first, a comma is not normally needed: ‘We will stay inside if it rains’. Other verb forms are possible in conditionals, but these are useful starting patterns."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘If I drink coffee late, I don't sleep well’ with ‘If I drink coffee tonight, I won't sleep well’. The first describes a general pattern; the second predicts a result in one future situation. ‘If the alarm rings, press this button’ gives an instruction rather than a prediction: an imperative can also appear in the result clause.",
+        "Look at the examples below. In ‘If she finishes early, she will call’, finishes has -s because she is singular, while call stays in the base form after will. The condition is finishing early; the result is the call. Neither clause says that finishing early is certain."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not normally use will in the if clause of the basic first conditional taught here: say ‘If it rains, we will stay inside’, not ‘If it will rain, we will stay inside’. Will can appear after if in other meanings or constructions, such as willingness or an indirect question; those are outside this unit's basic pattern.",
+        "Do not assume that a present simple verb always refers to present time. In ‘If she calls tomorrow, I'll answer’, calls refers to a possible future event. The result clause can use forms other than will in some contexts, including a modal or imperative. Focus first on the relationships and patterns practised here."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If you heat ice, it melts.",
+      "note": "The present simple forms describe a general result."
+    },
+    {
+      "sentence": "If I drink coffee late, I don't sleep well.",
+      "note": "The sentence describes a general pattern."
+    },
+    {
+      "sentence": "If it rains tomorrow, we will stay inside.",
+      "note": "The future condition is possible, not certain."
+    },
+    {
+      "sentence": "We will stay inside if it rains.",
+      "note": "The result clause can come first."
+    },
+    {
+      "sentence": "If she calls, I'll answer.",
+      "note": "The if clause uses the present simple for a future condition."
+    },
+    {
+      "sentence": "If they leave now, they will catch the bus.",
+      "note": "Will plus the base verb expresses the future result."
+    },
+    {
+      "sentence": "If the alarm rings, press this button.",
+      "note": "An imperative can express an instruction in the result clause."
+    },
+    {
+      "sentence": "If he finishes early, he will call.",
+      "note": "The singular if-clause verb takes -s."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "If it will rain, we will stay inside.",
+      "correct": "If it rains, we will stay inside.",
+      "reason": "Use the present simple in this basic future if clause."
+    },
+    {
+      "incorrect": "If she finish early, she will call.",
+      "correct": "If she finishes early, she will call.",
+      "reason": "She takes finishes in the present simple."
+    },
+    {
+      "incorrect": "If we leave now, we will catches the bus.",
+      "correct": "If we leave now, we will catch the bus.",
+      "reason": "Use the base verb after will."
+    }
+  ],
+  "summary": [
+    "Use the zero conditional for general results and the first conditional for a real future possibility.",
+    "A basic first conditional uses present simple after if and will plus a base verb in the result.",
+    "The clauses can appear in either order."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U08-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "General fact: If you heat ice, it ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Melts expresses the general result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will melting"
+        },
+        {
+          "id": "b",
+          "text": "melted yesterday"
+        },
+        {
+          "id": "c",
+          "text": "is melt"
+        },
+        {
+          "id": "d",
+          "text": "melts"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will melting” does not fit here. Melts expresses the general result.",
+        "b": "“melted yesterday” does not fit here. Melts expresses the general result.",
+        "c": "“is melt” does not fit here. Melts expresses the general result.",
+        "d": "“melts” fits here. Melts expresses the general result."
+      }
+    },
+    {
+      "id": "B1-U08-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "A future possibility: If it rains tomorrow, we ___ inside.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will stay expresses the intended future result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will stay"
+        },
+        {
+          "id": "b",
+          "text": "stay yesterday"
+        },
+        {
+          "id": "c",
+          "text": "are stayed"
+        },
+        {
+          "id": "d",
+          "text": "will stays"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“will stay” fits here. Will stay expresses the intended future result.",
+        "b": "“stay yesterday” does not fit here. Will stay expresses the intended future result.",
+        "c": "“are stayed” does not fit here. Will stay expresses the intended future result.",
+        "d": "“will stays” does not fit here. Will stay expresses the intended future result."
+      }
+    },
+    {
+      "id": "B1-U08-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If she ___ early tomorrow, she will call.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the present simple finishes after if in this pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will finishes"
+        },
+        {
+          "id": "b",
+          "text": "finish"
+        },
+        {
+          "id": "c",
+          "text": "finishes"
+        },
+        {
+          "id": "d",
+          "text": "finished yesterday"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will finishes” does not fit here. Use the present simple finishes after if in this pattern.",
+        "b": "“finish” does not fit here. Use the present simple finishes after if in this pattern.",
+        "c": "“finishes” fits here. Use the present simple finishes after if in this pattern.",
+        "d": "“finished yesterday” does not fit here. Use the present simple finishes after if in this pattern."
+      }
+    },
+    {
+      "id": "B1-U08-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If they leave now, they will ___ the bus.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the base verb catch after will.",
+      "options": [
+        {
+          "id": "a",
+          "text": "catches"
+        },
+        {
+          "id": "b",
+          "text": "catch"
+        },
+        {
+          "id": "c",
+          "text": "to catch"
+        },
+        {
+          "id": "d",
+          "text": "catching"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“catches” does not fit here. Use the base verb catch after will.",
+        "b": "“catch” fits here. Use the base verb catch after will.",
+        "c": "“to catch” does not fit here. Use the base verb catch after will.",
+        "d": "“catching” does not fit here. Use the base verb catch after will."
+      }
+    },
+    {
+      "id": "B1-U08-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "General pattern: If I drink coffee late, I ___ well.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "The present simple don’t sleep describes the general result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will slept"
+        },
+        {
+          "id": "b",
+          "text": "don’t sleep"
+        },
+        {
+          "id": "c",
+          "text": "didn’t sleeping"
+        },
+        {
+          "id": "d",
+          "text": "won’t sleeps"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“will slept” does not fit here. The present simple don’t sleep describes the general result.",
+        "b": "“don’t sleep” fits here. The present simple don’t sleep describes the general result.",
+        "c": "“didn’t sleeping” does not fit here. The present simple don’t sleep describes the general result.",
+        "d": "“won’t sleeps” does not fit here. The present simple don’t sleep describes the general result."
+      }
+    },
+    {
+      "id": "B1-U08-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We will walk home if it ___ later.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use doesn’t plus the base verb in the if clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn’t rain"
+        },
+        {
+          "id": "b",
+          "text": "will not raining"
+        },
+        {
+          "id": "c",
+          "text": "doesn’t rains"
+        },
+        {
+          "id": "d",
+          "text": "didn’t rains"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“doesn’t rain” fits here. Use doesn’t plus the base verb in the if clause.",
+        "b": "“will not raining” does not fit here. Use doesn’t plus the base verb in the if clause.",
+        "c": "“doesn’t rains” does not fit here. Use doesn’t plus the base verb in the if clause.",
+        "d": "“didn’t rains” does not fit here. Use doesn’t plus the base verb in the if clause."
+      }
+    },
+    {
+      "id": "B1-U08-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If you mix blue and yellow paint, you generally ___ green.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Get is present simple for the general result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will got"
+        },
+        {
+          "id": "b",
+          "text": "gets"
+        },
+        {
+          "id": "c",
+          "text": "get"
+        },
+        {
+          "id": "d",
+          "text": "getting"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will got” does not fit here. Get is present simple for the general result.",
+        "b": "“gets” does not fit here. Get is present simple for the general result.",
+        "c": "“get” fits here. Get is present simple for the general result.",
+        "d": "“getting” does not fit here. Get is present simple for the general result."
+      }
+    },
+    {
+      "id": "B1-U08-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence follows the basic first conditional pattern?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use present simple after if and will plus the base verb in the result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If she will call, I answer."
+        },
+        {
+          "id": "b",
+          "text": "If she calls, I will answers."
+        },
+        {
+          "id": "c",
+          "text": "If she called yesterday, I will answering."
+        },
+        {
+          "id": "d",
+          "text": "If she calls, I will answer."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“If she will call, I answer.” does not fit here. Use present simple after if and will plus the base verb in the result.",
+        "b": "“If she calls, I will answers.” does not fit here. Use present simple after if and will plus the base verb in the result.",
+        "c": "“If she called yesterday, I will answering.” does not fit here. Use present simple after if and will plus the base verb in the result.",
+        "d": "“If she calls, I will answer.” fits here. Use present simple after if and will plus the base verb in the result."
+      }
+    },
+    {
+      "id": "B1-U08-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "General fact: If you heat ice, it ___. (melt)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Melts expresses the general result.",
+      "accepted_answers": [
+        "melts"
+      ]
+    },
+    {
+      "id": "B1-U08-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Future possibility: If it rains, we ___ inside. Use will and stay.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will stay expresses the intended future result.",
+      "accepted_answers": [
+        "will stay"
+      ]
+    },
+    {
+      "id": "B1-U08-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If she ___ tomorrow, I will answer. (call)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "She takes calls in the if clause.",
+      "accepted_answers": [
+        "calls"
+      ]
+    },
+    {
+      "id": "B1-U08-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If they arrive early, we will ___ dinner together. (have)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the base form after will.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U08-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "General result: If he eats too late, he ___ badly. (sleep)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Sleeps describes the general result.",
+      "accepted_answers": [
+        "sleeps"
+      ]
+    },
+    {
+      "id": "B1-U08-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If you ___ now, you will catch the bus. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the present simple after if.",
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "B1-U08-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If the alarm rings, ___ this button. Use the imperative of press.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "The imperative press gives an instruction.",
+      "accepted_answers": [
+        "press"
+      ]
+    },
+    {
+      "id": "B1-U08-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If he finishes early, he ___ call. Use will.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will introduces the future result.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B1-U08-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: will rain",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the present simple in this basic if clause.",
+      "source_sentence": "If it will rain, we will stay inside.",
+      "target_segment": "will rain",
+      "accepted_answers": [
+        "rains"
+      ]
+    },
+    {
+      "id": "B1-U08-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: finish",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "She takes finishes.",
+      "source_sentence": "If she finish early, she will call.",
+      "target_segment": "finish",
+      "accepted_answers": [
+        "finishes"
+      ]
+    },
+    {
+      "id": "B1-U08-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: catches",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Use the base form after will.",
+      "source_sentence": "If we leave now, we will catches the bus.",
+      "target_segment": "catches",
+      "accepted_answers": [
+        "catch"
+      ]
+    },
+    {
+      "id": "B1-U08-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wills",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will has no -s ending.",
+      "source_sentence": "If he calls, I wills answer.",
+      "target_segment": "wills",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B1-U08-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will stay expresses the future result.",
+      "source_sentence": "We will stay inside if it rains tomorrow.",
+      "keyword": "stay",
+      "target_sentence": "If it rains tomorrow, we ___ inside.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "will stay"
+      ]
+    },
+    {
+      "id": "B1-U08-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "If introduces the condition after the result.",
+      "source_sentence": "If she calls, I will answer.",
+      "keyword": "if",
+      "target_sentence": "I will answer ___ she calls.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "if"
+      ]
+    },
+    {
+      "id": "B1-U08-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Melts describes the general result.",
+      "source_sentence": "Heating ice generally makes it melt.",
+      "keyword": "melts",
+      "target_sentence": "If you heat ice, it ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "melts"
+      ]
+    },
+    {
+      "id": "B1-U08-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U08"
+      ],
+      "explanation": "Will catch expresses the future result.",
+      "source_sentence": "Leaving now will let them catch the bus. State this as a first conditional.",
+      "keyword": "will",
+      "target_sentence": "If they leave now, they ___ the bus.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "will catch"
+      ]
+    }
+  ]
+}

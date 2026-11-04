@@ -1,0 +1,643 @@
+{
+  "id": "B2-U06",
+  "level": "B2",
+  "title": "Modal deduction in present and past",
+  "order": 6,
+  "prerequisites": [
+    "B2-U05"
+  ],
+  "objectives": [
+    "Express present and past deductions with appropriate modal forms.",
+    "Distinguish might not have from can’t have.",
+    "Form continuous deductions about activities in progress."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Modal verbs let speakers express deductions with different degrees of confidence. ‘The lights are on; they must be home’ presents being home as a strong inference from evidence. It does not prove the conclusion. ‘They might be home’ expresses a possibility. ‘They can't be home; they are with us’ presents being home as impossible or highly unlikely from the speaker's viewpoint.",
+        "To make deductions about a completed past event, use a modal plus have and a past participle: ‘They must have left’, ‘They might have left’ and ‘They can't have left’. The modal expresses the speaker's present judgement about the earlier event. It does not itself report that the speaker witnessed it."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For present deductions, use must, may, might, could or can't plus the base form: ‘She must know’ or ‘She might be at work’. For a completed past event, use must, may, might, could or can't plus have and the past participle: ‘She must have known’ or ‘She might have gone’. Use have after a modal for every subject: ‘he must have’, not ‘he must has’.",
+        "Might not have and may not have express the possibility that an event did not occur: ‘She might not have received the message’. Can't have expresses a stronger conclusion that it did not occur: ‘She can't have received it before noon; it was sent at noon’. Must not can express a negative deduction in some varieties and contexts, but in British English mustn't often expresses prohibition, so wording matters."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The road is wet; it might have rained’ with ‘The rain gauge confirms a storm; it must have rained’. Both look back at a possible cause, but must conveys greater confidence. Even strong evidence leaves room for the speaker's judgement. ‘It can't have rained’ expresses the opposite conclusion: the speaker believes rain was impossible or very unlikely.",
+        "Present continuous deduction uses modal plus be plus -ing: ‘She might be working’. Past continuous deduction can use modal plus have been plus -ing: ‘She might have been working when I called’. These forms focus on an activity in progress rather than simply on its completion."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use must not as the automatic opposite of must in every exercise. ‘You mustn't enter’ usually prohibits entry; ‘He can't be inside’ expresses a negative deduction in the intended British English context. Might not be inside leaves his location uncertain.",
+        "May, might and could often overlap for possibility, and they do not provide exact numerical probabilities. A context may support more than one modal, so the exercises specify the intended strength or required word where necessary. Avoid inventing certainty that the evidence does not support."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lights are on; they must be home.",
+      "note": "Must expresses a strong present inference."
+    },
+    {
+      "sentence": "They might be home.",
+      "note": "Might expresses possibility, not certainty."
+    },
+    {
+      "sentence": "They can't be home; they are with us.",
+      "note": "Can't expresses a strong negative deduction."
+    },
+    {
+      "sentence": "She must have left earlier.",
+      "note": "Must have left is a present inference about an earlier departure."
+    },
+    {
+      "sentence": "She might not have received the message.",
+      "note": "Might not have expresses possible non-receipt."
+    },
+    {
+      "sentence": "She can't have received it before noon; it was sent at noon.",
+      "note": "Can't have expresses a strong negative deduction."
+    },
+    {
+      "sentence": "She might be working now.",
+      "note": "Might be working describes possible present progress."
+    },
+    {
+      "sentence": "She might have been working when I called.",
+      "note": "Might have been working describes possible past progress."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She must has left.",
+      "correct": "She must have left.",
+      "reason": "Use have after a modal for every subject."
+    },
+    {
+      "incorrect": "They might have went.",
+      "correct": "They might have gone.",
+      "reason": "Use the past participle gone after have."
+    },
+    {
+      "incorrect": "She might to be at home.",
+      "correct": "She might be at home.",
+      "reason": "Use the base form without to after might."
+    }
+  ],
+  "summary": [
+    "Use a modal plus a base verb for present deductions.",
+    "Use a modal plus have and a past participle for deductions about a completed past event.",
+    "Distinguish uncertain possibility from strong inference or prohibition."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U06-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Strong present inference: The lights are on and I hear them inside; they ___ be home.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Must expresses the stated strong inference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must to"
+        },
+        {
+          "id": "b",
+          "text": "mights"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "might to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“must to” does not fit here. Must expresses the stated strong inference.",
+        "b": "“mights” does not fit here. Must expresses the stated strong inference.",
+        "c": "“must” fits here. Must expresses the stated strong inference.",
+        "d": "“might to” does not fit here. Must expresses the stated strong inference."
+      }
+    },
+    {
+      "id": "B2-U06-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Uncertain past possibility: She ___ have missed the message. Use might.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might have missed expresses past possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "must to"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "might to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“might” fits here. Might have missed expresses past possibility.",
+        "b": "“must to” does not fit here. Might have missed expresses past possibility.",
+        "c": "“has” does not fit here. Might have missed expresses past possibility.",
+        "d": "“might to” does not fit here. Might have missed expresses past possibility."
+      }
+    },
+    {
+      "id": "B2-U06-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Strong negative past deduction: It was sent at noon, so she ___ have received it before noon.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Can’t have received expresses the strong negative deduction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "may"
+        },
+        {
+          "id": "c",
+          "text": "should"
+        },
+        {
+          "id": "d",
+          "text": "can’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“might” does not fit here. Can’t have received expresses the strong negative deduction.",
+        "b": "“may” does not fit here. Can’t have received expresses the strong negative deduction.",
+        "c": "“should” does not fit here. Can’t have received expresses the strong negative deduction.",
+        "d": "“can’t” fits here. Can’t have received expresses the strong negative deduction."
+      }
+    },
+    {
+      "id": "B2-U06-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Possible non-receipt, without certainty: She ___ received it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might not have received leaves the matter uncertain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must have"
+        },
+        {
+          "id": "b",
+          "text": "might not have"
+        },
+        {
+          "id": "c",
+          "text": "can have"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“must have” does not fit here. Might not have received leaves the matter uncertain.",
+        "b": "“might not have” fits here. Might not have received leaves the matter uncertain.",
+        "c": "“can have” does not fit here. Might not have received leaves the matter uncertain.",
+        "d": "“will have” does not fit here. Might not have received leaves the matter uncertain."
+      }
+    },
+    {
+      "id": "B2-U06-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He ___ have left; his coat is gone and I strongly infer he has left.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Must have left expresses the strong inference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must has"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "must to"
+        },
+        {
+          "id": "d",
+          "text": "musts"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“must has” does not fit here. Must have left expresses the strong inference.",
+        "b": "“must” fits here. Must have left expresses the strong inference.",
+        "c": "“must to” does not fit here. Must have left expresses the strong inference.",
+        "d": "“musts” does not fit here. Must have left expresses the strong inference."
+      }
+    },
+    {
+      "id": "B2-U06-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the past continuous deduction: She ___ when I called.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might have been working presents possible past progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "might have been working"
+        },
+        {
+          "id": "b",
+          "text": "might have work"
+        },
+        {
+          "id": "c",
+          "text": "might has been working"
+        },
+        {
+          "id": "d",
+          "text": "might been working"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“might have been working” fits here. Might have been working presents possible past progress.",
+        "b": "“might have work” does not fit here. Might have been working presents possible past progress.",
+        "c": "“might has been working” does not fit here. Might have been working presents possible past progress.",
+        "d": "“might been working” does not fit here. Might have been working presents possible past progress."
+      }
+    },
+    {
+      "id": "B2-U06-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual British form for a strong negative present deduction: That ___ be Leo; he is standing next to us.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Can’t be expresses the strong negative inference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "may"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "can’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“might” does not fit here. Can’t be expresses the strong negative inference.",
+        "b": "“may” does not fit here. Can’t be expresses the strong negative inference.",
+        "c": "“could” does not fit here. Can’t be expresses the strong negative inference.",
+        "d": "“can’t” fits here. Can’t be expresses the strong negative inference."
+      }
+    },
+    {
+      "id": "B2-U06-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correctly formed?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "A modal is followed by have and the participle gone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She must has gone."
+        },
+        {
+          "id": "b",
+          "text": "She might have went."
+        },
+        {
+          "id": "c",
+          "text": "She might have gone."
+        },
+        {
+          "id": "d",
+          "text": "She might to be working."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She must has gone.” does not fit here. A modal is followed by have and the participle gone.",
+        "b": "“She might have went.” does not fit here. A modal is followed by have and the participle gone.",
+        "c": "“She might have gone.” fits here. A modal is followed by have and the participle gone.",
+        "d": "“She might to be working.” does not fit here. A modal is followed by have and the participle gone."
+      }
+    },
+    {
+      "id": "B2-U06-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use must for a strong present deduction: She ___ be home.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Must expresses the stated inference.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "B2-U06-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use might for past possibility: She ___ have left.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might have plus a participle expresses past possibility.",
+      "accepted_answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "B2-U06-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: He must have ___ home. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Gone is the participle of go.",
+      "accepted_answers": [
+        "gone"
+      ]
+    },
+    {
+      "id": "B2-U06-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: They might have ___ the message. (miss)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Missed is the participle of miss.",
+      "accepted_answers": [
+        "missed"
+      ]
+    },
+    {
+      "id": "B2-U06-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use have: She must ___ left earlier.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Use have after the modal must.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U06-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use be: They might ___ working now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might be plus -ing presents possible progress.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B2-U06-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use been: She might have ___ working when I called.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might have been plus -ing presents possible past progress.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U06-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use not: She might ___ have received it; the matter is uncertain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might not have expresses possible non-receipt.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "B2-U06-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Use have after a modal.",
+      "source_sentence": "She must has left.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U06-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: went",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Use the participle gone after have.",
+      "source_sentence": "They might have went.",
+      "target_segment": "went",
+      "accepted_answers": [
+        "gone"
+      ]
+    },
+    {
+      "id": "B2-U06-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to be",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Use the base form without to after might.",
+      "source_sentence": "He might to be home.",
+      "target_segment": "to be",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B2-U06-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: work",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Use an -ing form after have been in this continuous pattern.",
+      "source_sentence": "She could have been work at noon.",
+      "target_segment": "work",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U06-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might have left expresses past possibility.",
+      "source_sentence": "It is possible that she left earlier. Use might.",
+      "keyword": "might",
+      "target_sentence": "She ___ earlier.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "might have left"
+      ]
+    },
+    {
+      "id": "B2-U06-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Must be expresses the stated inference.",
+      "source_sentence": "I strongly infer that he is home. Use must.",
+      "keyword": "must",
+      "target_sentence": "He ___ home.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "must be"
+      ]
+    },
+    {
+      "id": "B2-U06-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Might not have expresses possible non-receipt.",
+      "source_sentence": "It is possible that she did not receive the message. Use might.",
+      "keyword": "might",
+      "target_sentence": "She ___ the message.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "might not have received"
+      ]
+    },
+    {
+      "id": "B2-U06-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U06"
+      ],
+      "explanation": "Can’t have left expresses the strong negative deduction.",
+      "source_sentence": "It is impossible that they left before noon; I saw them at 12.10. Use can’t.",
+      "keyword": null,
+      "target_sentence": "They ___ before noon.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "can’t have left",
+        "cannot have left"
+      ]
+    }
+  ]
+}

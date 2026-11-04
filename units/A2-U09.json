@@ -1,0 +1,642 @@
+{
+  "id": "A2-U09",
+  "level": "A2",
+  "title": "Countable and uncountable nouns",
+  "order": 9,
+  "prerequisites": [
+    "A2-U08"
+  ],
+  "objectives": [
+    "Identify countable and uncountable nouns in context.",
+    "Use singular and plural forms and suitable quantity expressions.",
+    "Ask about amounts using how much and how many."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A countable noun names something we can count as separate items. We can say one apple, two apples or three apples. A singular countable noun normally needs a determiner, a word such as a, an, the or my: ‘I have an apple’, not ‘I have apple’. A plural countable noun can refer to several items: ‘We have apples’.",
+        "An uncountable noun names something we do not normally count as separate items in that meaning. Examples include water, rice, information and furniture. We do not normally say ‘two waters’ when we mean an amount of water. We can measure it in another way: ‘two glasses of water’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Countable nouns have singular and plural forms. Many form the plural by adding -s, as in book and books. Some add -es, as in box and boxes, and some change in other ways, as in child and children. Use a or an only with a singular countable noun: ‘a chair’, ‘an orange’. The choice of a or an depends on the following sound; an orange begins with a vowel sound.",
+        "Uncountable nouns normally use a singular verb: ‘The information is useful’ and ‘The rice is ready’. Do not normally use a or an directly before an uncountable noun: say ‘some information’ or ‘a piece of information’. In questions about quantity, use how many with plural countable nouns and how much with uncountable nouns."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. A shopping list can contain three bananas, but it can also contain some rice. To give a number for rice, name a container or unit: ‘two bags of rice’. The word bags is countable; rice remains uncountable. In the same way, we can say ‘a bottle of water’ or ‘two pieces of furniture’.",
+        "Some, any and other quantity words have several uses. At this stage, notice some in a positive statement and any in a question: ‘We have some eggs’ and ‘Do we have any rice?’ Both countable plurals and uncountable nouns can follow some or any. Later units develop these words further."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "A noun can sometimes be countable in one meaning and uncountable in another. ‘Chicken is on the menu’ can mean the food; ‘There are three chickens in the garden’ means three birds. In a café, ‘two coffees’ can mean two cups of coffee. The context helps you understand what is being counted.",
+        "Do not simply decide from the translation in another language. Information is normally uncountable in English, even when we mean several facts: ‘some information’ or ‘two pieces of information’, not ‘two informations’. Furniture also normally takes an uncountable pattern. A dictionary can show whether a particular meaning is countable or uncountable."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I bought an apple for lunch.",
+      "note": "Apple is singular and countable; use an."
+    },
+    {
+      "sentence": "There are three apples in the bag.",
+      "note": "Apples is a plural countable noun."
+    },
+    {
+      "sentence": "We need some rice for dinner.",
+      "note": "Rice is uncountable in this meaning."
+    },
+    {
+      "sentence": "The information is useful.",
+      "note": "Information is uncountable and takes a singular verb."
+    },
+    {
+      "sentence": "There are two bottles of water on the table.",
+      "note": "Bottles are counted; water is not plural here."
+    },
+    {
+      "sentence": "How many chairs do we need?",
+      "note": "Use how many with plural countable chairs."
+    },
+    {
+      "sentence": "How much bread do we have?",
+      "note": "Use how much with uncountable bread."
+    },
+    {
+      "sentence": "Two chickens are in the garden.",
+      "note": "Chickens refers to individual birds and is countable."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I need an information.",
+      "correct": "I need some information.",
+      "reason": "Information is normally uncountable; do not use an directly before it."
+    },
+    {
+      "incorrect": "The furniture are new.",
+      "correct": "The furniture is new.",
+      "reason": "Uncountable furniture normally takes a singular verb."
+    },
+    {
+      "incorrect": "How much apples do you need?",
+      "correct": "How many apples do you need?",
+      "reason": "Use how many with plural countable apples."
+    }
+  ],
+  "summary": [
+    "Countable nouns have singular and plural forms; singular countable nouns normally need a determiner.",
+    "Uncountable nouns normally take a singular verb and do not use a or an directly.",
+    "Use how many with countable plurals and how much with uncountable nouns."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U09-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I have ___ apple in my bag.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "A singular countable apple takes an before its initial vowel sound.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "some an"
+        },
+        {
+          "id": "d",
+          "text": "two"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“an” fits here. A singular countable apple takes an before its initial vowel sound.",
+        "b": "“a” does not fit here. A singular countable apple takes an before its initial vowel sound.",
+        "c": "“some an” does not fit here. A singular countable apple takes an before its initial vowel sound.",
+        "d": "“two” does not fit here. A singular countable apple takes an before its initial vowel sound."
+      }
+    },
+    {
+      "id": "A2-U09-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ chairs are in the room?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how many with plural countable chairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many of"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "a"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“much” does not fit here. Use how many with plural countable chairs.",
+        "b": "“many of” does not fit here. Use how many with plural countable chairs.",
+        "c": "“many” fits here. Use how many with plural countable chairs.",
+        "d": "“a” does not fit here. Use how many with plural countable chairs."
+      }
+    },
+    {
+      "id": "A2-U09-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We need some ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Rice is uncountable in this food context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rices"
+        },
+        {
+          "id": "b",
+          "text": "a rice"
+        },
+        {
+          "id": "c",
+          "text": "an rice"
+        },
+        {
+          "id": "d",
+          "text": "rice"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“rices” does not fit here. Rice is uncountable in this food context.",
+        "b": "“a rice” does not fit here. Rice is uncountable in this food context.",
+        "c": "“an rice” does not fit here. Rice is uncountable in this food context.",
+        "d": "“rice” fits here. Rice is uncountable in this food context."
+      }
+    },
+    {
+      "id": "A2-U09-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The information ___ helpful.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Uncountable information normally takes the singular verb is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "am"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“are” does not fit here. Uncountable information normally takes the singular verb is.",
+        "b": "“is” fits here. Uncountable information normally takes the singular verb is.",
+        "c": "“be” does not fit here. Uncountable information normally takes the singular verb is.",
+        "d": "“am” does not fit here. Uncountable information normally takes the singular verb is."
+      }
+    },
+    {
+      "id": "A2-U09-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Two ___ of water are on the table.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Count the containers with plural bottles; water remains uncountable.",
+      "options": [
+        {
+          "id": "a",
+          "text": "water"
+        },
+        {
+          "id": "b",
+          "text": "bottle"
+        },
+        {
+          "id": "c",
+          "text": "bottles"
+        },
+        {
+          "id": "d",
+          "text": "waters"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“water” does not fit here. Count the containers with plural bottles; water remains uncountable.",
+        "b": "“bottle” does not fit here. Count the containers with plural bottles; water remains uncountable.",
+        "c": "“bottles” fits here. Count the containers with plural bottles; water remains uncountable.",
+        "d": "“waters” does not fit here. Count the containers with plural bottles; water remains uncountable."
+      }
+    },
+    {
+      "id": "A2-U09-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ bread do you want?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how much with uncountable bread.",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“many” does not fit here. Use how much with uncountable bread.",
+        "b": "“a” does not fit here. Use how much with uncountable bread.",
+        "c": "“an” does not fit here. Use how much with uncountable bread.",
+        "d": "“much” fits here. Use how much with uncountable bread."
+      }
+    },
+    {
+      "id": "A2-U09-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There are three ___ in the garden.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Children is the irregular plural of child.",
+      "options": [
+        {
+          "id": "a",
+          "text": "child"
+        },
+        {
+          "id": "b",
+          "text": "children"
+        },
+        {
+          "id": "c",
+          "text": "childs"
+        },
+        {
+          "id": "d",
+          "text": "childes"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“child” does not fit here. Children is the irregular plural of child.",
+        "b": "“children” fits here. Children is the irregular plural of child.",
+        "c": "“childs” does not fit here. Children is the irregular plural of child.",
+        "d": "“childes” does not fit here. Children is the irregular plural of child."
+      }
+    },
+    {
+      "id": "A2-U09-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the natural phrase for several items of furniture.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Count individual items with pieces of furniture.",
+      "options": [
+        {
+          "id": "a",
+          "text": "three pieces of furniture"
+        },
+        {
+          "id": "b",
+          "text": "three furnitures"
+        },
+        {
+          "id": "c",
+          "text": "a furniture"
+        },
+        {
+          "id": "d",
+          "text": "many furniture"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“three pieces of furniture” fits here. Count individual items with pieces of furniture.",
+        "b": "“three furnitures” does not fit here. Count individual items with pieces of furniture.",
+        "c": "“a furniture” does not fit here. Count individual items with pieces of furniture.",
+        "d": "“many furniture” does not fit here. Count individual items with pieces of furniture."
+      }
+    },
+    {
+      "id": "A2-U09-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There are two ___ on the desk. (book)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use the plural books after two.",
+      "accepted_answers": [
+        "books"
+      ]
+    },
+    {
+      "id": "A2-U09-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I would like ___ orange.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "A singular orange takes an before its vowel sound.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "A2-U09-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ water do we need?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how much with uncountable water.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "A2-U09-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ eggs are there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how many with plural countable eggs.",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "A2-U09-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The rice ___ ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Uncountable rice takes the singular verb is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U09-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I need two pieces of ___. (information)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Information stays uncountable after pieces of.",
+      "accepted_answers": [
+        "information"
+      ]
+    },
+    {
+      "id": "A2-U09-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We have three ___ of milk. (bottle)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use the plural bottles after three.",
+      "accepted_answers": [
+        "bottles"
+      ]
+    },
+    {
+      "id": "A2-U09-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There is a ___ in the room. (chair)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "A takes the singular countable noun chair.",
+      "accepted_answers": [
+        "chair"
+      ]
+    },
+    {
+      "id": "A2-U09-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: child",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Children is the plural after two.",
+      "source_sentence": "She has two child.",
+      "target_segment": "child",
+      "accepted_answers": [
+        "children"
+      ]
+    },
+    {
+      "id": "A2-U09-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Furniture normally takes a singular verb.",
+      "source_sentence": "The furniture are old.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U09-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: an",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Advice is uncountable; some can introduce it.",
+      "source_sentence": "I need an advice.",
+      "target_segment": "an",
+      "accepted_answers": [
+        "some"
+      ]
+    },
+    {
+      "id": "A2-U09-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: much",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how many with plural countable bananas.",
+      "source_sentence": "How much bananas do you want?",
+      "target_segment": "much",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "A2-U09-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Count the amount in litres; milk stays uncountable.",
+      "source_sentence": "There are two containers, each holding one litre of milk.",
+      "keyword": "litres",
+      "target_sentence": "There are two ___ of milk.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "litres"
+      ]
+    },
+    {
+      "id": "A2-U09-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use a with the singular countable noun chair.",
+      "source_sentence": "We have one chair.",
+      "keyword": "a",
+      "target_sentence": "We have ___ chair.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U09-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Count the items with pieces of furniture.",
+      "source_sentence": "The room contains three items of furniture.",
+      "keyword": "pieces",
+      "target_sentence": "There are three ___ furniture in the room.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "pieces of"
+      ]
+    },
+    {
+      "id": "A2-U09-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U09"
+      ],
+      "explanation": "Use how much with uncountable rice.",
+      "source_sentence": "Ask about the amount of rice.",
+      "keyword": "much",
+      "target_sentence": "___ rice is there?",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "How much"
+      ]
+    }
+  ]
+}

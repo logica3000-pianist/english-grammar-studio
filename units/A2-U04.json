@@ -1,0 +1,643 @@
+{
+  "id": "A2-U04",
+  "level": "A2",
+  "title": "Adverbs of frequency and word order",
+  "order": 4,
+  "prerequisites": [
+    "A2-U03"
+  ],
+  "objectives": [
+    "Choose frequency adverbs to describe habits.",
+    "Place frequency adverbs with ordinary verbs, be and auxiliaries.",
+    "Use common expressions such as once a week and twice a month."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "An adverb of frequency is a word that tells us how often something happens. We can use always, usually, often, sometimes, rarely and never to talk about routines. ‘I usually walk to work’ means that walking is my normal choice, but I may sometimes travel another way. ‘I never walk to work’ means that I do not do this as part of my routine.",
+        "These words do not give exact numbers. Different people may use usually or often in slightly different ways. For an exact frequency, use an expression such as ‘twice a week’ or ‘every day’. In this unit, focus on the usual position of these words in a sentence."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "With an ordinary main verb, put the adverb before the verb: subject + adverb + main verb. Say ‘They often play tennis’ and ‘Sara usually reads on the bus’. Remember to add the correct ending to the main verb after he, she or it: ‘He always works on Monday’.",
+        "With the verb be, the adverb usually comes after am, is or are: ‘I am often tired after work’ and ‘The shops are usually busy’. In a sentence with an auxiliary, the adverb normally comes after the auxiliary and before the main verb: ‘She doesn’t usually drive’. These are useful standard positions; sometimes and often can also appear in other positions."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Read the examples below and notice the verb in each one. In ‘We often eat together’, eat is the main verb, so often comes before it. In ‘We are often busy’, are is a form of be, so often comes after it. Compare these patterns when you write about a typical week.",
+        "Longer expressions of frequency, such as ‘every morning’, ‘once a week’ and ‘three times a month’, often come at the end: ‘I call my sister once a week’. Once means one time and twice means two times. From three upwards we usually say ‘three times’, ‘four times’ and so on."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid using an ordinary negative together with never to express one negative meaning in standard English. Say ‘I never eat meat’, not ‘I don’t never eat meat’. You can also say ‘I don’t usually eat meat’, but this means that eating meat is not usual, not necessarily that it never happens.",
+        "Sometimes can come at the beginning or the end as well as before a main verb: ‘Sometimes we cook’, ‘We sometimes cook’ and ‘We cook sometimes’ are all possible. Follow any position stated in an exercise. Frequency words describe a pattern; they do not automatically tell us what someone is doing at this moment."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I always check the time before class.",
+      "note": "Always comes before the main verb check."
+    },
+    {
+      "sentence": "Nadia usually takes the train to work.",
+      "note": "Usually comes before the main verb takes."
+    },
+    {
+      "sentence": "Our neighbours often visit us at weekends.",
+      "note": "Often comes before visit."
+    },
+    {
+      "sentence": "Sometimes we eat outside.",
+      "note": "Sometimes can begin a sentence."
+    },
+    {
+      "sentence": "We are rarely late for dinner.",
+      "note": "Rarely follows the verb are."
+    },
+    {
+      "sentence": "He is never bored in his music class.",
+      "note": "Never follows is."
+    },
+    {
+      "sentence": "I don’t usually watch television in the morning.",
+      "note": "Usually follows the auxiliary don’t."
+    },
+    {
+      "sentence": "They go swimming twice a week.",
+      "note": "The longer frequency expression comes at the end."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She drinks always tea.",
+      "correct": "She always drinks tea.",
+      "reason": "Always normally comes before an ordinary main verb."
+    },
+    {
+      "incorrect": "They usually are tired.",
+      "correct": "They are usually tired.",
+      "reason": "Usually normally follows the verb be."
+    },
+    {
+      "incorrect": "I don’t never eat fish.",
+      "correct": "I never eat fish.",
+      "reason": "Use never without don’t for one negative meaning in standard English."
+    }
+  ],
+  "summary": [
+    "Put frequency adverbs before ordinary main verbs: she often reads.",
+    "Put frequency adverbs after be: they are often busy.",
+    "Longer frequency expressions often come at the end: we meet twice a week."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U04-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual position: Ali ___ breakfast at home.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Usually comes before the main verb eats.",
+      "options": [
+        {
+          "id": "a",
+          "text": "eats usually"
+        },
+        {
+          "id": "b",
+          "text": "usually eats"
+        },
+        {
+          "id": "c",
+          "text": "usually eating"
+        },
+        {
+          "id": "d",
+          "text": "eat usually"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Put usually before the main verb in this sentence.",
+        "b": "Usually eats has the standard word order.",
+        "c": "Eating alone is not the present simple verb here.",
+        "d": "Ali takes eats, and usually normally comes before it."
+      }
+    },
+    {
+      "id": "A2-U04-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual position: The buses ___ late.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Often usually follows are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "often are"
+        },
+        {
+          "id": "b",
+          "text": "is often"
+        },
+        {
+          "id": "c",
+          "text": "are often"
+        },
+        {
+          "id": "d",
+          "text": "often be"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Put often after are in this pattern.",
+        "b": "The plural subject buses takes are.",
+        "c": "Are often has the standard word order.",
+        "d": "Use are rather than the base form be."
+      }
+    },
+    {
+      "id": "A2-U04-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I go to the gym on Monday and Thursday each week. I go ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Monday and Thursday make two visits a week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "twice a week"
+        },
+        {
+          "id": "b",
+          "text": "once a week"
+        },
+        {
+          "id": "c",
+          "text": "three times a week"
+        },
+        {
+          "id": "d",
+          "text": "every day"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Twice means two times.",
+        "b": "Once means one time.",
+        "c": "Three times means three visits.",
+        "d": "Every day means seven days each week."
+      }
+    },
+    {
+      "id": "A2-U04-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual position: We ___ the bus.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Never usually comes before the main verb take.",
+      "options": [
+        {
+          "id": "a",
+          "text": "take never"
+        },
+        {
+          "id": "b",
+          "text": "are never take"
+        },
+        {
+          "id": "c",
+          "text": "never takes"
+        },
+        {
+          "id": "d",
+          "text": "never take"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Put never before take.",
+        "b": "Do not add are before the main verb take.",
+        "c": "We takes the base form take.",
+        "d": "Never take is the standard form."
+      }
+    },
+    {
+      "id": "A2-U04-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual position: I ___ tired after work.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Often usually follows am.",
+      "options": [
+        {
+          "id": "a",
+          "text": "often am"
+        },
+        {
+          "id": "b",
+          "text": "am often"
+        },
+        {
+          "id": "c",
+          "text": "often is"
+        },
+        {
+          "id": "d",
+          "text": "am often be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "The standard position is after am.",
+        "b": "Am often has the standard position.",
+        "c": "I takes am, not is.",
+        "d": "Do not add be after am."
+      }
+    },
+    {
+      "id": "A2-U04-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She doesn’t ___ go out on Mondays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Usually normally follows the auxiliary doesn’t.",
+      "options": [
+        {
+          "id": "a",
+          "text": "usual"
+        },
+        {
+          "id": "b",
+          "text": "never"
+        },
+        {
+          "id": "c",
+          "text": "usually"
+        },
+        {
+          "id": "d",
+          "text": "every"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Usual is an adjective; usually is the adverb.",
+        "b": "Doesn’t never is not standard for this intended meaning.",
+        "c": "Usually fits between the auxiliary and main verb.",
+        "d": "Every needs a following time noun."
+      }
+    },
+    {
+      "id": "A2-U04-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I call my uncle one time each month. I call him ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Once a month means one time each month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "once a month"
+        },
+        {
+          "id": "b",
+          "text": "twice a month"
+        },
+        {
+          "id": "c",
+          "text": "every week"
+        },
+        {
+          "id": "d",
+          "text": "three times a month"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Once means one time.",
+        "b": "Twice means two times.",
+        "c": "Every week does not mean once a month.",
+        "d": "Three times means three calls."
+      }
+    },
+    {
+      "id": "A2-U04-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the sentence with the standard position of always.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Always usually follows the form of be.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He always is friendly."
+        },
+        {
+          "id": "b",
+          "text": "He friendly always is."
+        },
+        {
+          "id": "c",
+          "text": "He is friendly always."
+        },
+        {
+          "id": "d",
+          "text": "He is always friendly."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Put always after is in this pattern.",
+        "b": "This word order is incorrect.",
+        "c": "Put always immediately after is for the standard position.",
+        "d": "Always follows is in the standard position."
+      }
+    },
+    {
+      "id": "A2-U04-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put always before the main verb: I ___ walk to work.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Always comes before the main verb walk.",
+      "accepted_answers": [
+        "always"
+      ]
+    },
+    {
+      "id": "A2-U04-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put often after be: The café is ___ busy.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Often usually follows is.",
+      "accepted_answers": [
+        "often"
+      ]
+    },
+    {
+      "id": "A2-U04-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put never before the main verb: They ___ eat meat.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Never comes before eat; no separate negative is needed.",
+      "accepted_answers": [
+        "never"
+      ]
+    },
+    {
+      "id": "A2-U04-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "One time a week: We meet ___ a week.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Once means one time.",
+      "accepted_answers": [
+        "once"
+      ]
+    },
+    {
+      "id": "A2-U04-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Two times a month: I visit my aunt ___ a month.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Twice means two times.",
+      "accepted_answers": [
+        "twice"
+      ]
+    },
+    {
+      "id": "A2-U04-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put usually after be: You are ___ early.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Usually normally follows are.",
+      "accepted_answers": [
+        "usually"
+      ]
+    },
+    {
+      "id": "A2-U04-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put sometimes before the main verb: My brother ___ cooks.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Sometimes can come before the main verb cooks.",
+      "accepted_answers": [
+        "sometimes"
+      ]
+    },
+    {
+      "id": "A2-U04-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put often after the auxiliary: She doesn’t ___ drive.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Often normally follows the auxiliary doesn’t.",
+      "accepted_answers": [
+        "often"
+      ]
+    },
+    {
+      "id": "A2-U04-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: plays always",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Always normally comes before the main verb.",
+      "source_sentence": "She plays always tennis on Sundays.",
+      "target_segment": "plays always",
+      "accepted_answers": [
+        "always plays"
+      ]
+    },
+    {
+      "id": "A2-U04-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: often are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Often normally comes after are.",
+      "source_sentence": "The students often are tired.",
+      "target_segment": "often are",
+      "accepted_answers": [
+        "are often"
+      ]
+    },
+    {
+      "id": "A2-U04-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: don’t never",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Use never without a second negative for this meaning.",
+      "source_sentence": "I don’t never cook.",
+      "target_segment": "don’t never",
+      "accepted_answers": [
+        "never"
+      ]
+    },
+    {
+      "id": "A2-U04-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: two",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Use twice to mean two times.",
+      "source_sentence": "I visit my sister two a week.",
+      "target_segment": "two",
+      "accepted_answers": [
+        "twice"
+      ]
+    },
+    {
+      "id": "A2-U04-E21",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Twice means two times.",
+      "source_sentence": "We go swimming two times a week.",
+      "keyword": "twice",
+      "target_sentence": "We go swimming ___ a week.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "twice"
+      ]
+    },
+    {
+      "id": "A2-U04-E22",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Never normally follows am.",
+      "source_sentence": "I am late on no occasions.",
+      "keyword": "never",
+      "target_sentence": "I ___ late.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "am never"
+      ]
+    },
+    {
+      "id": "A2-U04-E23",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Usually normally comes before the main verb walks.",
+      "source_sentence": "Usually, Leo walks to college.",
+      "keyword": "usually",
+      "target_sentence": "Leo ___ to college.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "usually walks"
+      ]
+    },
+    {
+      "id": "A2-U04-E24",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U04"
+      ],
+      "explanation": "Usually normally follows the negative auxiliary.",
+      "source_sentence": "She does not normally drive to work.",
+      "keyword": "usually",
+      "target_sentence": "She ___ drive to work.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "doesn’t usually",
+        "does not usually"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "C1-U07",
+  "level": "C1",
+  "title": "Conditional inversion and formal alternatives",
+  "order": 7,
+  "prerequisites": [
+    "C1-U06"
+  ],
+  "objectives": [
+    "Convert suitable if-clauses to inverted conditions.",
+    "Form negative and passive inverted conditions.",
+    "Choose an appropriate register for the situation."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "In formal English, some conditional clauses can omit if and place an auxiliary before the subject. “Had we known, we would have called” corresponds to “If we had known, we would have called.” The inversion belongs to the conditional clause; the result clause retains its ordinary order. These forms are common in formal writing, presentations and carefully prepared speech.",
+        "The choice of auxiliary matters. Had inversion commonly presents an unreal past condition; should inversion can present a possible future condition, often in a formal or cautious tone; were inversion can present an unreal or remote situation. Their meaning comes from the whole conditional, not from inversion alone."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For an unreal past condition, move had before the subject and retain the past participle: “If they had checked, they would have noticed” becomes “Had they checked, they would have noticed.” With a negative condition, put not after the subject: “Had they not checked, they might have missed it.” Do not use the contracted form hadn’t before the subject in this formal pattern.",
+        "For a formal future condition, “If you should require assistance” can become “Should you require assistance”. This is not equivalent to ordinary advice with should: the conditional clause describes a possible circumstance. With were, “If she were here” can become “Were she here”; “If they were to agree” can become “Were they to agree”."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In a customer notice, “Should you need help, contact reception” sounds courteous and formal. It does not predict that help will be needed. In a retrospective discussion, “Had the team tested the design, it might have found the fault” explores an unreal past condition without asserting that the fault would certainly have been found.",
+        "“Were the proposal accepted, the rules would change” uses a passive conditional with were. “Were the proposal to be accepted” expresses a similar remote condition. Keep the intended time and degree of remoteness in mind: “Were she here now” is not a report that she was here in the past."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not combine if with inverted word order in this construction: use “If she had known” or “Had she known”, not “If had she known”. Do not move would into the ordinary condition in these examples: the result clause is where would or might usually appears. Some special uses of would in if-clauses exist, but they are not this pattern.",
+        "Inversion is a register choice, not a sign that an if-clause is incorrect. “If you need help, call us” is natural in everyday communication. “Should you need help” is often more formal and can sound distant in a casual message. Use it when it suits the audience and purpose."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Had we known, we would have called.",
+      "note": "Had we known expresses an unreal past condition."
+    },
+    {
+      "sentence": "Had she not checked, she might have missed the error.",
+      "note": "Not follows the subject in the inverted negative clause."
+    },
+    {
+      "sentence": "Should you need help, contact reception.",
+      "note": "Should introduces a possible future condition in a formal register."
+    },
+    {
+      "sentence": "Were I in your position, I would wait.",
+      "note": "Were I in your position expresses an unreal present condition."
+    },
+    {
+      "sentence": "Were they to agree, the project could proceed.",
+      "note": "Were plus subject plus to-infinitive presents a remote condition."
+    },
+    {
+      "sentence": "Were the proposal accepted, the rules would change.",
+      "note": "Were accepted forms a passive conditional."
+    },
+    {
+      "sentence": "If she had known, she would have called.",
+      "note": "The if-clause is a neutral alternative to had inversion."
+    },
+    {
+      "sentence": "If you need help, call us.",
+      "note": "An ordinary if-clause can be more natural in informal communication."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "If had she known, she would have called.",
+      "correct": "Had she known, she would have called.",
+      "reason": "Remove if when using this inverted conditional."
+    },
+    {
+      "incorrect": "Had she not check, she might have missed it.",
+      "correct": "Had she not checked, she might have missed it.",
+      "reason": "Had takes the past participle checked."
+    },
+    {
+      "incorrect": "Should you to need help, call us.",
+      "correct": "Should you need help, call us.",
+      "reason": "Should takes the base form without to."
+    }
+  ],
+  "summary": [
+    "Conditional inversion can replace if in selected formal patterns.",
+    "Use had for the past perfect, should for a possible future condition, and were for suitable remote conditions.",
+    "Keep the conditional and result clauses distinct and preserve the intended meaning."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U07-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the formal alternative: If we had known, we would have called.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had precedes the subject and known remains a participle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had known we, we would have called."
+        },
+        {
+          "id": "b",
+          "text": "If had we known, we would have called."
+        },
+        {
+          "id": "c",
+          "text": "Had we known, we would have called."
+        },
+        {
+          "id": "d",
+          "text": "Had we know, we would have called."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Had known we, we would have called.” does not fit here. Had precedes the subject and known remains a participle.",
+        "b": "“If had we known, we would have called.” does not fit here. Had precedes the subject and known remains a participle.",
+        "c": "“Had we known, we would have called.” fits here. Had precedes the subject and known remains a participle.",
+        "d": "“Had we know, we would have called.” does not fit here. Had precedes the subject and known remains a participle."
+      }
+    },
+    {
+      "id": "C1-U07-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the negative condition: Had they ___ the form, they might have missed the error.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Not follows the subject and checked is the participle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "not checked"
+        },
+        {
+          "id": "b",
+          "text": "not checking"
+        },
+        {
+          "id": "c",
+          "text": "not to check"
+        },
+        {
+          "id": "d",
+          "text": "checked not to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“not checked” fits here. Not follows the subject and checked is the participle.",
+        "b": "“not checking” does not fit here. Not follows the subject and checked is the participle.",
+        "c": "“not to check” does not fit here. Not follows the subject and checked is the participle.",
+        "d": "“checked not to” does not fit here. Not follows the subject and checked is the participle."
+      }
+    },
+    {
+      "id": "C1-U07-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence gives a formal condition for possible future assistance?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Should plus subject plus base verb can introduce a formal future condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Should you needed help, contact reception."
+        },
+        {
+          "id": "b",
+          "text": "Should need you help, contact reception."
+        },
+        {
+          "id": "c",
+          "text": "Should you to need help, contact reception."
+        },
+        {
+          "id": "d",
+          "text": "Should you need help, contact reception."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Should you needed help, contact reception.” does not fit here. Should plus subject plus base verb can introduce a formal future condition.",
+        "b": "“Should need you help, contact reception.” does not fit here. Should plus subject plus base verb can introduce a formal future condition.",
+        "c": "“Should you to need help, contact reception.” does not fit here. Should plus subject plus base verb can introduce a formal future condition.",
+        "d": "“Should you need help, contact reception.” fits here. Should plus subject plus base verb can introduce a formal future condition."
+      }
+    },
+    {
+      "id": "C1-U07-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the remote condition: ___ to agree, the project could proceed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Were precedes they and is followed by to agree.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If were they"
+        },
+        {
+          "id": "b",
+          "text": "Were they"
+        },
+        {
+          "id": "c",
+          "text": "Were to they"
+        },
+        {
+          "id": "d",
+          "text": "They were"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“If were they” does not fit here. Were precedes they and is followed by to agree.",
+        "b": "“Were they” fits here. Were precedes they and is followed by to agree.",
+        "c": "“Were to they” does not fit here. Were precedes they and is followed by to agree.",
+        "d": "“They were” does not fit here. Were precedes they and is followed by to agree."
+      }
+    },
+    {
+      "id": "C1-U07-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses an unreal present condition?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Were she here now presents an unreal present condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had she been here yesterday, she would have helped."
+        },
+        {
+          "id": "b",
+          "text": "Were she here now, she would help."
+        },
+        {
+          "id": "c",
+          "text": "Should she have been here tomorrow, she would helped."
+        },
+        {
+          "id": "d",
+          "text": "If had she here, she would help."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Had she been here yesterday, she would have helped.” does not fit here. Were she here now presents an unreal present condition.",
+        "b": "“Were she here now, she would help.” fits here. Were she here now presents an unreal present condition.",
+        "c": "“Should she have been here tomorrow, she would helped.” does not fit here. Were she here now presents an unreal present condition.",
+        "d": "“If had she here, she would help.” does not fit here. Were she here now presents an unreal present condition."
+      }
+    },
+    {
+      "id": "C1-U07-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct passive inverted condition.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Were plus subject plus past participle forms this passive condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were the proposal accepted, the rules would change."
+        },
+        {
+          "id": "b",
+          "text": "Were the proposal accept, the rules would change."
+        },
+        {
+          "id": "c",
+          "text": "Was the proposal accepted, the rules would change."
+        },
+        {
+          "id": "d",
+          "text": "If were the proposal accepted, the rules would change."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Were the proposal accepted, the rules would change.” fits here. Were plus subject plus past participle forms this passive condition.",
+        "b": "“Were the proposal accept, the rules would change.” does not fit here. Were plus subject plus past participle forms this passive condition.",
+        "c": "“Was the proposal accepted, the rules would change.” does not fit here. Were plus subject plus past participle forms this passive condition.",
+        "d": "“If were the proposal accepted, the rules would change.” does not fit here. Were plus subject plus past participle forms this passive condition."
+      }
+    },
+    {
+      "id": "C1-U07-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which is a natural informal alternative to “Should you need help, call us”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "The ordinary if-clause gives a possible condition in a less formal style.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had you need help, call us."
+        },
+        {
+          "id": "b",
+          "text": "If need you help, call us."
+        },
+        {
+          "id": "c",
+          "text": "Should you needed help, call us."
+        },
+        {
+          "id": "d",
+          "text": "If you need help, call us."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Had you need help, call us.” does not fit here. The ordinary if-clause gives a possible condition in a less formal style.",
+        "b": "“If need you help, call us.” does not fit here. The ordinary if-clause gives a possible condition in a less formal style.",
+        "c": "“Should you needed help, call us.” does not fit here. The ordinary if-clause gives a possible condition in a less formal style.",
+        "d": "“If you need help, call us.” fits here. The ordinary if-clause gives a possible condition in a less formal style."
+      }
+    },
+    {
+      "id": "C1-U07-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “Had we checked, we might have found it” establish?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had we checked presents a counterfactual condition and might marks a possible result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Checking definitely occurred."
+        },
+        {
+          "id": "b",
+          "text": "The item was certainly found."
+        },
+        {
+          "id": "c",
+          "text": "The speaker considers a past condition and a possible result."
+        },
+        {
+          "id": "d",
+          "text": "Finding was guaranteed."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Checking definitely occurred.” does not fit here. Had we checked presents a counterfactual condition and might marks a possible result.",
+        "b": "“The item was certainly found.” does not fit here. Had we checked presents a counterfactual condition and might marks a possible result.",
+        "c": "“The speaker considers a past condition and a possible result.” fits here. Had we checked presents a counterfactual condition and might marks a possible result.",
+        "d": "“Finding was guaranteed.” does not fit here. Had we checked presents a counterfactual condition and might marks a possible result."
+      }
+    },
+    {
+      "id": "C1-U07-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you require assistance, please contact reception. Use should.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Should can introduce a formal future condition.",
+      "accepted_answers": [
+        "Should"
+      ]
+    },
+    {
+      "id": "C1-U07-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ she known, she would have helped. Use had.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had precedes the subject in the past conditional.",
+      "accepted_answers": [
+        "Had"
+      ]
+    },
+    {
+      "id": "C1-U07-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Had she not ___, she might have missed it. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had takes the past participle checked.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U07-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Were they ___ agree, we could proceed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Were plus subject plus to-infinitive introduces a remote condition.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U07-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Were I ___ your position, I would wait.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "In your position completes the unreal condition.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "C1-U07-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Should you ___ more time, tell us. (need)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Should takes the base form need.",
+      "accepted_answers": [
+        "need"
+      ]
+    },
+    {
+      "id": "C1-U07-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Were the rules ___, the process would change. (revise)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "The passive uses were plus the past participle.",
+      "accepted_answers": [
+        "revised"
+      ]
+    },
+    {
+      "id": "C1-U07-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Had we ___ earlier, we might have caught the train. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had takes the past participle left.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "C1-U07-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Use the past participle after had.",
+      "source_sentence": "Had they not check the figures, they might have missed it.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U07-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to need",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Should takes the base form without to.",
+      "source_sentence": "Should you to need help, please call.",
+      "target_segment": "to need",
+      "accepted_answers": [
+        "need"
+      ]
+    },
+    {
+      "id": "C1-U07-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to they",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Place the subject after were, before to.",
+      "source_sentence": "Were to they agree, we could proceed.",
+      "target_segment": "to they",
+      "accepted_answers": [
+        "they to"
+      ]
+    },
+    {
+      "id": "C1-U07-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: If had she",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Omit if when using the inverted had condition.",
+      "source_sentence": "If had she known, she would have called.",
+      "target_segment": "If had she",
+      "accepted_answers": [
+        "Had she"
+      ]
+    },
+    {
+      "id": "C1-U07-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Had I known replaces if I had known.",
+      "source_sentence": "If I had known, I would have called. Begin with had.",
+      "keyword": "Had",
+      "target_sentence": "___, I would have called.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Had I known"
+      ]
+    },
+    {
+      "id": "C1-U07-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Should you need is the inverted condition.",
+      "source_sentence": "If you should need assistance, contact reception. Begin with should.",
+      "keyword": "Should",
+      "target_sentence": "___ assistance, contact reception.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Should you need"
+      ]
+    },
+    {
+      "id": "C1-U07-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Were precedes the subject in the formal condition.",
+      "source_sentence": "If they were to agree, the project could proceed. Begin with were.",
+      "keyword": "Were",
+      "target_sentence": "___, the project could proceed.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "Were they to agree"
+      ]
+    },
+    {
+      "id": "C1-U07-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U07"
+      ],
+      "explanation": "Not follows the subject in the negative condition.",
+      "source_sentence": "If she had not checked, she might have missed the error. Begin with had.",
+      "keyword": "not",
+      "target_sentence": "___, she might have missed the error.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "Had she not checked"
+      ]
+    }
+  ]
+}

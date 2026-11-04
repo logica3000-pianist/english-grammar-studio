@@ -1,0 +1,642 @@
+{
+  "id": "C1-U09",
+  "level": "C1",
+  "title": "Fronting, information structure and focus",
+  "order": 9,
+  "prerequisites": [
+    "C1-U08"
+  ],
+  "objectives": [
+    "Identify the function of fronting in context.",
+    "Form object fronting without repeating the object.",
+    "Distinguish ordinary order from negative and locative inversion."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Fronting places an element near the beginning of a clause instead of its more usual position. It can connect a sentence to material already mentioned, establish a frame, or make a contrast prominent. Compare “The first proposal we can accept; the second needs more work” with “We can accept the first proposal, but the second needs more work.” The fronted object makes the contrast between the proposals easy to follow.",
+        "English does not front every element equally naturally. A sentence can be grammatical yet sound marked or awkward without a suitable context. In speech, intonation also helps listeners recognise the contrast; in writing, punctuation and surrounding sentences provide clues."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A fronted object normally leaves the subject and verb in their regular order: “That question we can answer later.” Do not normally repeat the object with a pronoun: “That question we can answer”, not “That question we can answer it”, in standard written English. A fronted time or place phrase also usually precedes normal subject–verb order: “After the meeting, the team reviewed the notes.”",
+        "Some place expressions can be followed by full inversion, especially in literary descriptions: “On the hill stood an old tower.” Here the main verb stood precedes the noun phrase subject. This pattern differs from negative-expression inversion such as “Rarely had she visited”: in the latter an auxiliary precedes the subject."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine an editor reviewing two chapters: “The first chapter we can publish now. The second needs revision.” Fronting the first object links the sentence to the comparison already under discussion. In a report, “As for the budget, we need another estimate” explicitly introduces a topic before commenting on it. A topic tells readers what the clause is about; the focus is the information made prominent in a particular context.",
+        "In a descriptive passage, “Across the valley lay a small village” places a setting before the item introduced into the scene. Compare the neutral “A small village lay across the valley.” The fronted version may support the flow of a scene, but it can be too literary for routine instructions."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Fronting a place phrase does not require inversion in every sentence: “In the garden, the children played” is natural. The fully inverted “In the garden played the children” is more restricted and would often sound literary or awkward in ordinary conversation. Pronoun subjects also favour ordinary order in many such contexts: “Here she comes” rather than “Here comes she”.",
+        "Do not confuse a fronted object with a fronted negative expression. “This result we had expected” keeps the subject before had; “Never had we expected this result” puts had before the subject. Choose the structure according to the element fronted, its meaning and the intended register."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The first proposal we can accept; the second needs work.",
+      "note": "The fronted object sets up a contrast between proposals."
+    },
+    {
+      "sentence": "That question we can answer later.",
+      "note": "The fronted object is not repeated by it."
+    },
+    {
+      "sentence": "After the meeting, the team reviewed the notes.",
+      "note": "The fronted time phrase frames a clause in normal order."
+    },
+    {
+      "sentence": "As for the budget, we need another estimate.",
+      "note": "As for introduces the topic."
+    },
+    {
+      "sentence": "On the hill stood an old tower.",
+      "note": "A fronted place phrase precedes the main verb and noun subject."
+    },
+    {
+      "sentence": "Across the valley lay a small village.",
+      "note": "Full inversion gives a descriptive or literary effect."
+    },
+    {
+      "sentence": "Here she comes.",
+      "note": "A pronoun subject uses ordinary subject–verb order here."
+    },
+    {
+      "sentence": "Never had we expected this result.",
+      "note": "Initial never triggers auxiliary–subject inversion."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "That question we can answer it later.",
+      "correct": "That question we can answer later.",
+      "reason": "Do not repeat the fronted object with it in this standard written pattern."
+    },
+    {
+      "incorrect": "After the meeting reviewed the team the notes.",
+      "correct": "After the meeting, the team reviewed the notes.",
+      "reason": "The fronted time phrase normally takes ordinary subject–verb order."
+    },
+    {
+      "incorrect": "Never we had expected this result.",
+      "correct": "Never had we expected this result.",
+      "reason": "Initial never triggers auxiliary–subject inversion."
+    }
+  ],
+  "summary": [
+    "Fronting can establish a topic, frame a clause or highlight a contrast.",
+    "A fronted object normally leaves the subject and verb in regular order.",
+    "Some place expressions permit full inversion, often with a literary effect."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U09-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Two proposals are being contrasted. Which sentence fronts the object?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The first proposal is the object placed before the subject we.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The first proposal we can accept."
+        },
+        {
+          "id": "b",
+          "text": "We can accept the first proposal."
+        },
+        {
+          "id": "c",
+          "text": "The first proposal is acceptable."
+        },
+        {
+          "id": "d",
+          "text": "We accept the proposal first."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The first proposal we can accept.” fits here. The first proposal is the object placed before the subject we.",
+        "b": "“We can accept the first proposal.” does not fit here. The first proposal is the object placed before the subject we.",
+        "c": "“The first proposal is acceptable.” does not fit here. The first proposal is the object placed before the subject we.",
+        "d": "“We accept the proposal first.” does not fit here. The first proposal is the object placed before the subject we."
+      }
+    },
+    {
+      "id": "C1-U09-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the standard written pattern: That question ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The fronted object is not repeated; the subject precedes can.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we can answer it later"
+        },
+        {
+          "id": "b",
+          "text": "can we answer it later"
+        },
+        {
+          "id": "c",
+          "text": "we can answer later"
+        },
+        {
+          "id": "d",
+          "text": "we later can it answer"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“we can answer it later” does not fit here. The fronted object is not repeated; the subject precedes can.",
+        "b": "“can we answer it later” does not fit here. The fronted object is not repeated; the subject precedes can.",
+        "c": "“we can answer later” fits here. The fronted object is not repeated; the subject precedes can.",
+        "d": "“we later can it answer” does not fit here. The fronted object is not repeated; the subject precedes can."
+      }
+    },
+    {
+      "id": "C1-U09-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose normal order after a fronted time phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "A fronted time phrase normally leaves subject–verb order unchanged.",
+      "options": [
+        {
+          "id": "a",
+          "text": "After lunch reviewed the team the notes."
+        },
+        {
+          "id": "b",
+          "text": "After lunch the team did reviewed the notes."
+        },
+        {
+          "id": "c",
+          "text": "After lunch did reviewed the team the notes."
+        },
+        {
+          "id": "d",
+          "text": "After lunch, the team reviewed the notes."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“After lunch reviewed the team the notes.” does not fit here. A fronted time phrase normally leaves subject–verb order unchanged.",
+        "b": "“After lunch the team did reviewed the notes.” does not fit here. A fronted time phrase normally leaves subject–verb order unchanged.",
+        "c": "“After lunch did reviewed the team the notes.” does not fit here. A fronted time phrase normally leaves subject–verb order unchanged.",
+        "d": "“After lunch, the team reviewed the notes.” fits here. A fronted time phrase normally leaves subject–verb order unchanged."
+      }
+    },
+    {
+      "id": "C1-U09-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the literary locative inversion.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Stood precedes the noun subject after the place phrase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "On the hill an old tower stood it."
+        },
+        {
+          "id": "b",
+          "text": "On the hill stood an old tower."
+        },
+        {
+          "id": "c",
+          "text": "On the hill did stood an old tower."
+        },
+        {
+          "id": "d",
+          "text": "On the hill an old tower did stood."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“On the hill an old tower stood it.” does not fit here. Stood precedes the noun subject after the place phrase.",
+        "b": "“On the hill stood an old tower.” fits here. Stood precedes the noun subject after the place phrase.",
+        "c": "“On the hill did stood an old tower.” does not fit here. Stood precedes the noun subject after the place phrase.",
+        "d": "“On the hill an old tower did stood.” does not fit here. Stood precedes the noun subject after the place phrase."
+      }
+    },
+    {
+      "id": "C1-U09-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the usual pronoun order?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The pronoun subject she normally precedes comes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Here comes she."
+        },
+        {
+          "id": "b",
+          "text": "Here does comes she."
+        },
+        {
+          "id": "c",
+          "text": "Here she come does."
+        },
+        {
+          "id": "d",
+          "text": "Here she comes."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Here comes she.” does not fit here. The pronoun subject she normally precedes comes.",
+        "b": "“Here does comes she.” does not fit here. The pronoun subject she normally precedes comes.",
+        "c": "“Here she come does.” does not fit here. The pronoun subject she normally precedes comes.",
+        "d": "“Here she comes.” fits here. The pronoun subject she normally precedes comes."
+      }
+    },
+    {
+      "id": "C1-U09-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “As for the budget, we need an estimate”, what is introduced first?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "As for the budget introduces the topic.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The main verb."
+        },
+        {
+          "id": "b",
+          "text": "The topic of the comment."
+        },
+        {
+          "id": "c",
+          "text": "The direct object of estimate."
+        },
+        {
+          "id": "d",
+          "text": "A past obligation."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The main verb.” does not fit here. As for the budget introduces the topic.",
+        "b": "“The topic of the comment.” fits here. As for the budget introduces the topic.",
+        "c": "“The direct object of estimate.” does not fit here. As for the budget introduces the topic.",
+        "d": "“A past obligation.” does not fit here. As for the budget introduces the topic."
+      }
+    },
+    {
+      "id": "C1-U09-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses negative-expression inversion?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Initial never puts the auxiliary had before the subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The delay we had expected."
+        },
+        {
+          "id": "b",
+          "text": "After lunch we left."
+        },
+        {
+          "id": "c",
+          "text": "Never had we expected the delay."
+        },
+        {
+          "id": "d",
+          "text": "The report we can read later."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The delay we had expected.” does not fit here. Initial never puts the auxiliary had before the subject.",
+        "b": "“After lunch we left.” does not fit here. Initial never puts the auxiliary had before the subject.",
+        "c": "“Never had we expected the delay.” fits here. Initial never puts the auxiliary had before the subject.",
+        "d": "“The report we can read later.” does not fit here. Initial never puts the auxiliary had before the subject."
+      }
+    },
+    {
+      "id": "C1-U09-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What is a likely effect of repeated literary fronting in routine instructions?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Marked fronting can sound too literary for routine instructions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It may make the register unnecessarily elaborate."
+        },
+        {
+          "id": "b",
+          "text": "It always makes them shorter."
+        },
+        {
+          "id": "c",
+          "text": "It is required for correctness."
+        },
+        {
+          "id": "d",
+          "text": "It removes all ambiguity."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It may make the register unnecessarily elaborate.” fits here. Marked fronting can sound too literary for routine instructions.",
+        "b": "“It always makes them shorter.” does not fit here. Marked fronting can sound too literary for routine instructions.",
+        "c": "“It is required for correctness.” does not fit here. Marked fronting can sound too literary for routine instructions.",
+        "d": "“It removes all ambiguity.” does not fit here. Marked fronting can sound too literary for routine instructions."
+      }
+    },
+    {
+      "id": "C1-U09-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Front the object without repeating it: This chapter we can ___ later. (revise)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The fronted object is followed by subject, modal and base verb.",
+      "accepted_answers": [
+        "revise"
+      ]
+    },
+    {
+      "id": "C1-U09-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use normal order: After the meeting, the team ___ the notes. (review)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "A fronted time phrase normally retains ordinary subject–verb order.",
+      "accepted_answers": [
+        "reviewed"
+      ]
+    },
+    {
+      "id": "C1-U09-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use literary inversion: On the hill ___ an old tower. (stand, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The main verb precedes the noun subject in this locative pattern.",
+      "accepted_answers": [
+        "stood"
+      ]
+    },
+    {
+      "id": "C1-U09-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a topic phrase: As ___ the budget, we need an estimate.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "As for introduces a topic.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "C1-U09-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use normal pronoun order: Here ___ comes. (she)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The pronoun subject precedes comes.",
+      "accepted_answers": [
+        "she"
+      ]
+    },
+    {
+      "id": "C1-U09-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Front the object without a repeated pronoun: The second proposal we can ___. (accept)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The subject and modal precede the base verb accept.",
+      "accepted_answers": [
+        "accept"
+      ]
+    },
+    {
+      "id": "C1-U09-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use negative inversion: Never ___ we expected this. (have, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Initial never triggers auxiliary–subject inversion.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "C1-U09-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use normal order: In the garden, the children ___. (play, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "A fronted place phrase does not require inversion.",
+      "accepted_answers": [
+        "played"
+      ]
+    },
+    {
+      "id": "C1-U09-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: answer it",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The fronted object is not repeated by it in this standard written construction.",
+      "source_sentence": "That question we can answer it later.",
+      "target_segment": "answer it",
+      "accepted_answers": [
+        "answer"
+      ]
+    },
+    {
+      "id": "C1-U09-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: reviewed the team",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "A fronted time phrase normally retains subject–verb order.",
+      "source_sentence": "After the meeting reviewed the team the notes.",
+      "target_segment": "reviewed the team",
+      "accepted_answers": [
+        "the team reviewed"
+      ]
+    },
+    {
+      "id": "C1-U09-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: we had",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Initial never triggers auxiliary–subject inversion.",
+      "source_sentence": "Never we had expected the delay.",
+      "target_segment": "we had",
+      "accepted_answers": [
+        "had we"
+      ]
+    },
+    {
+      "id": "C1-U09-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: does she comes",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The ordinary pronoun pattern is here she comes.",
+      "source_sentence": "Here does she comes.",
+      "target_segment": "does she comes",
+      "accepted_answers": [
+        "she comes"
+      ]
+    },
+    {
+      "id": "C1-U09-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Front the object and retain subject–verb order.",
+      "source_sentence": "We can answer that question later. Begin with that question.",
+      "keyword": "can",
+      "target_sentence": "That question ___ later.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "we can answer"
+      ]
+    },
+    {
+      "id": "C1-U09-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The fronted time phrase keeps ordinary subject–verb order.",
+      "source_sentence": "The team reviewed the notes after the meeting. Begin with the time phrase.",
+      "keyword": "reviewed",
+      "target_sentence": "After the meeting, ___ the notes.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "the team reviewed"
+      ]
+    },
+    {
+      "id": "C1-U09-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "The verb precedes the noun subject in literary locative inversion.",
+      "source_sentence": "An old tower stood on the hill. Begin with the place phrase and use full inversion.",
+      "keyword": "stood",
+      "target_sentence": "On the hill ___.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "stood an old tower"
+      ]
+    },
+    {
+      "id": "C1-U09-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U09"
+      ],
+      "explanation": "Initial never triggers auxiliary–subject inversion.",
+      "source_sentence": "We had never expected this result. Begin with never.",
+      "keyword": "had",
+      "target_sentence": "Never ___ this result.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had we expected"
+      ]
+    }
+  ]
+}

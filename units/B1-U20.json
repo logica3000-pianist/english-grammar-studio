@@ -1,0 +1,654 @@
+{
+  "id": "B1-U20",
+  "level": "B1",
+  "title": "Noun phrases and quantity: cumulative review",
+  "order": 20,
+  "prerequisites": [
+    "B1-U19"
+  ],
+  "objectives": [
+    "Build simple noun phrases in a natural order.",
+    "Use partitive expressions with uncountable nouns.",
+    "Review quantifiers, relative clauses and passive forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A noun phrase is a group of words built around a noun. In ‘those two interesting books’, books is the main noun. Those points to the books, two gives the number, and interesting describes them. A noun phrase can be the subject or object of a sentence: ‘Those two books are useful’ and ‘I borrowed those two books’.",
+        "A determiner is a word such as a, the, this, my or those that helps identify or limit a noun. A singular countable noun normally needs a determiner: ‘a book’, ‘the book’ or ‘my book’. We do not normally combine two central determiners directly before the same noun: say ‘my book’ or ‘the book’, not ‘the my book’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "The usual order in a simple noun phrase is determiner, number or quantity, adjective, noun: ‘the three new chairs’ or ‘some useful information’. An adjective before a noun normally has the same form with singular and plural nouns: ‘a new chair’ and ‘new chairs’. The noun's countability determines which quantifiers fit: many chairs but much information.",
+        "Use a unit or container to count an amount of an uncountable noun: ‘a piece of information’, ‘two pieces of information’ and ‘three bottles of water’. The unit word becomes plural when necessary; the uncountable noun normally stays the same. Use of in these expressions."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘some books’ with ‘some of the books’. Some books introduces an unspecified number of books; some of the books selects from a particular group already identified by the context. Likewise, ‘a few students’ is general, while ‘a few of the students’ selects from a known group. Of is needed in these examples before the determiner the.",
+        "This unit reviews quantifiers and related structures. ‘Each student has a ticket’ uses a singular noun and verb. ‘The people who have tickets may enter’ uses a defining relative clause to identify which people. ‘The tickets were checked’ uses a past passive to focus on the tickets."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add -s to an adjective just because the noun is plural: ‘three new chairs’, not ‘three news chairs’. Do not add a plural ending to information in its usual uncountable meaning: say ‘two pieces of information’, not ‘two informations’. Some words have different countable and uncountable meanings, so a dictionary and context remain useful.",
+        "Not every group of words before a noun follows only the simple pattern taught here. Other modifiers can occur, and some determiners combine in particular structures, such as ‘all the students’. The examples in this unit give a practical starting point for ordinary noun phrases and partitive expressions."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Those two interesting books are useful.",
+      "note": "The phrase has a determiner, number, adjective and noun."
+    },
+    {
+      "sentence": "She bought a new chair.",
+      "note": "A introduces a singular countable noun."
+    },
+    {
+      "sentence": "We need some useful information.",
+      "note": "Information is uncountable in this meaning."
+    },
+    {
+      "sentence": "Two pieces of information were missing.",
+      "note": "Pieces is the plural unit; information stays uncountable."
+    },
+    {
+      "sentence": "Some of the books are new.",
+      "note": "Of the books selects from an identified group."
+    },
+    {
+      "sentence": "A few students stayed after class.",
+      "note": "A few introduces a small countable number."
+    },
+    {
+      "sentence": "Each student has a ticket.",
+      "note": "Each student is singular in this pattern."
+    },
+    {
+      "sentence": "The tickets were checked at the door.",
+      "note": "Were checked is a past passive with a plural subject."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I bought the my book.",
+      "correct": "I bought my book.",
+      "reason": "Do not combine the and my directly before the noun."
+    },
+    {
+      "incorrect": "We need two informations.",
+      "correct": "We need two pieces of information.",
+      "reason": "Use a plural unit with uncountable information."
+    },
+    {
+      "incorrect": "Three news chairs arrived.",
+      "correct": "Three new chairs arrived.",
+      "reason": "The adjective does not take a plural ending."
+    }
+  ],
+  "summary": [
+    "A simple noun phrase can contain a determiner, a quantity, an adjective and a noun.",
+    "Use a unit such as a piece of to count an uncountable noun.",
+    "Use of before the identified group in expressions such as some of the books."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U20-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the natural noun phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "The usual order is determiner, number, adjective and noun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the three new chairs"
+        },
+        {
+          "id": "b",
+          "text": "the new three chairs"
+        },
+        {
+          "id": "c",
+          "text": "three the news chairs"
+        },
+        {
+          "id": "d",
+          "text": "the three news chair"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“the three new chairs” fits here. The usual order is determiner, number, adjective and noun.",
+        "b": "“the new three chairs” does not fit here. The usual order is determiner, number, adjective and noun.",
+        "c": "“three the news chairs” does not fit here. The usual order is determiner, number, adjective and noun.",
+        "d": "“the three news chair” does not fit here. The usual order is determiner, number, adjective and noun."
+      }
+    },
+    {
+      "id": "B1-U20-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We need two ___ of information.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Use the plural unit pieces with uncountable information.",
+      "options": [
+        {
+          "id": "a",
+          "text": "informations"
+        },
+        {
+          "id": "b",
+          "text": "pieces"
+        },
+        {
+          "id": "c",
+          "text": "information"
+        },
+        {
+          "id": "d",
+          "text": "piece"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“informations” does not fit here. Use the plural unit pieces with uncountable information.",
+        "b": "“pieces” fits here. Use the plural unit pieces with uncountable information.",
+        "c": "“information” does not fit here. Use the plural unit pieces with uncountable information.",
+        "d": "“piece” does not fit here. Use the plural unit pieces with uncountable information."
+      }
+    },
+    {
+      "id": "B1-U20-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Some ___ the books are new. Choose of or to.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Of connects some with the identified group the books.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "of"
+        },
+        {
+          "id": "d",
+          "text": "with"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to” does not fit here. Of connects some with the identified group the books.",
+        "b": "“for” does not fit here. Of connects some with the identified group the books.",
+        "c": "“of” fits here. Of connects some with the identified group the books.",
+        "d": "“with” does not fit here. Of connects some with the identified group the books."
+      }
+    },
+    {
+      "id": "B1-U20-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Each student ___ a ticket.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Each student is singular and takes has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have” does not fit here. Each student is singular and takes has.",
+        "b": "“are” does not fit here. Each student is singular and takes has.",
+        "c": "“were” does not fit here. Each student is singular and takes has.",
+        "d": "“has” fits here. Each student is singular and takes has."
+      }
+    },
+    {
+      "id": "B1-U20-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ water is left?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Much goes with uncountable water.",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "a few"
+        },
+        {
+          "id": "c",
+          "text": "few"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“many” does not fit here. Much goes with uncountable water.",
+        "b": "“a few” does not fit here. Much goes with uncountable water.",
+        "c": "“few” does not fit here. Much goes with uncountable water.",
+        "d": "“much” fits here. Much goes with uncountable water."
+      }
+    },
+    {
+      "id": "B1-U20-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The engineer ___ designed the bridge called. Choose who or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the engineer and is the subject of designed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "whose bridge"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "which bridge"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“where” does not fit here. Who refers to the engineer and is the subject of designed.",
+        "b": "“whose bridge” does not fit here. Who refers to the engineer and is the subject of designed.",
+        "c": "“who” fits here. Who refers to the engineer and is the subject of designed.",
+        "d": "“which bridge” does not fit here. Who refers to the engineer and is the subject of designed."
+      }
+    },
+    {
+      "id": "B1-U20-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The tickets ___ checked yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U16"
+      ],
+      "explanation": "Were checked is a past passive with a plural subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“were” fits here. Were checked is a past passive with a plural subject.",
+        "b": "“is” does not fit here. Were checked is a past passive with a plural subject.",
+        "c": "“are” does not fit here. Were checked is a past passive with a plural subject.",
+        "d": "“was” does not fit here. Were checked is a past passive with a plural subject."
+      }
+    },
+    {
+      "id": "B1-U20-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the natural phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "My is a determiner; do not put the directly before it here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the my book"
+        },
+        {
+          "id": "b",
+          "text": "my book"
+        },
+        {
+          "id": "c",
+          "text": "my the book"
+        },
+        {
+          "id": "d",
+          "text": "a my book"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“the my book” does not fit here. My is a determiner; do not put the directly before it here.",
+        "b": "“my book” fits here. My is a determiner; do not put the directly before it here.",
+        "c": "“my the book” does not fit here. My is a determiner; do not put the directly before it here.",
+        "d": "“a my book” does not fit here. My is a determiner; do not put the directly before it here."
+      }
+    },
+    {
+      "id": "B1-U20-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the unit phrase: two ___ of information.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Pieces is the plural unit for information.",
+      "accepted_answers": [
+        "pieces"
+      ]
+    },
+    {
+      "id": "B1-U20-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the group phrase: some ___ the books are new.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Use of before the identified group.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "B1-U20-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose new or news: three ___ chairs arrived.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "The adjective does not take a plural ending.",
+      "accepted_answers": [
+        "new"
+      ]
+    },
+    {
+      "id": "B1-U20-E12",
+      "type": "gap",
+      "instruction": "Choose a or the; the chair is first mentioned and not identified.",
+      "prompt": "Choose a or the: I bought ___ chair. It is first mentioned.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "A introduces one singular countable noun for the first time.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "B1-U20-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose many or much: How ___ chairs are there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Many goes with plural countable chairs.",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "B1-U20-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose many or much: How ___ milk is left?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Much goes with uncountable milk.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "B1-U20-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose who or where: The teacher ___ works here is kind.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the person and is the subject.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U20-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past passive: The road ___ repaired yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U16"
+      ],
+      "explanation": "The singular subject takes was.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U20-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: news",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "The adjective does not take a plural ending.",
+      "source_sentence": "Three news chairs arrived.",
+      "target_segment": "news",
+      "accepted_answers": [
+        "new"
+      ]
+    },
+    {
+      "id": "B1-U20-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: two informations",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Use a plural unit with uncountable information.",
+      "source_sentence": "We need two informations.",
+      "target_segment": "two informations",
+      "accepted_answers": [
+        "two pieces of information"
+      ]
+    },
+    {
+      "id": "B1-U20-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: students",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Each takes a singular noun here.",
+      "source_sentence": "Each students has a ticket.",
+      "target_segment": "students",
+      "accepted_answers": [
+        "student"
+      ]
+    },
+    {
+      "id": "B1-U20-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U20",
+        "B1-U16"
+      ],
+      "explanation": "The plural subject windows takes were.",
+      "source_sentence": "The windows was checked yesterday.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "B1-U20-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Pieces of information counts separate items.",
+      "source_sentence": "Two separate items of information were missing.",
+      "keyword": "pieces",
+      "target_sentence": "Two ___ were missing.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "pieces of information"
+      ]
+    },
+    {
+      "id": "B1-U20-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U20"
+      ],
+      "explanation": "Of the books identifies the group.",
+      "source_sentence": "Some books in the identified group are new.",
+      "keyword": "books",
+      "target_sentence": "Some ___ are new.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "of the books"
+      ]
+    },
+    {
+      "id": "B1-U20-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U20",
+        "B1-U19"
+      ],
+      "explanation": "Each student is singular in this pattern.",
+      "source_sentence": "All individual students have a ticket. Use each.",
+      "keyword": "Each",
+      "target_sentence": "___ has a ticket.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Each student"
+      ]
+    },
+    {
+      "id": "B1-U20-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U20",
+        "B1-U16"
+      ],
+      "explanation": "Were checked is the past simple passive.",
+      "source_sentence": "They checked the tickets yesterday. Use the past passive.",
+      "keyword": "checked",
+      "target_sentence": "The tickets ___ yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "were checked"
+      ]
+    }
+  ]
+}

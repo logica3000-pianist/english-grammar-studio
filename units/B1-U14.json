@@ -1,0 +1,642 @@
+{
+  "id": "B1-U14",
+  "level": "B1",
+  "title": "Non-defining relative clauses",
+  "order": 14,
+  "prerequisites": [
+    "B1-U13"
+  ],
+  "objectives": [
+    "Recognise extra information in a non-defining clause.",
+    "Choose suitable relative words in non-defining clauses.",
+    "Distinguish defining and non-defining reference."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A non-defining relative clause adds extra information about a person, thing or place that is already identified in the context. In ‘Maya, who teaches music, lives next door’, the name Maya identifies the person. The clause who teaches music adds a detail. If we remove it, ‘Maya lives next door’ still identifies her.",
+        "In writing, use commas to separate this extra information from the rest of the sentence. When the clause ends the sentence, use one comma before it: ‘I visited York, which is in northern England’. In speech, a pause often marks the added information. The meaning depends on context; punctuation helps show the intended relationship."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use who for people, which for things, whose for possession and where for places: ‘My brother, who lives in York, is a teacher’ and ‘Our car, which is ten years old, still runs well’. Whose can refer to a person or thing: ‘The museum, whose roof was repaired, reopened’.",
+        "In standard written English, do not use that as a relative pronoun in a non-defining clause: use who or which instead. Do not omit the object relative pronoun in this pattern: ‘This book, which I borrowed yesterday, is useful’, not ‘This book, I borrowed yesterday, is useful’. Defining clauses have different rules."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘My sister who lives in Bristol is a doctor’ with ‘My sister, who lives in Bristol, is a doctor’. In a suitable context, the first clause identifies which sister; the second adds information about an already identified sister. The punctuation is connected to meaning, not just decoration.",
+        "A non-defining which clause can sometimes comment on the whole previous idea: ‘We missed the train, which was inconvenient’. Here which refers to missing the train, not only to the train. This use needs a clear context so that the listener can identify what which refers to."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not put a full stop between the main clause and the extra relative clause: ‘Maya, who is a pianist, teaches music’ forms one sentence. The commas show that the relative clause is an addition. If the clause is removed, the remaining sentence should still work: ‘Maya teaches music’.",
+        "Avoid confusing these clauses with defining clauses. The clause in ‘The student who called is Maya’ identifies a student; commas are not normally used. In ‘Maya, who called earlier, is my colleague’, the name identifies the person and the clause adds information. Choose punctuation according to the intended meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya, who teaches music, lives next door.",
+      "note": "Who adds information about an identified person."
+    },
+    {
+      "sentence": "Our car, which is ten years old, still runs well.",
+      "note": "Which adds information about the identified car."
+    },
+    {
+      "sentence": "The museum, whose roof was repaired, reopened.",
+      "note": "Whose connects the museum with its roof."
+    },
+    {
+      "sentence": "I visited York, which is in northern England.",
+      "note": "The extra clause ends the sentence."
+    },
+    {
+      "sentence": "We missed the train, which was inconvenient.",
+      "note": "Which refers to the situation of missing the train."
+    },
+    {
+      "sentence": "My sister, who lives in Bristol, is a doctor.",
+      "note": "The commas mark the information as extra."
+    },
+    {
+      "sentence": "The book, which I borrowed yesterday, is useful.",
+      "note": "Which is an object pronoun and remains in the clause."
+    },
+    {
+      "sentence": "Oxford, where my friend studies, is an old city.",
+      "note": "Where adds a detail about the identified place."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Maya, that teaches music, lives here.",
+      "correct": "Maya, who teaches music, lives here.",
+      "reason": "Use who, not that, in this standard non-defining clause."
+    },
+    {
+      "incorrect": "The book, I borrowed yesterday, is useful.",
+      "correct": "The book, which I borrowed yesterday, is useful.",
+      "reason": "Keep the object relative pronoun in this pattern."
+    },
+    {
+      "incorrect": "Maya, who she works here, is a doctor.",
+      "correct": "Maya, who works here, is a doctor.",
+      "reason": "Who already functions as the subject."
+    }
+  ],
+  "summary": [
+    "Non-defining clauses add information about an already identified noun.",
+    "Use commas and standard relative words such as who, which and whose.",
+    "Do not use that or omit the object relative pronoun in standard non-defining clauses."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U14-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya, ___ teaches music, lives here. Choose who or that for standard writing.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Who refers to Maya in this non-defining clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "whose car"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“that” does not fit here. Who refers to Maya in this non-defining clause.",
+        "b": "“where” does not fit here. Who refers to Maya in this non-defining clause.",
+        "c": "“who” fits here. Who refers to Maya in this non-defining clause.",
+        "d": "“whose car” does not fit here. Who refers to Maya in this non-defining clause."
+      }
+    },
+    {
+      "id": "B1-U14-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The car, ___ is ten years old, still runs well. Choose which or that.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Which refers to the car in this non-defining clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose roof"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“that” does not fit here. Which refers to the car in this non-defining clause.",
+        "b": "“who” does not fit here. Which refers to the car in this non-defining clause.",
+        "c": "“whose roof” does not fit here. Which refers to the car in this non-defining clause.",
+        "d": "“which” fits here. Which refers to the car in this non-defining clause."
+      }
+    },
+    {
+      "id": "B1-U14-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Oxford, ___ my friend studies, is an old city.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Where refers to the identified place.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“where” fits here. Where refers to the identified place.",
+        "b": "“who” does not fit here. Where refers to the identified place.",
+        "c": "“whose” does not fit here. Where refers to the identified place.",
+        "d": "“that” does not fit here. Where refers to the identified place."
+      }
+    },
+    {
+      "id": "B1-U14-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The museum, ___ roof was repaired, reopened.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Whose connects the museum with its roof.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“who” does not fit here. Whose connects the museum with its roof.",
+        "b": "“whose” fits here. Whose connects the museum with its roof.",
+        "c": "“where” does not fit here. Whose connects the museum with its roof.",
+        "d": "“which” does not fit here. Whose connects the museum with its roof."
+      }
+    },
+    {
+      "id": "B1-U14-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses standard punctuation for the extra information?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "The commas enclose the extra relative clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maya who teaches music, lives here."
+        },
+        {
+          "id": "b",
+          "text": "Maya, who teaches music, lives here."
+        },
+        {
+          "id": "c",
+          "text": "Maya, that teaches music, lives here."
+        },
+        {
+          "id": "d",
+          "text": "Maya, teaches music, lives here."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Maya who teaches music, lives here.” does not fit here. The commas enclose the extra relative clause.",
+        "b": "“Maya, who teaches music, lives here.” fits here. The commas enclose the extra relative clause.",
+        "c": "“Maya, that teaches music, lives here.” does not fit here. The commas enclose the extra relative clause.",
+        "d": "“Maya, teaches music, lives here.” does not fit here. The commas enclose the extra relative clause."
+      }
+    },
+    {
+      "id": "B1-U14-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The book, ___ I borrowed yesterday, is useful. Choose which or omission.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Keep which as the object pronoun in this non-defining clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "no word"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "who book"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“which” fits here. Keep which as the object pronoun in this non-defining clause.",
+        "b": "“no word” does not fit here. Keep which as the object pronoun in this non-defining clause.",
+        "c": "“that” does not fit here. Keep which as the object pronoun in this non-defining clause.",
+        "d": "“who book” does not fit here. Keep which as the object pronoun in this non-defining clause."
+      }
+    },
+    {
+      "id": "B1-U14-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We missed the train, which was inconvenient. What was inconvenient?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Which refers to the situation of missing the train.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only the colour of the train."
+        },
+        {
+          "id": "b",
+          "text": "The word train."
+        },
+        {
+          "id": "c",
+          "text": "The station building."
+        },
+        {
+          "id": "d",
+          "text": "Missing the train."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Only the colour of the train.” does not fit here. Which refers to the situation of missing the train.",
+        "b": "“The word train.” does not fit here. Which refers to the situation of missing the train.",
+        "c": "“The station building.” does not fit here. Which refers to the situation of missing the train.",
+        "d": "“Missing the train.” fits here. Which refers to the situation of missing the train."
+      }
+    },
+    {
+      "id": "B1-U14-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which clause adds a detail about an already identified Maya?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "The name Maya identifies her; the clause adds a detail.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The student who called is Maya."
+        },
+        {
+          "id": "b",
+          "text": "The student that called is Maya."
+        },
+        {
+          "id": "c",
+          "text": "Maya, who called earlier, is my colleague."
+        },
+        {
+          "id": "d",
+          "text": "The woman who called is Maya."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The student who called is Maya.” does not fit here. The name Maya identifies her; the clause adds a detail.",
+        "b": "“The student that called is Maya.” does not fit here. The name Maya identifies her; the clause adds a detail.",
+        "c": "“Maya, who called earlier, is my colleague.” fits here. The name Maya identifies her; the clause adds a detail.",
+        "d": "“The woman who called is Maya.” does not fit here. The name Maya identifies her; the clause adds a detail."
+      }
+    },
+    {
+      "id": "B1-U14-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose who or that for standard writing: Ana, ___ lives nearby, is a doctor.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Who introduces extra information about Ana.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U14-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose which or that: The car, ___ is old, runs well.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Which introduces extra information about the car.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U14-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whose: The museum, ___ roof was repaired, reopened.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Whose connects the house with its roof.",
+      "accepted_answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "B1-U14-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use where: York, ___ we met, is an old city.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Where refers to the identified place.",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B1-U14-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use which: The book, ___ I borrowed, is useful.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "The object relative pronoun remains in this non-defining clause.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U14-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use who: My father, ___ teaches music, lives here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Who refers to a person.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U14-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use which: We missed the bus, ___ was inconvenient.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Which refers to the previous situation.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U14-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whose: Maya, ___ brother is a doctor, works here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Whose expresses the relationship.",
+      "accepted_answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "B1-U14-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Use who rather than that in this non-defining clause.",
+      "source_sentence": "Ana, that lives nearby, is a doctor.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U14-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Use which rather than that in this non-defining clause.",
+      "source_sentence": "The book, that I borrowed, is useful.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U14-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who she",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Who already functions as the subject.",
+      "source_sentence": "Maya, who she works here, is a doctor.",
+      "target_segment": "who she",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U14-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who roof",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Whose expresses the relationship with the roof.",
+      "source_sentence": "The museum, who roof was repaired, reopened.",
+      "target_segment": "who roof",
+      "accepted_answers": [
+        "whose roof"
+      ]
+    },
+    {
+      "id": "B1-U14-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Who introduces the extra detail about Maya.",
+      "source_sentence": "Maya teaches music. Maya, who is already identified, lives here. Add the extra detail.",
+      "keyword": "who",
+      "target_sentence": "Maya, ___, lives here.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "who teaches music"
+      ]
+    },
+    {
+      "id": "B1-U14-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Which introduces the extra detail about the car.",
+      "source_sentence": "Our car is ten years old. It still runs well. Add the age as extra information.",
+      "keyword": "which",
+      "target_sentence": "Our car, ___, still runs well.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "which is ten years old"
+      ]
+    },
+    {
+      "id": "B1-U14-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Whose introduces the relationship.",
+      "source_sentence": "Maya’s brother is a doctor. Maya works here. Add the relationship as extra information.",
+      "keyword": "whose",
+      "target_sentence": "Maya, ___, works here.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "whose brother is a doctor"
+      ]
+    },
+    {
+      "id": "B1-U14-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U14"
+      ],
+      "explanation": "Where refers to the identified place.",
+      "source_sentence": "My friend studies in Oxford. Oxford is an old city. Add the detail.",
+      "keyword": "where",
+      "target_sentence": "Oxford, ___, is an old city.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "where my friend studies"
+      ]
+    }
+  ]
+}

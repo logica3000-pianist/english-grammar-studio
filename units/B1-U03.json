@@ -1,0 +1,643 @@
+{
+  "id": "B1-U03",
+  "level": "B1",
+  "title": "Present perfect and past simple",
+  "order": 3,
+  "prerequisites": [
+    "B1-U02"
+  ],
+  "objectives": [
+    "Choose between the present perfect and past simple in clear contexts.",
+    "Use already and yet in common contexts.",
+    "Form questions with have or did."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The present perfect and the past simple can both refer to past events, but they present the time differently. Use the present perfect when you connect an event to the present and do not give a finished past time: ‘I have lost my keys’ can mean that I do not have them now. Use the past simple for an event at a finished past time: ‘I lost my keys yesterday’.",
+        "You can also use the present perfect to ask about experience up to now: ‘Have you ever visited York?’ Once the conversation moves to a particular visit, use the past simple for its finished time: ‘Yes, I visited York in 2022’. The time expression in 2022 locates that visit in a finished period."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Form the present perfect with have or has plus a past participle: ‘She has written an email’. Form the past simple with the past form of the verb in a positive statement: ‘She wrote an email yesterday’. In a past simple question or negative with an ordinary verb, use did or didn't and the base verb: ‘Did she write?’ and ‘She didn't write’.",
+        "Expressions such as yesterday, last year, in 2019 and two hours ago refer to finished past time, so they normally go with the past simple in these examples. Ever, never, already and yet often appear with the present perfect. Already commonly appears in positive statements; yet commonly appears in questions and negatives. Usage can vary by context and variety of English."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I have read that book’ with ‘I read that book last month’. The first reports an experience without saying when. The second identifies a finished past time. Compare ‘She has already eaten’ with ‘She ate at noon’. The first may explain why she is not hungry now; the second locates the meal at a past time.",
+        "The word today can refer to an unfinished period or a finished part of the day. If the day is still in progress, British English often uses the present perfect: ‘I've had two calls today’. If the speaker treats a time as finished, a past simple may be appropriate. Listen to the speaker's meaning rather than memorising a single rule for each word."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not combine a present perfect experience statement with yesterday in standard English: say ‘I saw her yesterday’, not ‘I have seen her yesterday’. When no finished time is given, either tense may sometimes be possible, but the meaning and surrounding conversation influence the choice.",
+        "A present perfect sentence does not always mean an action is still happening. ‘I have finished the report’ describes a completed action with a present result. By contrast, ‘I have worked here for three years’ can describe a situation that continues. Ask whether the sentence concerns a result, experience or continuing situation."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I've lost my keys, so I can't open the door.",
+      "note": "The present perfect connects the loss with a present result."
+    },
+    {
+      "sentence": "I lost my keys yesterday.",
+      "note": "Yesterday identifies a finished past time."
+    },
+    {
+      "sentence": "Have you ever visited York?",
+      "note": "The question asks about experience up to now."
+    },
+    {
+      "sentence": "I visited York in 2022.",
+      "note": "In 2022 identifies a finished past time."
+    },
+    {
+      "sentence": "She has already eaten lunch.",
+      "note": "Already commonly appears in this positive present perfect statement."
+    },
+    {
+      "sentence": "Have they finished yet?",
+      "note": "Yet commonly appears in present perfect questions."
+    },
+    {
+      "sentence": "We haven't finished yet.",
+      "note": "Yet commonly appears in present perfect negatives."
+    },
+    {
+      "sentence": "Did you see Ben last week?",
+      "note": "Did and the base verb form a past simple question."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have seen her yesterday.",
+      "correct": "I saw her yesterday.",
+      "reason": "Yesterday is a finished past time in this context."
+    },
+    {
+      "incorrect": "She has wrote the report.",
+      "correct": "She has written the report.",
+      "reason": "Written is the participle after has."
+    },
+    {
+      "incorrect": "Did you saw him?",
+      "correct": "Did you see him?",
+      "reason": "Use the base form after did."
+    }
+  ],
+  "summary": [
+    "Use the present perfect to connect past events with the present or to discuss experience.",
+    "Use the past simple for a finished past time such as yesterday.",
+    "Use a past participle after have or has and a base verb after did."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U03-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ my keys yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Yesterday is a finished past time, so use lost.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have lost"
+        },
+        {
+          "id": "b",
+          "text": "have lose"
+        },
+        {
+          "id": "c",
+          "text": "has lost"
+        },
+        {
+          "id": "d",
+          "text": "lost"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have lost” does not fit here. Yesterday is a finished past time, so use lost.",
+        "b": "“have lose” does not fit here. Yesterday is a finished past time, so use lost.",
+        "c": "“has lost” does not fit here. Yesterday is a finished past time, so use lost.",
+        "d": "“lost” fits here. Yesterday is a finished past time, so use lost."
+      }
+    },
+    {
+      "id": "B1-U03-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya has no keys now. She ___ them.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Has lost connects the past loss with the present result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has lost"
+        },
+        {
+          "id": "b",
+          "text": "has lost yesterday"
+        },
+        {
+          "id": "c",
+          "text": "lose"
+        },
+        {
+          "id": "d",
+          "text": "has lose"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“has lost” fits here. Has lost connects the past loss with the present result.",
+        "b": "A finished time such as yesterday normally takes the past simple in this context.",
+        "c": "“lose” does not fit here. Has lost connects the past loss with the present result.",
+        "d": "“has lose” does not fit here. Has lost connects the past loss with the present result."
+      }
+    },
+    {
+      "id": "B1-U03-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you ever visited York?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Have you ever visited asks about experience up to now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Has"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Did” does not fit here. Have you ever visited asks about experience up to now.",
+        "b": "“Are” does not fit here. Have you ever visited asks about experience up to now.",
+        "c": "“Have” fits here. Have you ever visited asks about experience up to now.",
+        "d": "“Has” does not fit here. Have you ever visited asks about experience up to now."
+      }
+    },
+    {
+      "id": "B1-U03-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ to York in 2022.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "In 2022 is a finished past time, so use went.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have gone"
+        },
+        {
+          "id": "b",
+          "text": "went"
+        },
+        {
+          "id": "c",
+          "text": "have went"
+        },
+        {
+          "id": "d",
+          "text": "go"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have gone” does not fit here. In 2022 is a finished past time, so use went.",
+        "b": "“went” fits here. In 2022 is a finished past time, so use went.",
+        "c": "“have went” does not fit here. In 2022 is a finished past time, so use went.",
+        "d": "“go” does not fit here. In 2022 is a finished past time, so use went."
+      }
+    },
+    {
+      "id": "B1-U03-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Has he finished the report ___?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Yet is common in a present perfect question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "yesterday"
+        },
+        {
+          "id": "b",
+          "text": "last year"
+        },
+        {
+          "id": "c",
+          "text": "yet"
+        },
+        {
+          "id": "d",
+          "text": "ago"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“yesterday” does not fit here. Yet is common in a present perfect question.",
+        "b": "“last year” does not fit here. Yet is common in a present perfect question.",
+        "c": "“yet” fits here. Yet is common in a present perfect question.",
+        "d": "“ago” does not fit here. Yet is common in a present perfect question."
+      }
+    },
+    {
+      "id": "B1-U03-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She has ___ eaten, so she is not hungry now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Already is common in this positive present perfect statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "yesterday"
+        },
+        {
+          "id": "b",
+          "text": "already"
+        },
+        {
+          "id": "c",
+          "text": "last"
+        },
+        {
+          "id": "d",
+          "text": "ago"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“yesterday” does not fit here. Already is common in this positive present perfect statement.",
+        "b": "“already” fits here. Already is common in this positive present perfect statement.",
+        "c": "“last” does not fit here. Already is common in this positive present perfect statement.",
+        "d": "“ago” does not fit here. Already is common in this positive present perfect statement."
+      }
+    },
+    {
+      "id": "B1-U03-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ they see the film last night?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Did forms a question about a finished past time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Have"
+        },
+        {
+          "id": "c",
+          "text": "Has"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Did” fits here. Did forms a question about a finished past time.",
+        "b": "“Have” does not fit here. Did forms a question about a finished past time.",
+        "c": "“Has” does not fit here. Did forms a question about a finished past time.",
+        "d": "“Are” does not fit here. Did forms a question about a finished past time."
+      }
+    },
+    {
+      "id": "B1-U03-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I have never ___ a horse.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Ridden is the past participle after have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rode"
+        },
+        {
+          "id": "b",
+          "text": "ride"
+        },
+        {
+          "id": "c",
+          "text": "riding"
+        },
+        {
+          "id": "d",
+          "text": "ridden"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“rode” does not fit here. Ridden is the past participle after have.",
+        "b": "“ride” does not fit here. Ridden is the past participle after have.",
+        "c": "“riding” does not fit here. Ridden is the past participle after have.",
+        "d": "“ridden” fits here. Ridden is the past participle after have."
+      }
+    },
+    {
+      "id": "B1-U03-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past simple: I ___ her yesterday. (see)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Yesterday calls for the past simple saw.",
+      "accepted_answers": [
+        "saw"
+      ]
+    },
+    {
+      "id": "B1-U03-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect: She has ___ the letter. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Written is the participle after has.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B1-U03-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past simple: They ___ to Rome in 2020. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Went is the past form of go.",
+      "accepted_answers": [
+        "went"
+      ]
+    },
+    {
+      "id": "B1-U03-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect: We have ___ lunch already. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Eaten is the participle after have.",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U03-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: Have you finished ___?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Yet commonly appears at the end of this question.",
+      "accepted_answers": [
+        "yet"
+      ]
+    },
+    {
+      "id": "B1-U03-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the negative: They haven’t arrived ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Yet commonly appears at the end of this negative.",
+      "accepted_answers": [
+        "yet"
+      ]
+    },
+    {
+      "id": "B1-U03-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with did or have: ___ you see Sam yesterday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Did introduces the past simple question.",
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "B1-U03-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with did or have: ___ you ever seen a whale?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Have introduces the present perfect experience question.",
+      "accepted_answers": [
+        "Have"
+      ]
+    },
+    {
+      "id": "B1-U03-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has visited",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use the past simple with last year.",
+      "source_sentence": "She has visited York last year.",
+      "target_segment": "has visited",
+      "accepted_answers": [
+        "visited"
+      ]
+    },
+    {
+      "id": "B1-U03-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use the participle eaten after have.",
+      "source_sentence": "I have ate lunch already.",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U03-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: went",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use the base form after did.",
+      "source_sentence": "Did he went home yesterday?",
+      "target_segment": "went",
+      "accepted_answers": [
+        "go"
+      ]
+    },
+    {
+      "id": "B1-U03-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "They takes have.",
+      "source_sentence": "They has finished the task.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U03-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Have seen reports experience without a finished date.",
+      "source_sentence": "I saw that film at least once in my life; no date is given.",
+      "keyword": "seen",
+      "target_sentence": "I ___ that film.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have seen"
+      ]
+    },
+    {
+      "id": "B1-U03-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use visited with the finished time last year.",
+      "source_sentence": "Her visit to York took place last year.",
+      "keyword": "visited",
+      "target_sentence": "She ___ York last year.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "visited"
+      ]
+    },
+    {
+      "id": "B1-U03-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use haven’t or have not plus finished.",
+      "source_sentence": "They have not finished the task yet.",
+      "keyword": null,
+      "target_sentence": "They ___ the task yet.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "haven’t finished",
+        "have not finished"
+      ]
+    },
+    {
+      "id": "B1-U03-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U03"
+      ],
+      "explanation": "Use did with the base form see.",
+      "source_sentence": "You saw Ben yesterday. Ask a yes/no question.",
+      "keyword": "Did",
+      "target_sentence": "___ you see Ben yesterday?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Did"
+      ]
+    }
+  ]
+}

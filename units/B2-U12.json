@@ -1,0 +1,642 @@
+{
+  "id": "B2-U12",
+  "level": "B2",
+  "title": "Have and get something done",
+  "order": 12,
+  "prerequisites": [
+    "B2-U11"
+  ],
+  "objectives": [
+    "Form have and get something done in common tenses.",
+    "Distinguish arranging a service from performing it.",
+    "Recognise the unpleasant-experience use."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Have or get something done can describe arranging for someone else to perform a service. ‘I had my hair cut’ normally means that another person cut my hair, often by appointment. ‘We're getting the boiler repaired’ describes an arrangement for a repair. The sentence focuses on the service and its recipient; it need not name the person who performs it.",
+        "The same form can also describe an unpleasant experience rather than an arrangement: ‘She had her bag stolen’ means that someone stole her bag. Context determines whether a sentence describes arranging a service or experiencing an event. In a theft context, the sentence does not imply that she arranged it."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "The basic pattern is have or get plus an object plus a past participle: ‘have my hair cut’, ‘get the car repaired’. The tense or modal appears on have or get: ‘She has her hair cut regularly’, ‘She had her hair cut yesterday’, and ‘She will get her hair cut tomorrow’. The participle follows the object.",
+        "For a present simple question or negative with have in this pattern, use do or does: ‘Do you have your hair cut here?’ and ‘She doesn't have the car serviced here’. In the past simple, use did and the base form have or get: ‘Did you have it repaired?’ In continuous forms, use a form of be plus having or getting: ‘We are having the kitchen painted’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I repaired my bike’ with ‘I had my bike repaired’. The first says I performed the repair. The second normally describes arranging for the repair to be done, without saying who repaired it. If the person matters, a by phrase is possible: ‘I had the bike repaired by a technician’.",
+        "Get something done can be slightly more informal than have something done, though both are common and context matters. It can also express success in completing or arranging a task: ‘I finally got the forms signed’. In ‘She had her bag stolen’, had describes an experience; it is not a past perfect auxiliary because the object her bag comes before the participle."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not confuse ‘I had my hair cut’ with ‘I cut my hair’. The first normally describes a service done to my hair; the second says I did the cutting. Do not put the participle before the object: use ‘had the car repaired’, not ‘had repaired the car’ for the causative pattern, although ‘had repaired the car’ can be a grammatical past perfect active with a different meaning.",
+        "Keep the base form after did: ‘Did she have the car repaired?’, not ‘Did she had the car repaired?’ Do not assume that every have plus participle sequence is causative. In ‘She has repaired the car’, she is the repairer and has is a perfect auxiliary. In ‘She has the car repaired’, the present simple causative describes an arranged service in the relevant context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I had my hair cut yesterday.",
+      "note": "The sentence normally describes a service performed by someone else."
+    },
+    {
+      "sentence": "We are getting the boiler repaired.",
+      "note": "Getting marks an arrangement in progress."
+    },
+    {
+      "sentence": "She has her car serviced regularly.",
+      "note": "Has is the present simple form for a singular subject."
+    },
+    {
+      "sentence": "Did you have the device repaired?",
+      "note": "Did is followed by the base form have."
+    },
+    {
+      "sentence": "I finally got the forms signed.",
+      "note": "Get can describe succeeding in arranging or completing a task."
+    },
+    {
+      "sentence": "She had her bag stolen.",
+      "note": "This describes an unpleasant experience, not an arrangement."
+    },
+    {
+      "sentence": "I repaired my bike.",
+      "note": "The subject performed the repair."
+    },
+    {
+      "sentence": "I had my bike repaired by a technician.",
+      "note": "The by phrase identifies the person who repaired it."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I had my hair cutting.",
+      "correct": "I had my hair cut.",
+      "reason": "Use the past participle after the object."
+    },
+    {
+      "incorrect": "Did she had the car repaired?",
+      "correct": "Did she have the car repaired?",
+      "reason": "Use the base form have after did."
+    },
+    {
+      "incorrect": "We are getting repaired the boiler.",
+      "correct": "We are getting the boiler repaired.",
+      "reason": "Put the object before the participle in this pattern."
+    }
+  ],
+  "summary": [
+    "Use have or get plus an object and a past participle for an arranged service.",
+    "The same form can describe an unpleasant experience, depending on context.",
+    "Mark tense on have or get and keep the object before the participle."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U12-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "A technician repaired my bike for me. I ___ repaired.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had my bike repaired presents the arranged service.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had my bike"
+        },
+        {
+          "id": "b",
+          "text": "had repaired my bike"
+        },
+        {
+          "id": "c",
+          "text": "had my bike repairing"
+        },
+        {
+          "id": "d",
+          "text": "have my bike repair yesterday"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had my bike” fits here. Had my bike repaired presents the arranged service.",
+        "b": "“had repaired my bike” does not fit here. Had my bike repaired presents the arranged service.",
+        "c": "“had my bike repairing” does not fit here. Had my bike repaired presents the arranged service.",
+        "d": "“have my bike repair yesterday” does not fit here. Had my bike repaired presents the arranged service."
+      }
+    },
+    {
+      "id": "B2-U12-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She arranged a service yesterday. She ___ cut.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had her hair cut is the past causative pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had cut her hair"
+        },
+        {
+          "id": "b",
+          "text": "has her hair"
+        },
+        {
+          "id": "c",
+          "text": "had her hair"
+        },
+        {
+          "id": "d",
+          "text": "had her hair cutting"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“had cut her hair” does not fit here. Had her hair cut is the past causative pattern.",
+        "b": "“has her hair” does not fit here. Had her hair cut is the past causative pattern.",
+        "c": "“had her hair” fits here. Had her hair cut is the past causative pattern.",
+        "d": "“had her hair cutting” does not fit here. Had her hair cut is the past causative pattern."
+      }
+    },
+    {
+      "id": "B2-U12-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The theft was not arranged. She ___ stolen.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had her bag stolen describes an unpleasant experience.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had stolen her bag"
+        },
+        {
+          "id": "b",
+          "text": "had her bag stealing"
+        },
+        {
+          "id": "c",
+          "text": "has her bag steal"
+        },
+        {
+          "id": "d",
+          "text": "had her bag"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“had stolen her bag” does not fit here. Had her bag stolen describes an unpleasant experience.",
+        "b": "“had her bag stealing” does not fit here. Had her bag stolen describes an unpleasant experience.",
+        "c": "“has her bag steal” does not fit here. Had her bag stolen describes an unpleasant experience.",
+        "d": "“had her bag” fits here. Had her bag stolen describes an unpleasant experience."
+      }
+    },
+    {
+      "id": "B2-U12-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you have the device repaired yesterday?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Did introduces the past simple question; have stays in the base form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Had to"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Were” does not fit here. Did introduces the past simple question; have stays in the base form.",
+        "b": "“Did” fits here. Did introduces the past simple question; have stays in the base form.",
+        "c": "“Had to” does not fit here. Did introduces the past simple question; have stays in the base form.",
+        "d": "“Does” does not fit here. Did introduces the past simple question; have stays in the base form."
+      }
+    },
+    {
+      "id": "B2-U12-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ the kitchen painted at the moment.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Are having the kitchen painted is the continuous causative.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are having painted"
+        },
+        {
+          "id": "b",
+          "text": "had have"
+        },
+        {
+          "id": "c",
+          "text": "are have"
+        },
+        {
+          "id": "d",
+          "text": "are having"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“are having painted” does not fit here. Are having the kitchen painted is the continuous causative.",
+        "b": "“had have” does not fit here. Are having the kitchen painted is the continuous causative.",
+        "c": "“are have” does not fit here. Are having the kitchen painted is the continuous causative.",
+        "d": "“are having” fits here. Are having the kitchen painted is the continuous causative."
+      }
+    },
+    {
+      "id": "B2-U12-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence says the speaker performed the repair?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "The active subject I performed the repair.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I had my bike repaired."
+        },
+        {
+          "id": "b",
+          "text": "I repaired my bike."
+        },
+        {
+          "id": "c",
+          "text": "I got my bike repaired by a technician."
+        },
+        {
+          "id": "d",
+          "text": "I had my bike repaired by a mechanic."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“I had my bike repaired.” does not fit here. The active subject I performed the repair.",
+        "b": "“I repaired my bike.” fits here. The active subject I performed the repair.",
+        "c": "“I got my bike repaired by a technician.” does not fit here. The active subject I performed the repair.",
+        "d": "“I had my bike repaired by a mechanic.” does not fit here. The active subject I performed the repair."
+      }
+    },
+    {
+      "id": "B2-U12-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence describes an unpleasant experience?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had her bag stolen describes the theft as an experience.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had the boiler serviced."
+        },
+        {
+          "id": "b",
+          "text": "She got her hair cut at the salon."
+        },
+        {
+          "id": "c",
+          "text": "She had her bag stolen."
+        },
+        {
+          "id": "d",
+          "text": "She had the car repaired by a technician."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She had the boiler serviced.” does not fit here. Had her bag stolen describes the theft as an experience.",
+        "b": "“She got her hair cut at the salon.” does not fit here. Had her bag stolen describes the theft as an experience.",
+        "c": "“She had her bag stolen.” fits here. Had her bag stolen describes the theft as an experience.",
+        "d": "“She had the car repaired by a technician.” does not fit here. Had her bag stolen describes the theft as an experience."
+      }
+    },
+    {
+      "id": "B2-U12-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correctly formed?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Put the object before the participle in the causative pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had the car repaired."
+        },
+        {
+          "id": "b",
+          "text": "Did she had the car repaired?"
+        },
+        {
+          "id": "c",
+          "text": "She had her hair to cut by a salon."
+        },
+        {
+          "id": "d",
+          "text": "She got repaired the boiler."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“She had the car repaired.” fits here. Put the object before the participle in the causative pattern.",
+        "b": "“Did she had the car repaired?” does not fit here. Put the object before the participle in the causative pattern.",
+        "c": "The causative pattern uses the object followed by a past participle: had her hair cut.",
+        "d": "“She got repaired the boiler.” does not fit here. Put the object before the participle in the causative pattern."
+      }
+    },
+    {
+      "id": "B2-U12-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past causative: I ___ my hair cut yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had marks the past tense of the causative.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U12-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past causative: She got the car ___ yesterday. (repair)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the participle after the object.",
+      "accepted_answers": [
+        "repaired"
+      ]
+    },
+    {
+      "id": "B2-U12-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: We are having the kitchen ___. (paint)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the participle after the object.",
+      "accepted_answers": [
+        "painted"
+      ]
+    },
+    {
+      "id": "B2-U12-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the past question: ___ you have it repaired yesterday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Did introduces the past simple question.",
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "B2-U12-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: Did she ___ the boiler serviced?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the base form after did.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U12-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present simple: She ___ her car serviced regularly.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "The singular subject takes has.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B2-U12-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: She had her bag ___. (steal)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Stolen is the participle of steal.",
+      "accepted_answers": [
+        "stolen"
+      ]
+    },
+    {
+      "id": "B2-U12-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the agent phrase: I had it repaired ___ a technician.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "By introduces the agent.",
+      "accepted_answers": [
+        "by"
+      ]
+    },
+    {
+      "id": "B2-U12-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: cutting",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the participle after the object.",
+      "source_sentence": "I had my hair cutting.",
+      "target_segment": "cutting",
+      "accepted_answers": [
+        "cut"
+      ]
+    },
+    {
+      "id": "B2-U12-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: had",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the base form after did.",
+      "source_sentence": "Did she had the car repaired?",
+      "target_segment": "had",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U12-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: repaired the boiler",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Put the object before the participle.",
+      "source_sentence": "We are getting repaired the boiler.",
+      "target_segment": "repaired the boiler",
+      "accepted_answers": [
+        "the boiler repaired"
+      ]
+    },
+    {
+      "id": "B2-U12-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: service",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Use the participle after the object.",
+      "source_sentence": "She has her car service regularly.",
+      "target_segment": "service",
+      "accepted_answers": [
+        "serviced"
+      ]
+    },
+    {
+      "id": "B2-U12-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had my bike repaired describes the arranged service.",
+      "source_sentence": "A technician repaired my bike for me. Use have.",
+      "keyword": "bike",
+      "target_sentence": "I ___ by a technician.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "had my bike repaired"
+      ]
+    },
+    {
+      "id": "B2-U12-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had her hair cut describes the service.",
+      "source_sentence": "A salon cut Maya’s hair yesterday. Use have.",
+      "keyword": "hair",
+      "target_sentence": "Maya ___ yesterday.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "had her hair cut"
+      ]
+    },
+    {
+      "id": "B2-U12-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Had her bag stolen describes the unpleasant experience.",
+      "source_sentence": "Someone stole her bag. Use have to describe her experience.",
+      "keyword": "stolen",
+      "target_sentence": "She ___ .",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "had her bag stolen"
+      ]
+    },
+    {
+      "id": "B2-U12-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U12"
+      ],
+      "explanation": "Are having the kitchen painted describes the service in progress.",
+      "source_sentence": "A technician is painting our kitchen for us. Use the present continuous causative.",
+      "keyword": "kitchen",
+      "target_sentence": "We ___ by a technician.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "are having the kitchen painted"
+      ]
+    }
+  ]
+}

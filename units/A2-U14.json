@@ -1,0 +1,643 @@
+{
+  "id": "A2-U14",
+  "level": "A2",
+  "title": "Can and could for ability and requests",
+  "order": 14,
+  "prerequisites": [
+    "A2-U13"
+  ],
+  "objectives": [
+    "Describe present and past abilities.",
+    "Form negatives and questions with can and could.",
+    "Make requests using can or could."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Use can to talk about an ability now: something a person knows how to do or is able to do. ‘I can swim’ means that swimming is an ability I have. ‘My sister can speak French’ tells us about her ability. Can also describes what is possible in a situation: ‘We can use this room today’ means that the room is available for us to use.",
+        "Use could for a general ability in the past: ‘When I was seven, I could ride a bicycle.’ Could does not always describe one successful action at a particular time. For a single completed success, English often uses another expression, such as ‘managed to’. This unit focuses on general ability and polite requests."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Can and could are modal verbs. A modal verb is a helping verb that adds a meaning such as ability. Use the same form with every subject: I can, she can and they can; he could and we could. Put the base form of the main verb after the modal: ‘She can play’, not ‘She can plays’. Do not add to between the modal and the verb.",
+        "To make a negative, use cannot or can’t, and could not or couldn’t: ‘I can’t swim’ and ‘He couldn’t read at age three’. Cannot is usually written as one word. To make a yes/no question, put can or could before the subject: ‘Can you drive?’ A short answer uses the modal: ‘Yes, I can’ or ‘No, I can’t’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Use ‘Can you …?’ to ask someone to do something: ‘Can you open the window?’ ‘Could you …?’ is another common way to make a request and often sounds more polite. The word please can make the request more courteous: ‘Could you help me, please?’ Your tone and situation also affect how polite a request sounds.",
+        "Read the examples below. In ‘Could you pass me the salt?’, could introduces a present request, not a question about the past. In ‘I could swim when I was six’, could describes a past ability. Context helps you understand which meaning the speaker intends."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use do or does to form a question with can: say ‘Can she drive?’, not ‘Does she can drive?’ Do not add an -s to the main verb after can or could: say ‘He can cook’. Also distinguish ability from permission. ‘Can I sit here?’ can ask for permission; ‘Can you sit here?’ often asks the listener to do something.",
+        "Both can and could are possible in many requests. Could often sounds less direct, but neither word is automatically polite in every situation. With a positive short answer, use the full modal form: ‘Yes, she can’, not ‘Yes, she can’t’, which gives a negative answer."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I can play the piano.",
+      "note": "Can describes an ability now."
+    },
+    {
+      "sentence": "Our dog can swim.",
+      "note": "Can has the same form after a singular subject."
+    },
+    {
+      "sentence": "We can’t park here today.",
+      "note": "Can’t makes the statement negative."
+    },
+    {
+      "sentence": "Could you open the door, please?",
+      "note": "Could introduces a polite request now."
+    },
+    {
+      "sentence": "Can you help me with this bag?",
+      "note": "Can introduces a request."
+    },
+    {
+      "sentence": "When I was six, I could ride a bike.",
+      "note": "Could describes a general past ability."
+    },
+    {
+      "sentence": "Could your grandfather speak Italian?",
+      "note": "Could comes before the subject in a past-ability question."
+    },
+    {
+      "sentence": "Can Maya drive? Yes, she can.",
+      "note": "The short answer uses the modal can."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She can plays tennis.",
+      "correct": "She can play tennis.",
+      "reason": "Use the base verb after can."
+    },
+    {
+      "incorrect": "Does he can cook?",
+      "correct": "Can he cook?",
+      "reason": "Put can before the subject without does."
+    },
+    {
+      "incorrect": "I can to swim.",
+      "correct": "I can swim.",
+      "reason": "Do not use to between can and the main verb."
+    }
+  ],
+  "summary": [
+    "Use can for ability now and could for general ability in the past.",
+    "Use can or could followed by the base form of a verb.",
+    "Can you and could you can introduce requests; could often sounds more polite."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U14-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Lina ___ play the piano now; she has lessons.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use can before the base verb play.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can to"
+        },
+        {
+          "id": "b",
+          "text": "cans"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "can plays"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“can to” does not fit here. Use can before the base verb play.",
+        "b": "“cans” does not fit here. Use can before the base verb play.",
+        "c": "“can” fits here. Use can before the base verb play.",
+        "d": "“can plays” does not fit here. Use can before the base verb play."
+      }
+    },
+    {
+      "id": "A2-U14-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "When my father was six, he ___ swim. He learned at five.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could describes a general past ability.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“can” does not fit here. Could describes a general past ability.",
+        "b": "“is” does not fit here. Could describes a general past ability.",
+        "c": "“does” does not fit here. Could describes a general past ability.",
+        "d": "“could” fits here. Could describes a general past ability."
+      }
+    },
+    {
+      "id": "A2-U14-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you open the door, please? This is a request.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could you open is a common polite request.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Could"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Could” fits here. Could you open is a common polite request.",
+        "b": "“Do” does not fit here. Could you open is a common polite request.",
+        "c": "“Are” does not fit here. Could you open is a common polite request.",
+        "d": "“Does” does not fit here. Could you open is a common polite request."
+      }
+    },
+    {
+      "id": "A2-U14-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ ride a bike; she has never learned.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Can’t before ride expresses lack of ability.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can rides"
+        },
+        {
+          "id": "b",
+          "text": "can’t"
+        },
+        {
+          "id": "c",
+          "text": "can to ride"
+        },
+        {
+          "id": "d",
+          "text": "cans ride"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“can rides” does not fit here. Can’t before ride expresses lack of ability.",
+        "b": "“can’t” fits here. Can’t before ride expresses lack of ability.",
+        "c": "“can to ride” does not fit here. Can’t before ride expresses lack of ability.",
+        "d": "“cans ride” does not fit here. Can’t before ride expresses lack of ability."
+      }
+    },
+    {
+      "id": "A2-U14-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Can your parents drive? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use they can in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they do"
+        },
+        {
+          "id": "b",
+          "text": "they can"
+        },
+        {
+          "id": "c",
+          "text": "they are"
+        },
+        {
+          "id": "d",
+          "text": "they could not"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“they do” does not fit here. Use they can in the positive short answer.",
+        "b": "“they can” fits here. Use they can in the positive short answer.",
+        "c": "“they are” does not fit here. Use they can in the positive short answer.",
+        "d": "“they could not” does not fit here. Use they can in the positive short answer."
+      }
+    },
+    {
+      "id": "A2-U14-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use can followed by the base form cook.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He can cook."
+        },
+        {
+          "id": "b",
+          "text": "He can cooks."
+        },
+        {
+          "id": "c",
+          "text": "He cans cook."
+        },
+        {
+          "id": "d",
+          "text": "He can to cook."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“He can cook.” fits here. Use can followed by the base form cook.",
+        "b": "“He can cooks.” does not fit here. Use can followed by the base form cook.",
+        "c": "“He cans cook.” does not fit here. Use can followed by the base form cook.",
+        "d": "“He can to cook.” does not fit here. Use can followed by the base form cook."
+      }
+    },
+    {
+      "id": "A2-U14-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ Maya speak Spanish?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Put can before the subject Maya in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does can"
+        },
+        {
+          "id": "b",
+          "text": "Is"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Can"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Does can” does not fit here. Put can before the subject Maya in the question.",
+        "b": "“Is” does not fit here. Put can before the subject Maya in the question.",
+        "c": "“Do” does not fit here. Put can before the subject Maya in the question.",
+        "d": "“Can” fits here. Put can before the subject Maya in the question."
+      }
+    },
+    {
+      "id": "A2-U14-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ read at age three, but I learned at six.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Couldn’t expresses lack of ability in the past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "could to"
+        },
+        {
+          "id": "c",
+          "text": "couldn’t"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“can” does not fit here. Couldn’t expresses lack of ability in the past.",
+        "b": "“could to” does not fit here. Couldn’t expresses lack of ability in the past.",
+        "c": "“couldn’t” fits here. Couldn’t expresses lack of ability in the past.",
+        "d": "“could” does not fit here. Couldn’t expresses lack of ability in the past."
+      }
+    },
+    {
+      "id": "A2-U14-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ swim now. I learned last year.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Can describes an ability now.",
+      "accepted_answers": [
+        "can"
+      ]
+    },
+    {
+      "id": "A2-U14-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "When she was five, she ___ read; she learned at four.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could describes a general past ability.",
+      "accepted_answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "A2-U14-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ not drive when I was six.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could not describes a past inability.",
+      "accepted_answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "A2-U14-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you help me, please? Use the less direct modal taught in this unit.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could you is a common polite request.",
+      "accepted_answers": [
+        "Could"
+      ]
+    },
+    {
+      "id": "A2-U14-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She can ___ English. (speak)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use the base verb after can.",
+      "accepted_answers": [
+        "speak"
+      ]
+    },
+    {
+      "id": "A2-U14-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He cannot ___ a bicycle. (ride)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use the base verb after cannot.",
+      "accepted_answers": [
+        "ride"
+      ]
+    },
+    {
+      "id": "A2-U14-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Can they cook? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "The short answer uses can.",
+      "accepted_answers": [
+        "can"
+      ]
+    },
+    {
+      "id": "A2-U14-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Could he read at age four? No, he ___ not.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use could not in this negative short answer.",
+      "accepted_answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "A2-U14-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: sings",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use the base verb after can.",
+      "source_sentence": "She can sings well.",
+      "target_segment": "sings",
+      "accepted_answers": [
+        "sing"
+      ]
+    },
+    {
+      "id": "A2-U14-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to drive",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Do not use to after can.",
+      "source_sentence": "They can to drive.",
+      "target_segment": "to drive",
+      "accepted_answers": [
+        "drive"
+      ]
+    },
+    {
+      "id": "A2-U14-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Does he can",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Put can before the subject without does.",
+      "source_sentence": "Does he can swim?",
+      "target_segment": "Does he can",
+      "accepted_answers": [
+        "Can he"
+      ]
+    },
+    {
+      "id": "A2-U14-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: coulds",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "The modal could has no -s ending.",
+      "source_sentence": "He coulds read at five.",
+      "target_segment": "coulds",
+      "accepted_answers": [
+        "could"
+      ]
+    },
+    {
+      "id": "A2-U14-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Can plus the base verb expresses present ability.",
+      "source_sentence": "I am able to swim now.",
+      "keyword": "can",
+      "target_sentence": "I ___ now.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "can swim"
+      ]
+    },
+    {
+      "id": "A2-U14-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could expresses this general ability in the past.",
+      "source_sentence": "As a child, Maya was able to dance.",
+      "keyword": "could",
+      "target_sentence": "As a child, Maya ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "could dance"
+      ]
+    },
+    {
+      "id": "A2-U14-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Could you open is a request.",
+      "source_sentence": "Please open the window. Make a polite request with could.",
+      "keyword": "Could",
+      "target_sentence": "___ the window, please?",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Could you open"
+      ]
+    },
+    {
+      "id": "A2-U14-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U14"
+      ],
+      "explanation": "Use he can’t or he cannot in the negative short answer.",
+      "source_sentence": "Can he ride a horse? Give a negative short answer.",
+      "keyword": "he",
+      "target_sentence": "No, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he can’t",
+        "he cannot"
+      ]
+    }
+  ]
+}

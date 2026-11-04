@@ -1,0 +1,642 @@
+{
+  "id": "C1-U21",
+  "level": "C1",
+  "title": "Advanced participial and verbless clauses",
+  "order": 21,
+  "prerequisites": [
+    "C1-U20"
+  ],
+  "objectives": [
+    "Interpret active, passive and perfect participial clauses.",
+    "Identify and repair unclear implied subjects.",
+    "Expand a verbless or participial clause when clarity requires it."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A participial clause is a clause built around a participle rather than a finite verb marked for tense and subject agreement. It can add background, reason, time or a result compactly: “Having checked the figures, Lena signed the form.” The context tells us that Lena checked the figures before signing. The exact relationship is not always stated by the participle alone.",
+        "A verbless clause omits an overt verb: “When necessary, contact the editor.” The expression when necessary is understood as when it is necessary. These structures are common in concise written English, but they need a clear relationship to the main clause."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "An -ing clause often presents an active relationship: “Walking home, Nia called her sister.” A past-participle clause often has a passive or resultant meaning: “Stored correctly, the files remain accessible.” A perfect participle, having plus a past participle, can make prior completion explicit: “Having completed the check, the team submitted the report.”",
+        "The understood subject of an introductory participial clause normally matches the subject of the main clause. In “Walking home, Nia called her sister”, Nia is the walker. “Walking home, the rain started” wrongly suggests that the rain was walking; write “As Nia was walking home, the rain started” instead."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "A participial clause may be placed after the main clause: “The team revised the plan, taking staff feedback into account.” It can supply accompanying information without a full second finite clause. However, the reader must be able to identify who performed the action and how it connects to the main statement.",
+        "A verbless clause can express a condition or time: “If necessary, contact the editor” and “When ready, press the button.” These compact instructions rely on context to supply the omitted information. In a different setting, a full clause may be clearer: “When the documents are ready, send them to the editor.”"
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that an -ing opening always means because. “Walking home, Nia called” indicates circumstances; it does not necessarily say that walking caused the call. If the reason is essential, use an explicit because-clause or another expression that states it.",
+        "Some conventional or absolute constructions have their own subjects, as in “The weather permitting, we will leave at noon”, and a few fixed comment clauses do not follow the ordinary matching pattern. These do not justify an unclear dangling modifier. Check the intended actor and the relationship, and expand the clause when necessary."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Walking home, Nia called her sister.",
+      "note": "Nia is understood as the person walking."
+    },
+    {
+      "sentence": "Having checked the figures, Lena signed the form.",
+      "note": "The perfect participle makes the earlier completed check explicit."
+    },
+    {
+      "sentence": "Stored correctly, the files remain accessible.",
+      "note": "Stored describes a passive or resultant condition of the files."
+    },
+    {
+      "sentence": "If necessary, contact the editor.",
+      "note": "The verbless clause expresses a condition."
+    },
+    {
+      "sentence": "When ready, press the button.",
+      "note": "The instruction relies on context for who is ready."
+    },
+    {
+      "sentence": "The team revised the plan, taking feedback into account.",
+      "note": "The -ing clause adds accompanying information about the team’s work."
+    },
+    {
+      "sentence": "As Nia was walking home, the rain started.",
+      "note": "The full clause explicitly identifies Nia as the walker."
+    },
+    {
+      "sentence": "The weather permitting, we will leave at noon.",
+      "note": "This absolute construction supplies its own subject."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Walking home, the rain started.",
+      "correct": "As Nia was walking home, the rain started.",
+      "reason": "A full clause makes Nia, rather than the rain, the walker."
+    },
+    {
+      "incorrect": "Having check the figures, Lena signed.",
+      "correct": "Having checked the figures, Lena signed.",
+      "reason": "Having takes the past participle checked."
+    },
+    {
+      "incorrect": "Store correctly, the files remain accessible.",
+      "correct": "Stored correctly, the files remain accessible.",
+      "reason": "Stored is the past participle describing the files."
+    }
+  ],
+  "summary": [
+    "Participial and verbless clauses can add compact background or conditions.",
+    "The understood subject normally matches the main-clause subject.",
+    "Use explicit clauses when the actor or relationship would otherwise be unclear."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U21-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Who is walking in “Walking home, Nia called her sister”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The understood subject normally matches Nia.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nia."
+        },
+        {
+          "id": "b",
+          "text": "Her sister necessarily."
+        },
+        {
+          "id": "c",
+          "text": "The rain."
+        },
+        {
+          "id": "d",
+          "text": "An unidentified caller."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Nia.” fits here. The understood subject normally matches Nia.",
+        "b": "“Her sister necessarily.” does not fit here. The understood subject normally matches Nia.",
+        "c": "“The rain.” does not fit here. The understood subject normally matches Nia.",
+        "d": "“An unidentified caller.” does not fit here. The understood subject normally matches Nia."
+      }
+    },
+    {
+      "id": "C1-U21-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the clause that makes prior completion explicit.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having checked marks the check as completed before signing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Checking tomorrow, Lena signed."
+        },
+        {
+          "id": "b",
+          "text": "Check the figures, Lena signed."
+        },
+        {
+          "id": "c",
+          "text": "Having checked the figures, Lena signed."
+        },
+        {
+          "id": "d",
+          "text": "Having check the figures, Lena signed."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Checking tomorrow, Lena signed.” does not fit here. Having checked marks the check as completed before signing.",
+        "b": "“Check the figures, Lena signed.” does not fit here. Having checked marks the check as completed before signing.",
+        "c": "“Having checked the figures, Lena signed.” fits here. Having checked marks the check as completed before signing.",
+        "d": "“Having check the figures, Lena signed.” does not fit here. Having checked marks the check as completed before signing."
+      }
+    },
+    {
+      "id": "C1-U21-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the passive or resultant modifier for files.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Stored describes the files as being stored correctly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Storing correctly, the files remain accessible."
+        },
+        {
+          "id": "b",
+          "text": "Store correctly, the files remain accessible."
+        },
+        {
+          "id": "c",
+          "text": "Having store, the files remain accessible."
+        },
+        {
+          "id": "d",
+          "text": "Stored correctly, the files remain accessible."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Storing correctly, the files remain accessible.” does not fit here. Stored describes the files as being stored correctly.",
+        "b": "“Store correctly, the files remain accessible.” does not fit here. Stored describes the files as being stored correctly.",
+        "c": "“Having store, the files remain accessible.” does not fit here. Stored describes the files as being stored correctly.",
+        "d": "“Stored correctly, the files remain accessible.” fits here. Stored describes the files as being stored correctly."
+      }
+    },
+    {
+      "id": "C1-U21-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which revision clearly identifies the walker?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The full clause identifies Nia as the walker.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Walking home, the rain started."
+        },
+        {
+          "id": "b",
+          "text": "As Nia was walking home, the rain started."
+        },
+        {
+          "id": "c",
+          "text": "Having walked home, the rain started."
+        },
+        {
+          "id": "d",
+          "text": "Walking home, the road became wet."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Walking home, the rain started.” does not fit here. The full clause identifies Nia as the walker.",
+        "b": "“As Nia was walking home, the rain started.” fits here. The full clause identifies Nia as the walker.",
+        "c": "“Having walked home, the rain started.” does not fit here. The full clause identifies Nia as the walker.",
+        "d": "“Walking home, the road became wet.” does not fit here. The full clause identifies Nia as the walker."
+      }
+    },
+    {
+      "id": "C1-U21-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “If necessary, contact the editor” express?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "If necessary is a compact conditional expression.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A guaranteed past event."
+        },
+        {
+          "id": "b",
+          "text": "A reported command by a named source."
+        },
+        {
+          "id": "c",
+          "text": "A past perfect passive."
+        },
+        {
+          "id": "d",
+          "text": "A condition with an omitted verb."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“A guaranteed past event.” does not fit here. If necessary is a compact conditional expression.",
+        "b": "“A reported command by a named source.” does not fit here. If necessary is a compact conditional expression.",
+        "c": "“A past perfect passive.” does not fit here. If necessary is a compact conditional expression.",
+        "d": "“A condition with an omitted verb.” fits here. If necessary is a compact conditional expression."
+      }
+    },
+    {
+      "id": "C1-U21-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct perfect participle.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having is followed by the past participle checked.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Having to check, Lena signed after check."
+        },
+        {
+          "id": "b",
+          "text": "Having checked, Lena signed."
+        },
+        {
+          "id": "c",
+          "text": "Having check, Lena signed."
+        },
+        {
+          "id": "d",
+          "text": "Having checks, Lena signed."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Having to check, Lena signed after check.” does not fit here. Having is followed by the past participle checked.",
+        "b": "“Having checked, Lena signed.” fits here. Having is followed by the past participle checked.",
+        "c": "“Having check, Lena signed.” does not fit here. Having is followed by the past participle checked.",
+        "d": "“Having checks, Lena signed.” does not fit here. Having is followed by the past participle checked."
+      }
+    },
+    {
+      "id": "C1-U21-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “Walking home, Nia called” necessarily establish?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The introductory clause places the call in the circumstances of Nia walking home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Walking caused the call."
+        },
+        {
+          "id": "b",
+          "text": "Nia reached home before calling."
+        },
+        {
+          "id": "c",
+          "text": "The call occurred while Nia was walking home."
+        },
+        {
+          "id": "d",
+          "text": "Her sister was walking home."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Walking caused the call.” does not fit here. The introductory clause places the call in the circumstances of Nia walking home.",
+        "b": "“Nia reached home before calling.” does not fit here. The introductory clause places the call in the circumstances of Nia walking home.",
+        "c": "“The call occurred while Nia was walking home.” fits here. The introductory clause places the call in the circumstances of Nia walking home.",
+        "d": "“Her sister was walking home.” does not fit here. The introductory clause places the call in the circumstances of Nia walking home."
+      }
+    },
+    {
+      "id": "C1-U21-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What is useful when the intended actor is unclear?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "An explicit clause can identify the actor and relationship.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Expand the clause and name the actor."
+        },
+        {
+          "id": "b",
+          "text": "Remove the subject from the main clause."
+        },
+        {
+          "id": "c",
+          "text": "Assume the nearest noun is always correct."
+        },
+        {
+          "id": "d",
+          "text": "Add more ambiguity."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Expand the clause and name the actor.” fits here. An explicit clause can identify the actor and relationship.",
+        "b": "“Remove the subject from the main clause.” does not fit here. An explicit clause can identify the actor and relationship.",
+        "c": "“Assume the nearest noun is always correct.” does not fit here. An explicit clause can identify the actor and relationship.",
+        "d": "“Add more ambiguity.” does not fit here. An explicit clause can identify the actor and relationship."
+      }
+    },
+    {
+      "id": "C1-U21-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ checked the figures, Lena signed. Use having.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having plus the participle marks the earlier completed check.",
+      "accepted_answers": [
+        "Having"
+      ]
+    },
+    {
+      "id": "C1-U21-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Having ___ the figures, Lena signed. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having takes the past participle checked.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U21-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ correctly, the files remain accessible. (store)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Stored presents a passive or resultant condition.",
+      "accepted_answers": [
+        "Stored"
+      ]
+    },
+    {
+      "id": "C1-U21-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "If ___, contact the editor. Use necessary.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "If necessary is a compact conditional expression.",
+      "accepted_answers": [
+        "necessary"
+      ]
+    },
+    {
+      "id": "C1-U21-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "When ___, press the button. Use ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "When ready is a compact time or condition expression.",
+      "accepted_answers": [
+        "ready"
+      ]
+    },
+    {
+      "id": "C1-U21-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ home, Nia called her sister. (walk)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Walking describes Nia’s activity.",
+      "accepted_answers": [
+        "Walking"
+      ]
+    },
+    {
+      "id": "C1-U21-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "As Nia ___ walking home, the rain started.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Was walking explicitly identifies the past activity and its subject.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U21-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The weather ___, we will leave at noon. (permit)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The absolute construction provides its own subject, the weather.",
+      "accepted_answers": [
+        "permitting"
+      ]
+    },
+    {
+      "id": "C1-U21-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having takes the past participle checked.",
+      "source_sentence": "Having check the figures, Lena signed.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U21-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Store",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Stored describes a passive or resultant condition of the files.",
+      "source_sentence": "Store correctly, the files remain accessible.",
+      "target_segment": "Store",
+      "accepted_answers": [
+        "Stored"
+      ]
+    },
+    {
+      "id": "C1-U21-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: walk",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Was takes the -ing form in the past continuous.",
+      "source_sentence": "As Nia was walk home, the rain started.",
+      "target_segment": "walk",
+      "accepted_answers": [
+        "walking"
+      ]
+    },
+    {
+      "id": "C1-U21-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: permit",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The absolute construction uses permitting.",
+      "source_sentence": "The weather permit, we will leave at noon.",
+      "target_segment": "permit",
+      "accepted_answers": [
+        "permitting"
+      ]
+    },
+    {
+      "id": "C1-U21-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Having checked makes the prior action explicit.",
+      "source_sentence": "Lena checked the figures and then signed the form. Begin with a perfect participle.",
+      "keyword": "Having",
+      "target_sentence": "___, Lena signed the form.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "Having checked the figures"
+      ]
+    },
+    {
+      "id": "C1-U21-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "If necessary omits the recoverable it is.",
+      "source_sentence": "If it is necessary, contact the editor. Use a verbless clause.",
+      "keyword": "necessary",
+      "target_sentence": "___, contact the editor.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "If necessary"
+      ]
+    },
+    {
+      "id": "C1-U21-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "Stored correctly describes the condition of the files.",
+      "source_sentence": "The files remain accessible when they are stored correctly. Begin with a participial clause.",
+      "keyword": "Stored",
+      "target_sentence": "___, the files remain accessible.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Stored correctly"
+      ]
+    },
+    {
+      "id": "C1-U21-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U21"
+      ],
+      "explanation": "The full clause identifies Nia as the walker.",
+      "source_sentence": "Nia was walking home when the rain started. Begin with as.",
+      "keyword": "walking",
+      "target_sentence": "___, the rain started.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "As Nia was walking home"
+      ]
+    }
+  ]
+}

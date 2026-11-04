@@ -1,0 +1,659 @@
+{
+  "id": "B1-U05",
+  "level": "B1",
+  "title": "Future forms in context: cumulative review",
+  "order": 5,
+  "prerequisites": [
+    "B1-U04"
+  ],
+  "objectives": [
+    "Choose a future form for a stated context.",
+    "Distinguish a schedule from an arrangement.",
+    "Review present perfect and past simple forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "English has several ways to talk about the future. The choice depends on how the speaker presents the situation. We often use will for an immediate decision or an opinion about the future: ‘The phone is ringing. I'll answer it’ and ‘I think our team will win’. We often use be going to for an intention formed before speaking: ‘I'm going to learn to drive’.",
+        "The present continuous can describe an arrangement, often one involving another person or booking: ‘I'm meeting my tutor on Tuesday’. The present simple can present a future event as part of a timetable: ‘The train leaves at six’. These descriptions are useful starting points; more than one form can be possible in some real contexts."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Will is followed by the base form: ‘She will travel’. For a negative, use will not or won't: ‘She won't travel’. For a question, put will before the subject: ‘Will she travel?’ Use am, is or are plus going to and a base verb for an intention: ‘We are going to travel’. The verb be changes according to the subject.",
+        "For a present continuous arrangement, use am, is or are plus an -ing form: ‘They are travelling tomorrow’. In the present simple timetable pattern, use the ordinary present form: ‘The bus leaves at eight’. For a timetable question, use does with a singular subject: ‘What time does the bus leave?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "A single trip can be described in different ways. ‘I've booked a table; I'm having dinner with my sister on Friday’ presents the dinner as arranged. ‘The restaurant opens at six’ gives a published opening time. ‘I'm going to order the fish’ can express an intention already formed; ‘I'll have the soup’ can be a decision made while ordering.",
+        "This review also revisits the present perfect and past simple. ‘I've visited Rome’ reports experience without a finished date; ‘I visited Rome in 2022’ places the visit in a finished past period. ‘I've lived here for three years’ can describe a situation that began in the past and continues now."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "A plan does not guarantee an outcome. ‘I'm going to apply’ reports an intention, not a promise that the application will be successful. Similarly, a timetable can change. The present simple presents a time as scheduled; it does not mean a delay is impossible.",
+        "Do not mix the structures: say ‘She is going to study’, not ‘She going to study’; and ‘The train leaves’, not ‘The train leave’. In practice, speakers may choose different forms to emphasise different aspects of the same event. Exercise instructions specify a form or situation when more than one answer would otherwise be defensible."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I think it will rain tomorrow.",
+      "note": "Will expresses an opinion about the future."
+    },
+    {
+      "sentence": "The phone is ringing. I'll answer it.",
+      "note": "The decision is made now."
+    },
+    {
+      "sentence": "She's going to study medicine next year.",
+      "note": "Going to expresses a prior intention."
+    },
+    {
+      "sentence": "We're meeting our tutor on Friday.",
+      "note": "The present continuous presents an arrangement."
+    },
+    {
+      "sentence": "The train leaves at six tomorrow.",
+      "note": "The present simple presents a timetable."
+    },
+    {
+      "sentence": "I've visited Lisbon twice.",
+      "note": "The present perfect reports experience without a finished date."
+    },
+    {
+      "sentence": "I visited Lisbon in 2022.",
+      "note": "The past simple gives a finished past time."
+    },
+    {
+      "sentence": "He's worked here since May.",
+      "note": "Since gives the start of a continuing situation."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She going to study.",
+      "correct": "She is going to study.",
+      "reason": "A form of be is needed before going to."
+    },
+    {
+      "incorrect": "The train leave at six.",
+      "correct": "The train leaves at six.",
+      "reason": "The singular subject takes leaves."
+    },
+    {
+      "incorrect": "I have visited Rome last year.",
+      "correct": "I visited Rome last year.",
+      "reason": "Use the past simple with the finished time last year."
+    }
+  ],
+  "summary": [
+    "Use future forms according to the meaning and context.",
+    "Will, going to, present continuous and present simple can all refer to the future.",
+    "Review present perfect experience and past simple finished time."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U05-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The phone is ringing. I decide now: I ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Will answer expresses the immediate decision.",
+      "options": [
+        {
+          "id": "a",
+          "text": "answer yesterday"
+        },
+        {
+          "id": "b",
+          "text": "am answer"
+        },
+        {
+          "id": "c",
+          "text": "will answers"
+        },
+        {
+          "id": "d",
+          "text": "will answer"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“answer yesterday” does not fit here. Will answer expresses the immediate decision.",
+        "b": "“am answer” does not fit here. Will answer expresses the immediate decision.",
+        "c": "“will answers” does not fit here. Will answer expresses the immediate decision.",
+        "d": "“will answer” fits here. Will answer expresses the immediate decision."
+      }
+    },
+    {
+      "id": "B1-U05-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The published timetable says the bus ___ at eight tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "Leaves presents the timetable with a singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "leaves"
+        },
+        {
+          "id": "b",
+          "text": "leaving"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "left"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“leaves” fits here. Leaves presents the timetable with a singular subject.",
+        "b": "“leaving” does not fit here. Leaves presents the timetable with a singular subject.",
+        "c": "“leave” does not fit here. Leaves presents the timetable with a singular subject.",
+        "d": "“left” does not fit here. Leaves presents the timetable with a singular subject."
+      }
+    },
+    {
+      "id": "B1-U05-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We booked a table. We ___ dinner there tomorrow. Use the present continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "Are having presents the booked arrangement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have yesterday"
+        },
+        {
+          "id": "b",
+          "text": "are having"
+        },
+        {
+          "id": "c",
+          "text": "is have"
+        },
+        {
+          "id": "d",
+          "text": "having"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have yesterday” does not fit here. Are having presents the booked arrangement.",
+        "b": "“are having” fits here. Are having presents the booked arrangement.",
+        "c": "“is have” does not fit here. Are having presents the booked arrangement.",
+        "d": "“having” does not fit here. Are having presents the booked arrangement."
+      }
+    },
+    {
+      "id": "B1-U05-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I formed an intention earlier: I ___ learn French next year.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Am going to expresses the prior intention.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "will to"
+        },
+        {
+          "id": "c",
+          "text": "am going to"
+        },
+        {
+          "id": "d",
+          "text": "am going"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“am” does not fit here. Am going to expresses the prior intention.",
+        "b": "“will to” does not fit here. Am going to expresses the prior intention.",
+        "c": "“am going to” fits here. Am going to expresses the prior intention.",
+        "d": "“am going” does not fit here. Am going to expresses the prior intention."
+      }
+    },
+    {
+      "id": "B1-U05-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ York twice in my life; no dates are specified.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U01"
+      ],
+      "explanation": "Have visited reports experience without a finished date.",
+      "options": [
+        {
+          "id": "a",
+          "text": "visited yesterday"
+        },
+        {
+          "id": "b",
+          "text": "have visited"
+        },
+        {
+          "id": "c",
+          "text": "has visit"
+        },
+        {
+          "id": "d",
+          "text": "have visit"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“visited yesterday” does not fit here. Have visited reports experience without a finished date.",
+        "b": "“have visited” fits here. Have visited reports experience without a finished date.",
+        "c": "“has visit” does not fit here. Have visited reports experience without a finished date.",
+        "d": "“have visit” does not fit here. Have visited reports experience without a finished date."
+      }
+    },
+    {
+      "id": "B1-U05-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They ___ to York in 2020.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U03"
+      ],
+      "explanation": "Went places the visit in a finished year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been"
+        },
+        {
+          "id": "b",
+          "text": "have went"
+        },
+        {
+          "id": "c",
+          "text": "go"
+        },
+        {
+          "id": "d",
+          "text": "went"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have been” does not fit here. Went places the visit in a finished year.",
+        "b": "“have went” does not fit here. Went places the visit in a finished year.",
+        "c": "“go” does not fit here. Went places the visit in a finished year.",
+        "d": "“went” fits here. Went places the visit in a finished year."
+      }
+    },
+    {
+      "id": "B1-U05-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She has lived here ___ 2021 and still lives here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U02"
+      ],
+      "explanation": "Since introduces a starting year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "ago"
+        },
+        {
+          "id": "c",
+          "text": "since"
+        },
+        {
+          "id": "d",
+          "text": "last"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“for” does not fit here. Since introduces a starting year.",
+        "b": "“ago” does not fit here. Since introduces a starting year.",
+        "c": "“since” fits here. Since introduces a starting year.",
+        "d": "“last” does not fit here. Since introduces a starting year."
+      }
+    },
+    {
+      "id": "B1-U05-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What time ___ the train leave?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "Does forms the timetable question with the singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“does” fits here. Does forms the timetable question with the singular subject.",
+        "b": "“do” does not fit here. Does forms the timetable question with the singular subject.",
+        "c": "“is” does not fit here. Does forms the timetable question with the singular subject.",
+        "d": "“are” does not fit here. Does forms the timetable question with the singular subject."
+      }
+    },
+    {
+      "id": "B1-U05-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use will: I think she ___ win.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Will plus the base verb expresses the prediction.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B1-U05-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use going to: I am ___ to study tonight.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Am going to introduces the intention.",
+      "accepted_answers": [
+        "going"
+      ]
+    },
+    {
+      "id": "B1-U05-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present continuous: We ___ meeting Sam tomorrow.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Are meeting describes the arrangement.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "B1-U05-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the timetable form: The bus ___ at nine. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes leaves.",
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U05-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose have or has: She ___ visited Paris before.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U01"
+      ],
+      "explanation": "She takes has.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U05-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past simple: They ___ to Rome last year. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U03"
+      ],
+      "explanation": "Went is the past form of go.",
+      "accepted_answers": [
+        "went"
+      ]
+    },
+    {
+      "id": "B1-U05-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: I have known her ___ five years.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U02"
+      ],
+      "explanation": "For introduces a duration.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U05-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: He has worked here ___ May.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U02"
+      ],
+      "explanation": "Since introduces the starting point.",
+      "accepted_answers": [
+        "since"
+      ]
+    },
+    {
+      "id": "B1-U05-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: He going",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "A form of be is needed before going to.",
+      "source_sentence": "He going to start tomorrow.",
+      "target_segment": "He going",
+      "accepted_answers": [
+        "He is going"
+      ]
+    },
+    {
+      "id": "B1-U05-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes leaves.",
+      "source_sentence": "The train leave at six tomorrow.",
+      "target_segment": "leave",
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U05-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: since",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U02"
+      ],
+      "explanation": "For introduces a duration.",
+      "source_sentence": "He has lived here since three years.",
+      "target_segment": "since",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U05-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have seen",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U05",
+        "B1-U03"
+      ],
+      "explanation": "Use the past simple with yesterday.",
+      "source_sentence": "I have seen her yesterday.",
+      "target_segment": "have seen",
+      "accepted_answers": [
+        "saw"
+      ]
+    },
+    {
+      "id": "B1-U05-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U05"
+      ],
+      "explanation": "Will help expresses an immediate decision.",
+      "source_sentence": "I have just decided to help.",
+      "keyword": "help",
+      "target_sentence": "I ___ you.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "will help"
+      ]
+    },
+    {
+      "id": "B1-U05-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "Are meeting presents the arrangement.",
+      "source_sentence": "They have booked a meeting with Mia for Friday. Use the present continuous.",
+      "keyword": "meeting",
+      "target_sentence": "They ___ Mia on Friday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "are meeting"
+      ]
+    },
+    {
+      "id": "B1-U05-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U05",
+        "B1-U04"
+      ],
+      "explanation": "Leaves presents the scheduled time.",
+      "source_sentence": "The timetable gives nine as the bus departure time.",
+      "keyword": "leaves",
+      "target_sentence": "The bus ___ at nine.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U05-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U05",
+        "B1-U02"
+      ],
+      "explanation": "Since introduces the starting year.",
+      "source_sentence": "I began living here in 2020 and still live here.",
+      "keyword": "since",
+      "target_sentence": "I have lived here ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "since 2020"
+      ]
+    }
+  ]
+}

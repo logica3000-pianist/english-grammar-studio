@@ -1,0 +1,642 @@
+{
+  "id": "C1-U03",
+  "level": "C1",
+  "title": "Subjunctive and mandative constructions",
+  "order": 3,
+  "prerequisites": [
+    "C1-U02"
+  ],
+  "objectives": [
+    "Recognise mandative meaning in context.",
+    "Form affirmative, negative and passive subjunctive clauses.",
+    "Contrast the subjunctive with should and with factual uses of suggest and insist."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A mandative construction expresses a recommendation, demand, requirement or proposal. It commonly follows a verb such as suggest, recommend or insist, or an adjective such as essential or important. In “The panel recommended that each candidate be interviewed”, the clause after that presents the proposed action rather than reporting that the interview occurred.",
+        "The mandative subjunctive is particularly common in formal and institutional English. In British English, a that-clause with should is also common: “The panel recommended that each candidate should be interviewed.” Both patterns can convey a recommendation. Depending on the verb, context and variety, other constructions may also be available, so do not treat one pattern as the only grammatical choice in every situation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In the subjunctive pattern, use the base form for every subject: “They insist that she attend” and “It is essential that the records be accurate.” The form does not add -s after he, she or it. Be stays be, including in the passive: “They requested that the door be locked.” The subject normally remains present even when it refers to the person addressed.",
+        "For a negative, put not before the base verb: “The board requested that he not disclose the figures.” In the should pattern, use should not plus the base form: “The board requested that he should not disclose the figures.” The should form does not change with the subject."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In minutes, “The committee proposed that the deadline be extended” records a proposal; it does not say the deadline was extended. In an internal policy, “It is vital that every visitor wear a badge” presents a requirement. “The adviser recommended that the client should seek advice” uses the should variant, familiar in British usage.",
+        "Compare “I suggest that the plan be revised” with “The figures suggest that the plan is working.” The first suggests an action; the second presents evidence for a conclusion. Likewise, “She insisted that he leave” demands an action, whereas “She insisted that he was innocent” asserts a fact. The word insist alone does not determine the meaning."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not confuse a bare subjunctive with a missing verb: in “It is essential that she be present”, be is the required base form. “It is essential that she is present” is also used by many speakers as an indicative alternative; its acceptability and preferred form can vary by style and variety. When a task specifically requires the subjunctive, however, use be.",
+        "Avoid mixing patterns: “recommended that she should attends” is grammatically incorrect because should takes a base verb. Formality is a matter of choice, not proof that everyday alternatives are wrong. A natural conversational alternative may recast the sentence entirely: “The manager asked her to attend.”"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The board requested that the report be revised.",
+      "note": "Be revised is the passive subjunctive; the request does not prove revision."
+    },
+    {
+      "sentence": "It is essential that every member sign the register.",
+      "note": "Sign remains in the base form with the singular subject."
+    },
+    {
+      "sentence": "The panel recommended that each applicant should be interviewed.",
+      "note": "Should be interviewed is a British English mandative alternative."
+    },
+    {
+      "sentence": "They insisted that he not disclose the name.",
+      "note": "Not precedes the base verb in a negative subjunctive."
+    },
+    {
+      "sentence": "The doctor recommended that she should not drive.",
+      "note": "Should not is followed by the base form drive."
+    },
+    {
+      "sentence": "The figures suggest that the policy is working.",
+      "note": "Suggest introduces an evidential conclusion, not a proposed action."
+    },
+    {
+      "sentence": "She insisted that the witness was innocent.",
+      "note": "Insisted introduces an asserted fact in this context."
+    },
+    {
+      "sentence": "The manager asked her to attend.",
+      "note": "An infinitive pattern can convey a request in everyday language."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "They recommended that she to attend.",
+      "correct": "They recommended that she attend.",
+      "reason": "The mandative subjunctive uses the base form without to."
+    },
+    {
+      "incorrect": "It is essential that the documents are be checked.",
+      "correct": "It is essential that the documents be checked.",
+      "reason": "The passive subjunctive uses be plus a past participle, without are."
+    },
+    {
+      "incorrect": "The adviser suggested that he should takes a break.",
+      "correct": "The adviser suggested that he should take a break.",
+      "reason": "Should is followed by the base form take."
+    }
+  ],
+  "summary": [
+    "A mandative clause expresses an action proposed, demanded or required.",
+    "The subjunctive uses the base form for all subjects; the British should alternative uses should plus the base form.",
+    "Distinguish a proposal or demand from suggest or insist used to report a conclusion or assertion."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U03-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Use the mandative subjunctive: The panel recommended that she ___ the report.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The subjunctive uses base revise even after she.",
+      "options": [
+        {
+          "id": "a",
+          "text": "revise"
+        },
+        {
+          "id": "b",
+          "text": "revises"
+        },
+        {
+          "id": "c",
+          "text": "revised yesterday"
+        },
+        {
+          "id": "d",
+          "text": "revising"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“revise” fits here. The subjunctive uses base revise even after she.",
+        "b": "“revises” does not fit here. The subjunctive uses base revise even after she.",
+        "c": "“revised yesterday” does not fit here. The subjunctive uses base revise even after she.",
+        "d": "“revising” does not fit here. The subjunctive uses base revise even after she."
+      }
+    },
+    {
+      "id": "C1-U03-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Use the passive subjunctive: It is essential that the forms ___ before noon.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The passive subjunctive is be plus the past participle checked.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are be checked"
+        },
+        {
+          "id": "b",
+          "text": "be checking"
+        },
+        {
+          "id": "c",
+          "text": "be checked"
+        },
+        {
+          "id": "d",
+          "text": "being checked"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“are be checked” does not fit here. The passive subjunctive is be plus the past participle checked.",
+        "b": "“be checking” does not fit here. The passive subjunctive is be plus the past participle checked.",
+        "c": "“be checked” fits here. The passive subjunctive is be plus the past participle checked.",
+        "d": "“being checked” does not fit here. The passive subjunctive is be plus the past participle checked."
+      }
+    },
+    {
+      "id": "C1-U03-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the British should alternative to “They requested that he leave”.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should is followed by the base verb leave.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They requested that he should leaves."
+        },
+        {
+          "id": "b",
+          "text": "They requested that he should leaving."
+        },
+        {
+          "id": "c",
+          "text": "They requested that he should to leave."
+        },
+        {
+          "id": "d",
+          "text": "They requested that he should leave."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They requested that he should leaves.” does not fit here. Should is followed by the base verb leave.",
+        "b": "“They requested that he should leaving.” does not fit here. Should is followed by the base verb leave.",
+        "c": "“They requested that he should to leave.” does not fit here. Should is followed by the base verb leave.",
+        "d": "“They requested that he should leave.” fits here. Should is followed by the base verb leave."
+      }
+    },
+    {
+      "id": "C1-U03-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the negative subjunctive: The board requested that she ___ the figures.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Not comes before the base form in the negative subjunctive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does not disclose"
+        },
+        {
+          "id": "b",
+          "text": "not disclose"
+        },
+        {
+          "id": "c",
+          "text": "not discloses"
+        },
+        {
+          "id": "d",
+          "text": "not disclosing"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“does not disclose” does not fit here. Not comes before the base form in the negative subjunctive.",
+        "b": "“not disclose” fits here. Not comes before the base form in the negative subjunctive.",
+        "c": "“not discloses” does not fit here. Not comes before the base form in the negative subjunctive.",
+        "d": "“not disclosing” does not fit here. Not comes before the base form in the negative subjunctive."
+      }
+    },
+    {
+      "id": "C1-U03-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses suggest to draw a conclusion from evidence?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The data suggest that demand is rising reports an evidence-based conclusion.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They suggested that the door be closed."
+        },
+        {
+          "id": "b",
+          "text": "They suggested that the team should meet."
+        },
+        {
+          "id": "c",
+          "text": "They suggested that she submit a plan."
+        },
+        {
+          "id": "d",
+          "text": "The data suggest that demand is rising."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They suggested that the door be closed.” does not fit here. The data suggest that demand is rising reports an evidence-based conclusion.",
+        "b": "“They suggested that the team should meet.” does not fit here. The data suggest that demand is rising reports an evidence-based conclusion.",
+        "c": "“They suggested that she submit a plan.” does not fit here. The data suggest that demand is rising reports an evidence-based conclusion.",
+        "d": "“The data suggest that demand is rising.” fits here. The data suggest that demand is rising reports an evidence-based conclusion."
+      }
+    },
+    {
+      "id": "C1-U03-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence explicitly presents a requirement rather than a claim of fact?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Require that introduces an action demanded by the rules.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She insisted that he was innocent."
+        },
+        {
+          "id": "b",
+          "text": "The rules require that each visitor sign in."
+        },
+        {
+          "id": "c",
+          "text": "She insisted that he had arrived."
+        },
+        {
+          "id": "d",
+          "text": "The report suggests that the visitor signed in."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She insisted that he was innocent.” does not fit here. Require that introduces an action demanded by the rules.",
+        "b": "“The rules require that each visitor sign in.” fits here. Require that introduces an action demanded by the rules.",
+        "c": "“She insisted that he had arrived.” does not fit here. Require that introduces an action demanded by the rules.",
+        "d": "“The report suggests that the visitor signed in.” does not fit here. Require that introduces an action demanded by the rules."
+      }
+    },
+    {
+      "id": "C1-U03-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Use the subjunctive after a singular subject: It is vital that every member ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The base form attend does not take -s in the subjunctive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "attends"
+        },
+        {
+          "id": "b",
+          "text": "attending"
+        },
+        {
+          "id": "c",
+          "text": "attend"
+        },
+        {
+          "id": "d",
+          "text": "to attends"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“attends” does not fit here. The base form attend does not take -s in the subjunctive.",
+        "b": "“attending” does not fit here. The base form attend does not take -s in the subjunctive.",
+        "c": "“attend” fits here. The base form attend does not take -s in the subjunctive.",
+        "d": "“to attends” does not fit here. The base form attend does not take -s in the subjunctive."
+      }
+    },
+    {
+      "id": "C1-U03-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement follows from “The committee proposed that the deadline be extended”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The mandative clause reports a proposal, not its outcome.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The extension was proposed; the outcome is not stated."
+        },
+        {
+          "id": "b",
+          "text": "The deadline was definitely extended."
+        },
+        {
+          "id": "c",
+          "text": "The deadline was definitely not extended."
+        },
+        {
+          "id": "d",
+          "text": "The deadline has already passed."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The extension was proposed; the outcome is not stated.” fits here. The mandative clause reports a proposal, not its outcome.",
+        "b": "“The deadline was definitely extended.” does not fit here. The mandative clause reports a proposal, not its outcome.",
+        "c": "“The deadline was definitely not extended.” does not fit here. The mandative clause reports a proposal, not its outcome.",
+        "d": "“The deadline has already passed.” does not fit here. The mandative clause reports a proposal, not its outcome."
+      }
+    },
+    {
+      "id": "C1-U03-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the subjunctive: They demand that she ___ on time. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Use the base form arrive after she in the subjunctive.",
+      "accepted_answers": [
+        "arrive"
+      ]
+    },
+    {
+      "id": "C1-U03-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the passive subjunctive: They require that the door ___ locked.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The passive subjunctive uses be plus a past participle.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "C1-U03-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the negative subjunctive: They ask that he ___ disclose it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Not precedes the base form disclose.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "C1-U03-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the should pattern: They propose that the report ___ be revised.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should plus the base be forms the British mandative alternative.",
+      "accepted_answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "C1-U03-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the subjunctive: It is essential that everyone ___ present.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The subjunctive form of be is be for every subject.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "C1-U03-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form after should: They recommended that she should ___. (wait)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should takes the base form wait.",
+      "accepted_answers": [
+        "wait"
+      ]
+    },
+    {
+      "id": "C1-U03-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the passive subjunctive: They request that the papers be ___. (sign)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Be plus signed forms the passive subjunctive.",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U03-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the negative should pattern: It is important that he should ___ forget.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should not is followed by the base verb forget.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "C1-U03-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: arrives",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should takes the base form arrive.",
+      "source_sentence": "They requested that he should arrives early.",
+      "target_segment": "arrives",
+      "accepted_answers": [
+        "arrive"
+      ]
+    },
+    {
+      "id": "C1-U03-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: sign",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The passive subjunctive needs a past participle after be.",
+      "source_sentence": "The panel proposed that the form be sign.",
+      "target_segment": "sign",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U03-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The mandative subjunctive uses the base form leave without to.",
+      "source_sentence": "The board insisted that she to leave at once.",
+      "target_segment": "to leave",
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "C1-U03-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: submits",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should takes the base form submit.",
+      "source_sentence": "The rules require that each member should submits a form.",
+      "target_segment": "submits",
+      "accepted_answers": [
+        "submit"
+      ]
+    },
+    {
+      "id": "C1-U03-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "The mandative subjunctive uses the base form attend.",
+      "source_sentence": "The panel recommended that she should attend. Use the subjunctive without should.",
+      "keyword": "attend",
+      "target_sentence": "The panel recommended that she ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "attend"
+      ]
+    },
+    {
+      "id": "C1-U03-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Should be signed is the passive should alternative.",
+      "source_sentence": "It is essential that the form be signed. Use the should alternative.",
+      "keyword": "should",
+      "target_sentence": "It is essential that the form ___ signed.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "should be"
+      ]
+    },
+    {
+      "id": "C1-U03-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Not precedes the base form in the negative subjunctive.",
+      "source_sentence": "They requested that he should not reveal the name. Use the subjunctive without should.",
+      "keyword": "not",
+      "target_sentence": "They requested that he ___ the name.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "not reveal"
+      ]
+    },
+    {
+      "id": "C1-U03-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U03"
+      ],
+      "explanation": "Be extended is the passive subjunctive.",
+      "source_sentence": "The committee proposed that they extend the deadline. Use a passive subjunctive.",
+      "keyword": "extended",
+      "target_sentence": "The committee proposed that the deadline ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "be extended"
+      ]
+    }
+  ]
+}

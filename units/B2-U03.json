@@ -1,0 +1,643 @@
+{
+  "id": "B2-U03",
+  "level": "B2",
+  "title": "Future continuous and future perfect",
+  "order": 3,
+  "prerequisites": [
+    "B2-U02"
+  ],
+  "objectives": [
+    "Form future continuous and future perfect statements and questions.",
+    "Distinguish future progress from completion by a reference time.",
+    "Recognise future necessity with will have to."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The future continuous presents an activity as being in progress at a future time: ‘At ten tomorrow, I'll be meeting a client’. It looks at the activity from a point within it. The sentence does not say exactly when the meeting will start or finish.",
+        "The future perfect presents an event as completed before or by a future reference point: ‘By ten tomorrow, I'll have finished the report’. It looks back from that future point to the completion. Both forms describe a future viewpoint, but one foregrounds progress and the other foregrounds completion before a deadline or reference time."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Form the future continuous with will be plus an -ing form: ‘She will be working’. Form the future perfect with will have plus a past participle: ‘She will have finished’. In questions, put will before the subject: ‘Will she be working?’ and ‘Will she have finished?’ Negatives use will not or won't before be or have.",
+        "Time expressions help establish the viewpoint. At ten tomorrow often identifies a point at which an activity is in progress. By ten means no later than that time and often accompanies the future perfect: ‘By ten, they will have left’. The time expression alone does not mechanically decide the form; the intended meaning matters."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘At noon, I will be writing the report’ with ‘By noon, I will have written the report’. The first presents the writing as in progress at noon. The second presents it as complete no later than noon. We can also use a duration with the future perfect: ‘By June, she will have worked here for five years’.",
+        "The future continuous can make a neutral enquiry about an expected activity: ‘Will you be using the meeting room this afternoon?’ Depending on tone and context, this can sound less like a direct request than ‘Will you use the room?’. It can also describe an event expected as part of the normal course of things."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not confuse the structure will have plus a participle with will have to plus a base verb. ‘I will have finished’ predicts completion; ‘I will have to finish’ expresses future necessity. Use the participle after will have: ‘will have written’, not ‘will have wrote’.",
+        "Do not infer that every use of the future continuous is an arrangement or that every deadline requires the future perfect. A speaker can say ‘I'll finish by noon’ as well as ‘I'll have finished by noon’. In controlled exercises, follow the specified focus or form when more than one grammatical choice is possible."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "At ten tomorrow, I'll be meeting a client.",
+      "note": "The future continuous presents the activity as in progress."
+    },
+    {
+      "sentence": "By ten, I'll have finished the report.",
+      "note": "The future perfect presents completion by ten."
+    },
+    {
+      "sentence": "At noon, they will be travelling.",
+      "note": "The activity is viewed from a future point within it."
+    },
+    {
+      "sentence": "By noon, they will have arrived.",
+      "note": "The arrival is presented as complete by noon."
+    },
+    {
+      "sentence": "Will you be using the room this afternoon?",
+      "note": "The future continuous can make a neutral enquiry."
+    },
+    {
+      "sentence": "By June, she will have worked here for five years.",
+      "note": "The future perfect can describe a period up to a future point."
+    },
+    {
+      "sentence": "She won't have finished by five.",
+      "note": "Won't makes the future perfect negative."
+    },
+    {
+      "sentence": "I will have to finish tomorrow.",
+      "note": "Have to expresses necessity, not the future perfect."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She will be work at ten.",
+      "correct": "She will be working at ten.",
+      "reason": "Use an -ing form after will be in the future continuous."
+    },
+    {
+      "incorrect": "They will have wrote it by noon.",
+      "correct": "They will have written it by noon.",
+      "reason": "Use the participle written after will have."
+    },
+    {
+      "incorrect": "Will she have finished? Yes, she has.",
+      "correct": "Will she have finished? Yes, she will.",
+      "reason": "Use will in the short answer to this will question."
+    }
+  ],
+  "summary": [
+    "Use will be plus -ing to present an activity in progress at a future point.",
+    "Use will have plus a past participle to present completion by a future point.",
+    "Distinguish will have finished from will have to finish."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U03-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on progress: At ten tomorrow, she ___ with a client.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will be meeting presents the meeting in progress at ten.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have meet"
+        },
+        {
+          "id": "b",
+          "text": "will be meeting"
+        },
+        {
+          "id": "c",
+          "text": "will be met"
+        },
+        {
+          "id": "d",
+          "text": "will meets"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“will have meet” does not fit here. Will be meeting presents the meeting in progress at ten.",
+        "b": "“will be meeting” fits here. Will be meeting presents the meeting in progress at ten.",
+        "c": "“will be met” does not fit here. Will be meeting presents the meeting in progress at ten.",
+        "d": "“will meets” does not fit here. Will be meeting presents the meeting in progress at ten."
+      }
+    },
+    {
+      "id": "B2-U03-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on completion: By noon, they ___ the report.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have written presents completion by noon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be write"
+        },
+        {
+          "id": "b",
+          "text": "will have wrote"
+        },
+        {
+          "id": "c",
+          "text": "will have writing"
+        },
+        {
+          "id": "d",
+          "text": "will have written"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will be write” does not fit here. Will have written presents completion by noon.",
+        "b": "“will have wrote” does not fit here. Will have written presents completion by noon.",
+        "c": "“will have writing” does not fit here. Will have written presents completion by noon.",
+        "d": "“will have written” fits here. Will have written presents completion by noon."
+      }
+    },
+    {
+      "id": "B2-U03-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which form expresses future necessity?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have to finish expresses necessity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will have to finish."
+        },
+        {
+          "id": "b",
+          "text": "I will have finished."
+        },
+        {
+          "id": "c",
+          "text": "I will be finishing."
+        },
+        {
+          "id": "d",
+          "text": "I have finished."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“I will have to finish.” fits here. Will have to finish expresses necessity.",
+        "b": "“I will have finished.” does not fit here. Will have to finish expresses necessity.",
+        "c": "“I will be finishing.” does not fit here. Will have to finish expresses necessity.",
+        "d": "“I have finished.” does not fit here. Will have to finish expresses necessity."
+      }
+    },
+    {
+      "id": "B2-U03-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct future continuous question.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will comes before the subject and be precedes -ing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will she working?"
+        },
+        {
+          "id": "b",
+          "text": "Will she have work?"
+        },
+        {
+          "id": "c",
+          "text": "Will she be working?"
+        },
+        {
+          "id": "d",
+          "text": "Does she will be working?"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Will she working?” does not fit here. Will comes before the subject and be precedes -ing.",
+        "b": "“Will she have work?” does not fit here. Will comes before the subject and be precedes -ing.",
+        "c": "“Will she be working?” fits here. Will comes before the subject and be precedes -ing.",
+        "d": "“Does she will be working?” does not fit here. Will comes before the subject and be precedes -ing."
+      }
+    },
+    {
+      "id": "B2-U03-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "By five, he ___ the task. Use the future perfect.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have finished is the future perfect.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have finished"
+        },
+        {
+          "id": "b",
+          "text": "will be finish"
+        },
+        {
+          "id": "c",
+          "text": "will has finished"
+        },
+        {
+          "id": "d",
+          "text": "will have finish"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“will have finished” fits here. Will have finished is the future perfect.",
+        "b": "“will be finish” does not fit here. Will have finished is the future perfect.",
+        "c": "“will has finished” does not fit here. Will have finished is the future perfect.",
+        "d": "“will have finish” does not fit here. Will have finished is the future perfect."
+      }
+    },
+    {
+      "id": "B2-U03-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At noon, we ___ to London. Use the future continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will be travelling is the future continuous.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will travelling"
+        },
+        {
+          "id": "b",
+          "text": "will have travelled by"
+        },
+        {
+          "id": "c",
+          "text": "will be travelling"
+        },
+        {
+          "id": "d",
+          "text": "will be travel"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will travelling” does not fit here. Will be travelling is the future continuous.",
+        "b": "“will have travelled by” does not fit here. Will be travelling is the future continuous.",
+        "c": "“will be travelling” fits here. Will be travelling is the future continuous.",
+        "d": "“will be travel” does not fit here. Will be travelling is the future continuous."
+      }
+    },
+    {
+      "id": "B2-U03-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Will they have left by six? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use they will in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they have"
+        },
+        {
+          "id": "b",
+          "text": "they are"
+        },
+        {
+          "id": "c",
+          "text": "they will have left already yes"
+        },
+        {
+          "id": "d",
+          "text": "they will"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“they have” does not fit here. Use they will in the positive short answer.",
+        "b": "“they are” does not fit here. Use they will in the positive short answer.",
+        "c": "“they will have left already yes” does not fit here. Use they will in the positive short answer.",
+        "d": "“they will” fits here. Use they will in the positive short answer."
+      }
+    },
+    {
+      "id": "B2-U03-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "The future continuous can present future activity in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The future perfect always expresses obligation."
+        },
+        {
+          "id": "b",
+          "text": "Will be working can present activity in progress at a future point."
+        },
+        {
+          "id": "c",
+          "text": "Will have to finish and will have finished mean the same."
+        },
+        {
+          "id": "d",
+          "text": "At ten always requires the future continuous."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The future perfect always expresses obligation.” does not fit here. The future continuous can present future activity in progress.",
+        "b": "“Will be working can present activity in progress at a future point.” fits here. The future continuous can present future activity in progress.",
+        "c": "“Will have to finish and will have finished mean the same.” does not fit here. The future continuous can present future activity in progress.",
+        "d": "“At ten always requires the future continuous.” does not fit here. The future continuous can present future activity in progress."
+      }
+    },
+    {
+      "id": "B2-U03-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future continuous: She will be ___ at ten. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use an -ing form after will be.",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U03-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future perfect: They will have ___ by noon. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Left is the participle of leave.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U03-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future perfect: He will have ___ the report by five. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U03-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future continuous: We will be ___ at noon. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Both British travelling and American traveling are accepted.",
+      "accepted_answers": [
+        "travelling",
+        "traveling"
+      ]
+    },
+    {
+      "id": "B2-U03-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the future perfect: She will ___ finished by six.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have plus a participle forms the future perfect.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U03-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the future continuous: They will ___ waiting at eight.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will be plus -ing forms the future continuous.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B2-U03-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ she have finished by noon?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Put will before the subject.",
+      "accepted_answers": [
+        "Will"
+      ]
+    },
+    {
+      "id": "B2-U03-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Will they be working at ten? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use will in the positive short answer.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B2-U03-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: work",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use an -ing form after will be in this pattern.",
+      "source_sentence": "She will be work at ten.",
+      "target_segment": "work",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U03-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wrote",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use the participle written after will have.",
+      "source_sentence": "They will have wrote the report by noon.",
+      "target_segment": "wrote",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U03-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use will in the short answer.",
+      "source_sentence": "Will he be working? Yes, he is.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B2-U03-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Use have after will.",
+      "source_sentence": "She will has finished by six.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U03-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will be meeting presents the activity in progress.",
+      "source_sentence": "At ten tomorrow, her meeting will be in progress. Use the future continuous.",
+      "keyword": "meeting",
+      "target_sentence": "At ten tomorrow, she ___ a client.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "will be meeting"
+      ]
+    },
+    {
+      "id": "B2-U03-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have written presents completion by noon.",
+      "source_sentence": "The report will be complete no later than noon. Use the future perfect.",
+      "keyword": "written",
+      "target_sentence": "By noon, she ___ the report.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "will have written"
+      ]
+    },
+    {
+      "id": "B2-U03-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Will have to finish expresses future necessity.",
+      "source_sentence": "It will be necessary for me to finish tomorrow.",
+      "keyword": "finish",
+      "target_sentence": "I ___ tomorrow.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "will have to finish"
+      ]
+    },
+    {
+      "id": "B2-U03-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U03"
+      ],
+      "explanation": "Put will before the subject.",
+      "source_sentence": "They will have left by six. Ask a yes/no question.",
+      "keyword": "Will",
+      "target_sentence": "___ they have left by six?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Will"
+      ]
+    }
+  ]
+}

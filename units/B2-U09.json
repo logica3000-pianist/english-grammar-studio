@@ -1,0 +1,642 @@
+{
+  "id": "B2-U09",
+  "level": "B2",
+  "title": "Wish, if only and would rather",
+  "order": 9,
+  "prerequisites": [
+    "B2-U08"
+  ],
+  "objectives": [
+    "Distinguish present wishes from past regrets.",
+    "Use wish plus would for a desired change.",
+    "Form would rather preferences with one or two subjects."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Wish and if only can express a desire for a situation to be different. ‘I wish I had more time’ suggests that I do not have enough time now. ‘If only I had more time’ expresses a similar thought, often with stronger emotion. A past form after wish or if only can refer to an imagined present rather than to a past event.",
+        "To express regret about a finished past situation, use a past perfect form: ‘I wish I had checked the address’. The speaker did not check it and now regrets that. ‘If only we had left earlier’ can express regret about a missed earlier departure. Context shows whether the wish concerns the present or the past."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a present situation, a common pattern is wish or if only plus a past form: ‘I wish I knew the answer’ and ‘If only she were here’. Both were and was occur after singular subjects in hypothetical contexts; were is often preferred in more formal English. For past regret, use had plus a past participle: ‘I wish I had known’.",
+        "Wish plus would can express a desire for a change in behaviour or a situation: ‘I wish they would stop making that noise’. It often conveys irritation or impatience, although tone and context matter. It is not the normal choice for a fixed present state in a sentence such as ‘I wish I knew her name’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Would rather expresses preference. With the same subject, use would rather plus a base verb: ‘I'd rather stay home’. To express a preference for another person's present or future action, use would rather plus a subject and a past form: ‘I'd rather you stayed home tonight’. Here stayed refers to a preferred future action, not to an event that already happened.",
+        "Compare ‘I wish you would listen’ with ‘I'd rather you listened’. Both concern another person's behaviour, but the wish may express frustration or a desire for change, whereas would rather presents a preference. A sentence's tone, relationship between speakers and context can change how direct it sounds."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use the past perfect for a current-state wish when the intended meaning is present: ‘I wish I knew the answer now’, not ‘I wish I had known the answer now’. Had known normally points to a past situation. Do not put to after would rather in the basic same-subject pattern: ‘I'd rather leave’, not ‘I'd rather to leave’.",
+        "Wish plus a past form describes a hypothetical situation, not a factual account of the past. Other wish patterns are possible, including formal expressions such as ‘I wish you success’. The exercises state the intended time and pattern so that the response can be checked without assuming that every alternative is ungrammatical."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I wish I had more time now.",
+      "note": "Had expresses an imagined present situation."
+    },
+    {
+      "sentence": "If only she were here.",
+      "note": "Were can express a hypothetical present state."
+    },
+    {
+      "sentence": "I wish I had checked the address yesterday.",
+      "note": "Had checked expresses regret about a past action."
+    },
+    {
+      "sentence": "If only we had left earlier.",
+      "note": "The past perfect expresses regret about the earlier departure."
+    },
+    {
+      "sentence": "I wish they would stop making that noise.",
+      "note": "Would expresses a desired change in behaviour."
+    },
+    {
+      "sentence": "I'd rather stay at home tonight.",
+      "note": "Would rather takes a base verb with the same subject."
+    },
+    {
+      "sentence": "I'd rather you stayed at home tonight.",
+      "note": "The past form expresses a preference about another person's future action."
+    },
+    {
+      "sentence": "I wish I knew her name.",
+      "note": "Knew expresses an imagined present state."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I wish I know the answer now.",
+      "correct": "I wish I knew the answer now.",
+      "reason": "Use a past form for this hypothetical present wish."
+    },
+    {
+      "incorrect": "I wish I have checked the address yesterday.",
+      "correct": "I wish I had checked the address yesterday.",
+      "reason": "Use the past perfect for this past regret."
+    },
+    {
+      "incorrect": "I would rather to leave.",
+      "correct": "I would rather leave.",
+      "reason": "Use the base verb without to after would rather here."
+    }
+  ],
+  "summary": [
+    "Use a past form after wish or if only for an imagined present situation.",
+    "Use the past perfect for a regret about a finished past event.",
+    "Use would rather plus a base verb for the same subject, or a past form after another subject for a present or future preference."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U09-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I do not know the answer now. I wish I ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Knew expresses the hypothetical present state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "know"
+        },
+        {
+          "id": "b",
+          "text": "had known yesterday"
+        },
+        {
+          "id": "c",
+          "text": "knew"
+        },
+        {
+          "id": "d",
+          "text": "will know"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“know” does not fit here. Knew expresses the hypothetical present state.",
+        "b": "“had known yesterday” does not fit here. Knew expresses the hypothetical present state.",
+        "c": "“knew” fits here. Knew expresses the hypothetical present state.",
+        "d": "“will know” does not fit here. Knew expresses the hypothetical present state."
+      }
+    },
+    {
+      "id": "B2-U09-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I did not check the address yesterday. I wish I ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses regret about the finished past event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had checked"
+        },
+        {
+          "id": "b",
+          "text": "check"
+        },
+        {
+          "id": "c",
+          "text": "will check"
+        },
+        {
+          "id": "d",
+          "text": "would checking"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had checked” fits here. Had checked expresses regret about the finished past event.",
+        "b": "“check” does not fit here. Had checked expresses regret about the finished past event.",
+        "c": "“will check” does not fit here. Had checked expresses regret about the finished past event.",
+        "d": "“would checking” does not fit here. Had checked expresses regret about the finished past event."
+      }
+    },
+    {
+      "id": "B2-U09-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They keep making noise. Express a wish for their behaviour to change: I wish they ___ making noise.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Would stop expresses the desired change in behaviour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had stopped yesterday"
+        },
+        {
+          "id": "b",
+          "text": "will stopping"
+        },
+        {
+          "id": "c",
+          "text": "would to stop"
+        },
+        {
+          "id": "d",
+          "text": "would stop"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“had stopped yesterday” does not fit here. Would stop expresses the desired change in behaviour.",
+        "b": "“will stopping” does not fit here. Would stop expresses the desired change in behaviour.",
+        "c": "“would to stop” does not fit here. Would stop expresses the desired change in behaviour.",
+        "d": "“would stop” fits here. Would stop expresses the desired change in behaviour."
+      }
+    },
+    {
+      "id": "B2-U09-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I prefer to leave now. I would rather ___ now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Would rather takes the base verb with the same subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to leave"
+        },
+        {
+          "id": "b",
+          "text": "leave"
+        },
+        {
+          "id": "c",
+          "text": "leaving"
+        },
+        {
+          "id": "d",
+          "text": "left yesterday"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to leave” does not fit here. Would rather takes the base verb with the same subject.",
+        "b": "“leave” fits here. Would rather takes the base verb with the same subject.",
+        "c": "“leaving” does not fit here. Would rather takes the base verb with the same subject.",
+        "d": "“left yesterday” does not fit here. Would rather takes the base verb with the same subject."
+      }
+    },
+    {
+      "id": "B2-U09-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I prefer you to stay tonight. I would rather you ___ tonight.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "A past form after you expresses the present preference about tonight.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stay yesterday"
+        },
+        {
+          "id": "b",
+          "text": "stayed"
+        },
+        {
+          "id": "c",
+          "text": "had stayed yesterday"
+        },
+        {
+          "id": "d",
+          "text": "would stayed"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“stay yesterday” does not fit here. A past form after you expresses the present preference about tonight.",
+        "b": "“stayed” fits here. A past form after you expresses the present preference about tonight.",
+        "c": "“had stayed yesterday” does not fit here. A past form after you expresses the present preference about tonight.",
+        "d": "“would stayed” does not fit here. A past form after you expresses the present preference about tonight."
+      }
+    },
+    {
+      "id": "B2-U09-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If only she ___ here now; she is not here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Were expresses the hypothetical present state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "is yesterday"
+        },
+        {
+          "id": "c",
+          "text": "had been yesterday"
+        },
+        {
+          "id": "d",
+          "text": "will been"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“were” fits here. Were expresses the hypothetical present state.",
+        "b": "“is yesterday” does not fit here. Were expresses the hypothetical present state.",
+        "c": "“had been yesterday” does not fit here. Were expresses the hypothetical present state.",
+        "d": "“will been” does not fit here. Were expresses the hypothetical present state."
+      }
+    },
+    {
+      "id": "B2-U09-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I regret not taking the earlier train. If only I ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had taken expresses regret about the finished past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "take"
+        },
+        {
+          "id": "b",
+          "text": "would takes"
+        },
+        {
+          "id": "c",
+          "text": "have took"
+        },
+        {
+          "id": "d",
+          "text": "had taken"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“take” does not fit here. Had taken expresses regret about the finished past.",
+        "b": "“would takes” does not fit here. Had taken expresses regret about the finished past.",
+        "c": "“have took” does not fit here. Had taken expresses regret about the finished past.",
+        "d": "“had taken” fits here. Had taken expresses regret about the finished past."
+      }
+    },
+    {
+      "id": "B2-U09-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses a preference about another person’s action tonight?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Would rather plus subject and past form expresses that preference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I would rather to leave."
+        },
+        {
+          "id": "b",
+          "text": "I wish I had left yesterday."
+        },
+        {
+          "id": "c",
+          "text": "I would rather you stayed tonight."
+        },
+        {
+          "id": "d",
+          "text": "I would rather leaving."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“I would rather to leave.” does not fit here. Would rather plus subject and past form expresses that preference.",
+        "b": "“I wish I had left yesterday.” does not fit here. Would rather plus subject and past form expresses that preference.",
+        "c": "“I would rather you stayed tonight.” fits here. Would rather plus subject and past form expresses that preference.",
+        "d": "“I would rather leaving.” does not fit here. Would rather plus subject and past form expresses that preference."
+      }
+    },
+    {
+      "id": "B2-U09-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past form for the present wish: I wish I ___ the answer now. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Knew expresses the hypothetical present state.",
+      "accepted_answers": [
+        "knew"
+      ]
+    },
+    {
+      "id": "B2-U09-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past perfect for the regret: I wish I had ___ the address. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses the past regret.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U09-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would for the desired change: I wish they ___ stop shouting.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Would stop expresses the desired change.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B2-U09-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: I would rather ___ now. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use the base verb after would rather with the same subject.",
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "B2-U09-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a past form for a preference about another person: I would rather you ___ tonight. (stay)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Stayed expresses the preference about tonight.",
+      "accepted_answers": [
+        "stayed"
+      ]
+    },
+    {
+      "id": "B2-U09-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past perfect: If only we had ___ earlier. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Left is the participle of leave.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U09-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: She would rather ___ at home. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use a base verb after would rather for the same subject.",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "B2-U09-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past form: I wish I ___ more time now. (have)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had expresses the hypothetical present situation.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U09-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: know",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use a past form for the hypothetical present wish.",
+      "source_sentence": "I wish I know the answer now.",
+      "target_segment": "know",
+      "accepted_answers": [
+        "knew"
+      ]
+    },
+    {
+      "id": "B2-U09-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use the past perfect for the past regret.",
+      "source_sentence": "I wish I have checked the address yesterday.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U09-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use the base verb without to in this pattern.",
+      "source_sentence": "I would rather to leave now.",
+      "target_segment": "to leave",
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "B2-U09-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to stay",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Use a past form after the other subject in this hypothetical preference pattern.",
+      "source_sentence": "I would rather you to stay tonight.",
+      "target_segment": "to stay",
+      "accepted_answers": [
+        "stayed"
+      ]
+    },
+    {
+      "id": "B2-U09-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had expresses the hypothetical present state.",
+      "source_sentence": "I do not have more time now, and I regret that.",
+      "keyword": "had",
+      "target_sentence": "I wish I ___ more time now.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U09-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Had checked expresses past regret.",
+      "source_sentence": "I did not check the address yesterday, and I regret it.",
+      "keyword": "checked",
+      "target_sentence": "I wish I ___ the address yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had checked"
+      ]
+    },
+    {
+      "id": "B2-U09-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Would rather takes the base verb here.",
+      "source_sentence": "I prefer to leave now.",
+      "keyword": "leave",
+      "target_sentence": "I would rather ___ now.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "B2-U09-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U09"
+      ],
+      "explanation": "Stayed expresses the preference about another person’s action.",
+      "source_sentence": "I prefer you to stay tonight. Use the hypothetical preference pattern.",
+      "keyword": "stayed",
+      "target_sentence": "I would rather you ___ tonight.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "stayed"
+      ]
+    }
+  ]
+}

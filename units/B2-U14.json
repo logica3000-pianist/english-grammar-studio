@@ -1,0 +1,642 @@
+{
+  "id": "B2-U14",
+  "level": "B2",
+  "title": "Reporting claims and impersonal passives",
+  "order": 14,
+  "prerequisites": [
+    "B2-U13"
+  ],
+  "objectives": [
+    "Form impersonal reporting structures.",
+    "Use infinitives to represent the time of a reported situation.",
+    "Distinguish attribution from confirmation."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Impersonal reporting structures allow a speaker to report a claim without naming its source. ‘It is said that the bridge is safe’ reports what people say, but it does not identify them or establish that the bridge is safe. This can be useful when the source is unknown, general or not central to the sentence; in careful reporting, a specific source is often more informative.",
+        "A related structure puts the subject of the reported claim first: ‘The bridge is said to be safe’. The two sentences can report the same general claim, but the second makes the bridge the grammatical subject. Similar structures can use verbs such as believe, report, think and expect."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "One pattern is it plus a passive reporting verb plus a that-clause: ‘It is believed that the building is safe’ or ‘It was reported that the road was closed’. The tense of the reporting verb locates the report; the tense inside the that-clause locates the reported situation. They do not have to refer to the same time.",
+        "A second pattern uses subject plus a passive reporting verb plus an infinitive: ‘The building is believed to be safe’. To report an earlier event, use a perfect infinitive: ‘The bridge is believed to have opened in 1900’. The form to have opened places the reported opening before the present reporting viewpoint."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘It is reported that the company will expand’ with ‘The company is reported to be planning an expansion’. Both can attribute information to a report, but they are not always exact word-for-word transformations. Choose the infinitive to match the time and meaning of the reported event: ‘is said to work’ suggests a situation at the relevant time; ‘is said to have worked’ places the work earlier.",
+        "These structures can distance the reporter from a claim, but they do not specify how reliable it is. ‘It is alleged that’ explicitly reports an allegation; ‘it is proved that’ makes a much stronger claim. Reporting verbs are not interchangeable labels. In a news item or academic text, identify a source where accuracy and accountability require one."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not write ‘It is believed the building to be safe’ as the basic it-pattern. Use ‘It is believed that the building is safe’ or ‘The building is believed to be safe’. Do not omit to in the subject-first pattern: ‘She is said to live here’, not ‘She is said live here’.",
+        "A present reporting verb with a perfect infinitive can refer to an earlier event: ‘He is thought to have left’. It does not mean that he leaves now. A past reporting verb can also be combined with an infinitive, but the time relationship depends on the full context. Avoid changing a reported claim into an established fact when rewriting."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It is said that the bridge is safe.",
+      "note": "The claim is reported without naming its source."
+    },
+    {
+      "sentence": "The bridge is said to be safe.",
+      "note": "The reported subject comes first."
+    },
+    {
+      "sentence": "It is believed that the building is safe.",
+      "note": "The it-pattern uses a that-clause."
+    },
+    {
+      "sentence": "The building is believed to be safe.",
+      "note": "The subject-first pattern uses an infinitive."
+    },
+    {
+      "sentence": "The bridge is believed to have opened in 1900.",
+      "note": "The perfect infinitive places the opening before the reporting viewpoint."
+    },
+    {
+      "sentence": "It was reported that the road was closed.",
+      "note": "The reporting verb and reported clause can each locate time."
+    },
+    {
+      "sentence": "He is thought to have left.",
+      "note": "The leaving is earlier than the present report."
+    },
+    {
+      "sentence": "The company is reported to be planning an expansion.",
+      "note": "The continuous infinitive presents the planning as in progress."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "It is believed the building to be safe.",
+      "correct": "It is believed that the building is safe.",
+      "reason": "The basic it-pattern uses a that-clause."
+    },
+    {
+      "incorrect": "She is said live here.",
+      "correct": "She is said to live here.",
+      "reason": "The subject-first pattern requires to."
+    },
+    {
+      "incorrect": "The bridge is believed to has opened in 1900.",
+      "correct": "The bridge is believed to have opened in 1900.",
+      "reason": "Use have in the perfect infinitive."
+    }
+  ],
+  "summary": [
+    "Use it plus a passive reporting verb and a that-clause, or a reported subject plus an infinitive.",
+    "A perfect infinitive can place the reported event before the reporting viewpoint.",
+    "A reported claim is not automatically an established fact."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U14-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the it-pattern: It is believed ___ the building is safe.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "That introduces the reported clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "to be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to” does not fit here. That introduces the reported clause.",
+        "b": "“that” fits here. That introduces the reported clause.",
+        "c": "“being” does not fit here. That introduces the reported clause.",
+        "d": "“to be” does not fit here. That introduces the reported clause."
+      }
+    },
+    {
+      "id": "B2-U14-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the subject-first pattern: The building is believed ___ safe.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use to be after the passive reporting verb.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that be"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "being that"
+        },
+        {
+          "id": "d",
+          "text": "to be"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“that be” does not fit here. Use to be after the passive reporting verb.",
+        "b": "“be” does not fit here. Use to be after the passive reporting verb.",
+        "c": "“being that” does not fit here. Use to be after the passive reporting verb.",
+        "d": "“to be” fits here. Use to be after the passive reporting verb."
+      }
+    },
+    {
+      "id": "B2-U14-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The bridge opened in 1900, according to a current belief. The bridge is believed ___ in 1900.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "The perfect infinitive places the opening earlier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to have opened"
+        },
+        {
+          "id": "b",
+          "text": "to open yesterday"
+        },
+        {
+          "id": "c",
+          "text": "to has opened"
+        },
+        {
+          "id": "d",
+          "text": "to having open"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“to have opened” fits here. The perfect infinitive places the opening earlier.",
+        "b": "“to open yesterday” does not fit here. The perfect infinitive places the opening earlier.",
+        "c": "“to has opened” does not fit here. The perfect infinitive places the opening earlier.",
+        "d": "“to having open” does not fit here. The perfect infinitive places the opening earlier."
+      }
+    },
+    {
+      "id": "B2-U14-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He left before the present report. He is thought ___ .",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "To have left places the departure earlier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to leaves"
+        },
+        {
+          "id": "b",
+          "text": "to has left"
+        },
+        {
+          "id": "c",
+          "text": "to have left"
+        },
+        {
+          "id": "d",
+          "text": "lefting"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“to leaves” does not fit here. To have left places the departure earlier.",
+        "b": "“to has left” does not fit here. To have left places the departure earlier.",
+        "c": "“to have left” fits here. To have left places the departure earlier.",
+        "d": "“lefting” does not fit here. To have left places the departure earlier."
+      }
+    },
+    {
+      "id": "B2-U14-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence attributes a claim without confirming it?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "It is said attributes a claim without establishing its truth.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The bridge is definitely safe."
+        },
+        {
+          "id": "b",
+          "text": "The bridge is proved unsafe by this sentence."
+        },
+        {
+          "id": "c",
+          "text": "The bridge certainly opened yesterday."
+        },
+        {
+          "id": "d",
+          "text": "It is said that the bridge is safe."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The bridge is definitely safe.” does not fit here. It is said attributes a claim without establishing its truth.",
+        "b": "“The bridge is proved unsafe by this sentence.” does not fit here. It is said attributes a claim without establishing its truth.",
+        "c": "“The bridge certainly opened yesterday.” does not fit here. It is said attributes a claim without establishing its truth.",
+        "d": "“It is said that the bridge is safe.” fits here. It is said attributes a claim without establishing its truth."
+      }
+    },
+    {
+      "id": "B2-U14-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "It is reported that she lives here. Choose the subject-first form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use a to-infinitive after is reported.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is reported lives here."
+        },
+        {
+          "id": "b",
+          "text": "She is reported that live here."
+        },
+        {
+          "id": "c",
+          "text": "She is reported to live here."
+        },
+        {
+          "id": "d",
+          "text": "She reported to lives here."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She is reported lives here.” does not fit here. Use a to-infinitive after is reported.",
+        "b": "“She is reported that live here.” does not fit here. Use a to-infinitive after is reported.",
+        "c": "“She is reported to live here.” fits here. Use a to-infinitive after is reported.",
+        "d": "“She reported to lives here.” does not fit here. Use a to-infinitive after is reported."
+      }
+    },
+    {
+      "id": "B2-U14-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which form reports a situation in progress?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "To be planning is a continuous infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The company is reported to be planning an expansion."
+        },
+        {
+          "id": "b",
+          "text": "The company is reported to have plan an expansion."
+        },
+        {
+          "id": "c",
+          "text": "The company is reported planning to have."
+        },
+        {
+          "id": "d",
+          "text": "The company is reported to plans."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The company is reported to be planning an expansion.” fits here. To be planning is a continuous infinitive.",
+        "b": "“The company is reported to have plan an expansion.” does not fit here. To be planning is a continuous infinitive.",
+        "c": "“The company is reported planning to have.” does not fit here. To be planning is a continuous infinitive.",
+        "d": "“The company is reported to plans.” does not fit here. To be planning is a continuous infinitive."
+      }
+    },
+    {
+      "id": "B2-U14-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the perfect infinitive correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use to have plus the participle opened.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The building is thought to has opened in 1900."
+        },
+        {
+          "id": "b",
+          "text": "The building is thought to have opened in 1900."
+        },
+        {
+          "id": "c",
+          "text": "The building is thought to have open in 1900."
+        },
+        {
+          "id": "d",
+          "text": "The building thought to have opened in 1900."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The building is thought to has opened in 1900.” does not fit here. Use to have plus the participle opened.",
+        "b": "“The building is thought to have opened in 1900.” fits here. Use to have plus the participle opened.",
+        "c": "“The building is thought to have open in 1900.” does not fit here. Use to have plus the participle opened.",
+        "d": "“The building thought to have opened in 1900.” does not fit here. Use to have plus the participle opened."
+      }
+    },
+    {
+      "id": "B2-U14-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the it-pattern: It is said ___ she lives here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "That introduces the reported clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B2-U14-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the subject-first pattern: She is said ___ live here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "To introduces the infinitive.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U14-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the perfect infinitive: He is thought to ___ left earlier.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "To have plus the participle places the event earlier.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U14-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The bridge is believed to have ___ in 1900. (open)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Opened is the participle after have.",
+      "accepted_answers": [
+        "opened"
+      ]
+    },
+    {
+      "id": "B2-U14-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the continuous infinitive: She is reported to ___ working now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "To be working is the continuous infinitive.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B2-U14-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the passive: It is ___ that the road is closed. (report)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Is reported is the passive reporting form.",
+      "accepted_answers": [
+        "reported"
+      ]
+    },
+    {
+      "id": "B2-U14-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the subject-first pattern: The car is believed ___ be safe.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use to be after is believed.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U14-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: He is said to have ___ earlier. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Left is the participle of leave.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U14-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: said live",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use to before the infinitive.",
+      "source_sentence": "She is said live here.",
+      "target_segment": "said live",
+      "accepted_answers": [
+        "said to live"
+      ]
+    },
+    {
+      "id": "B2-U14-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use have in the perfect infinitive.",
+      "source_sentence": "The bridge is thought to has opened in 1900.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B2-U14-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: believe",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Use the participle believed in the passive reporting verb.",
+      "source_sentence": "The building is believe to be safe.",
+      "target_segment": "believe",
+      "accepted_answers": [
+        "believed"
+      ]
+    },
+    {
+      "id": "B2-U14-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "The basic it-pattern uses a that-clause.",
+      "source_sentence": "It is reported to that the road is closed.",
+      "target_segment": "to that",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B2-U14-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "It is said that attributes the claim.",
+      "source_sentence": "People say that the building is safe. Use the it-pattern.",
+      "keyword": "said",
+      "target_sentence": "___ the building is safe.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "It is said that"
+      ]
+    },
+    {
+      "id": "B2-U14-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "Is believed to be uses the subject-first pattern.",
+      "source_sentence": "People believe that the building is safe. Begin with the building.",
+      "keyword": "believed",
+      "target_sentence": "The building ___ safe.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "is believed to be"
+      ]
+    },
+    {
+      "id": "B2-U14-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "The perfect infinitive places the opening earlier.",
+      "source_sentence": "People now believe that the bridge opened in 1900. Begin with the bridge.",
+      "keyword": "opened",
+      "target_sentence": "The bridge ___ in 1900.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "is believed to have opened"
+      ]
+    },
+    {
+      "id": "B2-U14-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U14"
+      ],
+      "explanation": "The perfect infinitive places the departure earlier.",
+      "source_sentence": "People now say that he left earlier. Begin with he.",
+      "keyword": "left",
+      "target_sentence": "He ___ earlier.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "is said to have left"
+      ]
+    }
+  ]
+}

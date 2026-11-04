@@ -1,0 +1,642 @@
+{
+  "id": "B2-U11",
+  "level": "B2",
+  "title": "Passive with modals and perfect forms",
+  "order": 11,
+  "prerequisites": [
+    "B2-U10"
+  ],
+  "objectives": [
+    "Form passive clauses with modals and perfect forms.",
+    "Distinguish active continuous from passive structures.",
+    "Use optional by phrases to identify agents."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Passive forms allow us to focus on the person or thing affected by an action. ‘The technician can repair the device’ and ‘The device can be repaired’ describe the same possible repair, but the passive makes the device the subject. A by phrase can identify the agent when relevant: ‘The device can be repaired by a technician’.",
+        "Passive structures can combine with modal verbs and perfect aspect. ‘The report must be submitted today’ expresses an obligation in the passive. ‘The report has been submitted’ presents submission as completed with present relevance. ‘The report must have been submitted already’ can express a strong deduction about a completed past submission."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a basic modal passive, use modal plus be plus a past participle: ‘can be repaired’, ‘should be checked’ and ‘must be submitted’. For a present perfect passive, use have or has been plus a past participle: ‘The documents have been signed’. For a past perfect passive, use had been plus a past participle: ‘The documents had been signed before the meeting’.",
+        "For a modal perfect passive, use modal plus have been plus a past participle: ‘The letter might have been delivered’ or ‘It must have been sent’. The modal expresses the speaker's judgement or another meaning; the passive structure identifies the affected subject. Negatives and questions depend on the first auxiliary: ‘Has it been checked?’ and ‘It hasn't been checked’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The technician has repaired the device’ with ‘The device has been repaired by the technician’. The active subject becomes the optional agent in the by phrase, while the object becomes the passive subject. Compare ‘Someone might have sent the letter’ with ‘The letter might have been sent’: both describe possibility about a past event.",
+        "Distinguish ‘She has been repairing the device’ from ‘The device has been repaired’. The first is present perfect continuous active and focuses on her activity. The second is present perfect passive and presents the device as affected by a completed repair. Been appears in both, but the following form and the subject's role differ."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not omit be in a basic modal passive: ‘must be checked’, not ‘must checked’. Do not omit been in a present perfect passive: ‘has been signed’, not ‘has signed’ when the document is the affected subject. Use a past participle after been, as in written or sent.",
+        "A passive sentence need not name the agent. Choose a by phrase when identifying the agent helps the reader; avoid adding one merely to make a sentence longer. Modal meaning remains important: ‘must be repaired’ may express obligation, whereas ‘must have been repaired’ may express a deduction about an earlier repair in the relevant context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The device can be repaired.",
+      "note": "Can be plus a participle forms a modal passive."
+    },
+    {
+      "sentence": "The report must be submitted today.",
+      "note": "Must expresses obligation in a basic modal passive."
+    },
+    {
+      "sentence": "The documents have been signed.",
+      "note": "Have been plus a participle forms the present perfect passive."
+    },
+    {
+      "sentence": "The documents had been signed before the meeting.",
+      "note": "Had been plus a participle forms the past perfect passive."
+    },
+    {
+      "sentence": "The letter might have been sent.",
+      "note": "Might have been plus a participle expresses a possible past event in the passive."
+    },
+    {
+      "sentence": "The report must have been submitted already.",
+      "note": "Must can express a strong past deduction in this context."
+    },
+    {
+      "sentence": "Has the device been repaired?",
+      "note": "Has moves before the subject in a question."
+    },
+    {
+      "sentence": "The device has been repaired by a technician.",
+      "note": "The by phrase identifies the agent."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The report must checked.",
+      "correct": "The report must be checked.",
+      "reason": "Use be before the participle in the modal passive."
+    },
+    {
+      "incorrect": "The letter has been send.",
+      "correct": "The letter has been sent.",
+      "reason": "Use the participle sent after been."
+    },
+    {
+      "incorrect": "The documents have signed by Ana.",
+      "correct": "The documents have been signed by Ana.",
+      "reason": "Use been in this present perfect passive."
+    }
+  ],
+  "summary": [
+    "Use modal plus be plus a participle for a basic modal passive.",
+    "Use have, has or had been plus a participle for the corresponding perfect passive.",
+    "Use modal plus have been plus a participle for a modal perfect passive."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U11-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The report must ___ today. (submit; passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Must be submitted is the basic modal passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "submitted"
+        },
+        {
+          "id": "b",
+          "text": "been submit"
+        },
+        {
+          "id": "c",
+          "text": "have submit"
+        },
+        {
+          "id": "d",
+          "text": "be submitted"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“submitted” does not fit here. Must be submitted is the basic modal passive.",
+        "b": "“been submit” does not fit here. Must be submitted is the basic modal passive.",
+        "c": "“have submit” does not fit here. Must be submitted is the basic modal passive.",
+        "d": "“be submitted” fits here. Must be submitted is the basic modal passive."
+      }
+    },
+    {
+      "id": "B2-U11-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The documents ___ already. (sign; present perfect passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Have been signed is the present perfect passive with a plural subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been signed"
+        },
+        {
+          "id": "b",
+          "text": "have signed by Ana"
+        },
+        {
+          "id": "c",
+          "text": "have been sign"
+        },
+        {
+          "id": "d",
+          "text": "has being signed"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“have been signed” fits here. Have been signed is the present perfect passive with a plural subject.",
+        "b": "“have signed by Ana” does not fit here. Have been signed is the present perfect passive with a plural subject.",
+        "c": "“have been sign” does not fit here. Have been signed is the present perfect passive with a plural subject.",
+        "d": "“has being signed” does not fit here. Have been signed is the present perfect passive with a plural subject."
+      }
+    },
+    {
+      "id": "B2-U11-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The letter might ___ yesterday. (send; modal perfect passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Might have been sent is the modal perfect passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be sent yesterday already has"
+        },
+        {
+          "id": "b",
+          "text": "have being sent"
+        },
+        {
+          "id": "c",
+          "text": "have been sent"
+        },
+        {
+          "id": "d",
+          "text": "have been send"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“be sent yesterday already has” does not fit here. Might have been sent is the modal perfect passive.",
+        "b": "“have being sent” does not fit here. Might have been sent is the modal perfect passive.",
+        "c": "“have been sent” fits here. Might have been sent is the modal perfect passive.",
+        "d": "“have been send” does not fit here. Might have been sent is the modal perfect passive."
+      }
+    },
+    {
+      "id": "B2-U11-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The road ___ before the meeting began. (repair; past perfect passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Had been repaired is the past perfect passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has repaired"
+        },
+        {
+          "id": "b",
+          "text": "had been repaired"
+        },
+        {
+          "id": "c",
+          "text": "had being repaired"
+        },
+        {
+          "id": "d",
+          "text": "had be repaired"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“has repaired” does not fit here. Had been repaired is the past perfect passive.",
+        "b": "“had been repaired” fits here. Had been repaired is the past perfect passive.",
+        "c": "“had being repaired” does not fit here. Had been repaired is the past perfect passive.",
+        "d": "“had be repaired” does not fit here. Had been repaired is the past perfect passive."
+      }
+    },
+    {
+      "id": "B2-U11-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ the device been repaired? Use the present perfect passive.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Has precedes the singular subject in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Has"
+        },
+        {
+          "id": "d",
+          "text": "Have been"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Does” does not fit here. Has precedes the singular subject in the question.",
+        "b": "“Did” does not fit here. Has precedes the singular subject in the question.",
+        "c": "“Has” fits here. Has precedes the singular subject in the question.",
+        "d": "“Have been” does not fit here. Has precedes the singular subject in the question."
+      }
+    },
+    {
+      "id": "B2-U11-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The technician has repaired the device. Choose the present perfect passive.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Has been repaired is the present perfect passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The device has been repaired."
+        },
+        {
+          "id": "b",
+          "text": "The device has repairing."
+        },
+        {
+          "id": "c",
+          "text": "The device has been repair."
+        },
+        {
+          "id": "d",
+          "text": "The device have been repaired."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The device has been repaired.” fits here. Has been repaired is the present perfect passive.",
+        "b": "“The device has repairing.” does not fit here. Has been repaired is the present perfect passive.",
+        "c": "“The device has been repair.” does not fit here. Has been repaired is the present perfect passive.",
+        "d": "“The device have been repaired.” does not fit here. Has been repaired is the present perfect passive."
+      }
+    },
+    {
+      "id": "B2-U11-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is present perfect continuous active?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Has been repairing describes her activity in the active voice.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The device has been repaired."
+        },
+        {
+          "id": "b",
+          "text": "She has been repairing the device."
+        },
+        {
+          "id": "c",
+          "text": "The device might be repaired."
+        },
+        {
+          "id": "d",
+          "text": "The device was repaired."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The device has been repaired.” does not fit here. Has been repairing describes her activity in the active voice.",
+        "b": "“She has been repairing the device.” fits here. Has been repairing describes her activity in the active voice.",
+        "c": "“The device might be repaired.” does not fit here. Has been repairing describes her activity in the active voice.",
+        "d": "“The device was repaired.” does not fit here. Has been repairing describes her activity in the active voice."
+      }
+    },
+    {
+      "id": "B2-U11-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The document might have been ___ yesterday. (write)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Written is the participle of write.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wrote"
+        },
+        {
+          "id": "b",
+          "text": "write"
+        },
+        {
+          "id": "c",
+          "text": "writing"
+        },
+        {
+          "id": "d",
+          "text": "written"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“wrote” does not fit here. Written is the participle of write.",
+        "b": "“write” does not fit here. Written is the participle of write.",
+        "c": "“writing” does not fit here. Written is the participle of write.",
+        "d": "“written” fits here. Written is the participle of write."
+      }
+    },
+    {
+      "id": "B2-U11-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use modal passive: The form must ___ signed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Must be plus a participle forms the modal passive.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B2-U11-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use present perfect passive: The forms have ___ signed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Have been plus a participle forms the present perfect passive.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U11-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past perfect passive: The forms had ___ signed before noon.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Had been plus a participle forms the past perfect passive.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U11-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use modal perfect passive: The letter might have ___ sent.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Might have been plus a participle forms the modal perfect passive.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U11-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The report has been ___. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U11-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The parcel may have been ___. (send)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Sent is the participle of send.",
+      "accepted_answers": [
+        "sent"
+      ]
+    },
+    {
+      "id": "B2-U11-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the agent phrase: The report was written ___ Ana.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "By introduces the agent.",
+      "accepted_answers": [
+        "by"
+      ]
+    },
+    {
+      "id": "B2-U11-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ the parcel been sent? Use the present perfect passive.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Has comes before the singular subject.",
+      "accepted_answers": [
+        "Has"
+      ]
+    },
+    {
+      "id": "B2-U11-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: must checked",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Use be before the participle.",
+      "source_sentence": "The report must checked.",
+      "target_segment": "must checked",
+      "accepted_answers": [
+        "must be checked"
+      ]
+    },
+    {
+      "id": "B2-U11-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: send",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Use the participle sent after been.",
+      "source_sentence": "The parcel has been send.",
+      "target_segment": "send",
+      "accepted_answers": [
+        "sent"
+      ]
+    },
+    {
+      "id": "B2-U11-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have signed",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Use been in this perfect passive.",
+      "source_sentence": "The documents have signed by Ana.",
+      "target_segment": "have signed",
+      "accepted_answers": [
+        "have been signed"
+      ]
+    },
+    {
+      "id": "B2-U11-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: be",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Use have been in the modal perfect passive.",
+      "source_sentence": "The letter might have be sent.",
+      "target_segment": "be",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U11-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Can be repaired is the modal passive.",
+      "source_sentence": "A technician can repair the device. Use the modal passive.",
+      "keyword": "repaired",
+      "target_sentence": "The device ___ by a technician.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "can be repaired"
+      ]
+    },
+    {
+      "id": "B2-U11-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Have been signed is the present perfect passive; by introduces the agent.",
+      "source_sentence": "Ana has signed the forms. Use the present perfect passive and include Ana.",
+      "keyword": "signed",
+      "target_sentence": "The forms ___ Ana.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "have been signed by"
+      ]
+    },
+    {
+      "id": "B2-U11-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Might have been sent expresses the past possibility in the passive.",
+      "source_sentence": "Someone might have sent the letter. Use the modal perfect passive.",
+      "keyword": "sent",
+      "target_sentence": "The letter ___ .",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "might have been sent"
+      ]
+    },
+    {
+      "id": "B2-U11-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U11"
+      ],
+      "explanation": "Had been repaired is the past perfect passive.",
+      "source_sentence": "They had repaired the road before noon. Use the past perfect passive.",
+      "keyword": "repaired",
+      "target_sentence": "The road ___ before noon.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had been repaired"
+      ]
+    }
+  ]
+}

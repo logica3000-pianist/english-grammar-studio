@@ -1,0 +1,642 @@
+{
+  "id": "B1-U22",
+  "level": "B1",
+  "title": "Used to and past habits",
+  "order": 22,
+  "prerequisites": [
+    "B1-U21"
+  ],
+  "objectives": [
+    "Describe past habits and states with used to.",
+    "Form common questions and negatives with did and use to.",
+    "Distinguish used to do from be used to doing."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Use used to plus a base verb to describe a past habit or state that is no longer true. ‘I used to cycle to school’ describes a repeated past activity and suggests I do not have that habit now. ‘The building used to be a cinema’ describes a past state: it was a cinema before, but it is not one now.",
+        "Used to can describe habits and states over a past period; it does not normally describe a single completed event. For one occasion, use the past simple: ‘I cycled to school yesterday’. Context tells us when the earlier habit or state existed."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In positive statements, use used to with every subject, followed by the base form: ‘She used to work here’ and ‘They used to live nearby’. The verb does not take a past ending after to: say ‘used to live’, not ‘used to lived’.",
+        "A common standard negative is didn't use to plus the base form: ‘I didn't use to like tea’. A common question is did plus subject plus use to: ‘Did you use to play football?’ Both use and used appear in questions and negatives in actual written usage, but didn't use to and did … use to are widely taught standard forms; this unit practises those forms."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "We can also use would for some repeated past actions when a past time has been established: ‘When we were children, we would play outside every evening’. Would in this use does not normally describe a past state: ‘We used to live there’, not ‘We would live there’ for a simple description of a past state. The past simple can also describe repeated actions: ‘We played outside every evening’.",
+        "Compare used to do with be used to something. ‘I used to get up early’ means it was my past habit. ‘I am used to getting up early’ means getting up early is familiar to me now. After be used to, a following verb normally takes -ing: ‘I am used to getting up early’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not treat used to as a synonym for usually now. ‘I used to work nights’ places the habit in the past and normally suggests it has changed. If you still work nights, say ‘I usually work nights’ or another suitable present form.",
+        "Do not confuse the spelling of the positive form with the base verb after did in the standard pattern: ‘She used to sing’ but ‘Did she use to sing?’ The meaning of would depends on context; it can also express imagined results or polite requests. Here it describes a repeated past action in a clearly established past setting."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I used to cycle to school.",
+      "note": "A past habit is presented as no longer current."
+    },
+    {
+      "sentence": "The building used to be a cinema.",
+      "note": "Used to can describe a past state."
+    },
+    {
+      "sentence": "She used to work nights.",
+      "note": "Work stays in the base form."
+    },
+    {
+      "sentence": "I didn't use to like tea.",
+      "note": "Didn't use to forms a common negative."
+    },
+    {
+      "sentence": "Did you use to play tennis?",
+      "note": "Did comes before the subject in this common question pattern."
+    },
+    {
+      "sentence": "As children, we would play outside every evening.",
+      "note": "Would describes a repeated past action in an established past setting."
+    },
+    {
+      "sentence": "We used to live near the station.",
+      "note": "Used to can describe a past state."
+    },
+    {
+      "sentence": "I am used to getting up early.",
+      "note": "Be used to means something is familiar; the following verb has -ing."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She used to lived here.",
+      "correct": "She used to live here.",
+      "reason": "Use the base verb after used to."
+    },
+    {
+      "incorrect": "Did he used to plays tennis?",
+      "correct": "Did he use to play tennis?",
+      "reason": "In the taught question pattern, use did, use to and the base verb."
+    },
+    {
+      "incorrect": "I am used to get up early.",
+      "correct": "I am used to getting up early.",
+      "reason": "After be used to, use an -ing form for a following verb."
+    }
+  ],
+  "summary": [
+    "Use used to plus a base verb for a past habit or state that has changed.",
+    "Would can describe repeated past actions in an established past context, but not normally a simple past state.",
+    "Be used to means being familiar with something and can be followed by an -ing form."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U22-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ live near the sea, but she lives inland now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to plus the base verb describes the changed past state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "use to"
+        },
+        {
+          "id": "b",
+          "text": "used"
+        },
+        {
+          "id": "c",
+          "text": "used to"
+        },
+        {
+          "id": "d",
+          "text": "is used to live"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“use to” does not fit here. Used to plus the base verb describes the changed past state.",
+        "b": "“used” does not fit here. Used to plus the base verb describes the changed past state.",
+        "c": "“used to” fits here. Used to plus the base verb describes the changed past state.",
+        "d": "“is used to live” does not fit here. Used to plus the base verb describes the changed past state."
+      }
+    },
+    {
+      "id": "B1-U22-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Did they ___ play tennis as children? Use the taught standard question form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "After did, use the taught form use to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "use to"
+        },
+        {
+          "id": "b",
+          "text": "used to"
+        },
+        {
+          "id": "c",
+          "text": "using to"
+        },
+        {
+          "id": "d",
+          "text": "uses to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“use to” fits here. After did, use the taught form use to.",
+        "b": "“used to” does not fit here. After did, use the taught form use to.",
+        "c": "“using to” does not fit here. After did, use the taught form use to.",
+        "d": "“uses to” does not fit here. After did, use the taught form use to."
+      }
+    },
+    {
+      "id": "B1-U22-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ live here, but now we do. Use the common negative form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Didn’t use to expresses the earlier negative state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn’t used"
+        },
+        {
+          "id": "b",
+          "text": "don’t used to"
+        },
+        {
+          "id": "c",
+          "text": "weren’t use to"
+        },
+        {
+          "id": "d",
+          "text": "didn’t use to"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“didn’t used” does not fit here. Didn’t use to expresses the earlier negative state.",
+        "b": "“don’t used to” does not fit here. Didn’t use to expresses the earlier negative state.",
+        "c": "“weren’t use to” does not fit here. Didn’t use to expresses the earlier negative state.",
+        "d": "“didn’t use to” fits here. Didn’t use to expresses the earlier negative state."
+      }
+    },
+    {
+      "id": "B1-U22-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I am used to ___ up early; it is familiar now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "A verb after be used to takes -ing in this pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "getting"
+        },
+        {
+          "id": "c",
+          "text": "got"
+        },
+        {
+          "id": "d",
+          "text": "to get"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“get” does not fit here. A verb after be used to takes -ing in this pattern.",
+        "b": "“getting” fits here. A verb after be used to takes -ing in this pattern.",
+        "c": "“got” does not fit here. A verb after be used to takes -ing in this pattern.",
+        "d": "“to get” does not fit here. A verb after be used to takes -ing in this pattern."
+      }
+    },
+    {
+      "id": "B1-U22-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "When we were children, we ___ play outside every day.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Would can describe repeated actions in the established past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would to"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "woulds"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“would to” does not fit here. Would can describe repeated actions in the established past.",
+        "b": "“would” fits here. Would can describe repeated actions in the established past.",
+        "c": "“are” does not fit here. Would can describe repeated actions in the established past.",
+        "d": "“woulds” does not fit here. Would can describe repeated actions in the established past."
+      }
+    },
+    {
+      "id": "B1-U22-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The building ___ be a cinema, but now it is a shop.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to can describe a changed past state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "used to"
+        },
+        {
+          "id": "b",
+          "text": "woulds"
+        },
+        {
+          "id": "c",
+          "text": "is used to being"
+        },
+        {
+          "id": "d",
+          "text": "using to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“used to” fits here. Used to can describe a changed past state.",
+        "b": "“woulds” does not fit here. Used to can describe a changed past state.",
+        "c": "“is used to being” does not fit here. Used to can describe a changed past state.",
+        "d": "“using to” does not fit here. Used to can describe a changed past state."
+      }
+    },
+    {
+      "id": "B1-U22-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence describes one finished event?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "The past simple with yesterday describes one finished event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I used to cycle to school."
+        },
+        {
+          "id": "b",
+          "text": "As children, we would cycle every day."
+        },
+        {
+          "id": "c",
+          "text": "I am used to cycling."
+        },
+        {
+          "id": "d",
+          "text": "I cycled to school yesterday."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I used to cycle to school.” does not fit here. The past simple with yesterday describes one finished event.",
+        "b": "“As children, we would cycle every day.” does not fit here. The past simple with yesterday describes one finished event.",
+        "c": "“I am used to cycling.” does not fit here. The past simple with yesterday describes one finished event.",
+        "d": "“I cycled to school yesterday.” fits here. The past simple with yesterday describes one finished event."
+      }
+    },
+    {
+      "id": "B1-U22-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence means getting up early is familiar now?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Be used to plus -ing expresses current familiarity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I used to get up early."
+        },
+        {
+          "id": "b",
+          "text": "I did use to get up early."
+        },
+        {
+          "id": "c",
+          "text": "I am used to getting up early."
+        },
+        {
+          "id": "d",
+          "text": "I would get up early as a child."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“I used to get up early.” does not fit here. Be used to plus -ing expresses current familiarity.",
+        "b": "“I did use to get up early.” does not fit here. Be used to plus -ing expresses current familiarity.",
+        "c": "“I am used to getting up early.” fits here. Be used to plus -ing expresses current familiarity.",
+        "d": "“I would get up early as a child.” does not fit here. Be used to plus -ing expresses current familiarity."
+      }
+    },
+    {
+      "id": "B1-U22-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the positive past-habit form: I ___ to play chess, but I no longer do.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to introduces the past habit.",
+      "accepted_answers": [
+        "used"
+      ]
+    },
+    {
+      "id": "B1-U22-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the taught question form: Did she ___ to work here?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use to follows did in this standard question pattern.",
+      "accepted_answers": [
+        "use"
+      ]
+    },
+    {
+      "id": "B1-U22-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the common negative: I didn’t ___ to like tea.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use to follows didn’t in this pattern.",
+      "accepted_answers": [
+        "use"
+      ]
+    },
+    {
+      "id": "B1-U22-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: He used to ___ nearby. (live)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use the base form after used to.",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "B1-U22-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: I am used to ___ early. (wake up)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Be used to is followed by an -ing form here.",
+      "accepted_answers": [
+        "waking up"
+      ]
+    },
+    {
+      "id": "B1-U22-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would: As children, we ___ play outside every day.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Would describes the repeated past action.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U22-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the positive form: This building ___ to be a cinema.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to can describe a past state.",
+      "accepted_answers": [
+        "used"
+      ]
+    },
+    {
+      "id": "B1-U22-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: They used to ___ by bus. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use the base form after used to.",
+      "accepted_answers": [
+        "travel"
+      ]
+    },
+    {
+      "id": "B1-U22-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: lived",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use the base form after used to.",
+      "source_sentence": "She used to lived here.",
+      "target_segment": "lived",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "B1-U22-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: plays",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use the base form after use to.",
+      "source_sentence": "Did he use to plays tennis?",
+      "target_segment": "plays",
+      "accepted_answers": [
+        "play"
+      ]
+    },
+    {
+      "id": "B1-U22-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: get",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use an -ing form after be used to.",
+      "source_sentence": "I am used to get up early.",
+      "target_segment": "get",
+      "accepted_answers": [
+        "getting"
+      ]
+    },
+    {
+      "id": "B1-U22-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: worked",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Use the base form after used to.",
+      "source_sentence": "They used to worked here.",
+      "target_segment": "worked",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "B1-U22-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to live describes the changed past state.",
+      "source_sentence": "In the past, Maya lived here; she no longer does.",
+      "keyword": "used",
+      "target_sentence": "Maya ___ here.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "used to live"
+      ]
+    },
+    {
+      "id": "B1-U22-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Used to play describes the changed past habit.",
+      "source_sentence": "In the past, I played tennis regularly; I no longer do.",
+      "keyword": "used",
+      "target_sentence": "I ___ tennis.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "used to play"
+      ]
+    },
+    {
+      "id": "B1-U22-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Be used to plus -ing expresses familiarity.",
+      "source_sentence": "Getting up early is familiar to me now.",
+      "keyword": "used",
+      "target_sentence": "I am ___ early.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "used to getting up"
+      ]
+    },
+    {
+      "id": "B1-U22-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U22"
+      ],
+      "explanation": "Did she use to work is the taught question pattern.",
+      "source_sentence": "She worked here in the past. Ask about her past habit using the taught standard question form.",
+      "keyword": "use",
+      "target_sentence": "Did she ___ here?",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "use to work"
+      ]
+    }
+  ]
+}

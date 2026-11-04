@@ -1,0 +1,642 @@
+{
+  "id": "A2-U11",
+  "level": "A2",
+  "title": "Articles a, an and the",
+  "order": 11,
+  "prerequisites": [
+    "A2-U10"
+  ],
+  "objectives": [
+    "Choose a or an using the following sound.",
+    "Use the to refer to an identifiable person or thing.",
+    "Recognise common general uses without an article."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Articles are small words that come before nouns. English has the indefinite articles a and an, and the definite article the. We often use a or an when we mention one countable thing for the first time: ‘I saw a dog’. We can then use the when we talk about the same dog: ‘The dog was friendly’. The helps the listener identify the thing we mean.",
+        "Use a or an with a singular countable noun, such as a book or an apple. Use the with singular or plural nouns and with uncountable nouns when the listener can identify the thing or things: ‘the book on the table’, ‘the books on the table’ and ‘the water in this bottle’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Choose a or an by the sound at the beginning of the next word, not simply by its first letter. Use a before a consonant sound: a teacher, a useful book. Useful begins with a ‘y’ sound. Use an before a vowel sound: an orange, an hour. The h in hour is silent for most speakers.",
+        "A singular countable noun normally needs a determiner such as an article, this or my. Say ‘She is a teacher’, not ‘She is teacher’. When the following noun begins with an adjective, choose a or an using the adjective’s first sound: ‘an old house’, but ‘a small house’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Read the examples as parts of conversations. ‘There is a café near here’ introduces a café. ‘The café closes at six’ points back to the café just mentioned. The can also identify something because of its situation: ‘Please close the door’ is natural when the speaker and listener know which door is meant.",
+        "We also use the for things understood as unique in the relevant context: ‘the sun’ and ‘the moon’. We do not normally put an article before plural or uncountable nouns when making a general statement: ‘Dogs need exercise’ and ‘Water is important’. This is a useful beginning pattern; article use has further details."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Compare ‘I need a pen’ with ‘I need the pen on your desk’. In the first sentence, any suitable pen may be enough. In the second, the phrase identifies a particular pen. The choice depends on shared context, so a noun does not always take the same article.",
+        "Do not use a or an directly with plural nouns or uncountable nouns: say ‘a chair’ but ‘chairs’, and ‘some information’ rather than ‘an information’. Some fixed expressions and names have their own article patterns. In this unit, choose the article using the context provided rather than memorising one article for every noun."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I saw a cat in the garden.",
+      "note": "A introduces one cat for the first time."
+    },
+    {
+      "sentence": "The cat was black.",
+      "note": "The refers back to the cat already mentioned."
+    },
+    {
+      "sentence": "She is an engineer.",
+      "note": "Use an before the vowel sound at the start of engineer."
+    },
+    {
+      "sentence": "He is a university student.",
+      "note": "University begins with a consonant ‘y’ sound."
+    },
+    {
+      "sentence": "We waited for an hour.",
+      "note": "Hour begins with a vowel sound because its h is silent."
+    },
+    {
+      "sentence": "Please open the window next to you.",
+      "note": "The phrase identifies a particular window."
+    },
+    {
+      "sentence": "The sun is bright today.",
+      "note": "The sun is understood as unique in this context."
+    },
+    {
+      "sentence": "Cats often sleep during the day.",
+      "note": "The plural noun cats refers to cats generally without an article."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She is teacher.",
+      "correct": "She is a teacher.",
+      "reason": "A singular countable job noun needs a determiner."
+    },
+    {
+      "incorrect": "He has an useful book.",
+      "correct": "He has a useful book.",
+      "reason": "Useful starts with a consonant sound."
+    },
+    {
+      "incorrect": "I saw a dog. A dog was wet.",
+      "correct": "I saw a dog. The dog was wet.",
+      "reason": "The identifies the dog already introduced."
+    }
+  ],
+  "summary": [
+    "Use a or an with one singular countable noun when it is not identified.",
+    "Choose a or an by the sound that follows.",
+    "Use the when the listener can identify the noun from the context."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U11-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I saw ___ elephant at the zoo.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Elephant begins with a vowel sound, so use an.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "the an"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "some an"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“a” does not fit here. Elephant begins with a vowel sound, so use an.",
+        "b": "“the an” does not fit here. Elephant begins with a vowel sound, so use an.",
+        "c": "“an” fits here. Elephant begins with a vowel sound, so use an.",
+        "d": "“some an” does not fit here. Elephant begins with a vowel sound, so use an."
+      }
+    },
+    {
+      "id": "A2-U11-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She is ___ nurse at the local hospital.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Use a with a singular job noun beginning with a consonant sound.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "the an"
+        },
+        {
+          "id": "d",
+          "text": "some"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“an” does not fit here. Use a with a singular job noun beginning with a consonant sound.",
+        "b": "“a” fits here. Use a with a singular job noun beginning with a consonant sound.",
+        "c": "“the an” does not fit here. Use a with a singular job noun beginning with a consonant sound.",
+        "d": "“some” does not fit here. Use a with a singular job noun beginning with a consonant sound."
+      }
+    },
+    {
+      "id": "A2-U11-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He bought a book. ___ book is on the table.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The refers to the book just mentioned.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "An"
+        },
+        {
+          "id": "d",
+          "text": "Some"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The” fits here. The refers to the book just mentioned.",
+        "b": "“A” does not fit here. The refers to the book just mentioned.",
+        "c": "“An” does not fit here. The refers to the book just mentioned.",
+        "d": "“Some” does not fit here. The refers to the book just mentioned."
+      }
+    },
+    {
+      "id": "A2-U11-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We waited for ___ hour.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Hour begins with a vowel sound because h is silent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "the a"
+        },
+        {
+          "id": "c",
+          "text": "some"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“a” does not fit here. Hour begins with a vowel sound because h is silent.",
+        "b": "“the a” does not fit here. Hour begins with a vowel sound because h is silent.",
+        "c": "“some” does not fit here. Hour begins with a vowel sound because h is silent.",
+        "d": "“an” fits here. Hour begins with a vowel sound because h is silent."
+      }
+    },
+    {
+      "id": "A2-U11-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "That is ___ useful tool.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Useful begins with a consonant y sound, so use a.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "some"
+        },
+        {
+          "id": "d",
+          "text": "an a"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“an” does not fit here. Useful begins with a consonant y sound, so use a.",
+        "b": "“a” fits here. Useful begins with a consonant y sound, so use a.",
+        "c": "“some” does not fit here. Useful begins with a consonant y sound, so use a.",
+        "d": "“an a” does not fit here. Useful begins with a consonant y sound, so use a."
+      }
+    },
+    {
+      "id": "A2-U11-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Please close ___ door next to you.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The phrase identifies the particular door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "a an"
+        },
+        {
+          "id": "c",
+          "text": "some"
+        },
+        {
+          "id": "d",
+          "text": "the"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“an” does not fit here. The phrase identifies the particular door.",
+        "b": "“a an” does not fit here. The phrase identifies the particular door.",
+        "c": "“some” does not fit here. The phrase identifies the particular door.",
+        "d": "“the” fits here. The phrase identifies the particular door."
+      }
+    },
+    {
+      "id": "A2-U11-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ moon looks bright tonight.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The moon is understood as unique in this context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "An"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "Some"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The” fits here. The moon is understood as unique in this context.",
+        "b": "“An” does not fit here. The moon is understood as unique in this context.",
+        "c": "“A” does not fit here. The moon is understood as unique in this context.",
+        "d": "“Some” does not fit here. The moon is understood as unique in this context."
+      }
+    },
+    {
+      "id": "A2-U11-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I would like ___ orange, please.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Orange begins with a vowel sound; use an.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some an"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "the a"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“some an” does not fit here. Orange begins with a vowel sound; use an.",
+        "b": "“a” does not fit here. Orange begins with a vowel sound; use an.",
+        "c": "“an” fits here. Orange begins with a vowel sound; use an.",
+        "d": "“the a” does not fit here. Orange begins with a vowel sound; use an."
+      }
+    },
+    {
+      "id": "A2-U11-E09",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "I have ___ new phone.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "New starts with a consonant sound.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U11-E10",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "We live in ___ old house.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Old starts with a vowel sound.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "A2-U11-E11",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "She is ___ doctor.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "A singular job noun beginning with a consonant sound takes a.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U11-E12",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "He has ___ umbrella.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Umbrella begins with a vowel sound.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "A2-U11-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I saw a bird. ___ bird was blue.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The refers to the bird already mentioned.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "A2-U11-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Please pass me ___ salt on the table.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The phrase identifies a particular supply of salt.",
+      "accepted_answers": [
+        "the"
+      ]
+    },
+    {
+      "id": "A2-U11-E15",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "She works at ___ university.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "University starts with a consonant y sound.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U11-E16",
+      "type": "gap",
+      "instruction": "Complete the gap with a or an.",
+      "prompt": "The journey takes ___ hour.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Hour starts with a vowel sound.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "A2-U11-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: an",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Teacher starts with a consonant sound.",
+      "source_sentence": "She is an teacher.",
+      "target_segment": "an",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U11-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: a hour",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Hour starts with a vowel sound.",
+      "source_sentence": "We waited a hour.",
+      "target_segment": "a hour",
+      "accepted_answers": [
+        "an hour"
+      ]
+    },
+    {
+      "id": "A2-U11-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: an",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Dog begins with a consonant sound, so use a.",
+      "source_sentence": "I saw an dog.",
+      "target_segment": "an",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "A2-U11-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: doctor",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "A singular countable job noun needs a determiner.",
+      "source_sentence": "He is doctor.",
+      "target_segment": "doctor",
+      "accepted_answers": [
+        "a doctor"
+      ]
+    },
+    {
+      "id": "A2-U11-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Use an before the vowel sound in engineer.",
+      "source_sentence": "Mia has the job of engineer.",
+      "keyword": "engineer",
+      "target_sentence": "Mia is ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "an engineer"
+      ]
+    },
+    {
+      "id": "A2-U11-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "A bird introduces one bird for the first time.",
+      "source_sentence": "A bird is in the tree. The bird is singing.",
+      "keyword": "bird",
+      "target_sentence": "There is ___ in the tree. The bird is singing.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a bird"
+      ]
+    },
+    {
+      "id": "A2-U11-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "The identifies the specified door.",
+      "source_sentence": "Please shut the particular door next to you.",
+      "keyword": "door",
+      "target_sentence": "Please close ___ next to you.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "the door"
+      ]
+    },
+    {
+      "id": "A2-U11-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U11"
+      ],
+      "explanation": "Use an because hour begins with a vowel sound.",
+      "source_sentence": "We waited for one hour.",
+      "keyword": "hour",
+      "target_sentence": "We waited for ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "an hour"
+      ]
+    }
+  ]
+}

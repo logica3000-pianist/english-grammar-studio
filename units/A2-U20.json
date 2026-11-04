@@ -1,0 +1,656 @@
+{
+  "id": "A2-U20",
+  "level": "A2",
+  "title": "Past time expressions: cumulative review",
+  "order": 20,
+  "prerequisites": [
+    "A2-U19"
+  ],
+  "objectives": [
+    "Use common expressions for finished past time.",
+    "Choose prepositions for days, times and years.",
+    "Review past questions and actions in progress."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Time expressions help us say when something happened. We use yesterday for the day before today: ‘I worked yesterday’. We use last with expressions such as last night, last week, last month and last year: ‘They moved last year’. We can use ago after a length of time: ‘I saw her two days ago’. These expressions often accompany the past simple because they refer to a finished past time.",
+        "This unit also reviews past simple and past continuous forms. Use a past simple form for a finished event, and use was or were plus -ing to focus on an action in progress at a past time. The surrounding information helps us choose the form."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use on before a named day: ‘on Monday’ or ‘on Friday morning’. Use at before a clock time: ‘at six’ or ‘at 8.30’. Use in before a year, a month or a part of the day: ‘in 2020’, ‘in April’ and ‘in the morning’. A common expression is at night. The context or a past verb can show that a named day or month is in the past.",
+        "Do not normally add a preposition before yesterday, last week or a time expression ending in ago: say ‘yesterday’, ‘last week’ and ‘three hours ago’. We can put many of these expressions at the end or the beginning of a sentence: ‘I called on Monday’ or ‘On Monday, I called’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. ‘I visited my aunt last Sunday’ describes a finished event. ‘At six last Sunday, I was travelling home’ focuses on an activity in progress at that time. In ‘I was travelling when she called’, the call is a past event that happened during the activity.",
+        "A time expression can be precise or general. ‘At half past seven’ gives a clock time; ‘last year’ gives a longer period. A long period does not automatically require the past continuous: ‘We lived there last year’ can present the situation as a completed past period. Choose according to the meaning."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use last with ago: say ‘two days ago’, not ‘last two days ago’. The phrase ‘the last two days’ exists, but it has a different form and can be used in a different time context. Also distinguish yesterday morning from last night; ‘yesterday night’ is generally unusual in standard British English.",
+        "With ordinary past simple verbs, use did and the base verb in questions: ‘Did you work yesterday?’ With be, use was or were: ‘Were you at home yesterday?’ With the past continuous, use was or were plus -ing: ‘Were you working at six?’ These are different patterns, even when the same time expression appears."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I called my friend yesterday.",
+      "note": "Yesterday means the day before today."
+    },
+    {
+      "sentence": "We visited York last month.",
+      "note": "Last month names a finished past month."
+    },
+    {
+      "sentence": "She left two hours ago.",
+      "note": "Ago follows the length of time."
+    },
+    {
+      "sentence": "He arrived on Monday.",
+      "note": "Use on with a named day."
+    },
+    {
+      "sentence": "They met at seven.",
+      "note": "Use at with a clock time."
+    },
+    {
+      "sentence": "I started work in 2020.",
+      "note": "Use in with a year."
+    },
+    {
+      "sentence": "At eight last night, we were studying.",
+      "note": "Were studying focuses on progress at eight."
+    },
+    {
+      "sentence": "I was reading when the lights went out.",
+      "note": "The past event happened during the activity in progress."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I called her in yesterday.",
+      "correct": "I called her yesterday.",
+      "reason": "Do not use in before yesterday in this pattern."
+    },
+    {
+      "incorrect": "We arrived on eight.",
+      "correct": "We arrived at eight.",
+      "reason": "Use at with a clock time."
+    },
+    {
+      "incorrect": "She left two days before ago.",
+      "correct": "She left two days ago.",
+      "reason": "Ago follows the length of time without before."
+    }
+  ],
+  "summary": [
+    "Use yesterday, last week and expressions such as two days ago for past time.",
+    "Use on with days, at with clock times and in with years and months.",
+    "Choose past simple or past continuous according to the situation being described."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U20-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I visited my aunt ___ Sunday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Last Sunday names the previous Sunday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "ago"
+        },
+        {
+          "id": "c",
+          "text": "in the"
+        },
+        {
+          "id": "d",
+          "text": "last"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“at” does not fit here. Last Sunday names the previous Sunday.",
+        "b": "“ago” does not fit here. Last Sunday names the previous Sunday.",
+        "c": "“in the” does not fit here. Last Sunday names the previous Sunday.",
+        "d": "“last” fits here. Last Sunday names the previous Sunday."
+      }
+    },
+    {
+      "id": "A2-U20-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She arrived ___ 7.30 yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use at with a clock time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "ago"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“in” does not fit here. Use at with a clock time.",
+        "b": "“at” fits here. Use at with a clock time.",
+        "c": "“on” does not fit here. Use at with a clock time.",
+        "d": "“ago” does not fit here. Use at with a clock time."
+      }
+    },
+    {
+      "id": "A2-U20-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We moved here two years ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Ago follows a length of time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "last"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "ago"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“last” does not fit here. Ago follows a length of time.",
+        "b": "“on” does not fit here. Ago follows a length of time.",
+        "c": "“ago” fits here. Ago follows a length of time.",
+        "d": "“at” does not fit here. Ago follows a length of time."
+      }
+    },
+    {
+      "id": "A2-U20-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They met ___ 2020.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use in with a year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "ago"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“in” fits here. Use in with a year.",
+        "b": "“on” does not fit here. Use in with a year.",
+        "c": "“ago” does not fit here. Use in with a year.",
+        "d": "“at” does not fit here. Use in with a year."
+      }
+    },
+    {
+      "id": "A2-U20-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At nine last night, we ___ dinner.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U18"
+      ],
+      "explanation": "Were eating describes the action in progress at nine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "eat"
+        },
+        {
+          "id": "b",
+          "text": "are eating"
+        },
+        {
+          "id": "c",
+          "text": "were eating"
+        },
+        {
+          "id": "d",
+          "text": "eats"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“eat” does not fit here. Were eating describes the action in progress at nine.",
+        "b": "“are eating” does not fit here. Were eating describes the action in progress at nine.",
+        "c": "“were eating” fits here. Were eating describes the action in progress at nine.",
+        "d": "“eats” does not fit here. Were eating describes the action in progress at nine."
+      }
+    },
+    {
+      "id": "A2-U20-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I was walking when the bus ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U19"
+      ],
+      "explanation": "Arrived describes a completed past event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "arrive"
+        },
+        {
+          "id": "b",
+          "text": "arrived"
+        },
+        {
+          "id": "c",
+          "text": "arrives"
+        },
+        {
+          "id": "d",
+          "text": "arriving"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“arrive” does not fit here. Arrived describes a completed past event.",
+        "b": "“arrived” fits here. Arrived describes a completed past event.",
+        "c": "“arrives” does not fit here. Arrived describes a completed past event.",
+        "d": "“arriving” does not fit here. Arrived describes a completed past event."
+      }
+    },
+    {
+      "id": "A2-U20-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ she at work yesterday?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U16"
+      ],
+      "explanation": "Use was with she in a past question with be.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Was"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Does"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Was” fits here. Use was with she in a past question with be.",
+        "b": "“Did” does not fit here. Use was with she in a past question with be.",
+        "c": "“Does” does not fit here. Use was with she in a past question with be.",
+        "d": "“Are” does not fit here. Use was with she in a past question with be."
+      }
+    },
+    {
+      "id": "A2-U20-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ they visit the museum last week?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U17"
+      ],
+      "explanation": "Use did with the base verb visit in this past question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Does"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Were” does not fit here. Use did with the base verb visit in this past question.",
+        "b": "“Are” does not fit here. Use did with the base verb visit in this past question.",
+        "c": "“Does” does not fit here. Use did with the base verb visit in this past question.",
+        "d": "“Did” fits here. Use did with the base verb visit in this past question."
+      }
+    },
+    {
+      "id": "A2-U20-E09",
+      "type": "gap",
+      "instruction": "Complete the gap using last or ago.",
+      "prompt": "We saw the film ___ night.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Last night refers to the previous night.",
+      "accepted_answers": [
+        "last"
+      ]
+    },
+    {
+      "id": "A2-U20-E10",
+      "type": "gap",
+      "instruction": "Complete the gap using last or ago.",
+      "prompt": "He left three hours ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Ago follows the length of time.",
+      "accepted_answers": [
+        "ago"
+      ]
+    },
+    {
+      "id": "A2-U20-E11",
+      "type": "gap",
+      "instruction": "Complete the gap using at, on or in.",
+      "prompt": "The lesson started ___ eight yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use at before a clock time.",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U20-E12",
+      "type": "gap",
+      "instruction": "Complete the gap using at, on or in.",
+      "prompt": "They arrived ___ Monday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use on before a named day.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U20-E13",
+      "type": "gap",
+      "instruction": "Complete the gap using at, on or in.",
+      "prompt": "I was born ___ 2000.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use in before a year.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U20-E14",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "She ___ reading at six yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U18"
+      ],
+      "explanation": "She takes was in the past continuous.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U20-E15",
+      "type": "gap",
+      "instruction": "Complete the gap with the past simple form of the verb in brackets.",
+      "prompt": "We were sleeping when the phone ___. (ring)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U19"
+      ],
+      "explanation": "Rang is the past form of ring.",
+      "accepted_answers": [
+        "rang"
+      ]
+    },
+    {
+      "id": "A2-U20-E16",
+      "type": "gap",
+      "instruction": "Complete the gap with the past simple auxiliary.",
+      "prompt": "___ you work yesterday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U16",
+        "A2-U17"
+      ],
+      "explanation": "Use did with the base verb work.",
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U20-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: in yesterday",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Do not use in before yesterday in this pattern.",
+      "source_sentence": "We met in yesterday.",
+      "target_segment": "in yesterday",
+      "accepted_answers": [
+        "yesterday"
+      ]
+    },
+    {
+      "id": "A2-U20-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: on nine",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Use at with a clock time.",
+      "source_sentence": "The bus arrived on nine.",
+      "target_segment": "on nine",
+      "accepted_answers": [
+        "at nine"
+      ]
+    },
+    {
+      "id": "A2-U20-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U18"
+      ],
+      "explanation": "She takes was.",
+      "source_sentence": "She were cooking at noon.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U20-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: went",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U20",
+        "A2-U17"
+      ],
+      "explanation": "Use the base form go after did.",
+      "source_sentence": "Did they went home yesterday?",
+      "target_segment": "went",
+      "accepted_answers": [
+        "go"
+      ]
+    },
+    {
+      "id": "A2-U20-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U20"
+      ],
+      "explanation": "Ago follows the length of time.",
+      "source_sentence": "I saw Ben three days before today.",
+      "keyword": "ago",
+      "target_sentence": "I saw Ben three days ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "ago"
+      ]
+    },
+    {
+      "id": "A2-U20-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U20",
+        "A2-U18"
+      ],
+      "explanation": "Was reading shows the action in progress.",
+      "source_sentence": "Yesterday at six, I was reading.",
+      "keyword": "reading",
+      "target_sentence": "I ___ at six yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "A2-U20-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U20",
+        "A2-U16"
+      ],
+      "explanation": "Use did before the subject and the base verb visit.",
+      "source_sentence": "They visited the museum last Monday. Ask a yes/no question.",
+      "keyword": "Did",
+      "target_sentence": "___ they visit the museum last Monday?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U20-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U20",
+        "A2-U16"
+      ],
+      "explanation": "Wasn’t or was not makes the past form of be negative.",
+      "source_sentence": "She was not at home last night.",
+      "keyword": null,
+      "target_sentence": "She ___ at home last night.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "wasn’t",
+        "was not"
+      ]
+    }
+  ]
+}

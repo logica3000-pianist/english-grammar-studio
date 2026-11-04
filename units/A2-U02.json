@@ -1,0 +1,642 @@
+{
+  "id": "A2-U02",
+  "level": "A2",
+  "title": "Present simple: positive statements",
+  "order": 2,
+  "prerequisites": [
+    "A2-U01"
+  ],
+  "objectives": [
+    "Use the present simple to describe routines and general facts.",
+    "Choose the correct verb form for singular and plural subjects.",
+    "Spell common third-person singular verb forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use the present simple to talk about habits and routines: things that happen regularly. It also describes facts and situations that are generally true. ‘I walk to college’ describes a routine; it does not mean I am walking at this exact moment. ‘Water boils at 100°C’ describes a general fact under normal pressure.",
+        "A subject is the person or thing that does an action. In a positive statement, the subject normally comes before the main verb: ‘They play tennis.’ In this unit we practise positive statements. Present simple questions and negatives are taught in the next unit. The verb be has a different pattern, which you studied in Unit 1."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "With I, you, we and they, use the base form of the verb: ‘I work’, ‘you study’, ‘we live’ and ‘they play’. With he, she or it, usually add -s: ‘he works’, ‘she lives’ and ‘it rains’. Use the same -s form with one person’s name or one singular thing: ‘Aisha works’ and ‘the bus stops’.",
+        "Some verbs have a spelling change. Add -es to verbs ending in -s, -sh, -ch, -x or -o: ‘passes’, ‘washes’, ‘watches’, ‘fixes’ and ‘goes’. When a verb ends in a consonant plus y, change y to i and add -es: ‘study’ becomes ‘studies’. After a vowel plus y, add only -s: ‘play’ becomes ‘plays’. Have is irregular: ‘he has’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Time expressions often help show a routine. We can say ‘every day’, ‘on Mondays’, ‘at weekends’ or ‘in the morning’. They often appear at the end of a sentence. They describe how often or when something happens; the verb must still agree with the subject.",
+        "Look at the examples below. In ‘My friends live nearby’, friends means more than one person, so use live. In ‘My friend lives nearby’, friend means one person, so use lives. You refers to one person or several people, but the verb stays the same: ‘You work’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add -s after I, you, we or they: ‘They work’ is correct. Do not forget -s, -es or the spelling change after he, she or it in a positive present simple sentence. Do not add a form of be before an ordinary main verb in this structure: ‘She works here’, not ‘She is works here’.",
+        "The present simple can describe a regular situation even if it is not happening now. ‘He works in a café’ can be true when he is at home. A different form, the present continuous, is often used for an action happening now; you will study it later. First choose the subject, then check the verb ending."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I walk to college every morning.",
+      "note": "I takes the base form walk."
+    },
+    {
+      "sentence": "My sister works in a café.",
+      "note": "A singular subject takes works."
+    },
+    {
+      "sentence": "We study together on Fridays.",
+      "note": "We takes the base form study."
+    },
+    {
+      "sentence": "He studies science at college.",
+      "note": "After a consonant, y changes to ies."
+    },
+    {
+      "sentence": "Lena plays tennis at weekends.",
+      "note": "After a vowel, add s to play."
+    },
+    {
+      "sentence": "The bus goes to the station.",
+      "note": "Go becomes goes with a singular subject."
+    },
+    {
+      "sentence": "My neighbours watch films on Saturdays.",
+      "note": "The plural subject takes the base form watch."
+    },
+    {
+      "sentence": "Our teacher has a small garden.",
+      "note": "Have changes to has with a singular subject."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She work in a shop.",
+      "correct": "She works in a shop.",
+      "reason": "Add s to work after she."
+    },
+    {
+      "incorrect": "They studies English.",
+      "correct": "They study English.",
+      "reason": "Use the base form after they."
+    },
+    {
+      "incorrect": "He is plays tennis.",
+      "correct": "He plays tennis.",
+      "reason": "Do not put is before the present simple main verb plays."
+    }
+  ],
+  "summary": [
+    "Use the present simple for routines and general facts.",
+    "Use the base verb with I, you, we and they; use a third-person singular form with he, she and it.",
+    "Check spelling changes such as watches, studies, goes and has."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U02-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Every morning, I ___ tea.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "I takes the base form drink.",
+      "options": [
+        {
+          "id": "a",
+          "text": "drinks"
+        },
+        {
+          "id": "b",
+          "text": "drinking"
+        },
+        {
+          "id": "c",
+          "text": "drink"
+        },
+        {
+          "id": "d",
+          "text": "is drink"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Drinks follows he, she or it.",
+        "b": "Drinking alone is not a present simple verb.",
+        "c": "Drink agrees with I.",
+        "d": "Is drink is not a correct verb form."
+      }
+    },
+    {
+      "id": "A2-U02-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My brother ___ in a bank.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "A singular subject takes works.",
+      "options": [
+        {
+          "id": "a",
+          "text": "works"
+        },
+        {
+          "id": "b",
+          "text": "work"
+        },
+        {
+          "id": "c",
+          "text": "working"
+        },
+        {
+          "id": "d",
+          "text": "are work"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Works agrees with my brother.",
+        "b": "Work needs s with my brother.",
+        "c": "Working alone is not a present simple verb.",
+        "d": "Are work is not a correct verb form."
+      }
+    },
+    {
+      "id": "A2-U02-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The buses ___ at this stop.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "The plural subject buses takes stop.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stops"
+        },
+        {
+          "id": "b",
+          "text": "stopping"
+        },
+        {
+          "id": "c",
+          "text": "is stop"
+        },
+        {
+          "id": "d",
+          "text": "stop"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Stops is for a singular subject.",
+        "b": "Stopping alone is not a present simple verb.",
+        "c": "Is stop is not a correct verb form.",
+        "d": "Stop agrees with the plural subject."
+      }
+    },
+    {
+      "id": "A2-U02-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Sara ___ English on Mondays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Study changes to studies after a singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "studies"
+        },
+        {
+          "id": "c",
+          "text": "studys"
+        },
+        {
+          "id": "d",
+          "text": "studying"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Study needs an ending after Sara.",
+        "b": "Studies has the correct spelling.",
+        "c": "Studys is not the correct spelling.",
+        "d": "Studying alone is not a present simple verb."
+      }
+    },
+    {
+      "id": "A2-U02-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My friends ___ football at weekends.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "The plural subject friends takes play.",
+      "options": [
+        {
+          "id": "a",
+          "text": "plays"
+        },
+        {
+          "id": "b",
+          "text": "play"
+        },
+        {
+          "id": "c",
+          "text": "is play"
+        },
+        {
+          "id": "d",
+          "text": "playes"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Plays is for a singular subject.",
+        "b": "Play agrees with friends.",
+        "c": "Is play is not a correct verb form.",
+        "d": "Playes is not a correct form."
+      }
+    },
+    {
+      "id": "A2-U02-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The shop ___ at nine each day.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "The singular subject shop takes opens.",
+      "options": [
+        {
+          "id": "a",
+          "text": "opens"
+        },
+        {
+          "id": "b",
+          "text": "open"
+        },
+        {
+          "id": "c",
+          "text": "opening"
+        },
+        {
+          "id": "d",
+          "text": "are open"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Opens agrees with the shop.",
+        "b": "Open needs s in this verb sentence.",
+        "c": "Opening alone is not a present simple verb.",
+        "d": "Are open does not agree with the singular subject."
+      }
+    },
+    {
+      "id": "A2-U02-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ to the park on Sundays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "We takes the base form go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "goes"
+        },
+        {
+          "id": "b",
+          "text": "going"
+        },
+        {
+          "id": "c",
+          "text": "go"
+        },
+        {
+          "id": "d",
+          "text": "gos"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Goes is for a singular subject.",
+        "b": "Going alone is not a present simple verb.",
+        "c": "Go agrees with we.",
+        "d": "Gos is not the correct spelling."
+      }
+    },
+    {
+      "id": "A2-U02-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Her father ___ a blue car.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Have changes to has with a singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "haves"
+        },
+        {
+          "id": "c",
+          "text": "having"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Have needs a different form here.",
+        "b": "Haves is not a correct form.",
+        "c": "Having alone is not a present simple verb.",
+        "d": "Has agrees with her father."
+      }
+    },
+    {
+      "id": "A2-U02-E09",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "I ___ to music on the bus every day. (listen)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "I takes the base form listen.",
+      "accepted_answers": [
+        "listen"
+      ]
+    },
+    {
+      "id": "A2-U02-E10",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "She ___ her grandmother on Sundays. (visit)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "She takes visits in the present simple.",
+      "accepted_answers": [
+        "visits"
+      ]
+    },
+    {
+      "id": "A2-U02-E11",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "My parents ___ near the sea. (live)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "The plural subject takes live.",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "A2-U02-E12",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "He ___ the dishes after dinner. (wash)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Add es to wash after he.",
+      "accepted_answers": [
+        "washes"
+      ]
+    },
+    {
+      "id": "A2-U02-E13",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "Our cat ___ on the sofa every afternoon. (sleep)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "The singular subject takes sleeps.",
+      "accepted_answers": [
+        "sleeps"
+      ]
+    },
+    {
+      "id": "A2-U02-E14",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "They ___ lunch at one o’clock. (have)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "They takes the base form have.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "A2-U02-E15",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "Nina ___ to college by bus. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Go becomes goes after a singular subject.",
+      "accepted_answers": [
+        "goes"
+      ]
+    },
+    {
+      "id": "A2-U02-E16",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "My cousin ___ maths at university. (study)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "After a consonant, change y to ies.",
+      "accepted_answers": [
+        "studies"
+      ]
+    },
+    {
+      "id": "A2-U02-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: walk",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "She takes walks.",
+      "source_sentence": "She walk to work every day.",
+      "target_segment": "walk",
+      "accepted_answers": [
+        "walks"
+      ]
+    },
+    {
+      "id": "A2-U02-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: lives",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "They takes the base form live.",
+      "source_sentence": "They lives near the station.",
+      "target_segment": "lives",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "A2-U02-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: studys",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "After a consonant, change y to ies.",
+      "source_sentence": "My brother studys at home.",
+      "target_segment": "studys",
+      "accepted_answers": [
+        "studies"
+      ]
+    },
+    {
+      "id": "A2-U02-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Have becomes has after a singular subject.",
+      "source_sentence": "Our teacher have a dog.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "A2-U02-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Works agrees with the singular subject Ava.",
+      "source_sentence": "Ava has a job in a hospital.",
+      "keyword": "works",
+      "target_sentence": "Ava ___ in a hospital.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "works"
+      ]
+    },
+    {
+      "id": "A2-U02-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Walk agrees with the plural subject children.",
+      "source_sentence": "The children go to school on foot every day.",
+      "keyword": "walk",
+      "target_sentence": "The children ___ to school every day.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "walk"
+      ]
+    },
+    {
+      "id": "A2-U02-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Studies is the singular form of study.",
+      "source_sentence": "Leo is a student of English.",
+      "keyword": "studies",
+      "target_sentence": "Leo ___ English.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "studies"
+      ]
+    },
+    {
+      "id": "A2-U02-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U02"
+      ],
+      "explanation": "Live agrees with the plural subject my parents.",
+      "source_sentence": "My parents are residents of York.",
+      "keyword": "live",
+      "target_sentence": "My parents ___ in York.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "live"
+      ]
+    }
+  ]
+}

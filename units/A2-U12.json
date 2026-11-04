@@ -1,0 +1,643 @@
+{
+  "id": "A2-U12",
+  "level": "A2",
+  "title": "Demonstratives and possessive determiners",
+  "order": 12,
+  "prerequisites": [
+    "A2-U11"
+  ],
+  "objectives": [
+    "Choose demonstratives according to number and distance.",
+    "Use possessive determiners to show relationships.",
+    "Distinguish its from it’s."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use this, that, these and those to point to people or things. These words are called demonstratives. This and these often refer to something near the speaker; that and those often refer to something farther away. ‘This chair’ can be a chair next to me, while ‘that chair’ can be across the room. The exact distance depends on the situation.",
+        "Use this and that with a singular noun: this book, that book. Use these and those with a plural noun: these books, those books. A demonstrative can also stand alone when the noun is clear: ‘This is mine’ or ‘Those are expensive’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A possessive determiner shows a relationship with a person or thing. The forms are my, your, his, her, its, our and their. Put one before a noun: my phone, her brother, our house, their books. The form does not change when the noun is plural: ‘my book’ and ‘my books’.",
+        "Choose the determiner from the person who owns or is connected to the thing. ‘Lina has a bicycle. Her bicycle is red.’ ‘Lina and Sam have a bicycle. Their bicycle is red.’ Your can refer to one person or more than one. Its is possessive; it’s is a short form of it is or it has."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. In a shop, a customer may say ‘How much is this jacket?’ while holding it, and ‘How much are those jackets?’ while pointing across the room. Is agrees with this jacket; are agrees with those jackets. The demonstrative gives information about number and often about position.",
+        "Possessive determiners also describe relationships, not only ownership: ‘my sister’, ‘our teacher’ or ‘their city’. His and her refer to the person, not to whether the noun is singular or plural: ‘his sister’, ‘his brothers’, ‘her sister’ and ‘her brothers’ are all possible."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use this or that with a plural noun in standard English: say ‘these shoes’ or ‘those shoes’. Do not use these or those with a singular countable noun: say ‘this shoe’ or ‘that shoe’. When the noun is uncountable, this and that are also possible: ‘this water’ or ‘that information’.",
+        "A possessive determiner needs a following noun: ‘This is my book’. A possessive pronoun can stand alone: ‘This book is mine’. You will study possessive pronouns in the next unit. Remember that its has no apostrophe when it shows possession: ‘The dog is eating its food’."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This cup in my hand is hot.",
+      "note": "This points to one nearby cup."
+    },
+    {
+      "sentence": "That building across the road is a library.",
+      "note": "That points to one building farther away."
+    },
+    {
+      "sentence": "These books beside me are new.",
+      "note": "These points to nearby plural books."
+    },
+    {
+      "sentence": "Those cars over there are expensive.",
+      "note": "Those points to plural cars farther away."
+    },
+    {
+      "sentence": "My brother is a teacher.",
+      "note": "My shows a relationship to the speaker."
+    },
+    {
+      "sentence": "The children are doing their homework.",
+      "note": "Their refers to the children."
+    },
+    {
+      "sentence": "Lena is looking for her keys.",
+      "note": "Her refers to Lena; keys is plural."
+    },
+    {
+      "sentence": "The dog is eating its food.",
+      "note": "Its shows the food belongs to the dog."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "This shoes are new.",
+      "correct": "These shoes are new.",
+      "reason": "Use these with a plural noun."
+    },
+    {
+      "incorrect": "Their house is big. It’s garden is small.",
+      "correct": "Their house is big. Its garden is small.",
+      "reason": "Its is possessive; it’s means it is or it has."
+    },
+    {
+      "incorrect": "We live here. Our house are small.",
+      "correct": "We live here. Our house is small.",
+      "reason": "The singular noun house takes is."
+    }
+  ],
+  "summary": [
+    "Use this and that with singular nouns; use these and those with plural nouns.",
+    "This and these often refer to nearby things; that and those often refer to things farther away.",
+    "Put possessive determiners such as my, her and their before nouns."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U12-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I am holding one pen. ___ pen is blue.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "This refers to one nearby pen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Those"
+        },
+        {
+          "id": "b",
+          "text": "These"
+        },
+        {
+          "id": "c",
+          "text": "That over there"
+        },
+        {
+          "id": "d",
+          "text": "This"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Those” does not fit here. This refers to one nearby pen.",
+        "b": "“These” does not fit here. This refers to one nearby pen.",
+        "c": "“That over there” does not fit here. This refers to one nearby pen.",
+        "d": "“This” fits here. This refers to one nearby pen."
+      }
+    },
+    {
+      "id": "A2-U12-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look across the street. ___ buildings over there are tall.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Those refers to plural buildings farther away.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Those"
+        },
+        {
+          "id": "b",
+          "text": "This"
+        },
+        {
+          "id": "c",
+          "text": "That"
+        },
+        {
+          "id": "d",
+          "text": "Its"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Those” fits here. Those refers to plural buildings farther away.",
+        "b": "“This” does not fit here. Those refers to plural buildings farther away.",
+        "c": "“That” does not fit here. Those refers to plural buildings farther away.",
+        "d": "“Its” does not fit here. Those refers to plural buildings farther away."
+      }
+    },
+    {
+      "id": "A2-U12-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I am holding two apples. ___ apples are green.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "These refers to plural apples nearby.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "It"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“This” does not fit here. These refers to plural apples nearby.",
+        "b": "“That” does not fit here. These refers to plural apples nearby.",
+        "c": "“These” fits here. These refers to plural apples nearby.",
+        "d": "“It” does not fit here. These refers to plural apples nearby."
+      }
+    },
+    {
+      "id": "A2-U12-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Lena has a bike. ___ bike is red.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Her refers to Lena.",
+      "options": [
+        {
+          "id": "a",
+          "text": "His"
+        },
+        {
+          "id": "b",
+          "text": "Her"
+        },
+        {
+          "id": "c",
+          "text": "Their"
+        },
+        {
+          "id": "d",
+          "text": "Our"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“His” does not fit here. Her refers to Lena.",
+        "b": "“Her” fits here. Her refers to Lena.",
+        "c": "“Their” does not fit here. Her refers to Lena.",
+        "d": "“Our” does not fit here. Her refers to Lena."
+      }
+    },
+    {
+      "id": "A2-U12-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We live here. ___ house is small.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Our refers to the speakers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Their"
+        },
+        {
+          "id": "b",
+          "text": "Her"
+        },
+        {
+          "id": "c",
+          "text": "Our"
+        },
+        {
+          "id": "d",
+          "text": "His"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Their” does not fit here. Our refers to the speakers.",
+        "b": "“Her” does not fit here. Our refers to the speakers.",
+        "c": "“Our” fits here. Our refers to the speakers.",
+        "d": "“His” does not fit here. Our refers to the speakers."
+      }
+    },
+    {
+      "id": "A2-U12-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The cat is eating ___ food.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Its is the possessive determiner for the cat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it’s"
+        },
+        {
+          "id": "b",
+          "text": "its"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "our are"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“it’s” does not fit here. Its is the possessive determiner for the cat.",
+        "b": "“its” fits here. Its is the possessive determiner for the cat.",
+        "c": "“their” does not fit here. Its is the possessive determiner for the cat.",
+        "d": "“our are” does not fit here. Its is the possessive determiner for the cat."
+      }
+    },
+    {
+      "id": "A2-U12-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Tom and Anna have a car. ___ car is white.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Their refers to Tom and Anna together.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Their"
+        },
+        {
+          "id": "b",
+          "text": "His"
+        },
+        {
+          "id": "c",
+          "text": "Her"
+        },
+        {
+          "id": "d",
+          "text": "Its"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Their” fits here. Their refers to Tom and Anna together.",
+        "b": "“His” does not fit here. Their refers to Tom and Anna together.",
+        "c": "“Her” does not fit here. Their refers to Tom and Anna together.",
+        "d": "“Its” does not fit here. Their refers to Tom and Anna together."
+      }
+    },
+    {
+      "id": "A2-U12-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct phrase for one nearby box.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Use this with the singular noun box.",
+      "options": [
+        {
+          "id": "a",
+          "text": "these box"
+        },
+        {
+          "id": "b",
+          "text": "those box"
+        },
+        {
+          "id": "c",
+          "text": "this boxes"
+        },
+        {
+          "id": "d",
+          "text": "this box"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“these box” does not fit here. Use this with the singular noun box.",
+        "b": "“those box” does not fit here. Use this with the singular noun box.",
+        "c": "“this boxes” does not fit here. Use this with the singular noun box.",
+        "d": "“this box” fits here. Use this with the singular noun box."
+      }
+    },
+    {
+      "id": "A2-U12-E09",
+      "type": "gap",
+      "instruction": "Complete the gap with this, that, these or those. Use the usual form for the stated distance.",
+      "prompt": "I am holding one book. ___ book is mine.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "This refers to one nearby book.",
+      "accepted_answers": [
+        "This"
+      ]
+    },
+    {
+      "id": "A2-U12-E10",
+      "type": "gap",
+      "instruction": "Complete the gap with this, that, these or those. Use the usual form for the stated distance.",
+      "prompt": "I am holding two keys. ___ keys are mine.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "These refers to plural nearby keys.",
+      "accepted_answers": [
+        "These"
+      ]
+    },
+    {
+      "id": "A2-U12-E11",
+      "type": "gap",
+      "instruction": "Complete the gap with this, that, these or those. Use the usual form for the stated distance.",
+      "prompt": "Look at the tree across the road. ___ tree is tall.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "That refers to one thing farther away.",
+      "accepted_answers": [
+        "That"
+      ]
+    },
+    {
+      "id": "A2-U12-E12",
+      "type": "gap",
+      "instruction": "Complete the gap with this, that, these or those. Use the usual form for the stated distance.",
+      "prompt": "Look at the houses over there. ___ houses are old.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Those refers to plural things farther away.",
+      "accepted_answers": [
+        "Those"
+      ]
+    },
+    {
+      "id": "A2-U12-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I own this phone. It is ___ phone.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "My refers to the speaker.",
+      "accepted_answers": [
+        "my"
+      ]
+    },
+    {
+      "id": "A2-U12-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Sam owns these shoes. They are ___ shoes. Sam is a man.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "His refers to Sam.",
+      "accepted_answers": [
+        "his"
+      ]
+    },
+    {
+      "id": "A2-U12-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Ella and I own this flat. It is ___ flat.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Our refers to Ella and the speaker.",
+      "accepted_answers": [
+        "our"
+      ]
+    },
+    {
+      "id": "A2-U12-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bird is feeding ___ babies.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Its is the possessive form for the bird.",
+      "accepted_answers": [
+        "its"
+      ]
+    },
+    {
+      "id": "A2-U12-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: This",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Use these with plural books.",
+      "source_sentence": "This books are heavy.",
+      "target_segment": "This",
+      "accepted_answers": [
+        "These"
+      ]
+    },
+    {
+      "id": "A2-U12-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Those",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Use that with singular chair.",
+      "source_sentence": "Those chair is broken.",
+      "target_segment": "Those",
+      "accepted_answers": [
+        "That"
+      ]
+    },
+    {
+      "id": "A2-U12-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: it’s",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Use its without an apostrophe for possession.",
+      "source_sentence": "The dog is in it’s bed.",
+      "target_segment": "it’s",
+      "accepted_answers": [
+        "its"
+      ]
+    },
+    {
+      "id": "A2-U12-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Mine",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Use the possessive determiner my before a noun.",
+      "source_sentence": "I own a bike. Mine bike is blue.",
+      "target_segment": "Mine",
+      "accepted_answers": [
+        "My"
+      ]
+    },
+    {
+      "id": "A2-U12-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "This refers to one nearby bag.",
+      "source_sentence": "The bag next to me is new. Refer to it as nearby.",
+      "keyword": "This",
+      "target_sentence": "___ is new.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "This bag"
+      ]
+    },
+    {
+      "id": "A2-U12-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Those refers to plural distant books.",
+      "source_sentence": "The books over there are old. Refer to them as distant.",
+      "keyword": "Those",
+      "target_sentence": "___ are old.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Those books"
+      ]
+    },
+    {
+      "id": "A2-U12-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "My introduces the noun for the bicycle.",
+      "source_sentence": "This bicycle belongs to me.",
+      "keyword": "my",
+      "target_sentence": "It is ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "my bicycle",
+        "my bike"
+      ]
+    },
+    {
+      "id": "A2-U12-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U12"
+      ],
+      "explanation": "Our refers to Liam and the speaker.",
+      "source_sentence": "Liam and I have a classroom.",
+      "keyword": "our",
+      "target_sentence": "It is ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "our classroom"
+      ]
+    }
+  ]
+}

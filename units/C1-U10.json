@@ -1,0 +1,659 @@
+{
+  "id": "C1-U10",
+  "level": "C1",
+  "title": "Emphasis and information flow: cumulative review",
+  "order": 10,
+  "prerequisites": [
+    "C1-U09"
+  ],
+  "objectives": [
+    "Use anticipatory it with a that-clause or infinitive.",
+    "Distinguish anticipatory it from a cleft.",
+    "Apply earlier structures to information flow."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A text is easier to follow when its sentences connect information the reader already has with information the writer wants to add. Writers can place an established topic near the beginning and a significant new detail near the end. This tendency is useful, not a compulsory rule. The best order depends on what the audience knows and what the writer wants to emphasise.",
+        "Compare “A new library will open beside the station” with “Beside the station, a new library will open.” The second version establishes the location first. If the station area is already the topic of a discussion, that order can make the connection especially clear."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "One way to delay a long subject is to begin with anticipatory it: “It is surprising that the plans changed.” Here it does not refer to an object. The later that-clause supplies the content that is surprising. The alternative “That the plans changed is surprising” is grammatical but can feel heavier at the start.",
+        "A similar construction uses a preparatory it with an adjective and an infinitive: “It is difficult to compare the results.” This wording does not identify a specific person doing the comparing unless the context does so or a phrase such as for the researchers is added. Do not confuse anticipatory it with it referring back to a particular noun."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "A writer can also use structures studied earlier to manage focus. “It was the second report that changed the decision” highlights the second report. “The first report we can use; the second needs revision” fronts an object to establish a contrast. “Only after the meeting did we understand” places a restriction first and uses inversion in the main clause.",
+        "A formal conditional can be fronted too: “Had the team checked, it might have found the error.” The condition sets the frame for the result. These structures have different grammatical forms and different discourse effects; they are not interchangeable merely because they all move information towards the beginning."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not treat anticipatory it as an it-cleft in every sentence beginning with it is or it was. In “It was surprising that the plan changed”, the that-clause supplies the content evaluated as surprising. In “It was the plan that changed”, the phrase the plan is the focused element of a cleft. The two constructions perform different jobs.",
+        "A long introductory phrase can help a reader, but too many fronted or inverted clauses can make prose hard to process. Prefer ordinary order when it fits the context. Also remember that the auxiliary moves before the subject after initial only after, whereas a fronted object such as the first report normally leaves subject–verb order unchanged."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It is surprising that the plans changed.",
+      "note": "Anticipatory it introduces a later content clause."
+    },
+    {
+      "sentence": "That the plans changed is surprising.",
+      "note": "The content clause is the grammatical subject in this heavier opening."
+    },
+    {
+      "sentence": "It is difficult to compare the results.",
+      "note": "It anticipates the infinitive clause."
+    },
+    {
+      "sentence": "Beside the station, a new library will open.",
+      "note": "The location frames the new information."
+    },
+    {
+      "sentence": "It was the second report that changed the decision.",
+      "note": "The cleft focuses the second report."
+    },
+    {
+      "sentence": "The first report we can use; the second needs revision.",
+      "note": "A fronted object establishes a comparison."
+    },
+    {
+      "sentence": "Only after the meeting did we understand.",
+      "note": "The restrictive phrase triggers main-clause inversion."
+    },
+    {
+      "sentence": "Had the team checked, it might have found the error.",
+      "note": "The inverted condition sets a hypothetical frame."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "It is difficult compare the results.",
+      "correct": "It is difficult to compare the results.",
+      "reason": "The adjective pattern uses an infinitive with to."
+    },
+    {
+      "incorrect": "Only after the meeting we did understand.",
+      "correct": "Only after the meeting did we understand.",
+      "reason": "Put the auxiliary before the subject after the fronted restrictive phrase."
+    },
+    {
+      "incorrect": "The first report we can use it.",
+      "correct": "The first report we can use.",
+      "reason": "Do not repeat the fronted object with it in this standard written construction."
+    }
+  ],
+  "summary": [
+    "Anticipatory it can introduce a content or infinitive clause later in the sentence.",
+    "Use fronting and clefts to shape topic, contrast and focus.",
+    "Match inversion to its trigger and choose structures that help the audience."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U10-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the sentence with anticipatory it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "It anticipates the content clause that the plans changed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the guide who spoke."
+        },
+        {
+          "id": "b",
+          "text": "It is surprising that the plans changed."
+        },
+        {
+          "id": "c",
+          "text": "It was the plan that changed."
+        },
+        {
+          "id": "d",
+          "text": "It was Mina who called."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was the guide who spoke.” does not fit here. It anticipates the content clause that the plans changed.",
+        "b": "“It is surprising that the plans changed.” fits here. It anticipates the content clause that the plans changed.",
+        "c": "“It was the plan that changed.” does not fit here. It anticipates the content clause that the plans changed.",
+        "d": "“It was Mina who called.” does not fit here. It anticipates the content clause that the plans changed."
+      }
+    },
+    {
+      "id": "C1-U10-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the adjective pattern: It is difficult ___ the results.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "Difficult is followed by the to-infinitive here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "compare"
+        },
+        {
+          "id": "b",
+          "text": "comparing to"
+        },
+        {
+          "id": "c",
+          "text": "compares"
+        },
+        {
+          "id": "d",
+          "text": "to compare"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“compare” does not fit here. Difficult is followed by the to-infinitive here.",
+        "b": "“comparing to” does not fit here. Difficult is followed by the to-infinitive here.",
+        "c": "“compares” does not fit here. Difficult is followed by the to-infinitive here.",
+        "d": "“to compare” fits here. Difficult is followed by the to-infinitive here."
+      }
+    },
+    {
+      "id": "C1-U10-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence focuses the second report in an it-cleft?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U08"
+      ],
+      "explanation": "The second report occupies the focus position in the cleft.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the second report that changed the decision."
+        },
+        {
+          "id": "b",
+          "text": "It was surprising that the report changed."
+        },
+        {
+          "id": "c",
+          "text": "It is difficult to read the report."
+        },
+        {
+          "id": "d",
+          "text": "It seems that the report changed."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It was the second report that changed the decision.” fits here. The second report occupies the focus position in the cleft.",
+        "b": "“It was surprising that the report changed.” does not fit here. The second report occupies the focus position in the cleft.",
+        "c": "“It is difficult to read the report.” does not fit here. The second report occupies the focus position in the cleft.",
+        "d": "“It seems that the report changed.” does not fit here. The second report occupies the focus position in the cleft."
+      }
+    },
+    {
+      "id": "C1-U10-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly fronts a restrictive phrase?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U06"
+      ],
+      "explanation": "Did precedes the subject in the main clause after only after.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only after the meeting we understood did."
+        },
+        {
+          "id": "b",
+          "text": "Only after did the meeting we understand."
+        },
+        {
+          "id": "c",
+          "text": "Only after the meeting did we understand."
+        },
+        {
+          "id": "d",
+          "text": "Only after the meeting we did understood."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Only after the meeting we understood did.” does not fit here. Did precedes the subject in the main clause after only after.",
+        "b": "“Only after did the meeting we understand.” does not fit here. Did precedes the subject in the main clause after only after.",
+        "c": "“Only after the meeting did we understand.” fits here. Did precedes the subject in the main clause after only after.",
+        "d": "“Only after the meeting we did understood.” does not fit here. Did precedes the subject in the main clause after only after."
+      }
+    },
+    {
+      "id": "C1-U10-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a formal inverted past condition.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U07"
+      ],
+      "explanation": "Had precedes the subject and checked is the past participle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If had the team checked, it would have found it."
+        },
+        {
+          "id": "b",
+          "text": "Had the team check, it might found it."
+        },
+        {
+          "id": "c",
+          "text": "Should the team checked, it might found it."
+        },
+        {
+          "id": "d",
+          "text": "Had the team checked, it might have found it."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“If had the team checked, it would have found it.” does not fit here. Had precedes the subject and checked is the past participle.",
+        "b": "“Had the team check, it might found it.” does not fit here. Had precedes the subject and checked is the past participle.",
+        "c": "“Should the team checked, it might found it.” does not fit here. Had precedes the subject and checked is the past participle.",
+        "d": "“Had the team checked, it might have found it.” fits here. Had precedes the subject and checked is the past participle."
+      }
+    },
+    {
+      "id": "C1-U10-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly fronts the object?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U09"
+      ],
+      "explanation": "The fronted object is not repeated, and ordinary subject–verb order remains.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The first report we can use it."
+        },
+        {
+          "id": "b",
+          "text": "The first report can use we."
+        },
+        {
+          "id": "c",
+          "text": "The first report we can use."
+        },
+        {
+          "id": "d",
+          "text": "The first report we can uses."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The first report we can use it.” does not fit here. The fronted object is not repeated, and ordinary subject–verb order remains.",
+        "b": "“The first report can use we.” does not fit here. The fronted object is not repeated, and ordinary subject–verb order remains.",
+        "c": "“The first report we can use.” fits here. The fronted object is not repeated, and ordinary subject–verb order remains.",
+        "d": "“The first report we can uses.” does not fit here. The fronted object is not repeated, and ordinary subject–verb order remains."
+      }
+    },
+    {
+      "id": "C1-U10-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence places the location first?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "The place phrase provides the opening frame.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beside the station, a library will open."
+        },
+        {
+          "id": "b",
+          "text": "A library will open beside the station."
+        },
+        {
+          "id": "c",
+          "text": "The library is new."
+        },
+        {
+          "id": "d",
+          "text": "The station is busy."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Beside the station, a library will open.” fits here. The place phrase provides the opening frame.",
+        "b": "“A library will open beside the station.” does not fit here. The place phrase provides the opening frame.",
+        "c": "“The library is new.” does not fit here. The place phrase provides the opening frame.",
+        "d": "“The station is busy.” does not fit here. The place phrase provides the opening frame."
+      }
+    },
+    {
+      "id": "C1-U10-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What is a reason to avoid excessive fronting?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "Overusing marked patterns can make prose less clear or natural.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fronting is always ungrammatical."
+        },
+        {
+          "id": "b",
+          "text": "Repeated marked patterns can make the text harder to process."
+        },
+        {
+          "id": "c",
+          "text": "Readers cannot understand time expressions."
+        },
+        {
+          "id": "d",
+          "text": "A main clause cannot follow a subordinate clause."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Fronting is always ungrammatical.” does not fit here. Overusing marked patterns can make prose less clear or natural.",
+        "b": "“Repeated marked patterns can make the text harder to process.” fits here. Overusing marked patterns can make prose less clear or natural.",
+        "c": "“Readers cannot understand time expressions.” does not fit here. Overusing marked patterns can make prose less clear or natural.",
+        "d": "“A main clause cannot follow a subordinate clause.” does not fit here. Overusing marked patterns can make prose less clear or natural."
+      }
+    },
+    {
+      "id": "C1-U10-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It is useful ___ compare the figures.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "Useful is followed here by a to-infinitive.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U10-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It is surprising ___ the plan changed. Use that.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "That introduces the content clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "C1-U10-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was the guide ___ found the route. Use who.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U08"
+      ],
+      "explanation": "Who introduces the cleft clause about the person.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "C1-U10-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Only after lunch ___ we leave. Use the past auxiliary.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U06"
+      ],
+      "explanation": "Did precedes we after the restrictive opening.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U10-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ she known, she would have called. Use had.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U07"
+      ],
+      "explanation": "Had introduces the inverted past condition.",
+      "accepted_answers": [
+        "Had"
+      ]
+    },
+    {
+      "id": "C1-U10-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "That question we can ___ later. (answer)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U09"
+      ],
+      "explanation": "Can takes the base form after the fronted object.",
+      "accepted_answers": [
+        "answer"
+      ]
+    },
+    {
+      "id": "C1-U10-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What the guests need ___ a quiet room. Use is.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U08"
+      ],
+      "explanation": "Is links the what-clause to its complement.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U10-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Rarely ___ they arrive late. Use did.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U06"
+      ],
+      "explanation": "Initial rarely triggers inversion with did.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U10-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: compare",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "Useful takes a to-infinitive in this pattern.",
+      "source_sentence": "It is useful compare the figures.",
+      "target_segment": "compare",
+      "accepted_answers": [
+        "to compare"
+      ]
+    },
+    {
+      "id": "C1-U10-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: we did",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U06"
+      ],
+      "explanation": "The auxiliary precedes the subject after only after.",
+      "source_sentence": "Only after lunch we did leave.",
+      "target_segment": "we did",
+      "accepted_answers": [
+        "did we"
+      ]
+    },
+    {
+      "id": "C1-U10-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: know",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U07"
+      ],
+      "explanation": "Had takes the past participle known.",
+      "source_sentence": "Had she know, she would have called.",
+      "target_segment": "know",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "C1-U10-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: publish it",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U10",
+        "C1-U09"
+      ],
+      "explanation": "The fronted object is not repeated by it.",
+      "source_sentence": "The first chapter we can publish it now.",
+      "target_segment": "publish it",
+      "accepted_answers": [
+        "publish"
+      ]
+    },
+    {
+      "id": "C1-U10-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U10"
+      ],
+      "explanation": "It is difficult to compare anticipates the infinitive clause.",
+      "source_sentence": "Comparing the figures is difficult. Begin with anticipatory it.",
+      "keyword": "difficult",
+      "target_sentence": "It ___ the figures.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "is difficult to compare"
+      ]
+    },
+    {
+      "id": "C1-U10-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U10",
+        "C1-U08"
+      ],
+      "explanation": "Who found completes the cleft about the focused person.",
+      "source_sentence": "She found the key. Focus she by naming Maya.",
+      "keyword": "who",
+      "target_sentence": "It was Maya ___ the key.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "who found"
+      ]
+    },
+    {
+      "id": "C1-U10-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U10",
+        "C1-U06"
+      ],
+      "explanation": "The restriction triggers inversion in the main clause.",
+      "source_sentence": "They realised the problem only after the inspection. Begin with only after.",
+      "keyword": "did",
+      "target_sentence": "Only after the inspection ___ the problem.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "did they realise",
+        "did they realize"
+      ]
+    },
+    {
+      "id": "C1-U10-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U10",
+        "C1-U07"
+      ],
+      "explanation": "Had she known is the inverted past condition.",
+      "source_sentence": "If she had known, she would have called. Begin with had.",
+      "keyword": "Had",
+      "target_sentence": "___, she would have called.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Had she known"
+      ]
+    }
+  ]
+}

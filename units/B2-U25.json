@@ -1,0 +1,660 @@
+{
+  "id": "B2-U25",
+  "level": "B2",
+  "title": "Spoken and written grammar: cumulative review",
+  "order": 25,
+  "prerequisites": [
+    "B2-U24"
+  ],
+  "objectives": [
+    "Choose suitable spoken or written forms for a specified context.",
+    "Form embedded questions with statement word order.",
+    "Review relative clauses, cohesion and verb complementation."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The grammar we choose depends partly on context, relationship and purpose. Conversation often allows contractions, short replies and prepositions at the end of relative clauses: ‘That's the person I spoke to’. A formal report may prefer a full form or a fronted preposition: ‘That is the person to whom I spoke’. Both relative clauses are grammatical; the difference is primarily one of register.",
+        "Formal writing is not automatically more accurate, and speech is not automatically informal. A spoken presentation can be carefully formal, while a message to a colleague can be relatively informal. Choose forms that suit the audience and the communicative situation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In an indirect question, use statement word order inside the question clause: ‘Could you tell me where the meeting is?’ The whole sentence is a question, but the embedded clause is where the meeting is, not where is the meeting. For a yes/no question, if or whether can introduce the embedded clause: ‘Could you tell me whether the office is open?’",
+        "A formal relative clause can place a preposition before whom or which: ‘the colleague to whom I spoke’ and ‘the issue about which we wrote’. An everyday alternative can leave the preposition at the end: ‘the colleague I spoke to’. In a defining clause, the object relative pronoun can often be omitted in the latter pattern."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Written argument often makes the relationship between sentences explicit. ‘The sample was small; therefore, the results should be interpreted cautiously’ presents the second idea as a consequence. ‘The sample was small. However, the results were consistent’ presents a contrast. These links do not prove the argument; they show how the writer presents the relationship.",
+        "Earlier units explored how form and meaning interact. ‘I remember meeting her’ refers to a memory of an earlier encounter, while ‘I remembered to meet her’ describes not forgetting an arranged action. ‘Dogs need exercise’ makes a general statement, whereas ‘the dogs next door’ identifies a particular group."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid treating a final preposition as an error merely because it is informal or conversational: ‘the person I spoke to’ is standard English. Conversely, ‘the person to whom I spoke’ may sound too formal in a casual conversation even though it is grammatical. Register is a matter of appropriateness, not a simple correct-or-incorrect label.",
+        "In standard edited prose, avoid joining two independent clauses with only a comma and however; use a full stop or semicolon. A question such as ‘Where is the office?’ needs inversion, but an embedded clause such as ‘where the office is’ normally uses statement word order. Context determines which structure is required."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "That's the person I spoke to.",
+      "note": "A stranded preposition is standard and common in conversation."
+    },
+    {
+      "sentence": "That is the person to whom I spoke.",
+      "note": "Fronting the preposition is a more formal alternative."
+    },
+    {
+      "sentence": "Could you tell me where the meeting is?",
+      "note": "The embedded question uses statement word order."
+    },
+    {
+      "sentence": "Could you tell me whether the office is open?",
+      "note": "Whether introduces an embedded yes/no question."
+    },
+    {
+      "sentence": "The sample was small; therefore, the results need caution.",
+      "note": "Therefore presents the second statement as a consequence."
+    },
+    {
+      "sentence": "The sample was small. However, the results were consistent.",
+      "note": "However introduces a contrast."
+    },
+    {
+      "sentence": "I remember meeting her.",
+      "note": "The -ing form refers to a memory of an earlier meeting."
+    },
+    {
+      "sentence": "Dogs need exercise.",
+      "note": "The bare plural expresses a general statement."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Could you tell me where is the office?",
+      "correct": "Could you tell me where the office is?",
+      "reason": "Use statement word order in the embedded clause."
+    },
+    {
+      "incorrect": "It was late, however, we continued.",
+      "correct": "It was late; however, we continued.",
+      "reason": "Separate the independent clauses with a semicolon or full stop in standard edited prose."
+    },
+    {
+      "incorrect": "I look forward to meet you.",
+      "correct": "I look forward to meeting you.",
+      "reason": "To is a preposition in this pattern and takes an -ing form."
+    }
+  ],
+  "summary": [
+    "Choose grammar that suits the audience and situation.",
+    "Embedded questions normally use statement word order.",
+    "A final preposition can be standard even when a fronted preposition sounds more formal."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U25-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Could you tell me where ___?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "The embedded question uses statement word order.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is the meeting"
+        },
+        {
+          "id": "b",
+          "text": "does the meeting is"
+        },
+        {
+          "id": "c",
+          "text": "the meeting is"
+        },
+        {
+          "id": "d",
+          "text": "the meeting does is"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is the meeting” does not fit here. The embedded question uses statement word order.",
+        "b": "“does the meeting is” does not fit here. The embedded question uses statement word order.",
+        "c": "“the meeting is” fits here. The embedded question uses statement word order.",
+        "d": "“the meeting does is” does not fit here. The embedded question uses statement word order."
+      }
+    },
+    {
+      "id": "B2-U25-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the formal fronted relative clause for a person.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "A fronted preposition can precede whom for a person in formal writing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the colleague to whom I spoke"
+        },
+        {
+          "id": "b",
+          "text": "the colleague to that I spoke"
+        },
+        {
+          "id": "c",
+          "text": "the colleague to who I spoke"
+        },
+        {
+          "id": "d",
+          "text": "the colleague to where I spoke"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“the colleague to whom I spoke” fits here. A fronted preposition can precede whom for a person in formal writing.",
+        "b": "“the colleague to that I spoke” does not fit here. A fronted preposition can precede whom for a person in formal writing.",
+        "c": "“the colleague to who I spoke” does not fit here. A fronted preposition can precede whom for a person in formal writing.",
+        "d": "“the colleague to where I spoke” does not fit here. A fronted preposition can precede whom for a person in formal writing."
+      }
+    },
+    {
+      "id": "B2-U25-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which clause is standard and natural in conversation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "The object pronoun may be omitted and the preposition can remain at the end.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the person to that I spoke"
+        },
+        {
+          "id": "b",
+          "text": "the person who I spoke to her"
+        },
+        {
+          "id": "c",
+          "text": "the person to who I spoke"
+        },
+        {
+          "id": "d",
+          "text": "the person I spoke to"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“the person to that I spoke” does not fit here. The object pronoun may be omitted and the preposition can remain at the end.",
+        "b": "“the person who I spoke to her” does not fit here. The object pronoun may be omitted and the preposition can remain at the end.",
+        "c": "“the person to who I spoke” does not fit here. The object pronoun may be omitted and the preposition can remain at the end.",
+        "d": "“the person I spoke to” fits here. The object pronoun may be omitted and the preposition can remain at the end."
+      }
+    },
+    {
+      "id": "B2-U25-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The road was closed; ___, we took another route. Express the stated result.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U20"
+      ],
+      "explanation": "Therefore introduces the stated consequence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "however"
+        },
+        {
+          "id": "b",
+          "text": "therefore"
+        },
+        {
+          "id": "c",
+          "text": "whereas"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“however” does not fit here. Therefore introduces the stated consequence.",
+        "b": "“therefore” fits here. Therefore introduces the stated consequence.",
+        "c": "“whereas” does not fit here. Therefore introduces the stated consequence.",
+        "d": "“despite” does not fit here. Therefore introduces the stated consequence."
+      }
+    },
+    {
+      "id": "B2-U25-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses standard edited punctuation between full clauses?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U20"
+      ],
+      "explanation": "A semicolon separates the independent clauses before however.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was late, however, we continued."
+        },
+        {
+          "id": "b",
+          "text": "It was late; however, we continued."
+        },
+        {
+          "id": "c",
+          "text": "It was late however, we continued."
+        },
+        {
+          "id": "d",
+          "text": "It was late; although, we continued."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was late, however, we continued.” does not fit here. A semicolon separates the independent clauses before however.",
+        "b": "“It was late; however, we continued.” fits here. A semicolon separates the independent clauses before however.",
+        "c": "“It was late however, we continued.” does not fit here. A semicolon separates the independent clauses before however.",
+        "d": "“It was late; although, we continued.” does not fit here. A semicolon separates the independent clauses before however."
+      }
+    },
+    {
+      "id": "B2-U25-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I recall an earlier meeting. I remember ___ her.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U21"
+      ],
+      "explanation": "Remember plus -ing refers to the earlier experience.",
+      "options": [
+        {
+          "id": "a",
+          "text": "meeting"
+        },
+        {
+          "id": "b",
+          "text": "to meet tomorrow"
+        },
+        {
+          "id": "c",
+          "text": "meet"
+        },
+        {
+          "id": "d",
+          "text": "to meeting"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“meeting” fits here. Remember plus -ing refers to the earlier experience.",
+        "b": "“to meet tomorrow” does not fit here. Remember plus -ing refers to the earlier experience.",
+        "c": "“meet” does not fit here. Remember plus -ing refers to the earlier experience.",
+        "d": "“to meeting” does not fit here. Remember plus -ing refers to the earlier experience."
+      }
+    },
+    {
+      "id": "B2-U25-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Make a general statement about dogs.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U22"
+      ],
+      "explanation": "The bare plural expresses the intended general reference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The dogs next door need exercise."
+        },
+        {
+          "id": "b",
+          "text": "A dogs need exercise."
+        },
+        {
+          "id": "c",
+          "text": "The dog in this room needs exercise."
+        },
+        {
+          "id": "d",
+          "text": "Dogs need exercise."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The dogs next door need exercise.” does not fit here. The bare plural expresses the intended general reference.",
+        "b": "“A dogs need exercise.” does not fit here. The bare plural expresses the intended general reference.",
+        "c": "“The dog in this room needs exercise.” does not fit here. The bare plural expresses the intended general reference.",
+        "d": "“Dogs need exercise.” fits here. The bare plural expresses the intended general reference."
+      }
+    },
+    {
+      "id": "B2-U25-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence can introduce a polite embedded yes/no question?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "Whether introduces the embedded question with statement word order.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Could you tell me is the office open?"
+        },
+        {
+          "id": "b",
+          "text": "Could you tell me does the office open?"
+        },
+        {
+          "id": "c",
+          "text": "Could you tell me whether the office is open?"
+        },
+        {
+          "id": "d",
+          "text": "Could you tell me if is the office open?"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Could you tell me is the office open?” does not fit here. Whether introduces the embedded question with statement word order.",
+        "b": "“Could you tell me does the office open?” does not fit here. Whether introduces the embedded question with statement word order.",
+        "c": "“Could you tell me whether the office is open?” fits here. Whether introduces the embedded question with statement word order.",
+        "d": "“Could you tell me if is the office open?” does not fit here. Whether introduces the embedded question with statement word order."
+      }
+    },
+    {
+      "id": "B2-U25-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the embedded question: Could you tell me where the office ___?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "The subject precedes is in the embedded clause.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "B2-U25-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whether: Could you tell me ___ the office is open?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "Whether introduces the embedded yes/no question.",
+      "accepted_answers": [
+        "whether"
+      ]
+    },
+    {
+      "id": "B2-U25-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the formal relative pronoun: the colleague to ___ I spoke.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "Whom can follow a fronted preposition for a person.",
+      "accepted_answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "B2-U25-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the formal relative pronoun: the topic about ___ we spoke.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "Which can follow a fronted preposition for a thing.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U25-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: I look forward to ___ you. (see)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U21"
+      ],
+      "explanation": "To is a preposition in look forward to.",
+      "accepted_answers": [
+        "seeing"
+      ]
+    },
+    {
+      "id": "B2-U25-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form for emphasis: She does ___ the concern. (understand)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U24"
+      ],
+      "explanation": "Does is followed by the base form.",
+      "accepted_answers": [
+        "understand"
+      ]
+    },
+    {
+      "id": "B2-U25-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use however: The room was small; ___, it was comfortable.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U19"
+      ],
+      "explanation": "However introduces a contrast between the clauses.",
+      "accepted_answers": [
+        "however"
+      ]
+    },
+    {
+      "id": "B2-U25-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use therefore: The bridge was closed; ___, the bus took another route.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U20"
+      ],
+      "explanation": "Therefore introduces the stated consequence.",
+      "accepted_answers": [
+        "therefore"
+      ]
+    },
+    {
+      "id": "B2-U25-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is the office",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "Use statement word order in the embedded clause.",
+      "source_sentence": "Could you tell me where is the office?",
+      "target_segment": "is the office",
+      "accepted_answers": [
+        "the office is"
+      ]
+    },
+    {
+      "id": "B2-U25-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "Use whom after the fronted preposition for a person.",
+      "source_sentence": "The colleague to that I spoke called.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "B2-U25-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: meet",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U21"
+      ],
+      "explanation": "Use an -ing form after the preposition to in this pattern.",
+      "source_sentence": "We look forward to meet your team.",
+      "target_segment": "meet",
+      "accepted_answers": [
+        "meeting"
+      ]
+    },
+    {
+      "id": "B2-U25-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: understands",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U25",
+        "B2-U24"
+      ],
+      "explanation": "Use the base verb after does.",
+      "source_sentence": "The manager does understands the problem.",
+      "target_segment": "understands",
+      "accepted_answers": [
+        "understand"
+      ]
+    },
+    {
+      "id": "B2-U25-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U25"
+      ],
+      "explanation": "Use statement word order in the embedded question.",
+      "source_sentence": "Where is the office? Begin with Could you tell me.",
+      "keyword": "where",
+      "target_sentence": "Could you tell me ___?",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "where the office is"
+      ]
+    },
+    {
+      "id": "B2-U25-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U25",
+        "B2-U16"
+      ],
+      "explanation": "To whom introduces the formal relative clause.",
+      "source_sentence": "I spoke to a neighbour. The neighbour called. Use the formal fronted pattern.",
+      "keyword": "whom",
+      "target_sentence": "The neighbour ___ called.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "to whom I spoke"
+      ]
+    },
+    {
+      "id": "B2-U25-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U25",
+        "B2-U21"
+      ],
+      "explanation": "Remember plus -ing refers to the earlier experience.",
+      "source_sentence": "I recall meeting her earlier.",
+      "keyword": "meeting",
+      "target_sentence": "I remember ___ her.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "meeting"
+      ]
+    },
+    {
+      "id": "B2-U25-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U25",
+        "B2-U24"
+      ],
+      "explanation": "Does adds emphasis; agree stays in the base form.",
+      "source_sentence": "She agrees with the proposal. Add emphatic does.",
+      "keyword": "does",
+      "target_sentence": "She ___ with the proposal.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "does agree"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "B2-U21",
+  "level": "B2",
+  "title": "Complex gerund and infinitive patterns",
+  "order": 21,
+  "prerequisites": [
+    "B2-U20"
+  ],
+  "objectives": [
+    "Distinguish meaning changes with -ing and to-infinitives.",
+    "Use -ing forms after prepositions.",
+    "Choose a form that preserves an intended time or purpose."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Some verbs can take either an -ing form or a to-infinitive, but the choice can change the meaning. ‘I remembered locking the door’ describes a memory of an earlier action. ‘I remembered to lock the door’ says that I did not forget the action I needed to do. In both cases the door was locked, but the order of remembering and locking differs.",
+        "‘She stopped smoking’ says she stopped the activity of smoking; it may be temporary or permanent depending on context. ‘She stopped to smoke’ says she stopped another activity in order to smoke. The infinitive expresses purpose rather than the activity that ended."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "After remember, forget and regret, an -ing form commonly refers to an earlier experience: ‘I regret saying that’. A to-infinitive can refer to an action to be done: ‘Remember to send the email’. ‘We regret to inform you that…’ is a formal formula for introducing bad news; it differs from regretting something already done.",
+        "Try doing can describe an experiment to see whether it helps: ‘Try restarting the router’. Try to do focuses on making an effort: ‘I tried to lift the box, but it was too heavy’. The result is not determined by the form alone: someone can try to do something and succeed or fail."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "After a preposition, use an -ing form when the complement is a verb: ‘She insisted on paying’ and ‘I'm looking forward to meeting you’. In the latter, to is a preposition belonging to look forward to, not an infinitive marker. A noun can also follow: ‘I'm looking forward to the meeting’.",
+        "Some patterns allow an understood subject or an explicit one: ‘I don't mind waiting’ and ‘I don't mind your waiting’. A form such as ‘you waiting’ is common in informal English, while ‘your waiting’ may be preferred in formal writing. These choices can depend on register and context."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that every verb accepting both forms has a large meaning difference. Like, love and hate can often take either in similar contexts, though nuance and usage vary. Conversely, ‘stop doing’ and ‘stop to do’ can describe different actions and should not be treated as interchangeable.",
+        "Do not replace a preposition plus -ing with a to-infinitive merely because the preposition is to: ‘look forward to meeting’, not ‘look forward to meet’. When an exercise specifies a meaning, choose the form that preserves that meaning; when the context does not distinguish the forms, more than one answer can be grammatical."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I remembered locking the door.",
+      "note": "The speaker recalls an earlier act of locking."
+    },
+    {
+      "sentence": "I remembered to lock the door.",
+      "note": "The speaker did not forget to perform the required action."
+    },
+    {
+      "sentence": "She stopped smoking last year.",
+      "note": "She stopped the activity; context determines whether the change was permanent."
+    },
+    {
+      "sentence": "She stopped to smoke.",
+      "note": "She stopped another activity in order to smoke."
+    },
+    {
+      "sentence": "Try restarting the router.",
+      "note": "The suggestion is an experiment."
+    },
+    {
+      "sentence": "I tried to lift the box, but it was too heavy.",
+      "note": "Tried to lift describes an effort that failed in this context."
+    },
+    {
+      "sentence": "I'm looking forward to meeting you.",
+      "note": "To is a preposition and is followed by -ing."
+    },
+    {
+      "sentence": "We regret to inform you that the event is cancelled.",
+      "note": "Regret to inform introduces bad news in formal language."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I look forward to meet you.",
+      "correct": "I look forward to meeting you.",
+      "reason": "To is a preposition in look forward to; use an -ing form."
+    },
+    {
+      "incorrect": "She insisted to pay.",
+      "correct": "She insisted on paying.",
+      "reason": "Insist on takes a preposition plus -ing in this pattern."
+    },
+    {
+      "incorrect": "He avoided to answer.",
+      "correct": "He avoided answering.",
+      "reason": "Avoid takes an -ing form in this pattern."
+    }
+  ],
+  "summary": [
+    "Remember, stop, regret and try can change meaning according to the following form.",
+    "A verb after a preposition takes an -ing form in the patterns taught here.",
+    "Use context to distinguish an earlier memory, a purpose, an experiment and an effort."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U21-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He did not forget the required action and locked the door. He remembered ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remembered to lock states that he did the required action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "locking before"
+        },
+        {
+          "id": "b",
+          "text": "to locking"
+        },
+        {
+          "id": "c",
+          "text": "to lock"
+        },
+        {
+          "id": "d",
+          "text": "lock"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“locking before” does not fit here. Remembered to lock states that he did the required action.",
+        "b": "“to locking” does not fit here. Remembered to lock states that he did the required action.",
+        "c": "“to lock” fits here. Remembered to lock states that he did the required action.",
+        "d": "“lock” does not fit here. Remembered to lock states that he did the required action."
+      }
+    },
+    {
+      "id": "B2-U21-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She recalls an earlier conversation. She remembers ___ to him.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remembers talking refers to the earlier experience.",
+      "options": [
+        {
+          "id": "a",
+          "text": "talking"
+        },
+        {
+          "id": "b",
+          "text": "to talking"
+        },
+        {
+          "id": "c",
+          "text": "to talk tomorrow"
+        },
+        {
+          "id": "d",
+          "text": "talk"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“talking” fits here. Remembers talking refers to the earlier experience.",
+        "b": "“to talking” does not fit here. Remembers talking refers to the earlier experience.",
+        "c": "“to talk tomorrow” does not fit here. Remembers talking refers to the earlier experience.",
+        "d": "“talk” does not fit here. Remembers talking refers to the earlier experience."
+      }
+    },
+    {
+      "id": "B2-U21-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The router may work after a restart. Suggest an experiment: Try ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Try restarting presents an experiment.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to restarting"
+        },
+        {
+          "id": "b",
+          "text": "restarting"
+        },
+        {
+          "id": "c",
+          "text": "restart"
+        },
+        {
+          "id": "d",
+          "text": "to restart yesterday"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to restarting” does not fit here. Try restarting presents an experiment.",
+        "b": "“restarting” fits here. Try restarting presents an experiment.",
+        "c": "“restart” does not fit here. Try restarting presents an experiment.",
+        "d": "“to restart yesterday” does not fit here. Try restarting presents an experiment."
+      }
+    },
+    {
+      "id": "B2-U21-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She paused her walk in order to smoke. She stopped ___ .",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Stopped to smoke expresses the purpose of stopping another action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "smoking permanently"
+        },
+        {
+          "id": "b",
+          "text": "smoke"
+        },
+        {
+          "id": "c",
+          "text": "to smoking"
+        },
+        {
+          "id": "d",
+          "text": "to smoke"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“smoking permanently” does not fit here. Stopped to smoke expresses the purpose of stopping another action.",
+        "b": "“smoke” does not fit here. Stopped to smoke expresses the purpose of stopping another action.",
+        "c": "“to smoking” does not fit here. Stopped to smoke expresses the purpose of stopping another action.",
+        "d": "“to smoke” fits here. Stopped to smoke expresses the purpose of stopping another action."
+      }
+    },
+    {
+      "id": "B2-U21-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I look forward to ___ you.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "To is a preposition in look forward to, followed by -ing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "meet"
+        },
+        {
+          "id": "b",
+          "text": "to meeting"
+        },
+        {
+          "id": "c",
+          "text": "met"
+        },
+        {
+          "id": "d",
+          "text": "meeting"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“meet” does not fit here. To is a preposition in look forward to, followed by -ing.",
+        "b": "“to meeting” does not fit here. To is a preposition in look forward to, followed by -ing.",
+        "c": "“met” does not fit here. To is a preposition in look forward to, followed by -ing.",
+        "d": "“meeting” fits here. To is a preposition in look forward to, followed by -ing."
+      }
+    },
+    {
+      "id": "B2-U21-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He insisted on ___ the bill.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Insist on is followed by an -ing form here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "paying"
+        },
+        {
+          "id": "b",
+          "text": "to pay"
+        },
+        {
+          "id": "c",
+          "text": "pay"
+        },
+        {
+          "id": "d",
+          "text": "paid"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“paying” fits here. Insist on is followed by an -ing form here.",
+        "b": "“to pay” does not fit here. Insist on is followed by an -ing form here.",
+        "c": "“pay” does not fit here. Insist on is followed by an -ing form here.",
+        "d": "“paid” does not fit here. Insist on is followed by an -ing form here."
+      }
+    },
+    {
+      "id": "B2-U21-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The box was too heavy. He tried ___ it but failed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Tried to lift describes the effort in this context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lifting as an experiment"
+        },
+        {
+          "id": "b",
+          "text": "lift"
+        },
+        {
+          "id": "c",
+          "text": "to lift"
+        },
+        {
+          "id": "d",
+          "text": "to lifting"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“lifting as an experiment” does not fit here. Tried to lift describes the effort in this context.",
+        "b": "“lift” does not fit here. Tried to lift describes the effort in this context.",
+        "c": "“to lift” fits here. Tried to lift describes the effort in this context.",
+        "d": "“to lifting” does not fit here. Tried to lift describes the effort in this context."
+      }
+    },
+    {
+      "id": "B2-U21-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence introduces bad news in a formal formula?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Regret to inform is a formal formula for introducing bad news.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We regret informing you yesterday."
+        },
+        {
+          "id": "b",
+          "text": "We regret to inform you that the event is cancelled."
+        },
+        {
+          "id": "c",
+          "text": "We regret informing you last year."
+        },
+        {
+          "id": "d",
+          "text": "We regret inform you."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“We regret informing you yesterday.” does not fit here. Regret to inform is a formal formula for introducing bad news.",
+        "b": "“We regret to inform you that the event is cancelled.” fits here. Regret to inform is a formal formula for introducing bad news.",
+        "c": "“We regret informing you last year.” does not fit here. Regret to inform is a formal formula for introducing bad news.",
+        "d": "“We regret inform you.” does not fit here. Regret to inform is a formal formula for introducing bad news."
+      }
+    },
+    {
+      "id": "B2-U21-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form for a memory: I remember ___ the door earlier. (lock)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remember plus -ing refers to an earlier experience.",
+      "accepted_answers": [
+        "locking"
+      ]
+    },
+    {
+      "id": "B2-U21-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: Remember ___ the email before leaving. (send)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remember to send describes an action not to forget.",
+      "accepted_answers": [
+        "to send"
+      ]
+    },
+    {
+      "id": "B2-U21-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: Try ___ the router as an experiment. (restart)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Try restarting presents an experiment.",
+      "accepted_answers": [
+        "restarting"
+      ]
+    },
+    {
+      "id": "B2-U21-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive for the effort: She tried ___ the box. (lift)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Try to lift focuses on the effort.",
+      "accepted_answers": [
+        "to lift"
+      ]
+    },
+    {
+      "id": "B2-U21-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: I look forward to ___ you. (meet)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "To is a preposition in this pattern.",
+      "accepted_answers": [
+        "meeting"
+      ]
+    },
+    {
+      "id": "B2-U21-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pattern: She insisted on ___ . (pay)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Use -ing after the preposition on.",
+      "accepted_answers": [
+        "paying"
+      ]
+    },
+    {
+      "id": "B2-U21-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive for purpose: She stopped ___ . (smoke)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Stopped to smoke describes the purpose of stopping another activity.",
+      "accepted_answers": [
+        "to smoke"
+      ]
+    },
+    {
+      "id": "B2-U21-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form for regret about the past: I regret ___ that. (say)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Regret plus -ing refers to the earlier action.",
+      "accepted_answers": [
+        "saying"
+      ]
+    },
+    {
+      "id": "B2-U21-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: meet",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Use -ing after the preposition to in look forward to.",
+      "source_sentence": "I look forward to meet you.",
+      "target_segment": "meet",
+      "accepted_answers": [
+        "meeting"
+      ]
+    },
+    {
+      "id": "B2-U21-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to pay",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Insist on takes a preposition plus -ing here.",
+      "source_sentence": "She insisted to pay.",
+      "target_segment": "to pay",
+      "accepted_answers": [
+        "on paying"
+      ]
+    },
+    {
+      "id": "B2-U21-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to answer",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Avoid takes an -ing form here.",
+      "source_sentence": "He avoided to answer.",
+      "target_segment": "to answer",
+      "accepted_answers": [
+        "answering"
+      ]
+    },
+    {
+      "id": "B2-U21-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: learn",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Use -ing after the preposition in.",
+      "source_sentence": "I am interested in learn Spanish.",
+      "target_segment": "learn",
+      "accepted_answers": [
+        "learning"
+      ]
+    },
+    {
+      "id": "B2-U21-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remembered to lock says the required action was done.",
+      "source_sentence": "I did not forget the required action of locking the door.",
+      "keyword": "lock",
+      "target_sentence": "I remembered ___ the door.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to lock"
+      ]
+    },
+    {
+      "id": "B2-U21-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Remember plus -ing refers to an earlier experience.",
+      "source_sentence": "She recalls talking to him earlier.",
+      "keyword": "talking",
+      "target_sentence": "She remembers ___ to him.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "talking"
+      ]
+    },
+    {
+      "id": "B2-U21-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "Try plus -ing presents an experiment.",
+      "source_sentence": "The router might work if you restart it. Suggest this experiment.",
+      "keyword": "restarting",
+      "target_sentence": "Try ___ the router.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "restarting"
+      ]
+    },
+    {
+      "id": "B2-U21-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U21"
+      ],
+      "explanation": "To is a preposition in this pattern.",
+      "source_sentence": "I am excited about meeting you in the future. Use look forward to.",
+      "keyword": "meeting",
+      "target_sentence": "I look forward to ___ you.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "meeting"
+      ]
+    }
+  ]
+}

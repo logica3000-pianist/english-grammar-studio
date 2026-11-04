@@ -1,0 +1,643 @@
+{
+  "id": "A2-U18",
+  "level": "A2",
+  "title": "Past continuous: actions in progress",
+  "order": 18,
+  "prerequisites": [
+    "A2-U17"
+  ],
+  "objectives": [
+    "Describe actions in progress at a past time.",
+    "Form past continuous questions and negatives.",
+    "Choose was or were and spell common -ing forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The past continuous describes an action that was in progress at a particular time in the past. At eight o’clock last night, you might have been cooking, studying or travelling. ‘I was cooking at eight’ tells us what was happening at that time. It does not tell us exactly when the cooking began or ended.",
+        "We also use the past continuous to set a scene. ‘The sun was shining and people were walking in the park’ describes activities or conditions in progress in the past. Two actions can be in progress at the same time: ‘I was reading while my brother was cooking’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Make the past continuous with was or were and the -ing form of a main verb. Use was with I, he, she, it and a singular noun: ‘She was reading’. Use were with you, we, they and plural nouns: ‘They were reading’. Use were with you whether you mean one person or more than one.",
+        "For a negative, put not after was or were: ‘He was not sleeping’ or ‘He wasn’t sleeping’. For a question, put was or were before the subject: ‘Were they sleeping?’ A short answer uses was or were: ‘Yes, they were’ or ‘No, they weren’t’. With a question word, say ‘What were you doing?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Most verbs add -ing: work becomes working. A verb ending in a silent e normally loses e: write becomes writing. Some short stressed verbs double the final consonant: sit becomes sitting and run becomes running. The spelling rules are like those for the present continuous, but the helping verb is in the past.",
+        "Look at the examples below. Each one shows a past situation in progress. In ‘At six, Maya was making dinner’, six is a point in the past. Making dinner was in progress at that point. The sentence does not say that Maya finished cooking at six."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not leave out was or were: ‘They were playing’, not ‘They playing’. Do not use did to form the basic past continuous question: ‘Was she studying?’, not ‘Did she studying?’ Use the -ing form, not the base form, after was or were in this pattern.",
+        "Compare ‘She cooked dinner’ with ‘She was cooking dinner at six’. The first presents the action as a finished event; the second focuses on its progress at six. Some state verbs, such as know and like in their usual meanings, are not normally continuous: ‘I knew the answer’, not ‘I was knowing the answer’."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "At eight last night, I was reading.",
+      "note": "Was reading describes an action in progress at eight."
+    },
+    {
+      "sentence": "They were waiting outside at noon.",
+      "note": "The plural subject takes were."
+    },
+    {
+      "sentence": "Maya was making dinner at six.",
+      "note": "Make loses e before -ing."
+    },
+    {
+      "sentence": "The dog was sitting by the door.",
+      "note": "Sit doubles t before -ing."
+    },
+    {
+      "sentence": "We weren’t sleeping at midnight.",
+      "note": "Weren’t makes the past continuous negative."
+    },
+    {
+      "sentence": "Was Ravi working at three? Yes, he was.",
+      "note": "Was appears before the subject in the question."
+    },
+    {
+      "sentence": "What were you doing at noon?",
+      "note": "Were comes before you in this information question."
+    },
+    {
+      "sentence": "I was reading while he was cooking.",
+      "note": "Both activities were in progress at the same time."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "They was playing at six.",
+      "correct": "They were playing at six.",
+      "reason": "They takes were."
+    },
+    {
+      "incorrect": "She was cook at noon.",
+      "correct": "She was cooking at noon.",
+      "reason": "Use the -ing form after was."
+    },
+    {
+      "incorrect": "Were you study at nine?",
+      "correct": "Were you studying at nine?",
+      "reason": "Use studying after were in the question."
+    }
+  ],
+  "summary": [
+    "Use was or were plus an -ing form for an action in progress at a past time.",
+    "Put not after was or were for a negative; put was or were before the subject in a question.",
+    "The past continuous focuses on progress, not the exact beginning or end."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U18-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At nine last night, I ___ a book.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "I takes was plus reading for an action in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "read every day"
+        },
+        {
+          "id": "b",
+          "text": "was reading"
+        },
+        {
+          "id": "c",
+          "text": "were reading"
+        },
+        {
+          "id": "d",
+          "text": "reading"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“read every day” does not fit here. I takes was plus reading for an action in progress.",
+        "b": "“was reading” fits here. I takes was plus reading for an action in progress.",
+        "c": "“were reading” does not fit here. I takes was plus reading for an action in progress.",
+        "d": "“reading” does not fit here. I takes was plus reading for an action in progress."
+      }
+    },
+    {
+      "id": "A2-U18-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At noon yesterday, they ___ outside.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "They takes were plus waiting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was waiting"
+        },
+        {
+          "id": "b",
+          "text": "wait"
+        },
+        {
+          "id": "c",
+          "text": "is waiting"
+        },
+        {
+          "id": "d",
+          "text": "were waiting"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“was waiting” does not fit here. They takes were plus waiting.",
+        "b": "“wait” does not fit here. They takes were plus waiting.",
+        "c": "“is waiting” does not fit here. They takes were plus waiting.",
+        "d": "“were waiting” fits here. They takes were plus waiting."
+      }
+    },
+    {
+      "id": "A2-U18-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ she sleeping at midnight?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use was before she in a past continuous question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Was"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Were"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Was” fits here. Use was before she in a past continuous question.",
+        "b": "“Did” does not fit here. Use was before she in a past continuous question.",
+        "c": "“Were” does not fit here. Use was before she in a past continuous question.",
+        "d": "“Does” does not fit here. Use was before she in a past continuous question."
+      }
+    },
+    {
+      "id": "A2-U18-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ at six; we were having dinner.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "We takes weren’t plus working.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wasn’t working"
+        },
+        {
+          "id": "b",
+          "text": "didn’t working"
+        },
+        {
+          "id": "c",
+          "text": "weren’t working"
+        },
+        {
+          "id": "d",
+          "text": "are not work"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“wasn’t working” does not fit here. We takes weren’t plus working.",
+        "b": "“didn’t working” does not fit here. We takes weren’t plus working.",
+        "c": "“weren’t working” fits here. We takes weren’t plus working.",
+        "d": "“are not work” does not fit here. We takes weren’t plus working."
+      }
+    },
+    {
+      "id": "A2-U18-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Was the dog running at noon? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "A positive short answer uses it was.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it was"
+        },
+        {
+          "id": "b",
+          "text": "it did"
+        },
+        {
+          "id": "c",
+          "text": "it were"
+        },
+        {
+          "id": "d",
+          "text": "it is"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“it was” fits here. A positive short answer uses it was.",
+        "b": "“it did” does not fit here. A positive short answer uses it was.",
+        "c": "“it were” does not fit here. A positive short answer uses it was.",
+        "d": "“it is” does not fit here. A positive short answer uses it was."
+      }
+    },
+    {
+      "id": "A2-U18-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At eight, Ben was ___. (sit)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Sit doubles t before -ing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "siting"
+        },
+        {
+          "id": "b",
+          "text": "sit"
+        },
+        {
+          "id": "c",
+          "text": "sitting"
+        },
+        {
+          "id": "d",
+          "text": "sitted"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“siting” does not fit here. Sit doubles t before -ing.",
+        "b": "“sit” does not fit here. Sit doubles t before -ing.",
+        "c": "“sitting” fits here. Sit doubles t before -ing.",
+        "d": "“sitted” does not fit here. Sit doubles t before -ing."
+      }
+    },
+    {
+      "id": "A2-U18-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What ___ at seven yesterday?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Put were before you and use doing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did you doing"
+        },
+        {
+          "id": "b",
+          "text": "you were doing"
+        },
+        {
+          "id": "c",
+          "text": "was you doing"
+        },
+        {
+          "id": "d",
+          "text": "were you doing"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“did you doing” does not fit here. Put were before you and use doing.",
+        "b": "“you were doing” does not fit here. Put were before you and use doing.",
+        "c": "“was you doing” does not fit here. Put were before you and use doing.",
+        "d": "“were you doing” fits here. Put were before you and use doing."
+      }
+    },
+    {
+      "id": "A2-U18-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At five, the children ___ in the garden.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "The plural subject takes were playing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was play"
+        },
+        {
+          "id": "b",
+          "text": "were playing"
+        },
+        {
+          "id": "c",
+          "text": "is playing"
+        },
+        {
+          "id": "d",
+          "text": "did playing"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“was play” does not fit here. The plural subject takes were playing.",
+        "b": "“were playing” fits here. The plural subject takes were playing.",
+        "c": "“is playing” does not fit here. The plural subject takes were playing.",
+        "d": "“did playing” does not fit here. The plural subject takes were playing."
+      }
+    },
+    {
+      "id": "A2-U18-E09",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "At noon I ___ working.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "I takes was.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U18-E10",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "At six they ___ cooking.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "They takes were.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U18-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ she reading at nine?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use was before she.",
+      "accepted_answers": [
+        "Was"
+      ]
+    },
+    {
+      "id": "A2-U18-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "At eight we were ___ dinner. (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Drop the final e before -ing.",
+      "accepted_answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "A2-U18-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He was ___ by the window at noon. (sit)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Sit doubles t before -ing.",
+      "accepted_answers": [
+        "sitting"
+      ]
+    },
+    {
+      "id": "A2-U18-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Was it raining at six? Yes, it ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use was in the short answer.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U18-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They were not ___ at midnight. (sleep)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use the -ing form after were not.",
+      "accepted_answers": [
+        "sleeping"
+      ]
+    },
+    {
+      "id": "A2-U18-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What ___ you doing at eight?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use were with you.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U18-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "She takes was.",
+      "source_sentence": "She were reading at six.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U18-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "They takes were.",
+      "source_sentence": "They was working at noon.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U18-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: writeing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Drop the final e from write before -ing.",
+      "source_sentence": "I was writeing at nine.",
+      "target_segment": "writeing",
+      "accepted_answers": [
+        "writing"
+      ]
+    },
+    {
+      "id": "A2-U18-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "He takes was in this question.",
+      "source_sentence": "Were he waiting at five?",
+      "target_segment": "Were",
+      "accepted_answers": [
+        "Was"
+      ]
+    },
+    {
+      "id": "A2-U18-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use was reading for one person.",
+      "source_sentence": "At eight, Mia was reading a book.",
+      "keyword": "reading",
+      "target_sentence": "At eight, Mia ___ a book.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "A2-U18-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Weren’t and were not are negative forms.",
+      "source_sentence": "At noon, they were not sleeping.",
+      "keyword": null,
+      "target_sentence": "At noon, they ___ sleeping.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "weren’t",
+        "were not"
+      ]
+    },
+    {
+      "id": "A2-U18-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Put was before the subject.",
+      "source_sentence": "She was cooking at six. Ask a yes/no question.",
+      "keyword": "Was",
+      "target_sentence": "___ she cooking at six?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Was"
+      ]
+    },
+    {
+      "id": "A2-U18-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U18"
+      ],
+      "explanation": "Use they were in a positive short answer.",
+      "source_sentence": "Were the children playing? Give a positive short answer.",
+      "keyword": "they",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "they were"
+      ]
+    }
+  ]
+}

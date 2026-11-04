@@ -1,0 +1,666 @@
+{
+  "id": "C1-U25",
+  "level": "C1",
+  "title": "Integrated grammar choices: cumulative review",
+  "order": 25,
+  "prerequisites": [
+    "C1-U24"
+  ],
+  "objectives": [
+    "Integrate attribution, modality and concession in context.",
+    "Review emphasis, verb complements and reference.",
+    "Select a grammatical form appropriate to a specified purpose."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The final unit brings together grammatical choices that shape how a message is understood. It also develops an editing strategy: identify the claim, the source, the time reference, the intended emphasis and the relationship between ideas before changing a sentence. A form is useful when it supports the writer’s purpose and gives the reader the right information.",
+        "A sentence can be grammatical yet unsuitable for a particular context. “The committee is meeting” and “The committee are meeting” can both be possible in British English, with the choice influenced by whether the group is viewed as a unit or as members. A marked cleft or inversion may be accurate but unnecessarily dramatic in a routine message."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "When revising a claim, separate what was observed from what is inferred or reported. “The authors report that the result may reflect timing” attributes the claim and marks the explanation as possible. The passive “The result is reported to have changed” reports an earlier change without naming the source. Neither wording proves that the proposed explanation is correct.",
+        "Then check the links between claims. Although introduces a finite concessive clause; despite can introduce a noun phrase. However presents contrast between clauses or sentences, while therefore presents a consequence. Select the connector that expresses a relationship supported by the argument, and use punctuation appropriate to the construction."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Next check reference and sentence structure. “The team revised the plan. This revision reduced costs” identifies the action referred to. “Only after the meeting did we understand” uses inversion after a fronted restrictive phrase. “It was Maya who found the key” focuses the person. These choices draw on earlier units but serve distinct purposes.",
+        "Finally, check complement patterns and implied subjects. “They persuaded us to wait” uses an object and a to-infinitive. “Having checked the figures, Lena signed” presents Lena as the checker. If the intended actor or referent is unclear, expand or rewrite the sentence before attempting to shorten it."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not revise purely by replacing every informal form with a formal one. A final preposition in “the person I spoke to” is standard, while “the person to whom I spoke” is a more formal option. The audience and purpose determine which is appropriate.",
+        "A final check should distinguish grammatical incorrectness from an unusual context, a different meaning and an unsuitable register. “May have left” expresses possibility rather than certainty; “had to leave” expresses an obligation in its ordinary use. Careful editing preserves these differences instead of treating all grammatical alternatives as interchangeable."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The authors report that the result may reflect timing.",
+      "note": "The claim is attributed and the explanation is presented as possible."
+    },
+    {
+      "sentence": "The result is reported to have changed.",
+      "note": "The perfect infinitive describes a reported earlier change."
+    },
+    {
+      "sentence": "Although the sample was small, the pattern was consistent.",
+      "note": "Although introduces the finite concessive clause."
+    },
+    {
+      "sentence": "The team revised the plan. This revision reduced costs.",
+      "note": "This revision identifies the earlier action."
+    },
+    {
+      "sentence": "Only after the meeting did we understand.",
+      "note": "The initial restriction triggers auxiliary–subject inversion."
+    },
+    {
+      "sentence": "It was Maya who found the key.",
+      "note": "The cleft focuses Maya."
+    },
+    {
+      "sentence": "They persuaded us to wait.",
+      "note": "Persuade takes an object and a to-infinitive."
+    },
+    {
+      "sentence": "Having checked the figures, Lena signed.",
+      "note": "Lena is the understood checker."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The authors says that the result may change.",
+      "correct": "The authors say that the result may change.",
+      "reason": "The plural subject authors takes say."
+    },
+    {
+      "incorrect": "Despite the sample was small, it was useful.",
+      "correct": "Although the sample was small, it was useful.",
+      "reason": "Although introduces the finite clause."
+    },
+    {
+      "incorrect": "Only after the meeting we did understand.",
+      "correct": "Only after the meeting did we understand.",
+      "reason": "The fronted restrictive phrase triggers inversion in the main clause."
+    }
+  ],
+  "summary": [
+    "Check source, certainty, time, emphasis and logical links before revising.",
+    "Choose structures that make reference and implied subjects clear.",
+    "Distinguish grammar errors from meaning and register differences."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U25-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence attributes a possible explanation to the authors?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U17"
+      ],
+      "explanation": "Report attributes the claim and may marks possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The authors report that the result may reflect timing."
+        },
+        {
+          "id": "b",
+          "text": "The result definitely proves the explanation."
+        },
+        {
+          "id": "c",
+          "text": "The result must proves timing."
+        },
+        {
+          "id": "d",
+          "text": "The authors report to may reflects timing."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The authors report that the result may reflect timing.” fits here. Report attributes the claim and may marks possibility.",
+        "b": "“The result definitely proves the explanation.” does not fit here. Report attributes the claim and may marks possibility.",
+        "c": "“The result must proves timing.” does not fit here. Report attributes the claim and may marks possibility.",
+        "d": "“The authors report to may reflects timing.” does not fit here. Report attributes the claim and may marks possibility."
+      }
+    },
+    {
+      "id": "C1-U25-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a concessive finite clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the finite clause the sample was small.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite the small sample, it was useful."
+        },
+        {
+          "id": "b",
+          "text": "Despite being small, the sample was useful."
+        },
+        {
+          "id": "c",
+          "text": "Although the sample was small, it was useful."
+        },
+        {
+          "id": "d",
+          "text": "Nevertheless the small sample was."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Despite the small sample, it was useful.” does not fit here. Although introduces the finite clause the sample was small.",
+        "b": "“Despite being small, the sample was useful.” does not fit here. Although introduces the finite clause the sample was small.",
+        "c": "“Although the sample was small, it was useful.” fits here. Although introduces the finite clause the sample was small.",
+        "d": "“Nevertheless the small sample was.” does not fit here. Although introduces the finite clause the sample was small."
+      }
+    },
+    {
+      "id": "C1-U25-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct initial restriction.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U06"
+      ],
+      "explanation": "Did precedes the subject after the fronted restriction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only after the meeting we did understood."
+        },
+        {
+          "id": "b",
+          "text": "Only did after the meeting we understand."
+        },
+        {
+          "id": "c",
+          "text": "Only after the meeting did understand we."
+        },
+        {
+          "id": "d",
+          "text": "Only after the meeting did we understand."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Only after the meeting we did understood.” does not fit here. Did precedes the subject after the fronted restriction.",
+        "b": "“Only did after the meeting we understand.” does not fit here. Did precedes the subject after the fronted restriction.",
+        "c": "“Only after the meeting did understand we.” does not fit here. Did precedes the subject after the fronted restriction.",
+        "d": "“Only after the meeting did we understand.” fits here. Did precedes the subject after the fronted restriction."
+      }
+    },
+    {
+      "id": "C1-U25-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which cleft focuses the person?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U08"
+      ],
+      "explanation": "Maya is in the focus position.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was the key that Maya found."
+        },
+        {
+          "id": "b",
+          "text": "It was Maya who found the key."
+        },
+        {
+          "id": "c",
+          "text": "What Maya found was the key."
+        },
+        {
+          "id": "d",
+          "text": "The key was on the desk."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was the key that Maya found.” does not fit here. Maya is in the focus position.",
+        "b": "“It was Maya who found the key.” fits here. Maya is in the focus position.",
+        "c": "“What Maya found was the key.” does not fit here. Maya is in the focus position.",
+        "d": "“The key was on the desk.” does not fit here. Maya is in the focus position."
+      }
+    },
+    {
+      "id": "C1-U25-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct persuade pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object plus a to-infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They persuaded us wait."
+        },
+        {
+          "id": "b",
+          "text": "They persuaded that us wait."
+        },
+        {
+          "id": "c",
+          "text": "They persuaded to us wait."
+        },
+        {
+          "id": "d",
+          "text": "They persuaded us to wait."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They persuaded us wait.” does not fit here. Persuade takes an object plus a to-infinitive.",
+        "b": "“They persuaded that us wait.” does not fit here. Persuade takes an object plus a to-infinitive.",
+        "c": "“They persuaded to us wait.” does not fit here. Persuade takes an object plus a to-infinitive.",
+        "d": "“They persuaded us to wait.” fits here. Persuade takes an object plus a to-infinitive."
+      }
+    },
+    {
+      "id": "C1-U25-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Who checked the figures? Having checked the figures, Lena signed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U21"
+      ],
+      "explanation": "The understood subject of having checked is Lena.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The figures."
+        },
+        {
+          "id": "b",
+          "text": "Lena."
+        },
+        {
+          "id": "c",
+          "text": "An unnamed person necessarily."
+        },
+        {
+          "id": "d",
+          "text": "The form."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The figures.” does not fit here. The understood subject of having checked is Lena.",
+        "b": "“Lena.” fits here. The understood subject of having checked is Lena.",
+        "c": "“An unnamed person necessarily.” does not fit here. The understood subject of having checked is Lena.",
+        "d": "“The form.” does not fit here. The understood subject of having checked is Lena."
+      }
+    },
+    {
+      "id": "C1-U25-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence reports a possible past event?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U18"
+      ],
+      "explanation": "May have arrived expresses a possible earlier event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The parcel must arrive by noon as a rule."
+        },
+        {
+          "id": "b",
+          "text": "The parcel arrives daily."
+        },
+        {
+          "id": "c",
+          "text": "The parcel may have arrived."
+        },
+        {
+          "id": "d",
+          "text": "The parcel did arrive yesterday."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The parcel must arrive by noon as a rule.” does not fit here. May have arrived expresses a possible earlier event.",
+        "b": "“The parcel arrives daily.” does not fit here. May have arrived expresses a possible earlier event.",
+        "c": "“The parcel may have arrived.” fits here. May have arrived expresses a possible earlier event.",
+        "d": "“The parcel did arrive yesterday.” does not fit here. May have arrived expresses a possible earlier event."
+      }
+    },
+    {
+      "id": "C1-U25-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which relative clause is standard and natural in conversation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U23"
+      ],
+      "explanation": "A final preposition is standard in many conversational clauses.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the person I spoke to"
+        },
+        {
+          "id": "b",
+          "text": "the person to that I spoke"
+        },
+        {
+          "id": "c",
+          "text": "the person to who I spoke"
+        },
+        {
+          "id": "d",
+          "text": "the person I spoke to her"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“the person I spoke to” fits here. A final preposition is standard in many conversational clauses.",
+        "b": "“the person to that I spoke” does not fit here. A final preposition is standard in many conversational clauses.",
+        "c": "“the person to who I spoke” does not fit here. A final preposition is standard in many conversational clauses.",
+        "d": "“the person I spoke to her” does not fit here. A final preposition is standard in many conversational clauses."
+      }
+    },
+    {
+      "id": "C1-U25-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The authors ___ that the samples differed. (report)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U17"
+      ],
+      "explanation": "Plural authors takes the base form report.",
+      "accepted_answers": [
+        "report"
+      ]
+    },
+    {
+      "id": "C1-U25-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The result may ___ changed earlier.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U18"
+      ],
+      "explanation": "May takes have before the past participle.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U25-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ the delay, the meeting began on time. Use despite.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U19"
+      ],
+      "explanation": "Despite takes the noun phrase the delay.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "C1-U25-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Only after lunch ___ we leave. Use did.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U06"
+      ],
+      "explanation": "Initial only after triggers auxiliary–subject inversion.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U25-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was Maya ___ found the key. Use who.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U08"
+      ],
+      "explanation": "Who introduces the cleft clause about the focused person.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "C1-U25-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They persuaded us ___ wait.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U25-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Having ___ the route, the guide set off. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U21"
+      ],
+      "explanation": "Having takes the past participle checked.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U25-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The vote was delayed. This ___ caused concern. Use delay.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U24"
+      ],
+      "explanation": "This delay identifies the earlier event.",
+      "accepted_answers": [
+        "delay"
+      ]
+    },
+    {
+      "id": "C1-U25-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: says",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U17"
+      ],
+      "explanation": "Plural authors takes say.",
+      "source_sentence": "The authors says the result may change.",
+      "target_segment": "says",
+      "accepted_answers": [
+        "say"
+      ]
+    },
+    {
+      "id": "C1-U25-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces a finite clause.",
+      "source_sentence": "Despite the sample was small, it was useful.",
+      "target_segment": "Despite",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "C1-U25-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: us wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U22"
+      ],
+      "explanation": "Persuade takes an object and a to-infinitive.",
+      "source_sentence": "They persuaded us wait.",
+      "target_segment": "us wait",
+      "accepted_answers": [
+        "us to wait"
+      ]
+    },
+    {
+      "id": "C1-U25-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: print",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U25",
+        "C1-U21"
+      ],
+      "explanation": "Having takes the past participle printed.",
+      "source_sentence": "Having print the tickets, Omar left.",
+      "target_segment": "print",
+      "accepted_answers": [
+        "printed"
+      ]
+    },
+    {
+      "id": "C1-U25-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U25",
+        "C1-U17"
+      ],
+      "explanation": "According to the company identifies the source.",
+      "source_sentence": "The company says the museum is open. Begin with according to.",
+      "keyword": "company",
+      "target_sentence": "___, the museum is open.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "According to the company"
+      ]
+    },
+    {
+      "id": "C1-U25-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U25",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the acknowledged fact.",
+      "source_sentence": "The sample was small, but it was useful. Begin with although.",
+      "keyword": "Although",
+      "target_sentence": "___, it was useful.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "Although the sample was small"
+      ]
+    },
+    {
+      "id": "C1-U25-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U25",
+        "C1-U06"
+      ],
+      "explanation": "The restriction triggers auxiliary–subject inversion.",
+      "source_sentence": "We understood only after lunch. Begin with only after.",
+      "keyword": "did",
+      "target_sentence": "Only after lunch ___.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "did we understand"
+      ]
+    },
+    {
+      "id": "C1-U25-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U25",
+        "C1-U21"
+      ],
+      "explanation": "Having checked makes the earlier completed action explicit.",
+      "source_sentence": "The team checked the figures and then submitted the report. Begin with a perfect participle.",
+      "keyword": "Having",
+      "target_sentence": "___, the team submitted the report.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "Having checked the figures"
+      ]
+    }
+  ]
+}

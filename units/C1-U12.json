@@ -1,0 +1,644 @@
+{
+  "id": "C1-U12",
+  "level": "C1",
+  "title": "Nominalisation and complex noun phrases",
+  "order": 12,
+  "prerequisites": [
+    "C1-U11"
+  ],
+  "objectives": [
+    "Recognise nominalisations and identify noun phrase heads.",
+    "Form common noun and complement patterns.",
+    "Choose between a verbal clause and a nominalisation for a context."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Nominalisation turns an action, process or quality into a noun or noun phrase. Compare “The team analysed the results” with “The team’s analysis of the results took two days.” In the second sentence, analysis packages the action as a thing that can be discussed, measured or linked to another idea. Nominalisation is common in reports and academic writing, but it is not confined to those contexts.",
+        "Packaging information this way can connect sentences: “The team analysed the results. The analysis revealed a problem.” The noun analysis refers back to the earlier action and lets the second sentence add a finding. Overusing abstract nouns, however, can hide who acted and make a text dense."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A complex noun phrase has a head noun and may have words before or after it: “the rapid analysis of the survey results”. Analysis is the head; rapid modifies it; the of-phrase adds information. Other examples include “the decision to postpone the launch” and “the claim that costs will fall”. The complement needed after a noun depends on that noun and its intended meaning.",
+        "Nominalisation often changes the surrounding grammar. The verb decide can take an infinitive in “They decided to leave”, while the noun decision can appear with an infinitive in “their decision to leave”. The verb analyse takes an object directly: “They analysed the data.” The noun analysis commonly uses of: “their analysis of the data”."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In a report, “The committee rejected the proposal” names an actor and action. “The committee’s rejection of the proposal surprised the staff” makes the rejection itself the subject of a new claim. This is useful when the writer wants to discuss its effect. It does not require the writer to avoid active verbs in the rest of the report.",
+        "Similarly, “Costs increased rapidly” can become “a rapid increase in costs”. The adjective rapid modifies the noun increase, while the adverb rapidly modifies the verb increased. The phrase alone is not a complete sentence; add a finite verb if it is intended to stand as a statement."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "A nominalisation does not automatically improve style. “They decided” may be clearer than “A decision was made” when the identity of the decision-makers matters. A nominalisation can omit an actor, but context does not always require one, and an agent can be supplied: “the committee’s decision”.",
+        "Do not assume that every verb has the same noun pattern or preposition. Say “analysis of the data” and “an increase in costs” in these examples. Also preserve meaning: “their refusal to help” describes an unwillingness to help; “their help” does not convey refusal."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The team analysed the results.",
+      "note": "Analysed presents the action as a verb."
+    },
+    {
+      "sentence": "The team’s analysis of the results took two days.",
+      "note": "Analysis packages the action as a noun."
+    },
+    {
+      "sentence": "The analysis revealed a problem.",
+      "note": "The noun can refer back to the preceding analysis."
+    },
+    {
+      "sentence": "Their decision to leave surprised us.",
+      "note": "Decision is followed by an infinitive complement."
+    },
+    {
+      "sentence": "A rapid increase in costs affected the budget.",
+      "note": "Rapid modifies the noun increase."
+    },
+    {
+      "sentence": "Costs increased rapidly.",
+      "note": "Rapidly modifies the verb increased."
+    },
+    {
+      "sentence": "The committee rejected the proposal.",
+      "note": "The active clause clearly names the actor."
+    },
+    {
+      "sentence": "The committee’s rejection of the proposal surprised staff.",
+      "note": "The nominalised action is the subject of a new claim."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Their analysis the data took two days.",
+      "correct": "Their analysis of the data took two days.",
+      "reason": "Analysis commonly takes an of-phrase for what was analysed."
+    },
+    {
+      "incorrect": "The rapidly increase in costs worried us.",
+      "correct": "The rapid increase in costs worried us.",
+      "reason": "Use the adjective rapid to modify the noun increase."
+    },
+    {
+      "incorrect": "Their decision leave surprised us.",
+      "correct": "Their decision to leave surprised us.",
+      "reason": "Decision takes a to-infinitive in this pattern."
+    }
+  ],
+  "summary": [
+    "Nominalisation packages an action or quality as a noun.",
+    "Noun patterns may use different complements from their related verbs.",
+    "Balance compact information with clear actors and readable sentences."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U12-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence makes the analysis itself the subject?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Analysis is the head of the subject noun phrase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The team analysed the data."
+        },
+        {
+          "id": "b",
+          "text": "The team will analyse the data."
+        },
+        {
+          "id": "c",
+          "text": "The team analysed data rapidly."
+        },
+        {
+          "id": "d",
+          "text": "The analysis of the data took two days."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The team analysed the data.” does not fit here. Analysis is the head of the subject noun phrase.",
+        "b": "“The team will analyse the data.” does not fit here. Analysis is the head of the subject noun phrase.",
+        "c": "“The team analysed data rapidly.” does not fit here. Analysis is the head of the subject noun phrase.",
+        "d": "“The analysis of the data took two days.” fits here. Analysis is the head of the subject noun phrase."
+      }
+    },
+    {
+      "id": "C1-U12-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the noun pattern: their analysis ___ the data.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Analysis commonly takes an of-phrase identifying what was analysed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "of"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "for to"
+        },
+        {
+          "id": "d",
+          "text": "analysed"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“of” fits here. Analysis commonly takes an of-phrase identifying what was analysed.",
+        "b": "“to” does not fit here. Analysis commonly takes an of-phrase identifying what was analysed.",
+        "c": "“for to” does not fit here. Analysis commonly takes an of-phrase identifying what was analysed.",
+        "d": "“analysed” does not fit here. Analysis commonly takes an of-phrase identifying what was analysed."
+      }
+    },
+    {
+      "id": "C1-U12-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the adjective modifying the noun: a ___ increase in costs.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Rapid is an adjective modifying the noun increase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rapidly"
+        },
+        {
+          "id": "b",
+          "text": "rapidity"
+        },
+        {
+          "id": "c",
+          "text": "rapid"
+        },
+        {
+          "id": "d",
+          "text": "more rapidly than"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“rapidly” does not fit here. Rapid is an adjective modifying the noun increase.",
+        "b": "“rapidity” does not fit here. Rapid is an adjective modifying the noun increase.",
+        "c": "“rapid” fits here. Rapid is an adjective modifying the noun increase.",
+        "d": "“more rapidly than” does not fit here. Rapid is an adjective modifying the noun increase."
+      }
+    },
+    {
+      "id": "C1-U12-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the verbal pattern with a direct object.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The verb analysed takes the object directly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They analysed of the data."
+        },
+        {
+          "id": "b",
+          "text": "They analysed the data."
+        },
+        {
+          "id": "c",
+          "text": "They analysed to the data."
+        },
+        {
+          "id": "d",
+          "text": "They analysis the data."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“They analysed of the data.” does not fit here. The verb analysed takes the object directly.",
+        "b": "“They analysed the data.” fits here. The verb analysed takes the object directly.",
+        "c": "“They analysed to the data.” does not fit here. The verb analysed takes the object directly.",
+        "d": "“They analysis the data.” does not fit here. The verb analysed takes the object directly."
+      }
+    },
+    {
+      "id": "C1-U12-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What is the head of “the rapid analysis of the results”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Analysis is the noun being modified by rapid and the of-phrase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rapid"
+        },
+        {
+          "id": "b",
+          "text": "results"
+        },
+        {
+          "id": "c",
+          "text": "analysis"
+        },
+        {
+          "id": "d",
+          "text": "of"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“rapid” does not fit here. Analysis is the noun being modified by rapid and the of-phrase.",
+        "b": "“results” does not fit here. Analysis is the noun being modified by rapid and the of-phrase.",
+        "c": "“analysis” fits here. Analysis is the noun being modified by rapid and the of-phrase.",
+        "d": "“of” does not fit here. Analysis is the noun being modified by rapid and the of-phrase."
+      }
+    },
+    {
+      "id": "C1-U12-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which pattern describes their choice to leave?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Decision to leave uses an infinitive complement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "their decision to leave"
+        },
+        {
+          "id": "b",
+          "text": "their decision leaving to"
+        },
+        {
+          "id": "c",
+          "text": "their decide of leave"
+        },
+        {
+          "id": "d",
+          "text": "their decision leave to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“their decision to leave” fits here. Decision to leave uses an infinitive complement.",
+        "b": "“their decision leaving to” does not fit here. Decision to leave uses an infinitive complement.",
+        "c": "“their decide of leave” does not fit here. Decision to leave uses an infinitive complement.",
+        "d": "“their decision leave to” does not fit here. Decision to leave uses an infinitive complement."
+      }
+    },
+    {
+      "id": "C1-U12-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "When might “The team rejected the proposal” be clearer than “The proposal was rejected”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The active clause explicitly identifies the team as actor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "When no verb is permitted."
+        },
+        {
+          "id": "b",
+          "text": "When identifying the actor matters."
+        },
+        {
+          "id": "c",
+          "text": "When all agency must be hidden."
+        },
+        {
+          "id": "d",
+          "text": "When a noun must replace every verb."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“When no verb is permitted.” does not fit here. The active clause explicitly identifies the team as actor.",
+        "b": "“When identifying the actor matters.” fits here. The active clause explicitly identifies the team as actor.",
+        "c": "“When all agency must be hidden.” does not fit here. The active clause explicitly identifies the team as actor.",
+        "d": "“When a noun must replace every verb.” does not fit here. The active clause explicitly identifies the team as actor."
+      }
+    },
+    {
+      "id": "C1-U12-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about nominalisation is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "A nominalised action can serve as a topic for a later claim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It always improves readability."
+        },
+        {
+          "id": "b",
+          "text": "It prevents any reference to an actor."
+        },
+        {
+          "id": "c",
+          "text": "It is possible only in science."
+        },
+        {
+          "id": "d",
+          "text": "It can package an action for further discussion."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“It always improves readability.” does not fit here. A nominalised action can serve as a topic for a later claim.",
+        "b": "“It prevents any reference to an actor.” does not fit here. A nominalised action can serve as a topic for a later claim.",
+        "c": "“It is possible only in science.” does not fit here. A nominalised action can serve as a topic for a later claim.",
+        "d": "“It can package an action for further discussion.” fits here. A nominalised action can serve as a topic for a later claim."
+      }
+    },
+    {
+      "id": "C1-U12-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Their analysis ___ the results took two days.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Analysis commonly uses of before the thing analysed.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "C1-U12-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Their decision ___ postpone the launch surprised us.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Decision can take a to-infinitive complement.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U12-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "A rapid increase ___ costs affected the budget.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Increase in costs identifies what increased.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "C1-U12-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The team ___ the results yesterday. (analyse)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The verb analysed takes the object directly; both spellings are accepted.",
+      "accepted_answers": [
+        "analysed",
+        "analyzed"
+      ]
+    },
+    {
+      "id": "C1-U12-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The ___ of the proposal surprised staff. (reject, noun)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Rejection is the noun referring to the act of rejecting.",
+      "accepted_answers": [
+        "rejection"
+      ]
+    },
+    {
+      "id": "C1-U12-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Costs increased ___. (rapid, adverb)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Rapidly modifies the verb increased.",
+      "accepted_answers": [
+        "rapidly"
+      ]
+    },
+    {
+      "id": "C1-U12-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "A ___ increase in costs worried us. (rapid, adjective)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Rapid modifies the noun increase.",
+      "accepted_answers": [
+        "rapid"
+      ]
+    },
+    {
+      "id": "C1-U12-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The committee’s ___ to leave surprised us. (decide, noun)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Decision can introduce the infinitive to leave.",
+      "accepted_answers": [
+        "decision"
+      ]
+    },
+    {
+      "id": "C1-U12-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: analysis",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Add of before the thing analysed.",
+      "source_sentence": "Their analysis the results took two days.",
+      "target_segment": "analysis",
+      "accepted_answers": [
+        "analysis of"
+      ]
+    },
+    {
+      "id": "C1-U12-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: rapidly",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Use an adjective to modify the noun increase.",
+      "source_sentence": "The rapidly increase in costs worried us.",
+      "target_segment": "rapidly",
+      "accepted_answers": [
+        "rapid"
+      ]
+    },
+    {
+      "id": "C1-U12-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: decision leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "Decision takes a to-infinitive in this pattern.",
+      "source_sentence": "Their decision leave surprised us.",
+      "target_segment": "decision leave",
+      "accepted_answers": [
+        "decision to leave"
+      ]
+    },
+    {
+      "id": "C1-U12-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: analysed of",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The verb analyse takes its object directly.",
+      "source_sentence": "They analysed of the data.",
+      "target_segment": "analysed of",
+      "accepted_answers": [
+        "analysed",
+        "analyzed"
+      ]
+    },
+    {
+      "id": "C1-U12-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The noun analysis takes an of-phrase here.",
+      "source_sentence": "The team analysed the results. The analysis took two days. Begin with the team’s analysis.",
+      "keyword": "of",
+      "target_sentence": "The team’s analysis ___ took two days.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "of the results"
+      ]
+    },
+    {
+      "id": "C1-U12-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The adjective rapid modifies the noun increase.",
+      "source_sentence": "Costs increased rapidly. Express the change as a noun phrase.",
+      "keyword": "increase",
+      "target_sentence": "There was ___ in costs.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "a rapid increase"
+      ]
+    },
+    {
+      "id": "C1-U12-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The noun decision takes a to-infinitive.",
+      "source_sentence": "They decided to postpone the launch. Begin with their decision.",
+      "keyword": "decision",
+      "target_sentence": "Their ___ the launch was unexpected.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "decision to postpone"
+      ]
+    },
+    {
+      "id": "C1-U12-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U12"
+      ],
+      "explanation": "The noun rejection takes an of-phrase identifying what was rejected.",
+      "source_sentence": "The committee rejected the proposal. The rejection surprised staff.",
+      "keyword": "rejection",
+      "target_sentence": "The committee’s ___ surprised staff.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "rejection of the proposal"
+      ]
+    }
+  ]
+}

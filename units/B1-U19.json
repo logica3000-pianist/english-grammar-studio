@@ -1,0 +1,642 @@
+{
+  "id": "B1-U19",
+  "level": "B1",
+  "title": "Quantifiers and determiners in context",
+  "order": 19,
+  "prerequisites": [
+    "B1-U18"
+  ],
+  "objectives": [
+    "Choose quantifiers for countable and uncountable nouns.",
+    "Distinguish few and little from a few and a little.",
+    "Use every and each with singular nouns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Quantifiers describe how much or how many of something we mean. The noun's form matters. We use many and a few with plural countable nouns: ‘many books’ and ‘a few books’. We use much and a little with uncountable nouns: ‘much time’ and ‘a little time’. Countable nouns have singular and plural forms; uncountable nouns such as information and furniture normally do not take a plural in these meanings.",
+        "A lot of can be used with both plural countable and uncountable nouns: ‘a lot of people’ and ‘a lot of water’. It is common in positive statements as well as questions and negatives. Much is especially common in questions and negatives in everyday English: ‘How much time?’ and ‘I don't have much time’. It also occurs in other contexts."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use how many with a plural countable noun: ‘How many chairs do we need?’ Use how much with an uncountable noun: ‘How much milk is left?’ The answer may give an exact number or a general quantity. Some and any can also be used with countable plurals and uncountable nouns: ‘some chairs’, ‘some milk’, ‘any chairs’ and ‘any milk’.",
+        "A few means a small number and is often more positive than few: ‘We have a few chairs’ says there are some. ‘We have few chairs’ emphasises that the number is small, often too small for a purpose. Similarly, a little means a small amount, while little often emphasises scarcity: ‘We have little time’. Context determines the implication."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘There are a few biscuits, so we can share them’ with ‘There are few biscuits, so some people may not get one’. The first focuses on the fact that some exist; the second highlights a shortage. Compare ‘I have a little time, so I can help’ with ‘I have little time, so I cannot help for long’.",
+        "Every and each generally take a singular countable noun in these patterns: ‘Every student has a ticket’ and ‘Each student has a ticket’. Each often focuses on members individually; every often presents them as a group of individual members. Their uses overlap, but they are not identical in every context."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use many with an uncountable noun in the usual quantity pattern: say ‘much information’ or ‘a lot of information’, not ‘many informations’. Do not use much directly with a plural countable noun: say ‘many chairs’ or ‘a lot of chairs’. Some nouns can be countable in one meaning and uncountable in another, so consult the context.",
+        "Do not assume few and a few have exactly the same effect. Both describe a small number, but the presence of a often changes the emphasis. Similarly, ‘not much’ and ‘a little’ can overlap in quantity while presenting it differently. Choose the form that matches the speaker's intended message."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "How many chairs do we need?",
+      "note": "Many goes with plural countable chairs."
+    },
+    {
+      "sentence": "How much time is left?",
+      "note": "Much goes with uncountable time."
+    },
+    {
+      "sentence": "We have a few biscuits, so we can share them.",
+      "note": "A few presents a small number as available."
+    },
+    {
+      "sentence": "We have few biscuits, so some people may not get one.",
+      "note": "Few emphasises the small number."
+    },
+    {
+      "sentence": "I have a little time, so I can help.",
+      "note": "A little presents a small amount as available."
+    },
+    {
+      "sentence": "I have little time, so I cannot help for long.",
+      "note": "Little emphasises scarcity."
+    },
+    {
+      "sentence": "A lot of people arrived.",
+      "note": "A lot of works with plural countable people."
+    },
+    {
+      "sentence": "Every student has a ticket.",
+      "note": "Every takes a singular noun and singular verb in this pattern."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "How much chairs do we need?",
+      "correct": "How many chairs do we need?",
+      "reason": "Use many with plural countable chairs."
+    },
+    {
+      "incorrect": "We have many information.",
+      "correct": "We have a lot of information.",
+      "reason": "Information is uncountable in this meaning."
+    },
+    {
+      "incorrect": "Every students have a ticket.",
+      "correct": "Every student has a ticket.",
+      "reason": "Every takes a singular countable noun and singular verb in this pattern."
+    }
+  ],
+  "summary": [
+    "Use many and a few with plural countable nouns; use much and a little with uncountable nouns.",
+    "Few and little often emphasise scarcity; a few and a little present some as available.",
+    "Every and each generally take a singular countable noun in the patterns taught here."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U19-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ chairs do we need?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Many goes with plural countable chairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "many"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“much” does not fit here. Many goes with plural countable chairs.",
+        "b": "“little” does not fit here. Many goes with plural countable chairs.",
+        "c": "“a little” does not fit here. Many goes with plural countable chairs.",
+        "d": "“many” fits here. Many goes with plural countable chairs."
+      }
+    },
+    {
+      "id": "B1-U19-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ milk is left?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Much goes with uncountable milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "few"
+        },
+        {
+          "id": "d",
+          "text": "a few"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“much” fits here. Much goes with uncountable milk.",
+        "b": "“many” does not fit here. Much goes with uncountable milk.",
+        "c": "“few” does not fit here. Much goes with uncountable milk.",
+        "d": "“a few” does not fit here. Much goes with uncountable milk."
+      }
+    },
+    {
+      "id": "B1-U19-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have ___ biscuits, so we can share some. Choose the option emphasising availability.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A few presents a small number as available.",
+      "options": [
+        {
+          "id": "a",
+          "text": "fewest"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“fewest” does not fit here. A few presents a small number as available.",
+        "b": "“much” does not fit here. A few presents a small number as available.",
+        "c": "“a few” fits here. A few presents a small number as available.",
+        "d": "“a little” does not fit here. A few presents a small number as available."
+      }
+    },
+    {
+      "id": "B1-U19-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have ___ time, so we cannot help for long. Choose the option emphasising scarcity.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Little emphasises the small amount of time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a few"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "a little of chairs"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“a few” does not fit here. Little emphasises the small amount of time.",
+        "b": "“little” fits here. Little emphasises the small amount of time.",
+        "c": "“many” does not fit here. Little emphasises the small amount of time.",
+        "d": "“a little of chairs” does not fit here. Little emphasises the small amount of time."
+      }
+    },
+    {
+      "id": "B1-U19-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Every student ___ a ticket.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Every student is singular and takes has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“have” does not fit here. Every student is singular and takes has.",
+        "b": "“are” does not fit here. Every student is singular and takes has.",
+        "c": "“has” fits here. Every student is singular and takes has.",
+        "d": "“were” does not fit here. Every student is singular and takes has."
+      }
+    },
+    {
+      "id": "B1-U19-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have ___ information about the course. Choose the natural phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A lot of can introduce uncountable information.",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "a lot of"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "many informations"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“many” does not fit here. A lot of can introduce uncountable information.",
+        "b": "“a lot of” fits here. A lot of can introduce uncountable information.",
+        "c": "“a few” does not fit here. A lot of can introduce uncountable information.",
+        "d": "“many informations” does not fit here. A lot of can introduce uncountable information."
+      }
+    },
+    {
+      "id": "B1-U19-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There are ___ chairs, so some guests must stand. Choose the option emphasising scarcity.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Few emphasises the small number of chairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "few"
+        },
+        {
+          "id": "b",
+          "text": "a little"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“few” fits here. Few emphasises the small number of chairs.",
+        "b": "“a little” does not fit here. Few emphasises the small number of chairs.",
+        "c": "“much” does not fit here. Few emphasises the small number of chairs.",
+        "d": "“little” does not fit here. Few emphasises the small number of chairs."
+      }
+    },
+    {
+      "id": "B1-U19-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Each student ___ a book.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Each student is singular and takes has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "are having"
+        },
+        {
+          "id": "c",
+          "text": "having"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have” does not fit here. Each student is singular and takes has.",
+        "b": "“are having” does not fit here. Each student is singular and takes has.",
+        "c": "“having” does not fit here. Each student is singular and takes has.",
+        "d": "“has” fits here. Each student is singular and takes has."
+      }
+    },
+    {
+      "id": "B1-U19-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose many or much: How ___ books are there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Many goes with plural countable books.",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "B1-U19-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose many or much: How ___ water is there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Much goes with uncountable water.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "B1-U19-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose a few or a little: We have ___ apples, so we can share some.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A few presents a small countable number as available.",
+      "accepted_answers": [
+        "a few"
+      ]
+    },
+    {
+      "id": "B1-U19-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose a few or a little: I have ___ time, so I can help briefly.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A little presents a small amount as available.",
+      "accepted_answers": [
+        "a little"
+      ]
+    },
+    {
+      "id": "B1-U19-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose few or a few: There are ___ seats, so most guests must stand. Emphasise scarcity.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Few emphasises the small number.",
+      "accepted_answers": [
+        "few"
+      ]
+    },
+    {
+      "id": "B1-U19-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose little or a little: There is ___ time, so we cannot finish. Emphasise scarcity.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Little emphasises the small amount.",
+      "accepted_answers": [
+        "little"
+      ]
+    },
+    {
+      "id": "B1-U19-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with has or have: Every student ___ a ticket.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Every student is singular.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U19-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with has or have: Each guest ___ a seat.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Each guest is singular.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U19-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: much",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Use many with plural countable chairs.",
+      "source_sentence": "How much chairs do we need?",
+      "target_segment": "much",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "B1-U19-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: many",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Use much with uncountable milk.",
+      "source_sentence": "How many milk is left?",
+      "target_segment": "many",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "B1-U19-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: students have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Every takes a singular noun and verb in this pattern.",
+      "source_sentence": "Every students have a ticket.",
+      "target_segment": "students have",
+      "accepted_answers": [
+        "student has"
+      ]
+    },
+    {
+      "id": "B1-U19-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: guests",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Each takes a singular countable noun in this pattern.",
+      "source_sentence": "Each guests has a seat.",
+      "target_segment": "guests",
+      "accepted_answers": [
+        "guest"
+      ]
+    },
+    {
+      "id": "B1-U19-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A few presents a small number as available.",
+      "source_sentence": "A small number of biscuits are available to share. Use a few.",
+      "keyword": "few",
+      "target_sentence": "We have ___ biscuits.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a few"
+      ]
+    },
+    {
+      "id": "B1-U19-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "A little presents a small amount as available.",
+      "source_sentence": "A small amount of time is available, so I can help. Use a little.",
+      "keyword": "little",
+      "target_sentence": "I have ___ time.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a little"
+      ]
+    },
+    {
+      "id": "B1-U19-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Few emphasises scarcity.",
+      "source_sentence": "The number of chairs is very small, so guests must stand. Use few.",
+      "keyword": "few",
+      "target_sentence": "There are ___ chairs.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "few"
+      ]
+    },
+    {
+      "id": "B1-U19-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U19"
+      ],
+      "explanation": "Every student is singular in this pattern.",
+      "source_sentence": "All individual students have a ticket. Use every.",
+      "keyword": "Every",
+      "target_sentence": "___ has a ticket.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Every student"
+      ]
+    }
+  ]
+}

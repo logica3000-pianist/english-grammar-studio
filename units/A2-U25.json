@@ -1,0 +1,652 @@
+{
+  "id": "A2-U25",
+  "level": "A2",
+  "title": "Linking simple clauses: cumulative review",
+  "order": 25,
+  "prerequisites": [
+    "A2-U24"
+  ],
+  "objectives": [
+    "Connect simple clauses using and, but, because and so.",
+    "Distinguish a reason from a result.",
+    "Review selected A2 grammar in connected sentences."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A clause is a group of words that usually includes a subject and a verb. We can connect simple clauses to show how ideas are related. ‘I was tired, but I finished my work’ links two ideas that contrast. ‘I was tired, so I went to bed’ links a situation with its result.",
+        "In this unit, use and to add an idea, but to show a contrast, because to give a reason, and so to introduce a result. The relationship between ideas guides the choice. This unit also reviews earlier grammar, including past forms, future plans, comparisons and time expressions."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use and to connect related ideas: ‘Mia opened the door, and Ben came in’. Use but when the second idea contrasts with the first: ‘The room is small, but it is comfortable’. Use because before a reason: ‘I stayed at home because I was ill’. Use so before a result: ‘I was ill, so I stayed at home’.",
+        "Both parts of these examples have a subject and verb. The words can also connect other grammatical structures, but here we focus on simple clauses. In writing, a comma often appears before and, but or so when they connect two full clauses, especially when that makes the sentence easier to read. A comma is not normally needed before because in these simple examples."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I took an umbrella because it was raining’ with ‘It was raining, so I took an umbrella’. The facts are similar, but the order of reason and result changes. Because introduces the reason; so introduces the result. You can put a because clause first: ‘Because it was raining, I took an umbrella’. A comma commonly follows an opening because clause.",
+        "Read the examples below. ‘And’ can add an action in a sequence: ‘She stood up and opened the door’. ‘But’ can contrast an expectation and a fact: ‘It was cold, but we enjoyed the walk’. The linking word does not change the tense by itself; choose each verb form from its meaning and time."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use because and so together to connect the same reason and result in one sentence: use ‘Because I was tired, I went home’ or ‘I was tired, so I went home’. The sentence ‘Because I was tired, so I went home’ is not standard English.",
+        "And does not automatically mean that the second event was caused by the first; use because or so when you need to make a reason or result clear. In real communication, more than one connector may sometimes be possible with a different emphasis. In an exercise, use the relationship stated in the context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I made tea, and Sam made coffee.",
+      "note": "And adds a related idea."
+    },
+    {
+      "sentence": "The room is small, but it is comfortable.",
+      "note": "But connects contrasting ideas."
+    },
+    {
+      "sentence": "I stayed home because I was ill.",
+      "note": "Because introduces the reason."
+    },
+    {
+      "sentence": "It was raining, so we took a taxi.",
+      "note": "So introduces the result."
+    },
+    {
+      "sentence": "Because it was late, we left.",
+      "note": "A because clause can come first."
+    },
+    {
+      "sentence": "She stood up and opened the door.",
+      "note": "And links actions in a sequence."
+    },
+    {
+      "sentence": "I was tired, but I finished my homework.",
+      "note": "But contrasts tiredness and completion."
+    },
+    {
+      "sentence": "We are going to eat at home because the café is closed.",
+      "note": "The future plan and the reason are linked with because."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Because I was tired, so I went home.",
+      "correct": "Because I was tired, I went home.",
+      "reason": "Do not use because and so together for the same connection."
+    },
+    {
+      "incorrect": "I stayed home so I was ill.",
+      "correct": "I stayed home because I was ill.",
+      "reason": "Because introduces the intended reason."
+    },
+    {
+      "incorrect": "It was raining, because we took a taxi.",
+      "correct": "It was raining, so we took a taxi.",
+      "reason": "So introduces the intended result."
+    }
+  ],
+  "summary": [
+    "Use and to add ideas and but to show contrast.",
+    "Use because before a reason and so before a result.",
+    "Choose the verb tense from the meaning; the connector does not determine it by itself."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U25-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I was tired, ___ I finished the report. The second idea contrasts with the first.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "But introduces the stated contrast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "but"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“but” fits here. But introduces the stated contrast.",
+        "b": "“because” does not fit here. But introduces the stated contrast.",
+        "c": "“so” does not fit here. But introduces the stated contrast.",
+        "d": "“for” does not fit here. But introduces the stated contrast."
+      }
+    },
+    {
+      "id": "A2-U25-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I took a coat ___ it was cold. Give the reason.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "Because introduces the reason it was cold.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "than"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“so” does not fit here. Because introduces the reason it was cold.",
+        "b": "“because” fits here. Because introduces the reason it was cold.",
+        "c": "“but” does not fit here. Because introduces the reason it was cold.",
+        "d": "“than” does not fit here. Because introduces the reason it was cold."
+      }
+    },
+    {
+      "id": "A2-U25-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "It was raining, ___ we took a taxi. Give the result.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "So introduces the result of the rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "than"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“because” does not fit here. So introduces the result of the rain.",
+        "b": "“but” does not fit here. So introduces the result of the rain.",
+        "c": "“so” fits here. So introduces the result of the rain.",
+        "d": "“than” does not fit here. So introduces the result of the rain."
+      }
+    },
+    {
+      "id": "A2-U25-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Mia made tea, ___ Ben made coffee. Add a related action.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "And adds the related action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "than"
+        },
+        {
+          "id": "d",
+          "text": "and"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“because” does not fit here. And adds the related action.",
+        "b": "“so” does not fit here. And adds the related action.",
+        "c": "“than” does not fit here. And adds the related action.",
+        "d": "“and” fits here. And adds the related action."
+      }
+    },
+    {
+      "id": "A2-U25-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "At six yesterday, I ___ dinner when the phone rang.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U19"
+      ],
+      "explanation": "Was cooking describes the past action in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cook"
+        },
+        {
+          "id": "b",
+          "text": "am cooking"
+        },
+        {
+          "id": "c",
+          "text": "will cooking"
+        },
+        {
+          "id": "d",
+          "text": "was cooking"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“cook” does not fit here. Was cooking describes the past action in progress.",
+        "b": "“am cooking” does not fit here. Was cooking describes the past action in progress.",
+        "c": "“will cooking” does not fit here. Was cooking describes the past action in progress.",
+        "d": "“was cooking” fits here. Was cooking describes the past action in progress."
+      }
+    },
+    {
+      "id": "A2-U25-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I think it ___ tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U22"
+      ],
+      "explanation": "Use will plus the base verb for this prediction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rains yesterday"
+        },
+        {
+          "id": "b",
+          "text": "will rains"
+        },
+        {
+          "id": "c",
+          "text": "will rain"
+        },
+        {
+          "id": "d",
+          "text": "will to rain"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“rains yesterday” does not fit here. Use will plus the base verb for this prediction.",
+        "b": "“will rains” does not fit here. Use will plus the base verb for this prediction.",
+        "c": "“will rain” fits here. Use will plus the base verb for this prediction.",
+        "d": "“will to rain” does not fit here. Use will plus the base verb for this prediction."
+      }
+    },
+    {
+      "id": "A2-U25-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This bag is ___ than that one. (small)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U23"
+      ],
+      "explanation": "Use smaller than to compare two bags.",
+      "options": [
+        {
+          "id": "a",
+          "text": "smaller"
+        },
+        {
+          "id": "b",
+          "text": "more smaller"
+        },
+        {
+          "id": "c",
+          "text": "smallest"
+        },
+        {
+          "id": "d",
+          "text": "small"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“smaller” fits here. Use smaller than to compare two bags.",
+        "b": "“more smaller” does not fit here. Use smaller than to compare two bags.",
+        "c": "“smallest” does not fit here. Use smaller than to compare two bags.",
+        "d": "“small” does not fit here. Use smaller than to compare two bags."
+      }
+    },
+    {
+      "id": "A2-U25-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The class starts ___ nine. Choose the time preposition.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U24"
+      ],
+      "explanation": "Use at with a clock time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“on” does not fit here. Use at with a clock time.",
+        "b": "“at” fits here. Use at with a clock time.",
+        "c": "“in” does not fit here. Use at with a clock time.",
+        "d": "“under” does not fit here. Use at with a clock time."
+      }
+    },
+    {
+      "id": "A2-U25-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It was cold, ___ I wore a coat. Introduce the result.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "So introduces the result.",
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "A2-U25-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I wore a coat ___ it was cold. Introduce the reason.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "Because introduces the reason.",
+      "accepted_answers": [
+        "because"
+      ]
+    },
+    {
+      "id": "A2-U25-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bag is small, ___ it is heavy. Show a contrast.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "But introduces the contrast.",
+      "accepted_answers": [
+        "but"
+      ]
+    },
+    {
+      "id": "A2-U25-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I opened the book ___ read the first page. Add the next action.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "And adds an action.",
+      "accepted_answers": [
+        "and"
+      ]
+    },
+    {
+      "id": "A2-U25-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "At nine yesterday, we ___ studying. Use the positive past form of be.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U18"
+      ],
+      "explanation": "We takes were in the past continuous.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U25-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She is going to ___ tomorrow. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U21"
+      ],
+      "explanation": "Use the base verb after going to.",
+      "accepted_answers": [
+        "travel"
+      ]
+    },
+    {
+      "id": "A2-U25-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is the ___ room in the house. (large)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U23"
+      ],
+      "explanation": "Largest is the superlative of large.",
+      "accepted_answers": [
+        "largest"
+      ]
+    },
+    {
+      "id": "A2-U25-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We met ___ Monday. Choose at, on or in.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U24"
+      ],
+      "explanation": "Use on with a named day.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U25-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: so I went home",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "Remove so when because already introduces the reason.",
+      "source_sentence": "Because I was tired, so I went home.",
+      "target_segment": "so I went home",
+      "accepted_answers": [
+        "I went home"
+      ]
+    },
+    {
+      "id": "A2-U25-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "The rain caused us to take a taxi. Replace: because",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "So introduces the intended result.",
+      "source_sentence": "It was raining, because we took a taxi.",
+      "target_segment": "because",
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "A2-U25-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U18"
+      ],
+      "explanation": "They takes were in the past continuous.",
+      "source_sentence": "They was working when I called.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U25-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: goes",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U25",
+        "A2-U22"
+      ],
+      "explanation": "Use the base verb after will.",
+      "source_sentence": "She will goes tomorrow.",
+      "target_segment": "goes",
+      "accepted_answers": [
+        "go"
+      ]
+    },
+    {
+      "id": "A2-U25-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "Because introduces the reason.",
+      "source_sentence": "I stayed home. The reason was that I was ill.",
+      "keyword": "because",
+      "target_sentence": "I stayed home ___ I was ill.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "because"
+      ]
+    },
+    {
+      "id": "A2-U25-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "So introduces the result.",
+      "source_sentence": "It was raining. As a result, we took a taxi.",
+      "keyword": "so",
+      "target_sentence": "It was raining, ___ we took a taxi.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "A2-U25-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "But introduces the contrast.",
+      "source_sentence": "The box is small. It is heavy despite that.",
+      "keyword": "but",
+      "target_sentence": "The box is small, ___ it is heavy.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "but"
+      ]
+    },
+    {
+      "id": "A2-U25-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U25"
+      ],
+      "explanation": "And connects the two actions.",
+      "source_sentence": "We visited the museum. Then we ate lunch.",
+      "keyword": "and",
+      "target_sentence": "We visited the museum ___ ate lunch.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "and"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "id": "B1-U15",
+  "level": "B1",
+  "title": "Relative pronouns and reference: cumulative review",
+  "order": 15,
+  "prerequisites": [
+    "B1-U14"
+  ],
+  "objectives": [
+    "Identify what a relative word refers to.",
+    "Distinguish defining and non-defining clauses.",
+    "Review common verb patterns and purpose structures."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Relative words help a reader or listener connect extra information with the correct person, thing or place. In ‘I met the engineer who designed the bridge’, who refers to the engineer. In ‘I crossed the bridge that the engineer designed’, that refers to the bridge. This connection is called reference: the relative word points back to a noun or, in some cases, to a whole idea.",
+        "A clear reference matters. If two nouns appear close together, the intended meaning may be unclear. Rephrase when necessary: ‘The manager spoke to the assistant who was leaving’ normally suggests that the assistant was leaving. If the manager was leaving, write a sentence that makes that relationship clear."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use who for people and which for things. In defining clauses, that is also common for people or things: ‘the person that called’ and ‘the car that stopped’. Use whose to connect a noun with something related to it: ‘the author whose book won’. Use where for a place: ‘the library where we met’.",
+        "A defining clause identifies the noun and normally has no commas. The relative pronoun can often be omitted if it is an object: ‘the film we watched’. Keep it if it is the subject: ‘the film that won’. A non-defining clause adds extra information about an identified noun and uses commas: ‘The film, which won an award, is popular’. In standard writing, use which or who rather than that in this non-defining pattern."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The colleague who called is Ana’ and ‘Ana, who called earlier, is my colleague’. In the first, who called identifies the colleague. In the second, the name Ana identifies her; the clause adds a detail. The subject of called is who in both examples.",
+        "This review also revisits verb patterns. ‘I enjoy reading’ uses an -ing form after enjoy. ‘I decided to leave’ uses a to-infinitive after decide. ‘I went out to buy bread’ uses an infinitive of purpose. These patterns can appear in clauses with relative words: ‘The person who decided to leave called a taxi’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid repeating a pronoun that the relative word already represents: ‘the book that I bought’, not ‘the book that I bought it’. Keep the relative pronoun in a standard non-defining object clause: ‘This book, which I borrowed, is useful’. The pronoun may be omitted in a comparable defining clause: ‘The book I borrowed is useful’.",
+        "Reference is not always determined by a simple distance rule. A writer may intend a clause to refer to an earlier noun or even a whole situation. When the sentence could reasonably be read in two ways, recast it. Good grammar helps, but a clear context is also necessary for a reader to understand the message."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The engineer who designed the bridge called.",
+      "note": "Who refers to the engineer."
+    },
+    {
+      "sentence": "The bridge that the engineer designed opened.",
+      "note": "That refers to the bridge."
+    },
+    {
+      "sentence": "The author whose book won smiled.",
+      "note": "Whose connects the author and the book."
+    },
+    {
+      "sentence": "The library where we met is closed.",
+      "note": "Where refers to the place."
+    },
+    {
+      "sentence": "The film we watched was good.",
+      "note": "An object relative pronoun is omitted in a defining clause."
+    },
+    {
+      "sentence": "The film that won was popular.",
+      "note": "That is the subject of won and remains."
+    },
+    {
+      "sentence": "Ana, who called earlier, is my colleague.",
+      "note": "The clause adds information about an identified person."
+    },
+    {
+      "sentence": "I went out to buy bread.",
+      "note": "The infinitive expresses purpose."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The engineer who she designed it called.",
+      "correct": "The engineer who designed it called.",
+      "reason": "Who already functions as the subject."
+    },
+    {
+      "incorrect": "The book that I bought it is new.",
+      "correct": "The book that I bought is new.",
+      "reason": "That already refers to the object."
+    },
+    {
+      "incorrect": "Ana, that called, is here.",
+      "correct": "Ana, who called, is here.",
+      "reason": "Use who rather than that in this non-defining clause."
+    }
+  ],
+  "summary": [
+    "Match the relative word to the intended person, thing, relationship or place.",
+    "Defining clauses identify; non-defining clauses add extra information and use commas.",
+    "Check whether the relative word is a subject or object before omitting it."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U15-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The engineer ___ designed the bridge called. Choose who or where.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Who refers to the engineer and is the subject of designed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "whose bridge"
+        },
+        {
+          "id": "c",
+          "text": "which bridge"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“where” does not fit here. Who refers to the engineer and is the subject of designed.",
+        "b": "“whose bridge” does not fit here. Who refers to the engineer and is the subject of designed.",
+        "c": "“which bridge” does not fit here. Who refers to the engineer and is the subject of designed.",
+        "d": "“who” fits here. Who refers to the engineer and is the subject of designed."
+      }
+    },
+    {
+      "id": "B1-U15-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The author ___ book won smiled.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the author with the book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“whose” fits here. Whose connects the author with the book.",
+        "b": "“who” does not fit here. Whose connects the author with the book.",
+        "c": "“where” does not fit here. Whose connects the author with the book.",
+        "d": "“which” does not fit here. Whose connects the author with the book."
+      }
+    },
+    {
+      "id": "B1-U15-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The café ___ we met is closed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "which person"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“who” does not fit here. Where refers to the place.",
+        "b": "“whose” does not fit here. Where refers to the place.",
+        "c": "“where” fits here. Where refers to the place.",
+        "d": "“which person” does not fit here. Where refers to the place."
+      }
+    },
+    {
+      "id": "B1-U15-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ana, ___ called earlier, is here. Choose the standard non-defining form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U14"
+      ],
+      "explanation": "Who adds information about Ana.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose car"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“that” does not fit here. Who adds information about Ana.",
+        "b": "“who” fits here. Who adds information about Ana.",
+        "c": "“where” does not fit here. Who adds information about Ana.",
+        "d": "“whose car” does not fit here. Who adds information about Ana."
+      }
+    },
+    {
+      "id": "B1-U15-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which defining clause permits omission of the object relative pronoun?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "That is the object of bought and can be omitted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The person who called smiled."
+        },
+        {
+          "id": "b",
+          "text": "The dog that barked ran."
+        },
+        {
+          "id": "c",
+          "text": "The book that I bought is new."
+        },
+        {
+          "id": "d",
+          "text": "The student who works here left."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The person who called smiled.” does not fit here. That is the object of bought and can be omitted.",
+        "b": "“The dog that barked ran.” does not fit here. That is the object of bought and can be omitted.",
+        "c": "“The book that I bought is new.” fits here. That is the object of bought and can be omitted.",
+        "d": "“The student who works here left.” does not fit here. That is the object of bought and can be omitted."
+      }
+    },
+    {
+      "id": "B1-U15-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The car, ___ I bought yesterday, is blue. Choose the standard non-defining form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U14"
+      ],
+      "explanation": "Which remains in the non-defining clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "no word"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“which” fits here. Which remains in the non-defining clause.",
+        "b": "“that” does not fit here. Which remains in the non-defining clause.",
+        "c": "“no word” does not fit here. Which remains in the non-defining clause.",
+        "d": "“where” does not fit here. Which remains in the non-defining clause."
+      }
+    },
+    {
+      "id": "B1-U15-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I enjoy ___ in the evening. (read)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to reading"
+        },
+        {
+          "id": "b",
+          "text": "reading"
+        },
+        {
+          "id": "c",
+          "text": "read"
+        },
+        {
+          "id": "d",
+          "text": "to read"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“to reading” does not fit here. Enjoy takes an -ing form.",
+        "b": "“reading” fits here. Enjoy takes an -ing form.",
+        "c": "“read” does not fit here. Enjoy takes an -ing form.",
+        "d": "“to read” does not fit here. Enjoy takes an -ing form."
+      }
+    },
+    {
+      "id": "B1-U15-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I went out ___ bread. (buy)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses purpose.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for buy"
+        },
+        {
+          "id": "b",
+          "text": "to buying"
+        },
+        {
+          "id": "c",
+          "text": "buying"
+        },
+        {
+          "id": "d",
+          "text": "to buy"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“for buy” does not fit here. To buy expresses purpose.",
+        "b": "“to buying” does not fit here. To buy expresses purpose.",
+        "c": "“buying” does not fit here. To buy expresses purpose.",
+        "d": "“to buy” fits here. To buy expresses purpose."
+      }
+    },
+    {
+      "id": "B1-U15-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose who or where: The person ___ called left a message.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of called.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U15-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whose: The writer ___ book won smiled.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the writer with the book.",
+      "accepted_answers": [
+        "whose"
+      ]
+    },
+    {
+      "id": "B1-U15-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use where: The café ___ we met is closed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Where refers to the place.",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B1-U15-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose which or that in standard non-defining writing: My car, ___ is old, runs well.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U14"
+      ],
+      "explanation": "Use which in this non-defining clause.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U15-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: I enjoy ___. (swim)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "accepted_answers": [
+        "swimming"
+      ]
+    },
+    {
+      "id": "B1-U15-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive: She decided ___. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U11"
+      ],
+      "explanation": "Decide takes a to-infinitive.",
+      "accepted_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "id": "B1-U15-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a to-infinitive of purpose: I went out ___. (buy bread)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses the purpose.",
+      "accepted_answers": [
+        "to buy bread"
+      ]
+    },
+    {
+      "id": "B1-U15-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose may or must to express an uncertain possibility: She ___ be at home.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U07"
+      ],
+      "explanation": "May expresses possibility.",
+      "accepted_answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "B1-U15-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: who she",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Who already functions as the subject of lives.",
+      "source_sentence": "The woman who she lives here left.",
+      "target_segment": "who she",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "B1-U15-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U14"
+      ],
+      "explanation": "Use which in this non-defining clause.",
+      "source_sentence": "The car, that is old, runs well.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B1-U15-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to swim",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U11"
+      ],
+      "explanation": "Enjoy takes an -ing form.",
+      "source_sentence": "I enjoy to swim.",
+      "target_segment": "to swim",
+      "accepted_answers": [
+        "swimming"
+      ]
+    },
+    {
+      "id": "B1-U15-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: for buy",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U15",
+        "B1-U12"
+      ],
+      "explanation": "Use to plus the base verb for this purpose.",
+      "source_sentence": "She went out for buy bread.",
+      "target_segment": "for buy",
+      "accepted_answers": [
+        "to buy"
+      ]
+    },
+    {
+      "id": "B1-U15-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Who is the subject of called.",
+      "source_sentence": "A person called. The person left a message. Use who.",
+      "keyword": "who",
+      "target_sentence": "The person ___ left a message.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "who called"
+      ]
+    },
+    {
+      "id": "B1-U15-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U15",
+        "B1-U13"
+      ],
+      "explanation": "Whose connects the writer with the book.",
+      "source_sentence": "A writer’s book won. The writer smiled. Use whose.",
+      "keyword": "whose",
+      "target_sentence": "The writer ___ smiled.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "whose book won"
+      ]
+    },
+    {
+      "id": "B1-U15-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U15",
+        "B1-U11"
+      ],
+      "explanation": "Decide takes a to-infinitive.",
+      "source_sentence": "They decided that they would leave.",
+      "keyword": "leave",
+      "target_sentence": "They decided ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to leave"
+      ]
+    },
+    {
+      "id": "B1-U15-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U15",
+        "B1-U12"
+      ],
+      "explanation": "To buy expresses the purpose.",
+      "source_sentence": "She went out because she wanted to buy bread.",
+      "keyword": "buy",
+      "target_sentence": "She went out ___ bread.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to buy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "C1-U18",
+  "level": "C1",
+  "title": "Modal meaning, inference and evidentiality",
+  "order": 18,
+  "prerequisites": [
+    "C1-U17"
+  ],
+  "objectives": [
+    "Distinguish inference, possibility and obligation.",
+    "Form active and passive modal perfect constructions.",
+    "Identify whether a sentence names an information source."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Modal expressions can convey a speaker’s assessment of a situation as well as obligation, permission or ability. “The lights are off; the office must be closed” presents a strong inference from evidence. “Staff must close the office at six” expresses an obligation. The same modal has different meanings because the surrounding situation gives it a different role.",
+        "Evidentiality concerns the basis on which information is presented: direct observation, a report, an inference or another source. English can indicate that basis through phrases such as “according to the report”, “apparently” and “judging by the lights”. A modal may signal the speaker’s assessment without identifying the evidence itself."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use must plus a base verb for a strong present inference: “She must be tired.” Use may, might or could for possibilities: “She might be tired.” In British English, can’t or cannot often expresses a strong negative inference: “He can’t be at home; I just saw him at work.” These are assessments, not guarantees of truth.",
+        "For a possible or inferred past event, use a modal plus have and a past participle: “They may have left” and “They must have left.” “They can’t have left” expresses a strong negative inference. Compare “They had to leave”, which reports a past obligation in its ordinary use rather than an inference about whether leaving occurred."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine that a parcel is missing. “It might have been delivered next door” proposes one possible explanation. If a signed receipt identifies the neighbour, “It must have been delivered next door” expresses a stronger conclusion. In neither case does the modal alone identify the evidence; the receipt or other context does that.",
+        "“Apparently, the train is delayed” can present information as reported or as it appears to the speaker. “According to the station, the train is delayed” identifies a specific source. “I can see the delay on the board” instead reports direct observation of the board. These formulations let the writer distinguish source from degree of confidence."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not equate mustn’t with can’t in every use. “You mustn’t enter” normally states a prohibition; “That can’t be correct” can state a negative inference. “She must have left” is a conclusion about a past event, whereas “She had to leave” describes an obligation. Context can refine these meanings.",
+        "Avoid deriving certainty from grammar alone. A confident inference can be mistaken, and a source can be unreliable. Also distinguish time: “She may be working” concerns a present possibility; “She may have worked” concerns an earlier possible event. Choose the form and identify the evidence when the distinction matters."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The office must be closed; the lights are off.",
+      "note": "Must presents a strong inference from the stated evidence."
+    },
+    {
+      "sentence": "Staff must close the office at six.",
+      "note": "Must expresses an obligation in this rule."
+    },
+    {
+      "sentence": "She might be tired after the journey.",
+      "note": "Might presents a possibility."
+    },
+    {
+      "sentence": "He can’t be at home; I just saw him at work.",
+      "note": "Can’t expresses a strong negative inference."
+    },
+    {
+      "sentence": "The parcel may have been delivered next door.",
+      "note": "May have been delivered presents a possible past event."
+    },
+    {
+      "sentence": "She had to leave before noon.",
+      "note": "Had to expresses a past obligation in this context."
+    },
+    {
+      "sentence": "According to the station, the train is delayed.",
+      "note": "The source of the information is identified."
+    },
+    {
+      "sentence": "Apparently, the meeting has moved.",
+      "note": "Apparently presents information as reported or as it appears."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She may has left already.",
+      "correct": "She may have left already.",
+      "reason": "May takes the base form have."
+    },
+    {
+      "incorrect": "The parcel must have deliver yesterday.",
+      "correct": "The parcel must have been delivered yesterday.",
+      "reason": "The passive modal perfect uses have been plus a past participle."
+    },
+    {
+      "incorrect": "He can’t be at home; I just see him at work.",
+      "correct": "He can’t be at home; I just saw him at work.",
+      "reason": "Saw is the past form used for the completed observation."
+    }
+  ],
+  "summary": [
+    "Modal meaning depends on context: inference and obligation are distinct.",
+    "Modal perfect forms can assess earlier events.",
+    "Identify the source of evidence separately from the strength of an inference."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U18-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The lights are off. Choose a strong inference about the office now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Must be closed expresses a strong present inference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The office must close at six as a rule."
+        },
+        {
+          "id": "b",
+          "text": "The office must be closed."
+        },
+        {
+          "id": "c",
+          "text": "The office might have closed tomorrow."
+        },
+        {
+          "id": "d",
+          "text": "The office has must closed."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The office must close at six as a rule.” does not fit here. Must be closed expresses a strong present inference.",
+        "b": "“The office must be closed.” fits here. Must be closed expresses a strong present inference.",
+        "c": "“The office might have closed tomorrow.” does not fit here. Must be closed expresses a strong present inference.",
+        "d": "“The office has must closed.” does not fit here. Must be closed expresses a strong present inference."
+      }
+    },
+    {
+      "id": "C1-U18-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence states an obligation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Must wear expresses a rule for staff.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She might be tired."
+        },
+        {
+          "id": "b",
+          "text": "He can’t be at home."
+        },
+        {
+          "id": "c",
+          "text": "The parcel may have arrived."
+        },
+        {
+          "id": "d",
+          "text": "Staff must wear badges."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She might be tired.” does not fit here. Must wear expresses a rule for staff.",
+        "b": "“He can’t be at home.” does not fit here. Must wear expresses a rule for staff.",
+        "c": "“The parcel may have arrived.” does not fit here. Must wear expresses a rule for staff.",
+        "d": "“Staff must wear badges.” fits here. Must wear expresses a rule for staff."
+      }
+    },
+    {
+      "id": "C1-U18-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a possible past delivery to a neighbour.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "May have been delivered is a passive modal perfect.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It may have been delivered next door."
+        },
+        {
+          "id": "b",
+          "text": "It may has been delivered next door."
+        },
+        {
+          "id": "c",
+          "text": "It may have deliver next door."
+        },
+        {
+          "id": "d",
+          "text": "It may to have been delivering next door."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It may have been delivered next door.” fits here. May have been delivered is a passive modal perfect.",
+        "b": "“It may has been delivered next door.” does not fit here. May have been delivered is a passive modal perfect.",
+        "c": "“It may have deliver next door.” does not fit here. May have been delivered is a passive modal perfect.",
+        "d": "“It may to have been delivering next door.” does not fit here. May have been delivered is a passive modal perfect."
+      }
+    },
+    {
+      "id": "C1-U18-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence identifies a source?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "According to the station names the source.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The train might be delayed."
+        },
+        {
+          "id": "b",
+          "text": "The train must be delayed."
+        },
+        {
+          "id": "c",
+          "text": "According to the station, the train is delayed."
+        },
+        {
+          "id": "d",
+          "text": "Apparently, the train is delayed."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The train might be delayed.” does not fit here. According to the station names the source.",
+        "b": "“The train must be delayed.” does not fit here. According to the station names the source.",
+        "c": "“According to the station, the train is delayed.” fits here. According to the station names the source.",
+        "d": "“Apparently, the train is delayed.” does not fit here. According to the station names the source."
+      }
+    },
+    {
+      "id": "C1-U18-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a strong negative inference about the past.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Can’t have left expresses a strong negative inference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They mustn’t to have left."
+        },
+        {
+          "id": "b",
+          "text": "They can’t has left."
+        },
+        {
+          "id": "c",
+          "text": "They can’t have leave."
+        },
+        {
+          "id": "d",
+          "text": "They can’t have left."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They mustn’t to have left.” does not fit here. Can’t have left expresses a strong negative inference.",
+        "b": "“They can’t has left.” does not fit here. Can’t have left expresses a strong negative inference.",
+        "c": "“They can’t have leave.” does not fit here. Can’t have left expresses a strong negative inference.",
+        "d": "“They can’t have left.” fits here. Can’t have left expresses a strong negative inference."
+      }
+    },
+    {
+      "id": "C1-U18-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence ordinarily expresses a past obligation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Had to leave reports an obligation in the past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She must be tired."
+        },
+        {
+          "id": "b",
+          "text": "She may have left."
+        },
+        {
+          "id": "c",
+          "text": "She had to leave before noon."
+        },
+        {
+          "id": "d",
+          "text": "She can’t be at home."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She must be tired.” does not fit here. Had to leave reports an obligation in the past.",
+        "b": "“She may have left.” does not fit here. Had to leave reports an obligation in the past.",
+        "c": "“She had to leave before noon.” fits here. Had to leave reports an obligation in the past.",
+        "d": "“She can’t be at home.” does not fit here. Had to leave reports an obligation in the past."
+      }
+    },
+    {
+      "id": "C1-U18-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does an inference with must establish on its own?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Must can express a strong conclusion without guaranteeing its truth.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The speaker presents a strong conclusion."
+        },
+        {
+          "id": "b",
+          "text": "The conclusion is guaranteed true."
+        },
+        {
+          "id": "c",
+          "text": "The speaker witnessed the event."
+        },
+        {
+          "id": "d",
+          "text": "The information source is named."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The speaker presents a strong conclusion.” fits here. Must can express a strong conclusion without guaranteeing its truth.",
+        "b": "“The conclusion is guaranteed true.” does not fit here. Must can express a strong conclusion without guaranteeing its truth.",
+        "c": "“The speaker witnessed the event.” does not fit here. Must can express a strong conclusion without guaranteeing its truth.",
+        "d": "“The information source is named.” does not fit here. Must can express a strong conclusion without guaranteeing its truth."
+      }
+    },
+    {
+      "id": "C1-U18-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the present possibility.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "May be working describes a possible ongoing present activity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She may have work yesterday."
+        },
+        {
+          "id": "b",
+          "text": "She may be working."
+        },
+        {
+          "id": "c",
+          "text": "She might has worked."
+        },
+        {
+          "id": "d",
+          "text": "She may worked yesterday."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She may have work yesterday.” does not fit here. May be working describes a possible ongoing present activity.",
+        "b": "“She may be working.” fits here. May be working describes a possible ongoing present activity.",
+        "c": "“She might has worked.” does not fit here. May be working describes a possible ongoing present activity.",
+        "d": "“She may worked yesterday.” does not fit here. May be working describes a possible ongoing present activity."
+      }
+    },
+    {
+      "id": "C1-U18-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The lights are off; the office ___ be closed. Use must.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Must presents a strong inference.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "C1-U18-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Perhaps they left earlier. They ___ have left earlier. Use might.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Might have left presents a possible past event.",
+      "accepted_answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "C1-U18-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The parcel may have ___ delivered next door.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "The passive modal perfect uses have been plus a participle.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "C1-U18-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The parcel may have been ___ next door. (deliver)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Delivered is the past participle in the passive.",
+      "accepted_answers": [
+        "delivered"
+      ]
+    },
+    {
+      "id": "C1-U18-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He can’t ___ at home; I just saw him at work.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Can’t takes the base form be.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "C1-U18-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The staff had ___ leave before noon.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Had to expresses past obligation.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "C1-U18-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ to the station, the train is delayed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "According to identifies the information source.",
+      "accepted_answers": [
+        "According"
+      ]
+    },
+    {
+      "id": "C1-U18-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The lights are off; they must have ___. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Have is followed by the past participle left.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "C1-U18-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "May takes the base form have.",
+      "source_sentence": "They may has left already.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U18-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: deliver",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "The passive uses a past participle after been.",
+      "source_sentence": "The parcel might have been deliver next door.",
+      "target_segment": "deliver",
+      "accepted_answers": [
+        "delivered"
+      ]
+    },
+    {
+      "id": "C1-U18-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: had leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Had to plus the base verb expresses past obligation.",
+      "source_sentence": "She had leave before noon.",
+      "target_segment": "had leave",
+      "accepted_answers": [
+        "had to leave"
+      ]
+    },
+    {
+      "id": "C1-U18-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: According",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "According to introduces a named source.",
+      "source_sentence": "According the station, the train is delayed.",
+      "target_segment": "According",
+      "accepted_answers": [
+        "According to"
+      ]
+    },
+    {
+      "id": "C1-U18-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Might have left presents a possible earlier event.",
+      "source_sentence": "Perhaps they left earlier. Use might.",
+      "keyword": "might",
+      "target_sentence": "They ___ earlier.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "might have left"
+      ]
+    },
+    {
+      "id": "C1-U18-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "May have been delivered expresses a possible past passive event.",
+      "source_sentence": "Perhaps someone delivered the parcel next door. Use a passive modal perfect.",
+      "keyword": "may",
+      "target_sentence": "The parcel ___ next door.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "may have been delivered"
+      ]
+    },
+    {
+      "id": "C1-U18-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "According to the station identifies the source.",
+      "source_sentence": "The station says the train is delayed. Begin with according to.",
+      "keyword": "station",
+      "target_sentence": "___, the train is delayed.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "According to the station"
+      ]
+    },
+    {
+      "id": "C1-U18-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U18"
+      ],
+      "explanation": "Had to leave expresses the past obligation.",
+      "source_sentence": "A rule required her to leave before noon. Use had to.",
+      "keyword": "had",
+      "target_sentence": "She ___ before noon.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had to leave"
+      ]
+    }
+  ]
+}

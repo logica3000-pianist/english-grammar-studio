@@ -1,0 +1,642 @@
+{
+  "id": "C1-U14",
+  "level": "C1",
+  "title": "Articles in institutional and abstract contexts",
+  "order": 14,
+  "prerequisites": [
+    "C1-U13"
+  ],
+  "objectives": [
+    "Distinguish general abstract reference from specific reference.",
+    "Interpret common British institutional expressions in context.",
+    "Choose a determiner for a countable instance."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Articles help readers understand how a noun is being presented: as an identifiable instance, as one example among others, or as a general concept. Abstract nouns such as education, knowledge and experience can appear without an article when they refer broadly to an activity or quality: “Education can change lives.” A specific instance or part may instead take a determiner: “The education she received was excellent.”",
+        "Some institutions also occur without an article in particular expressions. In British English, “She is in hospital” normally presents her as a patient. “She is at the hospital” identifies a particular place and does not itself specify her role; she could be visiting, working or receiving treatment. Context matters more than a simple building-versus-activity rule."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use the when the relevant noun phrase is identifiable in context: “The information in this report is incomplete.” Here the following phrase identifies which information is meant. Use no article in a broad generalisation with an uncountable abstract noun: “Information travels quickly.” Both examples use information as an uncountable noun; their reference differs.",
+        "A singular countable noun normally requires a determiner. Compare “Experience helps” with “It was an unusual experience.” The first describes experience as accumulated knowledge; the second counts a particular event. A or an introduces one instance, with the choice based on the following sound: “an important discovery” but “a useful discovery”."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In British usage, “He goes to school” can describe a child attending school as a pupil, whereas “He went to the school to collect a form” identifies a particular location and states a different purpose. An adult teacher can also be at school in appropriate contexts, so the institutional expression does not encode one universal role in every sentence.",
+        "“She studied law” names a field of study in general. “The law on data protection changed” refers to a particular body of rules. “A law was passed” counts one piece of legislation. These choices reflect the meaning and reference of law, not just the word itself."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add the to every abstract noun, but do not remove it automatically either. “The research described in the article” identifies specific research; “research takes time” makes a general statement. An article can be appropriate when a modifier identifies a specific instance, although a modifier alone does not always require the.",
+        "Institutional patterns vary with dialect and expression. American English commonly uses “in the hospital” where British English often uses “in hospital” for a patient. Both are acceptable varieties; the intended meaning and local usage should guide the choice. Do not assume that every institution works like hospital or school."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Education can change lives.",
+      "note": "No article marks a general uncountable reference."
+    },
+    {
+      "sentence": "The education she received was excellent.",
+      "note": "The phrase identifies a particular education."
+    },
+    {
+      "sentence": "She is in hospital after an operation.",
+      "note": "In British English, in hospital normally presents her as a patient."
+    },
+    {
+      "sentence": "He went to the hospital to visit his aunt.",
+      "note": "The identifies a particular place; visiting specifies his purpose."
+    },
+    {
+      "sentence": "The child goes to school.",
+      "note": "Go to school commonly refers to attendance as a pupil."
+    },
+    {
+      "sentence": "He went to the school to collect a form.",
+      "note": "The school identifies a particular location."
+    },
+    {
+      "sentence": "Experience helps in this job.",
+      "note": "Experience refers generally to accumulated knowledge."
+    },
+    {
+      "sentence": "It was an unusual experience.",
+      "note": "An introduces one countable event."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She gave me an useful idea.",
+      "correct": "She gave me a useful idea.",
+      "reason": "Useful begins with a consonant sound, so use a."
+    },
+    {
+      "incorrect": "It was unusual experience.",
+      "correct": "It was an unusual experience.",
+      "reason": "A singular countable noun needs a determiner; unusual begins with a vowel sound."
+    },
+    {
+      "incorrect": "The information in these files are incomplete.",
+      "correct": "The information in these files is incomplete.",
+      "reason": "Uncountable information takes singular agreement."
+    }
+  ],
+  "summary": [
+    "Article choice depends on meaning and reference, not only on the noun.",
+    "Some institutional expressions have established uses that vary across dialects.",
+    "A singular countable noun normally needs a determiner."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U14-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the general statement about education.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Education without an article expresses a general abstract idea.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The education she received was excellent."
+        },
+        {
+          "id": "b",
+          "text": "Education can change lives."
+        },
+        {
+          "id": "c",
+          "text": "An education was on the desk."
+        },
+        {
+          "id": "d",
+          "text": "Educations can to change lives."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The education she received was excellent.” does not fit here. Education without an article expresses a general abstract idea.",
+        "b": "“Education can change lives.” fits here. Education without an article expresses a general abstract idea.",
+        "c": "“An education was on the desk.” does not fit here. Education without an article expresses a general abstract idea.",
+        "d": "“Educations can to change lives.” does not fit here. Education without an article expresses a general abstract idea."
+      }
+    },
+    {
+      "id": "C1-U14-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the specific reference identified by the following clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "The identifies the education specified by the relative clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Education can change lives."
+        },
+        {
+          "id": "b",
+          "text": "An education is a place."
+        },
+        {
+          "id": "c",
+          "text": "Educations she received was excellent."
+        },
+        {
+          "id": "d",
+          "text": "The education she received was excellent."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Education can change lives.” does not fit here. The identifies the education specified by the relative clause.",
+        "b": "“An education is a place.” does not fit here. The identifies the education specified by the relative clause.",
+        "c": "“Educations she received was excellent.” does not fit here. The identifies the education specified by the relative clause.",
+        "d": "“The education she received was excellent.” fits here. The identifies the education specified by the relative clause."
+      }
+    },
+    {
+      "id": "C1-U14-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In British English, which sentence normally presents Mina as a patient?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "In hospital commonly presents the person as a patient in British English.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mina is in hospital after an operation."
+        },
+        {
+          "id": "b",
+          "text": "Mina is at the hospital to visit her aunt."
+        },
+        {
+          "id": "c",
+          "text": "Mina works outside the hospital."
+        },
+        {
+          "id": "d",
+          "text": "Mina walked past the hospital."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Mina is in hospital after an operation.” fits here. In hospital commonly presents the person as a patient in British English.",
+        "b": "“Mina is at the hospital to visit her aunt.” does not fit here. In hospital commonly presents the person as a patient in British English.",
+        "c": "“Mina works outside the hospital.” does not fit here. In hospital commonly presents the person as a patient in British English.",
+        "d": "“Mina walked past the hospital.” does not fit here. In hospital commonly presents the person as a patient in British English."
+      }
+    },
+    {
+      "id": "C1-U14-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase describes one countable event?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "An introduces one countable experience.",
+      "options": [
+        {
+          "id": "a",
+          "text": "useful experience in general"
+        },
+        {
+          "id": "b",
+          "text": "experience in general"
+        },
+        {
+          "id": "c",
+          "text": "an unusual experience"
+        },
+        {
+          "id": "d",
+          "text": "experience helps"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“useful experience in general” does not fit here. An introduces one countable experience.",
+        "b": "“experience in general” does not fit here. An introduces one countable experience.",
+        "c": "“an unusual experience” fits here. An introduces one countable experience.",
+        "d": "“experience helps” does not fit here. An introduces one countable experience."
+      }
+    },
+    {
+      "id": "C1-U14-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the article before useful: It was ___ useful suggestion.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Useful begins with a consonant sound, so a is appropriate.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "the an"
+        },
+        {
+          "id": "c",
+          "text": "some an"
+        },
+        {
+          "id": "d",
+          "text": "a"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“an” does not fit here. Useful begins with a consonant sound, so a is appropriate.",
+        "b": "“the an” does not fit here. Useful begins with a consonant sound, so a is appropriate.",
+        "c": "“some an” does not fit here. Useful begins with a consonant sound, so a is appropriate.",
+        "d": "“a” fits here. Useful begins with a consonant sound, so a is appropriate."
+      }
+    },
+    {
+      "id": "C1-U14-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the general reference to research.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Research without an article expresses the activity generally.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The research in this article is flawed."
+        },
+        {
+          "id": "b",
+          "text": "A researches is expensive."
+        },
+        {
+          "id": "c",
+          "text": "Research takes time."
+        },
+        {
+          "id": "d",
+          "text": "The research described above have stopped."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The research in this article is flawed.” does not fit here. Research without an article expresses the activity generally.",
+        "b": "“A researches is expensive.” does not fit here. Research without an article expresses the activity generally.",
+        "c": "“Research takes time.” fits here. Research without an article expresses the activity generally.",
+        "d": "“The research described above have stopped.” does not fit here. Research without an article expresses the activity generally."
+      }
+    },
+    {
+      "id": "C1-U14-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence identifies a visit to a particular school building?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "The school identifies a particular location and the purpose is specified.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He went to the school to collect a form."
+        },
+        {
+          "id": "b",
+          "text": "He goes to school as a pupil."
+        },
+        {
+          "id": "c",
+          "text": "Education matters."
+        },
+        {
+          "id": "d",
+          "text": "He studies at school."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“He went to the school to collect a form.” fits here. The school identifies a particular location and the purpose is specified.",
+        "b": "“He goes to school as a pupil.” does not fit here. The school identifies a particular location and the purpose is specified.",
+        "c": "“Education matters.” does not fit here. The school identifies a particular location and the purpose is specified.",
+        "d": "“He studies at school.” does not fit here. The school identifies a particular location and the purpose is specified."
+      }
+    },
+    {
+      "id": "C1-U14-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about dialect is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "British and American institutional usage can differ without either variety being inherently wrong.",
+      "options": [
+        {
+          "id": "a",
+          "text": "All English varieties require in hospital."
+        },
+        {
+          "id": "b",
+          "text": "In hospital and in the hospital can differ by variety and context."
+        },
+        {
+          "id": "c",
+          "text": "American usage never uses articles."
+        },
+        {
+          "id": "d",
+          "text": "The hospital always means a patient."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“All English varieties require in hospital.” does not fit here. British and American institutional usage can differ without either variety being inherently wrong.",
+        "b": "“In hospital and in the hospital can differ by variety and context.” fits here. British and American institutional usage can differ without either variety being inherently wrong.",
+        "c": "“American usage never uses articles.” does not fit here. British and American institutional usage can differ without either variety being inherently wrong.",
+        "d": "“The hospital always means a patient.” does not fit here. British and American institutional usage can differ without either variety being inherently wrong."
+      }
+    },
+    {
+      "id": "C1-U14-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Make a general statement: ___ can change lives. Use education without an article.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Education can refer generally to the activity.",
+      "accepted_answers": [
+        "Education"
+      ]
+    },
+    {
+      "id": "C1-U14-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Refer to specific information: ___ information in this report is incomplete.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "The phrase identifies particular information.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "C1-U14-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Introduce one unusual event: It was ___ unusual experience.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Unusual begins with a vowel sound and experience is singular countable.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "C1-U14-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Introduce one useful idea: It was ___ useful idea.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Useful begins with a consonant sound.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "C1-U14-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the usual British patient expression: She is in ___ after an operation.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "In hospital commonly presents the person as a patient.",
+      "accepted_answers": [
+        "hospital"
+      ]
+    },
+    {
+      "id": "C1-U14-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Name a field of study generally: She studied ___. (law)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Law can name the subject studied without an article.",
+      "accepted_answers": [
+        "law"
+      ]
+    },
+    {
+      "id": "C1-U14-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Identify a specific body of rules: ___ law on data protection changed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "The identifies the specified law.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "C1-U14-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use singular agreement: The information in this report ___ incomplete.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Information is uncountable and takes singular agreement.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U14-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: an",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Useful begins with a consonant sound.",
+      "source_sentence": "She proposed an useful edit.",
+      "target_segment": "an",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "C1-U14-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: unusual experience",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "One singular countable experience needs a determiner.",
+      "source_sentence": "It was unusual experience.",
+      "target_segment": "unusual experience",
+      "accepted_answers": [
+        "an unusual experience"
+      ]
+    },
+    {
+      "id": "C1-U14-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "Uncountable information takes singular agreement.",
+      "source_sentence": "The information in these files are incomplete.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U14-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "A law is a singular countable subject.",
+      "source_sentence": "A law were passed yesterday.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U14-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "An introduces the singular countable event.",
+      "source_sentence": "Her experience was unusual. Express one event.",
+      "keyword": "unusual",
+      "target_sentence": "It was ___ experience.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "an unusual"
+      ]
+    },
+    {
+      "id": "C1-U14-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "The education identifies the specific education described.",
+      "source_sentence": "She received a particular education. It was excellent.",
+      "keyword": "education",
+      "target_sentence": "___ she received was excellent.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "The education"
+      ]
+    },
+    {
+      "id": "C1-U14-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "A law introduces one countable piece of legislation.",
+      "source_sentence": "Someone passed one law yesterday.",
+      "keyword": "law",
+      "target_sentence": "___ was passed yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "A law"
+      ]
+    },
+    {
+      "id": "C1-U14-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U14"
+      ],
+      "explanation": "A is used before the consonant sound at the start of useful.",
+      "source_sentence": "They gave us one useful suggestion.",
+      "keyword": "useful",
+      "target_sentence": "They gave us ___ suggestion.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a useful"
+      ]
+    }
+  ]
+}

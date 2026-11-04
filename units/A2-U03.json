@@ -1,0 +1,647 @@
+{
+  "id": "A2-U03",
+  "level": "A2",
+  "title": "Present simple: negatives and questions",
+  "order": 3,
+  "prerequisites": [
+    "A2-U02"
+  ],
+  "objectives": [
+    "Make present simple negatives with do not and does not.",
+    "Ask yes/no and information questions with do or does.",
+    "Give short answers with do and does."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use present simple negatives to say that a habit, routine or general fact is not true. ‘I don’t work on Sundays’ means that working on Sundays is not my usual routine. It does not tell us about one particular Sunday. We use present simple questions to ask about habits and facts: ‘Do you work on Sundays?’",
+        "In this unit we use ordinary main verbs such as live, like and work. These verbs need a helper verb called an auxiliary in present simple negatives and most questions. The auxiliary is do or does. The choice depends on the subject, the person or thing the sentence is about."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a negative, use subject + do not or does not + the base form of the main verb. Use do not with I, you, we and they. Use does not with he, she, it and a singular name or noun: ‘My brother does not drive.’ In everyday English, don’t and doesn’t are common short forms. Both the full and short forms are correct.",
+        "For a yes/no question, put do or does before the subject, followed by the base verb: ‘Do they live here?’ and ‘Does Mei live here?’ To ask for more information, put a question word first: ‘Where does Mei live?’ The verb after does is live, not lives. The -s is already part of does."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. In ‘Does the café open at eight?’, the café is one thing, so use does. In ‘Do the shops open at eight?’, shops is plural, so use do. The answer can be short: ‘Yes, it does’ or ‘No, they don’t’. Use do or does in the short answer, not the main verb.",
+        "A negative short answer can use a contraction, as in ‘No, she doesn’t’. A positive short answer uses the full form: ‘Yes, she does.’ In a longer answer you can add a sentence: ‘No, she doesn’t. She works at home.’"
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "In a positive statement, a singular subject normally takes an -s form: ‘He plays.’ In a negative or question with does, use the base form: ‘He doesn’t play’ and ‘Does he play?’ Do not add -s to play after does.",
+        "The verb be has a different pattern: ‘Is she tired?’, not ‘Does she be tired?’ Remember that you can mean one person or more than one person, but it always takes do. Some questions have a question word as their subject, such as ‘Who lives here?’ Those questions have a different pattern and are not the focus of this unit."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I don’t drink coffee in the evening.",
+      "note": "Use don’t with I and the base form drink."
+    },
+    {
+      "sentence": "Omar doesn’t drive to work.",
+      "note": "A singular name takes doesn’t; drive stays in its base form."
+    },
+    {
+      "sentence": "Do your parents live nearby?",
+      "note": "The plural subject your parents takes do."
+    },
+    {
+      "sentence": "Does Ana play the piano?",
+      "note": "Does comes before a singular subject in a yes/no question."
+    },
+    {
+      "sentence": "Where do you study?",
+      "note": "A question word comes before do and the subject."
+    },
+    {
+      "sentence": "What time does the shop close?",
+      "note": "The main verb stays in the base form after does."
+    },
+    {
+      "sentence": "Do you work on Saturdays? Yes, I do.",
+      "note": "Use do in the positive short answer."
+    },
+    {
+      "sentence": "Does it rain much here? No, it doesn’t.",
+      "note": "Use doesn’t in this negative short answer."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She doesn’t likes tea.",
+      "correct": "She doesn’t like tea.",
+      "reason": "Use the base form like after doesn’t."
+    },
+    {
+      "incorrect": "Do your brother work here?",
+      "correct": "Does your brother work here?",
+      "reason": "The singular subject your brother takes does."
+    },
+    {
+      "incorrect": "Where she works?",
+      "correct": "Where does she work?",
+      "reason": "Use does before the subject and the base form after it."
+    }
+  ],
+  "summary": [
+    "Use do not or don’t with I, you, we and they; use does not or doesn’t with he, she and it.",
+    "Put do or does before the subject in most present simple questions.",
+    "Use the base form after do or does."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U03-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ meat.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "She takes doesn’t and the base form eat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don’t eat"
+        },
+        {
+          "id": "b",
+          "text": "doesn’t eat"
+        },
+        {
+          "id": "c",
+          "text": "doesn’t eats"
+        },
+        {
+          "id": "d",
+          "text": "not eats"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Don’t does not agree with she.",
+        "b": "Doesn’t eat is the correct form.",
+        "c": "The main verb must be eat after doesn’t.",
+        "d": "Use doesn’t before the base verb."
+      }
+    },
+    {
+      "id": "A2-U03-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ your cousins live in Bristol?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "The plural subject your cousins takes do.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does"
+        },
+        {
+          "id": "b",
+          "text": "Is"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Does is for a singular subject here.",
+        "b": "Is does not form this question with live.",
+        "c": "Do agrees with the plural subject.",
+        "d": "Are does not form this question with live."
+      }
+    },
+    {
+      "id": "A2-U03-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Where ___ your father work?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Your father is singular, so use does before it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does he"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Does is correct with a singular subject.",
+        "b": "Do does not agree with your father.",
+        "c": "Is does not form this question with work.",
+        "d": "He would repeat the subject your father."
+      }
+    },
+    {
+      "id": "A2-U03-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Does Liam play tennis? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use he does in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "he is"
+        },
+        {
+          "id": "b",
+          "text": "he plays"
+        },
+        {
+          "id": "c",
+          "text": "he do"
+        },
+        {
+          "id": "d",
+          "text": "he does"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Is is not the auxiliary in the question.",
+        "b": "A short answer uses the auxiliary does.",
+        "c": "He takes does, not do.",
+        "d": "He does is the correct short answer."
+      }
+    },
+    {
+      "id": "A2-U03-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ on Saturdays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "We takes don’t and the base form work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "not works"
+        },
+        {
+          "id": "b",
+          "text": "don’t work"
+        },
+        {
+          "id": "c",
+          "text": "doesn’t work"
+        },
+        {
+          "id": "d",
+          "text": "don’t works"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Use don’t before the base verb.",
+        "b": "Don’t work agrees with we.",
+        "c": "Doesn’t does not agree with we.",
+        "d": "The verb must be work after don’t."
+      }
+    },
+    {
+      "id": "A2-U03-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What time ___ the museum open?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "The singular subject museum takes does.",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Do does not agree with the singular subject.",
+        "b": "Is does not form this question with open.",
+        "c": "Does agrees with the museum.",
+        "d": "Are does not form this question with open."
+      }
+    },
+    {
+      "id": "A2-U03-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Do you and Maya study here? No, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use we don’t to answer a question with do about you and another person.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we don’t"
+        },
+        {
+          "id": "b",
+          "text": "we doesn’t"
+        },
+        {
+          "id": "c",
+          "text": "we aren’t"
+        },
+        {
+          "id": "d",
+          "text": "we not"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "We don’t is the correct short answer.",
+        "b": "We takes don’t, not doesn’t.",
+        "c": "The question uses do, so answer with don’t.",
+        "d": "We not needs an auxiliary."
+      }
+    },
+    {
+      "id": "A2-U03-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "After doesn’t, use the base form walk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does he walks home?"
+        },
+        {
+          "id": "b",
+          "text": "He don’t walk home."
+        },
+        {
+          "id": "c",
+          "text": "Does he walking home?"
+        },
+        {
+          "id": "d",
+          "text": "He doesn’t walk home."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Use walk after does.",
+        "b": "He takes doesn’t.",
+        "c": "Use the base form walk after does.",
+        "d": "The auxiliary and verb forms are correct."
+      }
+    },
+    {
+      "id": "A2-U03-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ not speak Italian.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "I takes do in the negative.",
+      "accepted_answers": [
+        "do"
+      ]
+    },
+    {
+      "id": "A2-U03-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "My sister ___ not like milk.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "A singular subject takes does in the negative.",
+      "accepted_answers": [
+        "does"
+      ]
+    },
+    {
+      "id": "A2-U03-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ they walk to school?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use do with they in a question.",
+      "accepted_answers": [
+        "Do"
+      ]
+    },
+    {
+      "id": "A2-U03-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ Amir play chess?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use does with a singular name.",
+      "accepted_answers": [
+        "Does"
+      ]
+    },
+    {
+      "id": "A2-U03-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Where do your friends ___? (live)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use the base form live after do.",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "A2-U03-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What does your mother ___? (teach)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use the base form teach after does.",
+      "accepted_answers": [
+        "teach"
+      ]
+    },
+    {
+      "id": "A2-U03-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Do you have a car? Yes, I ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "The positive short answer uses do.",
+      "accepted_answers": [
+        "do"
+      ]
+    },
+    {
+      "id": "A2-U03-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Does it snow here? No, it ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "The negative short answer uses doesn’t or does not.",
+      "accepted_answers": [
+        "doesn’t",
+        "doesn't",
+        "does not"
+      ]
+    },
+    {
+      "id": "A2-U03-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: works",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use work after doesn’t.",
+      "source_sentence": "She doesn’t works on Fridays.",
+      "target_segment": "works",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "A2-U03-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Do",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use does with the singular subject your sister.",
+      "source_sentence": "Do your sister live here?",
+      "target_segment": "Do",
+      "accepted_answers": [
+        "Does"
+      ]
+    },
+    {
+      "id": "A2-U03-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: doesn’t",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "They takes don’t or do not.",
+      "source_sentence": "They doesn’t eat fish.",
+      "target_segment": "doesn’t",
+      "accepted_answers": [
+        "don’t",
+        "do not"
+      ]
+    },
+    {
+      "id": "A2-U03-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: likes",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use the base form like after does.",
+      "source_sentence": "Does he likes football?",
+      "target_segment": "likes",
+      "accepted_answers": [
+        "like"
+      ]
+    },
+    {
+      "id": "A2-U03-E21",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Use does before a singular name in a yes/no question.",
+      "source_sentence": "Maya works at home. Ask a yes/no question about her routine.",
+      "keyword": "Does",
+      "target_sentence": "___ Maya work at home?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Does"
+      ]
+    },
+    {
+      "id": "A2-U03-E22",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "The negative uses don’t or do not plus travel.",
+      "source_sentence": "They do not travel by bus.",
+      "keyword": "travel",
+      "target_sentence": "They ___ by bus.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "don’t travel",
+        "do not travel"
+      ]
+    },
+    {
+      "id": "A2-U03-E23",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "Put do before you in an information question.",
+      "source_sentence": "Where is your place of work?",
+      "keyword": "you",
+      "target_sentence": "Where ___ work?",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "do you"
+      ]
+    },
+    {
+      "id": "A2-U03-E24",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U03"
+      ],
+      "explanation": "A negative short answer uses he doesn’t or he does not.",
+      "source_sentence": "Does Ben live in York? Give a negative short answer.",
+      "keyword": "he",
+      "target_sentence": "No, ___.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "he doesn’t",
+        "he does not"
+      ]
+    }
+  ]
+}

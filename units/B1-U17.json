@@ -1,0 +1,642 @@
+{
+  "id": "B1-U17",
+  "level": "B1",
+  "title": "Reported statements and tense shifts",
+  "order": 17,
+  "prerequisites": [
+    "B1-U16"
+  ],
+  "objectives": [
+    "Report statements with appropriate pronouns.",
+    "Apply common backshifts in a specified context.",
+    "Distinguish say from tell in basic reporting patterns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Reported speech describes what someone said without necessarily repeating their exact words. In direct speech, we might write: Maya said, ‘I am tired.’ In reported speech, a person could later say: ‘Maya said that she was tired.’ The pronoun changes because the reporter is talking about Maya rather than speaking as Maya.",
+        "When the reporting verb is in the past, a tense in the original statement often shifts back: am can become was, have finished can become had finished, and will can become would. This is called backshift. It is a common pattern, not a mechanical rule that applies in every situation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use say without a direct object when you name only the reported message: ‘Maya said that she was tired’. Use tell with a person as its object: ‘Maya told me that she was tired’. That is often optional after said or told: ‘She said she was tired’ is also possible.",
+        "Common backshifts include present simple to past simple, present continuous to past continuous, present perfect to past perfect, and will to would: ‘I work’ can become ‘she worked’; ‘I am working’ can become ‘she was working’; ‘I have finished’ can become ‘she had finished’; and ‘I will call’ can become ‘she would call’. Pronouns and possessive words change according to who is speaking and being reported."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Time and place expressions sometimes change because the reporter's viewpoint is different. If a statement was made on Monday about Tuesday, a report written after Tuesday may use ‘the next day’ rather than ‘tomorrow’. Likewise, here may become there when the reporter is in another place. These changes depend on the actual situation, not just on the words in the original sentence.",
+        "Read the examples below. If Ana said ‘I am busy’ and you report her words later, ‘Ana said she was busy’ is a common backshift. If she is still busy and the fact remains relevant, ‘Ana said she is busy’ can also be possible. The choice affects how directly the report connects the statement to the present."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not automatically backshift a fact merely because the reporting verb is past. A reporter can keep a present form when the fact is still true or presented as generally true: ‘The teacher said that water boils at 100°C at standard pressure’. A backshifted report may also be possible in many contexts. Choose a form that matches the intended viewpoint.",
+        "Do not write ‘She told that she was tired’ without an object in this pattern. Say ‘She told me that she was tired’ or ‘She said that she was tired’. A report represents what was said; it does not necessarily mean the reporter knows the statement is true. In controlled transformations, follow any specified viewpoint and backshift instruction."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya said that she was tired.",
+      "note": "She refers to Maya; was is a common backshift from am."
+    },
+    {
+      "sentence": "Maya told me that she was tired.",
+      "note": "Told has the object me."
+    },
+    {
+      "sentence": "He said he worked from home.",
+      "note": "Worked can report a present simple statement with backshift."
+    },
+    {
+      "sentence": "She said she was working.",
+      "note": "Was working can report am working with backshift."
+    },
+    {
+      "sentence": "They said they had finished.",
+      "note": "Had finished can report have finished with backshift."
+    },
+    {
+      "sentence": "Ben said he would call.",
+      "note": "Would can report will with backshift."
+    },
+    {
+      "sentence": "The teacher said water boils at 100°C at standard pressure.",
+      "note": "The present form can remain for a generally true fact."
+    },
+    {
+      "sentence": "On Monday she said she would leave the next day.",
+      "note": "The next day identifies Tuesday from the Monday viewpoint."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She told that she was tired.",
+      "correct": "She told me that she was tired.",
+      "reason": "Tell needs a person as its object in this pattern."
+    },
+    {
+      "incorrect": "Maya said that she were tired.",
+      "correct": "Maya said that she was tired.",
+      "reason": "She takes was in the requested backshifted report."
+    },
+    {
+      "incorrect": "She said me that she was busy.",
+      "correct": "She told me that she was busy.",
+      "reason": "Use told with the person me in this pattern."
+    }
+  ],
+  "summary": [
+    "Reported speech presents a statement from the reporter’s viewpoint.",
+    "Past reporting verbs often allow backshift, but it is not always required.",
+    "Use say without a direct person object and tell with a person object in these patterns."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U17-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya said: “I am tired.” Report her statement with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "She refers to Maya and was is the requested backshift.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maya said I am tired."
+        },
+        {
+          "id": "b",
+          "text": "Maya told she is tired."
+        },
+        {
+          "id": "c",
+          "text": "Maya said she was tired."
+        },
+        {
+          "id": "d",
+          "text": "Maya said she will tired."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Maya said I am tired.” does not fit here. She refers to Maya and was is the requested backshift.",
+        "b": "“Maya told she is tired.” does not fit here. She refers to Maya and was is the requested backshift.",
+        "c": "“Maya said she was tired.” fits here. She refers to Maya and was is the requested backshift.",
+        "d": "“Maya said she will tired.” does not fit here. She refers to Maya and was is the requested backshift."
+      }
+    },
+    {
+      "id": "B1-U17-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ben said: “I will call.” Report his statement with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Would call is the requested backshift of will call.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ben said he would call."
+        },
+        {
+          "id": "b",
+          "text": "Ben said he will to call."
+        },
+        {
+          "id": "c",
+          "text": "Ben said he calls yesterday."
+        },
+        {
+          "id": "d",
+          "text": "Ben told that he called."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Ben said he would call.” fits here. Would call is the requested backshift of will call.",
+        "b": "“Ben said he will to call.” does not fit here. Would call is the requested backshift of will call.",
+        "c": "“Ben said he calls yesterday.” does not fit here. Would call is the requested backshift of will call.",
+        "d": "“Ben told that he called.” does not fit here. Would call is the requested backshift of will call."
+      }
+    },
+    {
+      "id": "B1-U17-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct reporting pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Tell takes a person object here: told me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She told that she was busy."
+        },
+        {
+          "id": "b",
+          "text": "She said me that she was busy."
+        },
+        {
+          "id": "c",
+          "text": "She told to me that she was busy."
+        },
+        {
+          "id": "d",
+          "text": "She told me that she was busy."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She told that she was busy.” does not fit here. Tell takes a person object here: told me.",
+        "b": "“She said me that she was busy.” does not fit here. Tell takes a person object here: told me.",
+        "c": "“She told to me that she was busy.” does not fit here. Tell takes a person object here: told me.",
+        "d": "“She told me that she was busy.” fits here. Tell takes a person object here: told me."
+      }
+    },
+    {
+      "id": "B1-U17-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ana said: “I have finished.” Report her statement with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Had finished is the requested backshift of have finished.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ana said she has finish."
+        },
+        {
+          "id": "b",
+          "text": "Ana said she had finished."
+        },
+        {
+          "id": "c",
+          "text": "Ana said she finishing."
+        },
+        {
+          "id": "d",
+          "text": "Ana said she have finished."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Ana said she has finish.” does not fit here. Had finished is the requested backshift of have finished.",
+        "b": "“Ana said she had finished.” fits here. Had finished is the requested backshift of have finished.",
+        "c": "“Ana said she finishing.” does not fit here. Had finished is the requested backshift of have finished.",
+        "d": "“Ana said she have finished.” does not fit here. Had finished is the requested backshift of have finished."
+      }
+    },
+    {
+      "id": "B1-U17-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She said: “I am working.” Report her statement with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Was working is the requested backshift of am working.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She said she working."
+        },
+        {
+          "id": "b",
+          "text": "She said she was working."
+        },
+        {
+          "id": "c",
+          "text": "She told that she was working."
+        },
+        {
+          "id": "d",
+          "text": "She said she work."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She said she working.” does not fit here. Was working is the requested backshift of am working.",
+        "b": "“She said she was working.” fits here. Was working is the requested backshift of am working.",
+        "c": "“She told that she was working.” does not fit here. Was working is the requested backshift of am working.",
+        "d": "“She said she work.” does not fit here. Was working is the requested backshift of am working."
+      }
+    },
+    {
+      "id": "B1-U17-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct reporting pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Said can introduce that without a person object.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He said that he was ready."
+        },
+        {
+          "id": "b",
+          "text": "He said me that he was ready."
+        },
+        {
+          "id": "c",
+          "text": "He told that he was ready."
+        },
+        {
+          "id": "d",
+          "text": "He told to me that he was ready."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“He said that he was ready.” fits here. Said can introduce that without a person object.",
+        "b": "“He said me that he was ready.” does not fit here. Said can introduce that without a person object.",
+        "c": "“He told that he was ready.” does not fit here. Said can introduce that without a person object.",
+        "d": "“He told to me that he was ready.” does not fit here. Said can introduce that without a person object."
+      }
+    },
+    {
+      "id": "B1-U17-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya said: “I work from home.” Report with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Worked is the requested backshift and she refers to Maya.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maya said I works from home."
+        },
+        {
+          "id": "b",
+          "text": "Maya told that she work from home."
+        },
+        {
+          "id": "c",
+          "text": "Maya said she working from home."
+        },
+        {
+          "id": "d",
+          "text": "Maya said she worked from home."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Maya said I works from home.” does not fit here. Worked is the requested backshift and she refers to Maya.",
+        "b": "“Maya told that she work from home.” does not fit here. Worked is the requested backshift and she refers to Maya.",
+        "c": "“Maya said she working from home.” does not fit here. Worked is the requested backshift and she refers to Maya.",
+        "d": "“Maya said she worked from home.” fits here. Worked is the requested backshift and she refers to Maya."
+      }
+    },
+    {
+      "id": "B1-U17-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence can report a generally true fact without backshift?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "A present form can remain for a generally true fact.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The teacher said water to boil at 100°C."
+        },
+        {
+          "id": "b",
+          "text": "The teacher told that water boiling."
+        },
+        {
+          "id": "c",
+          "text": "The teacher said water boils at 100°C at standard pressure."
+        },
+        {
+          "id": "d",
+          "text": "The teacher said water boils yesterday always."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The teacher said water to boil at 100°C.” does not fit here. A present form can remain for a generally true fact.",
+        "b": "“The teacher told that water boiling.” does not fit here. A present form can remain for a generally true fact.",
+        "c": "“The teacher said water boils at 100°C at standard pressure.” fits here. A present form can remain for a generally true fact.",
+        "d": "“The teacher said water boils yesterday always.” does not fit here. A present form can remain for a generally true fact."
+      }
+    },
+    {
+      "id": "B1-U17-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Maya said: “I am tired.” Use backshift: Maya said she ___ tired.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Was is the requested backshift.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U17-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Ben said: “I will call.” Use backshift: Ben said he ___ call.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Would is the requested backshift of will.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U17-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Ana said: “I have finished.” Use backshift: Ana said she ___ finished.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Had finished is the requested backshift.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U17-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She said: “I am working.” Use backshift: She said she ___ working.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Was working is the requested backshift.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U17-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose said or told: She ___ me that she was busy.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Told takes the person object me.",
+      "accepted_answers": [
+        "told"
+      ]
+    },
+    {
+      "id": "B1-U17-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose said or told: She ___ that she was busy.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Said can introduce the clause without a person object.",
+      "accepted_answers": [
+        "said"
+      ]
+    },
+    {
+      "id": "B1-U17-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Maya said: “I work here.” Report her statement with backshift and a changed place: Maya said she ___ there.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Worked is the requested backshift.",
+      "accepted_answers": [
+        "worked"
+      ]
+    },
+    {
+      "id": "B1-U17-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Ben said: “I will come.” Report with backshift: Ben said he ___ come.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Would is the requested backshift.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U17-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: told",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Said can introduce the statement without a person object.",
+      "source_sentence": "She told that she was busy.",
+      "target_segment": "told",
+      "accepted_answers": [
+        "said"
+      ]
+    },
+    {
+      "id": "B1-U17-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: said",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Told takes the person object me.",
+      "source_sentence": "He said me that he was ready.",
+      "target_segment": "said",
+      "accepted_answers": [
+        "told"
+      ]
+    },
+    {
+      "id": "B1-U17-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "She takes was.",
+      "source_sentence": "Maya said: “I am tired.” With backshift, Maya said she were tired.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U17-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: calls",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Use the base verb after would.",
+      "source_sentence": "Ben said: “I will call.” With backshift, Ben said he would calls.",
+      "target_segment": "calls",
+      "accepted_answers": [
+        "call"
+      ]
+    },
+    {
+      "id": "B1-U17-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "She refers to Maya and was is the requested backshift.",
+      "source_sentence": "Maya said: “I am tired.” Report with backshift.",
+      "keyword": "she",
+      "target_sentence": "Maya said that ___ tired.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "she was"
+      ]
+    },
+    {
+      "id": "B1-U17-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "He refers to Ben and would is the requested backshift.",
+      "source_sentence": "Ben said: “I will call.” Report with backshift.",
+      "keyword": "he",
+      "target_sentence": "Ben said that ___ call.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he would"
+      ]
+    },
+    {
+      "id": "B1-U17-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Had finished is the requested backshift.",
+      "source_sentence": "Ana said: “I have finished.” Report with backshift.",
+      "keyword": "she",
+      "target_sentence": "Ana said that ___ finished.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "she had"
+      ]
+    },
+    {
+      "id": "B1-U17-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U17"
+      ],
+      "explanation": "Told takes the person object me.",
+      "source_sentence": "Maya said to me: “I am busy.” Use told and backshift.",
+      "keyword": "told",
+      "target_sentence": "Maya ___ that she was busy.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "told me"
+      ]
+    }
+  ]
+}

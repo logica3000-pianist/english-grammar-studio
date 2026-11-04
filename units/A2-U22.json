@@ -1,0 +1,643 @@
+{
+  "id": "A2-U22",
+  "level": "A2",
+  "title": "Will for predictions and decisions",
+  "order": 22,
+  "prerequisites": [
+    "A2-U21"
+  ],
+  "objectives": [
+    "Make future predictions with will.",
+    "Express an immediate decision using will.",
+    "Form will questions, negatives and short answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use will to make a prediction about the future, especially when we express an opinion or expectation: ‘I think the team will win’. The prediction is not a promise that the result will happen. Words such as I think, probably and perhaps can show that it is an opinion, but will can also appear without them.",
+        "We can also use will for a decision made at the moment of speaking. If the phone rings and you decide to answer, you can say ‘I’ll answer it’. You did not necessarily make this decision earlier. Will has other uses, including offers and promises; here we focus on predictions and immediate decisions."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use will followed by the base form of the main verb: I will go, she will go and they will go. Will has the same form with every subject. In informal English, a short form is common: I’ll, you’ll, he’ll, she’ll, it’ll, we’ll and they’ll. For example, ‘I’ll help’ means ‘I will help’.",
+        "For a negative, use will not or the common short form won’t: ‘It won’t rain’. For a yes/no question, put will before the subject: ‘Will they come?’ A positive short answer uses will: ‘Yes, they will’. A negative short answer uses won’t or will not: ‘No, they won’t’. With a question word, say ‘Where will you stay?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine you are talking about a football match. You can say ‘I think our team will win’. You are expressing an expectation. In a café, you may decide what to order at that moment: ‘I’ll have the soup, please’. Both sentences refer to the future, but the situations are different.",
+        "Read the examples below. Notice that the main verb stays in the base form after will and won’t: ‘She will travel’ and ‘She won’t travel’. In the question ‘Will she travel?’, the subject comes between will and the base verb. A short answer uses the modal will rather than repeating travel."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add -s to will after he, she or it: say ‘She will come’, not ‘She wills come’. Do not put to before the main verb: say ‘They will arrive’, not ‘They will to arrive’. The negative contraction is won’t, not ‘willn’t’.",
+        "Compare ‘I’ll call him now’ when you decide at that moment with ‘I’m going to call him tonight’ when you already have an intention. These are useful starting contrasts, not rules that cover every future situation. Both will and going to can express predictions; context and the speaker’s choice affect the meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I think the weather will improve tomorrow.",
+      "note": "Will expresses an expectation."
+    },
+    {
+      "sentence": "Perhaps our team will win.",
+      "note": "Perhaps shows uncertainty about the prediction."
+    },
+    {
+      "sentence": "The phone is ringing. I’ll answer it.",
+      "note": "The speaker decides at that moment."
+    },
+    {
+      "sentence": "We’ll have the soup, please.",
+      "note": "We’ll means we will in this decision."
+    },
+    {
+      "sentence": "I don’t think it will snow today.",
+      "note": "Will introduces a prediction in the clause after think."
+    },
+    {
+      "sentence": "The shop won’t open tomorrow.",
+      "note": "Won’t means will not."
+    },
+    {
+      "sentence": "Will Maya come? Yes, she will.",
+      "note": "Will comes before the subject in the question."
+    },
+    {
+      "sentence": "Where will you stay?",
+      "note": "The question word comes before will and the subject."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She wills help.",
+      "correct": "She will help.",
+      "reason": "Will has no -s ending."
+    },
+    {
+      "incorrect": "They will to travel.",
+      "correct": "They will travel.",
+      "reason": "Use the base verb without to after will."
+    },
+    {
+      "incorrect": "I willn’t forget.",
+      "correct": "I won’t forget.",
+      "reason": "Won’t is the standard negative contraction of will not."
+    }
+  ],
+  "summary": [
+    "Use will plus the base verb for predictions and decisions made while speaking.",
+    "Use won’t or will not for negatives.",
+    "Put will before the subject in questions and use will in short answers."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U22-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I think our team ___ tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use will plus the base verb win for the prediction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wins now"
+        },
+        {
+          "id": "b",
+          "text": "will wins"
+        },
+        {
+          "id": "c",
+          "text": "will win"
+        },
+        {
+          "id": "d",
+          "text": "will to win"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“wins now” does not fit here. Use will plus the base verb win for the prediction.",
+        "b": "“will wins” does not fit here. Use will plus the base verb win for the prediction.",
+        "c": "“will win” fits here. Use will plus the base verb win for the prediction.",
+        "d": "“will to win” does not fit here. Use will plus the base verb win for the prediction."
+      }
+    },
+    {
+      "id": "A2-U22-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The phone is ringing. I ___ it. I decide now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will answer expresses the decision made now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will answer"
+        },
+        {
+          "id": "b",
+          "text": "answering"
+        },
+        {
+          "id": "c",
+          "text": "will to answer"
+        },
+        {
+          "id": "d",
+          "text": "will answers"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“will answer” fits here. Will answer expresses the decision made now.",
+        "b": "“answering” does not fit here. Will answer expresses the decision made now.",
+        "c": "“will to answer” does not fit here. Will answer expresses the decision made now.",
+        "d": "“will answers” does not fit here. Will answer expresses the decision made now."
+      }
+    },
+    {
+      "id": "A2-U22-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you help me with this box?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will comes before the subject in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Will"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Does” does not fit here. Will comes before the subject in the question.",
+        "b": "“Are” does not fit here. Will comes before the subject in the question.",
+        "c": "“Do” does not fit here. Will comes before the subject in the question.",
+        "d": "“Will” fits here. Will comes before the subject in the question."
+      }
+    },
+    {
+      "id": "A2-U22-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ arrive late; she told us she will be early.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Won’t is the negative form before the base verb arrive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "willn’t"
+        },
+        {
+          "id": "b",
+          "text": "won’t"
+        },
+        {
+          "id": "c",
+          "text": "won’t to"
+        },
+        {
+          "id": "d",
+          "text": "will nots"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“willn’t” does not fit here. Won’t is the negative form before the base verb arrive.",
+        "b": "“won’t” fits here. Won’t is the negative form before the base verb arrive.",
+        "c": "“won’t to” does not fit here. Won’t is the negative form before the base verb arrive.",
+        "d": "“will nots” does not fit here. Won’t is the negative form before the base verb arrive."
+      }
+    },
+    {
+      "id": "A2-U22-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Will they come? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use the full form they will in a positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they do"
+        },
+        {
+          "id": "b",
+          "text": "they are"
+        },
+        {
+          "id": "c",
+          "text": "they’ll"
+        },
+        {
+          "id": "d",
+          "text": "they will"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“they do” does not fit here. Use the full form they will in a positive short answer.",
+        "b": "“they are” does not fit here. Use the full form they will in a positive short answer.",
+        "c": "“they’ll” does not fit here. Use the full form they will in a positive short answer.",
+        "d": "“they will” fits here. Use the full form they will in a positive short answer."
+      }
+    },
+    {
+      "id": "A2-U22-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Where ___ stay tomorrow?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Put will before you in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will you"
+        },
+        {
+          "id": "b",
+          "text": "you will"
+        },
+        {
+          "id": "c",
+          "text": "do you will"
+        },
+        {
+          "id": "d",
+          "text": "will to you"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“will you” fits here. Put will before you in the question.",
+        "b": "“you will” does not fit here. Put will before you in the question.",
+        "c": "“do you will” does not fit here. Put will before you in the question.",
+        "d": "“will to you” does not fit here. Put will before you in the question."
+      }
+    },
+    {
+      "id": "A2-U22-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Perhaps it ___ tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use will plus the base form rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will rains"
+        },
+        {
+          "id": "b",
+          "text": "wills rain"
+        },
+        {
+          "id": "c",
+          "text": "will rain"
+        },
+        {
+          "id": "d",
+          "text": "will to rain"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will rains” does not fit here. Use will plus the base form rain.",
+        "b": "“wills rain” does not fit here. Use will plus the base form rain.",
+        "c": "“will rain” fits here. Use will plus the base form rain.",
+        "d": "“will to rain” does not fit here. Use will plus the base form rain."
+      }
+    },
+    {
+      "id": "A2-U22-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will has no -s and is followed by the base verb go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He will goes."
+        },
+        {
+          "id": "b",
+          "text": "He will go."
+        },
+        {
+          "id": "c",
+          "text": "He wills go."
+        },
+        {
+          "id": "d",
+          "text": "He will to go."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“He will goes.” does not fit here. Will has no -s and is followed by the base verb go.",
+        "b": "“He will go.” fits here. Will has no -s and is followed by the base verb go.",
+        "c": "“He wills go.” does not fit here. Will has no -s and is followed by the base verb go.",
+        "d": "“He will to go.” does not fit here. Will has no -s and is followed by the base verb go."
+      }
+    },
+    {
+      "id": "A2-U22-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with will: I ___ call her now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will precedes the base verb call.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "A2-U22-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with will: She ___ probably win.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will has the same form after she.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "A2-U22-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the negative contraction of will: They ___ be late.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Won’t means will not.",
+      "accepted_answers": [
+        "won’t"
+      ]
+    },
+    {
+      "id": "A2-U22-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you come tomorrow? Use will.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Put will before the subject.",
+      "accepted_answers": [
+        "Will"
+      ]
+    },
+    {
+      "id": "A2-U22-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He will ___ tomorrow. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use the base verb after will.",
+      "accepted_answers": [
+        "travel"
+      ]
+    },
+    {
+      "id": "A2-U22-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We won’t ___ the bus. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use the base verb after won’t.",
+      "accepted_answers": [
+        "take"
+      ]
+    },
+    {
+      "id": "A2-U22-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Will it rain? Yes, it ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use will in the positive short answer.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "A2-U22-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Will she be late? No, she ___ not.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use will not in the negative short answer.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "A2-U22-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wills",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will has no -s ending.",
+      "source_sentence": "He wills come.",
+      "target_segment": "wills",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "A2-U22-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to call",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use the base verb without to after will.",
+      "source_sentence": "I will to call you.",
+      "target_segment": "to call",
+      "accepted_answers": [
+        "call"
+      ]
+    },
+    {
+      "id": "A2-U22-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: willn’t",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "The standard contraction of will not is won’t.",
+      "source_sentence": "They willn’t go.",
+      "target_segment": "willn’t",
+      "accepted_answers": [
+        "won’t"
+      ]
+    },
+    {
+      "id": "A2-U22-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: arrives",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use the base verb after will.",
+      "source_sentence": "Will she arrives today?",
+      "target_segment": "arrives",
+      "accepted_answers": [
+        "arrive"
+      ]
+    },
+    {
+      "id": "A2-U22-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Will help expresses a decision made now.",
+      "source_sentence": "I have just decided to help you.",
+      "keyword": "help",
+      "target_sentence": "I ___ you.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "will help"
+      ]
+    },
+    {
+      "id": "A2-U22-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Won’t and will not make the future statement negative.",
+      "source_sentence": "They will not travel tomorrow.",
+      "keyword": "travel",
+      "target_sentence": "They ___ tomorrow.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "won’t travel",
+        "will not travel"
+      ]
+    },
+    {
+      "id": "A2-U22-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Put will before the subject.",
+      "source_sentence": "She will come tomorrow. Ask a yes/no question.",
+      "keyword": "Will",
+      "target_sentence": "___ she come tomorrow?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Will"
+      ]
+    },
+    {
+      "id": "A2-U22-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U22"
+      ],
+      "explanation": "Use he will in the positive short answer.",
+      "source_sentence": "Will Ben call? Give a positive short answer.",
+      "keyword": "he",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he will"
+      ]
+    }
+  ]
+}

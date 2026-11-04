@@ -1,0 +1,642 @@
+{
+  "id": "B2-U08",
+  "level": "B2",
+  "title": "Third and mixed conditionals",
+  "order": 8,
+  "prerequisites": [
+    "B2-U07"
+  ],
+  "objectives": [
+    "Form third and mixed conditionals.",
+    "Distinguish the time of a condition from the time of its result.",
+    "Use modal alternatives for hypothetical past results."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The third conditional imagines a different past and a different past result. ‘If we had left earlier, we would have caught the train’ presents leaving earlier and catching the train as hypothetical. The usual implication is that we did not leave earlier and did not catch it, although real conversations can be more complex.",
+        "Mixed conditionals connect a hypothetical condition at one time with a result at another. ‘If I had taken that job, I would live in Berlin now’ imagines a past decision with a present result. ‘If I were more organised, I would have finished yesterday’ imagines a different present characteristic with a past result."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A common third conditional uses if plus past perfect, then would have plus a past participle: ‘If she had called, I would have answered’. The clauses can be reversed: ‘I would have answered if she had called’. Use a comma after an opening if clause; a comma is not normally needed when the result clause comes first.",
+        "For a past condition with a present result, use past perfect in the if clause and would plus a base verb in the result: ‘If she had taken the course, she would know more now’. For a present condition with a past result, use a past form for the hypothetical condition and would have plus a participle for the result: ‘If he were more careful, he would have noticed the error yesterday’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Could have and might have can replace would have in a hypothetical past result, but the meaning changes. ‘If we had left earlier, we could have caught the train’ expresses possible ability or opportunity, while ‘we might have caught it’ expresses a less certain possibility. Would have presents the hypothetical result more directly.",
+        "In ‘If I had studied medicine, I would be a doctor now’, the if clause refers to an imagined past decision and the result refers to the present. In ‘If I were a doctor, I would have recognised the condition yesterday’, the imagined present state has a past consequence. Time words such as now and yesterday help make the intended relationship clear."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not normally use would have in the if clause of the basic third or mixed patterns: say ‘If I had known, I would have called’. Would can occur in some conditional clauses with other meanings, such as willingness, but that is outside the basic patterns here.",
+        "Do not confuse ‘If I had left, I would have arrived’ with a factual report that I left. The sentence imagines a different past. A mixed conditional is appropriate only when the condition and result genuinely concern different times; adding now or yesterday to a sentence without checking the meaning can create an illogical sequence."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If we had left earlier, we would have caught the train.",
+      "note": "A hypothetical past condition has a hypothetical past result."
+    },
+    {
+      "sentence": "If she had called, I would have answered.",
+      "note": "Had called precedes the hypothetical result."
+    },
+    {
+      "sentence": "I would have answered if she had called.",
+      "note": "The result clause can come first."
+    },
+    {
+      "sentence": "If I had taken the job, I would live in Berlin now.",
+      "note": "A past condition has an imagined present result."
+    },
+    {
+      "sentence": "If I were more organised, I would have finished yesterday.",
+      "note": "An imagined present characteristic has a past result."
+    },
+    {
+      "sentence": "If we had left earlier, we could have caught the train.",
+      "note": "Could have expresses an imagined opportunity."
+    },
+    {
+      "sentence": "If we had left earlier, we might have caught it.",
+      "note": "Might have expresses a less certain hypothetical result."
+    },
+    {
+      "sentence": "If I had studied medicine, I would be a doctor now.",
+      "note": "The past condition is linked to an imagined present state."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "If I would have known, I would have called.",
+      "correct": "If I had known, I would have called.",
+      "reason": "Use past perfect in this basic hypothetical if clause."
+    },
+    {
+      "incorrect": "If she had called, I would have answer.",
+      "correct": "If she had called, I would have answered.",
+      "reason": "Use the participle after would have."
+    },
+    {
+      "incorrect": "If I had taken the job, I would have live there now.",
+      "correct": "If I had taken the job, I would live there now.",
+      "reason": "Use would plus a base verb for the intended present result."
+    }
+  ],
+  "summary": [
+    "Use if plus past perfect and would have plus a participle for a hypothetical past condition and result.",
+    "A mixed conditional can link a past condition to a present result or a present condition to a past result.",
+    "Could have and might have alter the meaning of a hypothetical result."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U08-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Hypothetical past condition and result: If we ___ earlier, we would have caught the train.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Had left forms the past hypothetical condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had left"
+        },
+        {
+          "id": "b",
+          "text": "would leave"
+        },
+        {
+          "id": "c",
+          "text": "have leave"
+        },
+        {
+          "id": "d",
+          "text": "leave"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had left” fits here. Had left forms the past hypothetical condition.",
+        "b": "“would leave” does not fit here. Had left forms the past hypothetical condition.",
+        "c": "“have leave” does not fit here. Had left forms the past hypothetical condition.",
+        "d": "“leave” does not fit here. Had left forms the past hypothetical condition."
+      }
+    },
+    {
+      "id": "B2-U08-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Past condition, present result: If I had taken the job, I ___ in Berlin now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would live expresses the imagined present result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would have living"
+        },
+        {
+          "id": "b",
+          "text": "would live"
+        },
+        {
+          "id": "c",
+          "text": "will live"
+        },
+        {
+          "id": "d",
+          "text": "had live"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“would have living” does not fit here. Would live expresses the imagined present result.",
+        "b": "“would live” fits here. Would live expresses the imagined present result.",
+        "c": "“will live” does not fit here. Would live expresses the imagined present result.",
+        "d": "“had live” does not fit here. Would live expresses the imagined present result."
+      }
+    },
+    {
+      "id": "B2-U08-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Present condition, past result: If he were more careful, he ___ the error yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would have noticed expresses the hypothetical past result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will notice"
+        },
+        {
+          "id": "b",
+          "text": "would notice now"
+        },
+        {
+          "id": "c",
+          "text": "would have noticed"
+        },
+        {
+          "id": "d",
+          "text": "had notice"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will notice” does not fit here. Would have noticed expresses the hypothetical past result.",
+        "b": "“would notice now” does not fit here. Would have noticed expresses the hypothetical past result.",
+        "c": "“would have noticed” fits here. Would have noticed expresses the hypothetical past result.",
+        "d": "“had notice” does not fit here. Would have noticed expresses the hypothetical past result."
+      }
+    },
+    {
+      "id": "B2-U08-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If she had called, I would have ___. (answer)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Answered is the participle after would have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "answer"
+        },
+        {
+          "id": "b",
+          "text": "answering"
+        },
+        {
+          "id": "c",
+          "text": "answers"
+        },
+        {
+          "id": "d",
+          "text": "answered"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“answer” does not fit here. Answered is the participle after would have.",
+        "b": "“answering” does not fit here. Answered is the participle after would have.",
+        "c": "“answers” does not fit here. Answered is the participle after would have.",
+        "d": "“answered” fits here. Answered is the participle after would have."
+      }
+    },
+    {
+      "id": "B2-U08-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses a possible hypothetical past result?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Might have caught expresses a less certain hypothetical result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If we had left, we will catch it."
+        },
+        {
+          "id": "b",
+          "text": "If we would have left, we caught it."
+        },
+        {
+          "id": "c",
+          "text": "If we leave, we had catch it."
+        },
+        {
+          "id": "d",
+          "text": "If we had left, we might have caught it."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“If we had left, we will catch it.” does not fit here. Might have caught expresses a less certain hypothetical result.",
+        "b": "“If we would have left, we caught it.” does not fit here. Might have caught expresses a less certain hypothetical result.",
+        "c": "“If we leave, we had catch it.” does not fit here. Might have caught expresses a less certain hypothetical result.",
+        "d": "“If we had left, we might have caught it.” fits here. Might have caught expresses a less certain hypothetical result."
+      }
+    },
+    {
+      "id": "B2-U08-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If I ___ medicine, I would be a doctor now. Use the past perfect.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Had studied expresses the hypothetical past condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would study"
+        },
+        {
+          "id": "b",
+          "text": "had study"
+        },
+        {
+          "id": "c",
+          "text": "had studied"
+        },
+        {
+          "id": "d",
+          "text": "will study"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“would study” does not fit here. Had studied expresses the hypothetical past condition.",
+        "b": "“had study” does not fit here. Had studied expresses the hypothetical past condition.",
+        "c": "“had studied” fits here. Had studied expresses the hypothetical past condition.",
+        "d": "“will study” does not fit here. Had studied expresses the hypothetical past condition."
+      }
+    },
+    {
+      "id": "B2-U08-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which clause has the imagined present condition? “If I were more organised, I would have finished yesterday.”",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Were more organised describes the imagined present characteristic.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I were more organised."
+        },
+        {
+          "id": "b",
+          "text": "I would have finished yesterday."
+        },
+        {
+          "id": "c",
+          "text": "Yesterday."
+        },
+        {
+          "id": "d",
+          "text": "Finished."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“If I were more organised.” fits here. Were more organised describes the imagined present characteristic.",
+        "b": "“I would have finished yesterday.” does not fit here. Were more organised describes the imagined present characteristic.",
+        "c": "“Yesterday.” does not fit here. Were more organised describes the imagined present characteristic.",
+        "d": "“Finished.” does not fit here. Were more organised describes the imagined present characteristic."
+      }
+    },
+    {
+      "id": "B2-U08-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence follows the basic third conditional pattern?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Use past perfect after if and would have plus a participle in the result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "If she would have called, I answer."
+        },
+        {
+          "id": "b",
+          "text": "If she had called, I would have answered."
+        },
+        {
+          "id": "c",
+          "text": "If she calls, I had answered."
+        },
+        {
+          "id": "d",
+          "text": "If she had call, I would answer."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“If she would have called, I answer.” does not fit here. Use past perfect after if and would have plus a participle in the result.",
+        "b": "“If she had called, I would have answered.” fits here. Use past perfect after if and would have plus a participle in the result.",
+        "c": "“If she calls, I had answered.” does not fit here. Use past perfect after if and would have plus a participle in the result.",
+        "d": "“If she had call, I would answer.” does not fit here. Use past perfect after if and would have plus a participle in the result."
+      }
+    },
+    {
+      "id": "B2-U08-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: If he ___ left earlier, he would have caught the bus.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Had left forms the hypothetical past condition.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U08-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use would: If she had called, I ___ have answered.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would have introduces the hypothetical past result.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B2-U08-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: If we had left earlier, we would have ___ the train. (catch)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Caught is the participle of catch.",
+      "accepted_answers": [
+        "caught"
+      ]
+    },
+    {
+      "id": "B2-U08-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: If I had taken the job, I would ___ there now. (live)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would plus the base form expresses the imagined present result.",
+      "accepted_answers": [
+        "live"
+      ]
+    },
+    {
+      "id": "B2-U08-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: If he were more careful, he would have ___ the error yesterday. (notice)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Noticed is the participle after would have.",
+      "accepted_answers": [
+        "noticed"
+      ]
+    },
+    {
+      "id": "B2-U08-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use might: If they had left earlier, they ___ have caught the bus; the result is uncertain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Might have expresses a less certain hypothetical result.",
+      "accepted_answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "B2-U08-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use had: If I ___ known, I would have called.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Had known forms the hypothetical past condition.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U08-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: If she had called, I would have ___. (answer)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Answered is the participle after would have.",
+      "accepted_answers": [
+        "answered"
+      ]
+    },
+    {
+      "id": "B2-U08-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: would have known",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Use past perfect in this basic hypothetical if clause.",
+      "source_sentence": "If I would have known, I would have called.",
+      "target_segment": "would have known",
+      "accepted_answers": [
+        "had known"
+      ]
+    },
+    {
+      "id": "B2-U08-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: answer",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Use the participle after would have.",
+      "source_sentence": "If she had called, I would have answer.",
+      "target_segment": "answer",
+      "accepted_answers": [
+        "answered"
+      ]
+    },
+    {
+      "id": "B2-U08-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: would have live",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Use would plus the base verb for the intended present result.",
+      "source_sentence": "If I had taken the job, I would have live there now.",
+      "target_segment": "would have live",
+      "accepted_answers": [
+        "would live"
+      ]
+    },
+    {
+      "id": "B2-U08-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: notice",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Use the participle after would have.",
+      "source_sentence": "If he were more careful, he would have notice the error yesterday.",
+      "target_segment": "notice",
+      "accepted_answers": [
+        "noticed"
+      ]
+    },
+    {
+      "id": "B2-U08-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would have caught expresses the hypothetical past result.",
+      "source_sentence": "We did not leave early and did not catch the train. Imagine a different past.",
+      "keyword": "caught",
+      "target_sentence": "If we had left early, we ___ the train.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "would have caught"
+      ]
+    },
+    {
+      "id": "B2-U08-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would live expresses the imagined present result.",
+      "source_sentence": "I did not take the job; imagine that I did and live in Berlin now.",
+      "keyword": "live",
+      "target_sentence": "If I had taken the job, I ___ in Berlin now.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would live"
+      ]
+    },
+    {
+      "id": "B2-U08-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Would have noticed expresses the hypothetical past result.",
+      "source_sentence": "He is not careful and missed the error yesterday. Imagine he were careful.",
+      "keyword": "noticed",
+      "target_sentence": "If he were more careful, he ___ the error yesterday.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "would have noticed"
+      ]
+    },
+    {
+      "id": "B2-U08-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U08"
+      ],
+      "explanation": "Could have caught expresses the hypothetical opportunity.",
+      "source_sentence": "It was possible for us to catch the train if we had left earlier. Use could.",
+      "keyword": "could",
+      "target_sentence": "If we had left earlier, we ___ the train.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "could have caught"
+      ]
+    }
+  ]
+}

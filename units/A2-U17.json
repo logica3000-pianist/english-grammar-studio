@@ -1,0 +1,645 @@
+{
+  "id": "A2-U17",
+  "level": "A2",
+  "title": "Past simple: irregular verbs and questions",
+  "order": 17,
+  "prerequisites": [
+    "A2-U16"
+  ],
+  "objectives": [
+    "Use common irregular past forms in positive statements.",
+    "Form questions and negatives with did and a base verb.",
+    "Ask for information about finished past events."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Many common verbs have an irregular past form. This means the past form does not follow the usual regular -ed spelling pattern. For example, go becomes went, see becomes saw and have becomes had. ‘We went to the park yesterday’ describes a finished action. The form went is the same with I, she, we and they.",
+        "Irregular verbs are common in everyday conversation. It is useful to learn each base verb and its past form together: go–went, see–saw, have–had, eat–ate, buy–bought, make–made, take–took and come–came. Some verbs have the same written form in the present and past, such as put–put. Context tells us the time."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In a positive statement, use the past form after the subject: ‘She bought a coat’ or ‘They ate lunch’. Do not add -ed to an irregular form: buy becomes bought, not buyed. Some past forms look similar to the base verb and others look very different. A dictionary or a reliable verb list can help with unfamiliar forms.",
+        "For a negative, use did not or didn’t plus the base verb: ‘She didn’t buy a coat’. For a yes/no question, use did + subject + base verb: ‘Did she buy a coat?’ The past meaning is already carried by did. Use the same pattern with all subjects. In short answers, use did or didn’t: ‘Yes, she did’ or ‘No, she didn’t’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "For more information, put a question word before did: ‘Where did you go?’ and ‘What did they eat?’ A question word can ask about a place, thing, time or person. In this pattern, the subject comes after did and before the main verb. A short answer gives the information: ‘We went to the beach’ or ‘They ate pasta’.",
+        "Look at the examples below. Compare ‘He saw the film’ with ‘Did he see the film?’ Saw appears in the positive statement; see follows did in the question. The same change happens in negatives: ‘He didn’t see the film’. The earlier unit explains that be has its own past question pattern: ‘Was he there?’"
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use the past form after did in these questions and negatives: say ‘Did you go?’, not ‘Did you went?’ Do not use do or does to ask about a completed past event in this pattern. Use did for every subject, including he and she.",
+        "Some questions ask who performed the action: ‘Who saw the film?’ Here who is the subject, and the pattern is different from ‘Who did you see?’ This unit practises questions with an expressed subject after did. The verb read is written the same in present and past, but its pronunciation changes; listen for the difference in context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I went to the market yesterday.",
+      "note": "Went is the past form of go."
+    },
+    {
+      "sentence": "She saw a film last night.",
+      "note": "Saw is the past form of see."
+    },
+    {
+      "sentence": "We had breakfast at eight.",
+      "note": "Had is the past form of have."
+    },
+    {
+      "sentence": "They bought a new table last week.",
+      "note": "Bought is the past form of buy."
+    },
+    {
+      "sentence": "He didn’t eat lunch at home.",
+      "note": "Use the base form eat after didn’t."
+    },
+    {
+      "sentence": "Did you take the bus? Yes, I did.",
+      "note": "Did introduces the question and the short answer."
+    },
+    {
+      "sentence": "Where did Maya go yesterday?",
+      "note": "The question word comes before did and the subject."
+    },
+    {
+      "sentence": "What did they make for dinner?",
+      "note": "Use the base form make after did and the subject."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "He buyed a ticket.",
+      "correct": "He bought a ticket.",
+      "reason": "Buy has the irregular past form bought."
+    },
+    {
+      "incorrect": "Did she went home?",
+      "correct": "Did she go home?",
+      "reason": "Use the base form go after did."
+    },
+    {
+      "incorrect": "They didn’t ate breakfast.",
+      "correct": "They didn’t eat breakfast.",
+      "reason": "Use the base form eat after didn’t."
+    }
+  ],
+  "summary": [
+    "Many common verbs have irregular positive past forms, such as went, saw and bought.",
+    "Use did or didn’t with the base verb in ordinary past questions and negatives.",
+    "Put a question word before did to ask for information."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U17-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Yesterday, she ___ to the library. (go)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Went is the past form of go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "goed"
+        },
+        {
+          "id": "b",
+          "text": "goes"
+        },
+        {
+          "id": "c",
+          "text": "went"
+        },
+        {
+          "id": "d",
+          "text": "going"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“goed” does not fit here. Went is the past form of go.",
+        "b": "“goes” does not fit here. Went is the past form of go.",
+        "c": "“went” fits here. Went is the past form of go.",
+        "d": "“going” does not fit here. Went is the past form of go."
+      }
+    },
+    {
+      "id": "A2-U17-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They ___ a film last night. (see)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Saw is the past form of see.",
+      "options": [
+        {
+          "id": "a",
+          "text": "saw"
+        },
+        {
+          "id": "b",
+          "text": "seed"
+        },
+        {
+          "id": "c",
+          "text": "see"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“saw” fits here. Saw is the past form of see.",
+        "b": "“seed” does not fit here. Saw is the past form of see.",
+        "c": "“see” does not fit here. Saw is the past form of see.",
+        "d": "“seeing” does not fit here. Saw is the past form of see."
+      }
+    },
+    {
+      "id": "A2-U17-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ lunch at noon yesterday. (have)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Had is the past form of have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "haved"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "having"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“haved” does not fit here. Had is the past form of have.",
+        "b": "“had” fits here. Had is the past form of have.",
+        "c": "“has” does not fit here. Had is the past form of have.",
+        "d": "“having” does not fit here. Had is the past form of have."
+      }
+    },
+    {
+      "id": "A2-U17-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Did he buy a ticket? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use did in a positive short answer to a did question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "he does"
+        },
+        {
+          "id": "b",
+          "text": "he bought"
+        },
+        {
+          "id": "c",
+          "text": "he was"
+        },
+        {
+          "id": "d",
+          "text": "he did"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“he does” does not fit here. Use did in a positive short answer to a did question.",
+        "b": "“he bought” does not fit here. Use did in a positive short answer to a did question.",
+        "c": "“he was” does not fit here. Use did in a positive short answer to a did question.",
+        "d": "“he did” fits here. Use did in a positive short answer to a did question."
+      }
+    },
+    {
+      "id": "A2-U17-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She didn’t ___ breakfast yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use the base form eat after didn’t.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ate"
+        },
+        {
+          "id": "b",
+          "text": "eats"
+        },
+        {
+          "id": "c",
+          "text": "eating"
+        },
+        {
+          "id": "d",
+          "text": "eat"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“ate” does not fit here. Use the base form eat after didn’t.",
+        "b": "“eats” does not fit here. Use the base form eat after didn’t.",
+        "c": "“eating” does not fit here. Use the base form eat after didn’t.",
+        "d": "“eat” fits here. Use the base form eat after didn’t."
+      }
+    },
+    {
+      "id": "A2-U17-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Where ___ they go last weekend?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use did before the subject in this past question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“did” fits here. Use did before the subject in this past question.",
+        "b": "“do” does not fit here. Use did before the subject in this past question.",
+        "c": "“are” does not fit here. Use did before the subject in this past question.",
+        "d": "“does” does not fit here. Use did before the subject in this past question."
+      }
+    },
+    {
+      "id": "A2-U17-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ a cake for the party yesterday. (make)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Made is the past form of make.",
+      "options": [
+        {
+          "id": "a",
+          "text": "maked"
+        },
+        {
+          "id": "b",
+          "text": "make"
+        },
+        {
+          "id": "c",
+          "text": "made"
+        },
+        {
+          "id": "d",
+          "text": "making"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“maked” does not fit here. Made is the past form of make.",
+        "b": "“make” does not fit here. Made is the past form of make.",
+        "c": "“made” fits here. Made is the past form of make.",
+        "d": "“making” does not fit here. Made is the past form of make."
+      }
+    },
+    {
+      "id": "A2-U17-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which question is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use did before the subject and the base form go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did he went home?"
+        },
+        {
+          "id": "b",
+          "text": "Did he go home?"
+        },
+        {
+          "id": "c",
+          "text": "Does he went home?"
+        },
+        {
+          "id": "d",
+          "text": "Did went he home?"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Did he went home?” does not fit here. Use did before the subject and the base form go.",
+        "b": "“Did he go home?” fits here. Use did before the subject and the base form go.",
+        "c": "“Does he went home?” does not fit here. Use did before the subject and the base form go.",
+        "d": "“Did went he home?” does not fit here. Use did before the subject and the base form go."
+      }
+    },
+    {
+      "id": "A2-U17-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We ___ to the station yesterday. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Went is the past form of go.",
+      "accepted_answers": [
+        "went"
+      ]
+    },
+    {
+      "id": "A2-U17-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ a sandwich for lunch yesterday. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Ate is the past form of eat.",
+      "accepted_answers": [
+        "ate"
+      ]
+    },
+    {
+      "id": "A2-U17-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He ___ a bicycle last year. (buy)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Bought is the past form of buy.",
+      "accepted_answers": [
+        "bought"
+      ]
+    },
+    {
+      "id": "A2-U17-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They ___ to our house yesterday. (come)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Came is the past form of come.",
+      "accepted_answers": [
+        "came"
+      ]
+    },
+    {
+      "id": "A2-U17-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I didn’t ___ the bus this morning. (take)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use the base form take after didn’t.",
+      "accepted_answers": [
+        "take"
+      ]
+    },
+    {
+      "id": "A2-U17-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you see the film last night?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use did before the subject in a past question.",
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U17-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "What did she ___ for dinner yesterday? (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use the base form make after did.",
+      "accepted_answers": [
+        "make"
+      ]
+    },
+    {
+      "id": "A2-U17-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Did they have lunch? No, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use didn’t or did not in the negative short answer.",
+      "accepted_answers": [
+        "didn’t",
+        "did not"
+      ]
+    },
+    {
+      "id": "A2-U17-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: goed",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Go has the irregular past form went.",
+      "source_sentence": "She goed home yesterday.",
+      "target_segment": "goed",
+      "accepted_answers": [
+        "went"
+      ]
+    },
+    {
+      "id": "A2-U17-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: saw",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use the base form see after didn’t.",
+      "source_sentence": "They didn’t saw the film.",
+      "target_segment": "saw",
+      "accepted_answers": [
+        "see"
+      ]
+    },
+    {
+      "id": "A2-U17-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use the base form eat after did.",
+      "source_sentence": "Did you ate breakfast?",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eat"
+      ]
+    },
+    {
+      "id": "A2-U17-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: buyed",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Buy has the irregular past form bought.",
+      "source_sentence": "He buyed a ticket.",
+      "target_segment": "buyed",
+      "accepted_answers": [
+        "bought"
+      ]
+    },
+    {
+      "id": "A2-U17-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Went is the past form of go.",
+      "source_sentence": "Yesterday, I travelled to the park. Use the past form of go.",
+      "keyword": "went",
+      "target_sentence": "Yesterday, I ___ to the park.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "went"
+      ]
+    },
+    {
+      "id": "A2-U17-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use didn’t or did not with the base verb buy.",
+      "source_sentence": "Mia did not buy a ticket.",
+      "keyword": "buy",
+      "target_sentence": "Mia ___ a ticket.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "didn’t buy",
+        "did not buy"
+      ]
+    },
+    {
+      "id": "A2-U17-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Put did before the subject; use the base form see.",
+      "source_sentence": "They saw a film yesterday. Ask a yes/no question.",
+      "keyword": "Did",
+      "target_sentence": "___ they see a film yesterday?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U17-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U17"
+      ],
+      "explanation": "Use he didn’t or he did not in the negative short answer.",
+      "source_sentence": "Did he have breakfast? Give a negative short answer.",
+      "keyword": "he",
+      "target_sentence": "No, ___.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "he didn’t",
+        "he did not"
+      ]
+    }
+  ]
+}

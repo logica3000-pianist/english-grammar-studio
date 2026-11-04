@@ -1,0 +1,642 @@
+{
+  "id": "B2-U01",
+  "level": "B2",
+  "title": "Present perfect simple and continuous",
+  "order": 1,
+  "prerequisites": [
+    "B1-U25"
+  ],
+  "objectives": [
+    "Distinguish completed amounts from activity focus.",
+    "Form present perfect simple and continuous structures.",
+    "Recognise cases where both forms are possible."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The present perfect simple and continuous both connect a past situation to the present, but they often focus on different aspects. The simple form can focus on a completed result, an amount or an experience: ‘I've written three emails’. The continuous form often focuses on an activity and its duration or recent effects: ‘I've been writing emails all morning’.",
+        "The continuous does not automatically mean the activity is still happening. ‘I've been running’ may explain why someone is out of breath immediately after stopping. It can also describe an activity that continues: ‘I've been working here since May’. Context determines whether the activity is ongoing or recently stopped."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Form the simple with have or has plus a past participle: ‘She has finished’. Form the continuous with have or has plus been and an -ing form: ‘She has been working’. Questions invert the first auxiliary: ‘Has she finished?’ and ‘Has she been working?’ Negatives add not after have or has: ‘She hasn't finished’ and ‘She hasn't been working’.",
+        "With many action verbs, both forms can describe a situation continuing up to now: ‘I've lived here for five years’ and ‘I've been living here for five years’. The continuous may emphasise duration or activity, while the simple may present the situation more neutrally. A difference in meaning is not compulsory in every context."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘I've painted the door’ with ‘I've been painting the door’. The simple often presents a completed result: the door is painted. The continuous focuses on the activity and does not itself establish completion. Similarly, ‘She's read three chapters’ states a completed amount, whereas ‘She's been reading for an hour’ focuses on duration.",
+        "Some state verbs are not normally used in the continuous with their usual state meaning. Say ‘I've known her for years’, not ‘I've been knowing her’. Verbs can have different meanings: ‘I've had this car for years’ expresses possession; ‘I've been having trouble with it’ describes an ongoing experience."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that for or since always requires the continuous: ‘I've worked here since May’ and ‘I've been working here since May’ can both be valid. Equally, do not assume that every simple form proves permanent status; a temporary situation may also be expressed with the simple.",
+        "Avoid treating an activity focus as proof that no result exists. ‘I've been painting’ may imply paint on the floor or clothes, and the work may be complete. The question is what the speaker chooses to foreground. In controlled questions, instructions specify result or activity focus when either form would otherwise be defensible."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I've written three emails this morning.",
+      "note": "The simple form reports a completed number in an unfinished period."
+    },
+    {
+      "sentence": "I've been writing emails all morning.",
+      "note": "The continuous foregrounds the activity and duration."
+    },
+    {
+      "sentence": "She's painted the door.",
+      "note": "The simple presents a completed result."
+    },
+    {
+      "sentence": "She's been painting the door.",
+      "note": "The continuous focuses on the activity without establishing completion."
+    },
+    {
+      "sentence": "I've lived here for five years.",
+      "note": "The simple can describe a situation continuing to now."
+    },
+    {
+      "sentence": "I've been living here for five years.",
+      "note": "The continuous can emphasise duration."
+    },
+    {
+      "sentence": "I've known her since college.",
+      "note": "Know normally uses the simple form in this state meaning."
+    },
+    {
+      "sentence": "I've been running, so I'm out of breath.",
+      "note": "The activity may have just stopped; its effect is present."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have been knowing her for years.",
+      "correct": "I have known her for years.",
+      "reason": "Know normally uses the simple form for this state."
+    },
+    {
+      "incorrect": "She has been write emails.",
+      "correct": "She has been writing emails.",
+      "reason": "Use an -ing form after been in the continuous."
+    },
+    {
+      "incorrect": "They have wrote three letters.",
+      "correct": "They have written three letters.",
+      "reason": "Use the participle written after have in the simple."
+    }
+  ],
+  "summary": [
+    "The simple often foregrounds a result, number or experience; the continuous often foregrounds activity or duration.",
+    "Both forms can describe continuing situations with some action verbs.",
+    "State verbs such as know normally use the simple form in their usual state meaning."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U01-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on the completed number: She ___ three reports today.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Has written presents the completed number.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been write"
+        },
+        {
+          "id": "b",
+          "text": "has been writing three reports for"
+        },
+        {
+          "id": "c",
+          "text": "has written"
+        },
+        {
+          "id": "d",
+          "text": "has wrote"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“has been write” does not fit here. Has written presents the completed number.",
+        "b": "“has been writing three reports for” does not fit here. Has written presents the completed number.",
+        "c": "“has written” fits here. Has written presents the completed number.",
+        "d": "“has wrote” does not fit here. Has written presents the completed number."
+      }
+    },
+    {
+      "id": "B2-U01-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on the activity and duration: I ___ for two hours.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Have been studying foregrounds activity and duration.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been studying"
+        },
+        {
+          "id": "b",
+          "text": "have worked three reports"
+        },
+        {
+          "id": "c",
+          "text": "have been work"
+        },
+        {
+          "id": "d",
+          "text": "has been studying"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“have been studying” fits here. Have been studying foregrounds activity and duration.",
+        "b": "“have worked three reports” does not fit here. Have been studying foregrounds activity and duration.",
+        "c": "“have been work” does not fit here. Have been studying foregrounds activity and duration.",
+        "d": "“has been studying” does not fit here. Have been studying foregrounds activity and duration."
+      }
+    },
+    {
+      "id": "B2-U01-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the usual state meaning of know?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Known is the usual simple form for this state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have been knowing her for years."
+        },
+        {
+          "id": "b",
+          "text": "I have know her for years."
+        },
+        {
+          "id": "c",
+          "text": "I has known her for years."
+        },
+        {
+          "id": "d",
+          "text": "I have known her for years."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I have been knowing her for years.” does not fit here. Known is the usual simple form for this state.",
+        "b": "“I have know her for years.” does not fit here. Known is the usual simple form for this state.",
+        "c": "“I has known her for years.” does not fit here. Known is the usual simple form for this state.",
+        "d": "“I have known her for years.” fits here. Known is the usual simple form for this state."
+      }
+    },
+    {
+      "id": "B2-U01-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "A runner is out of breath after stopping. Which sentence focuses on the recent activity?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Has been running focuses on the recent activity and present effect.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has been run."
+        },
+        {
+          "id": "b",
+          "text": "She has been running."
+        },
+        {
+          "id": "c",
+          "text": "She has running."
+        },
+        {
+          "id": "d",
+          "text": "She have been running."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She has been run.” does not fit here. Has been running focuses on the recent activity and present effect.",
+        "b": "“She has been running.” fits here. Has been running focuses on the recent activity and present effect.",
+        "c": "“She has running.” does not fit here. Has been running focuses on the recent activity and present effect.",
+        "d": "“She have been running.” does not fit here. Has been running focuses on the recent activity and present effect."
+      }
+    },
+    {
+      "id": "B2-U01-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct continuous form: They ___ all morning.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Have been working has the required auxiliaries and -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been work"
+        },
+        {
+          "id": "b",
+          "text": "have been working"
+        },
+        {
+          "id": "c",
+          "text": "has been working"
+        },
+        {
+          "id": "d",
+          "text": "have working"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have been work” does not fit here. Have been working has the required auxiliaries and -ing form.",
+        "b": "“have been working” fits here. Have been working has the required auxiliaries and -ing form.",
+        "c": "“has been working” does not fit here. Have been working has the required auxiliaries and -ing form.",
+        "d": "“have working” does not fit here. Have been working has the required auxiliaries and -ing form."
+      }
+    },
+    {
+      "id": "B2-U01-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on completion: He ___ the report, so it is ready.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Has written presents the completed result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has written"
+        },
+        {
+          "id": "b",
+          "text": "has been write"
+        },
+        {
+          "id": "c",
+          "text": "has written for"
+        },
+        {
+          "id": "d",
+          "text": "have wrote"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“has written” fits here. Has written presents the completed result.",
+        "b": "“has been write” does not fit here. Has written presents the completed result.",
+        "c": "“has written for” does not fit here. Has written presents the completed result.",
+        "d": "“have wrote” does not fit here. Has written presents the completed result."
+      }
+    },
+    {
+      "id": "B2-U01-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which pair can both describe living here continuously for five years?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Both simple and continuous can describe this continuing situation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have live here; I have been lived here."
+        },
+        {
+          "id": "b",
+          "text": "I am lived here; I had living here."
+        },
+        {
+          "id": "c",
+          "text": "I have knowing here; I have been know here."
+        },
+        {
+          "id": "d",
+          "text": "I have lived here for five years; I have been living here for five years."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I have live here; I have been lived here.” does not fit here. Both simple and continuous can describe this continuing situation.",
+        "b": "“I am lived here; I had living here.” does not fit here. Both simple and continuous can describe this continuing situation.",
+        "c": "“I have knowing here; I have been know here.” does not fit here. Both simple and continuous can describe this continuing situation.",
+        "d": "“I have lived here for five years; I have been living here for five years.” fits here. Both simple and continuous can describe this continuing situation."
+      }
+    },
+    {
+      "id": "B2-U01-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "A recent activity may have stopped while its effect remains.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The continuous always proves the action is unfinished."
+        },
+        {
+          "id": "b",
+          "text": "For always requires the continuous."
+        },
+        {
+          "id": "c",
+          "text": "The continuous can focus on a recently stopped activity."
+        },
+        {
+          "id": "d",
+          "text": "The simple can never describe a continuing situation."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The continuous always proves the action is unfinished.” does not fit here. A recent activity may have stopped while its effect remains.",
+        "b": "“For always requires the continuous.” does not fit here. A recent activity may have stopped while its effect remains.",
+        "c": "“The continuous can focus on a recently stopped activity.” fits here. A recent activity may have stopped while its effect remains.",
+        "d": "“The simple can never describe a continuing situation.” does not fit here. A recent activity may have stopped while its effect remains."
+      }
+    },
+    {
+      "id": "B2-U01-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the simple: She has ___ three reports. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U01-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: They have been ___ all morning. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "The continuous uses an -ing form after been.",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U01-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the simple state meaning: I have ___ her for years. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Know normally takes the simple form for this state.",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B2-U01-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: He has been ___ for an hour. (run)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Run doubles n before -ing.",
+      "accepted_answers": [
+        "running"
+      ]
+    },
+    {
+      "id": "B2-U01-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the simple: We have ___ the task. (finish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Finished is the participle of finish.",
+      "accepted_answers": [
+        "finished"
+      ]
+    },
+    {
+      "id": "B2-U01-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: She has ___ studying all afternoon.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Been precedes the -ing form.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U01-E15",
+      "type": "gap",
+      "instruction": "Complete the question using the present perfect continuous.",
+      "prompt": "Present perfect continuous: ___ they been waiting long?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Have comes before the plural subject.",
+      "accepted_answers": [
+        "Have"
+      ]
+    },
+    {
+      "id": "B2-U01-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ she finished the report?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Has comes before the singular subject.",
+      "accepted_answers": [
+        "Has"
+      ]
+    },
+    {
+      "id": "B2-U01-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: been knowing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Know normally uses the simple form for this state.",
+      "source_sentence": "I have been knowing her for years.",
+      "target_segment": "been knowing",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B2-U01-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: write",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Use the -ing form after been.",
+      "source_sentence": "She has been write emails.",
+      "target_segment": "write",
+      "accepted_answers": [
+        "writing"
+      ]
+    },
+    {
+      "id": "B2-U01-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wrote",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Use the participle written after have.",
+      "source_sentence": "They have wrote three letters.",
+      "target_segment": "wrote",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U01-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "He takes has.",
+      "source_sentence": "He have been working all day.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B2-U01-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Has written reports the completed number.",
+      "source_sentence": "She completed three reports today. Use the present perfect simple and assume today is unfinished.",
+      "keyword": "written",
+      "target_sentence": "She ___ three reports today.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "has written"
+      ]
+    },
+    {
+      "id": "B2-U01-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Have been working foregrounds the activity.",
+      "source_sentence": "I met her years ago and still know her. Use the usual simple state form.",
+      "keyword": "working",
+      "target_sentence": "They ___ all morning.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "have been working"
+      ]
+    },
+    {
+      "id": "B2-U01-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Have known describes the continuing state.",
+      "source_sentence": "I started knowing her years ago and still know her. Use the usual simple state form.",
+      "keyword": "known",
+      "target_sentence": "I ___ her for years.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have known"
+      ]
+    },
+    {
+      "id": "B2-U01-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U01"
+      ],
+      "explanation": "Put has before the subject.",
+      "source_sentence": "He has been running. Ask a yes/no question.",
+      "keyword": "Has",
+      "target_sentence": "___ he been running?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Has"
+      ]
+    }
+  ]
+}

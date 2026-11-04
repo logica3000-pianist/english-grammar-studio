@@ -1,0 +1,642 @@
+{
+  "id": "A2-U24",
+  "level": "A2",
+  "title": "Basic prepositions of time and place",
+  "order": 24,
+  "prerequisites": [
+    "A2-U23"
+  ],
+  "objectives": [
+    "Choose common time prepositions.",
+    "Describe where things are using place expressions.",
+    "Distinguish positions inside, on and below an object."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A preposition is a small word that connects a noun or noun phrase to another part of a sentence. Prepositions can tell us when something happens or where something is. ‘The lesson starts at nine’ gives a time; ‘The bag is under the table’ gives a place. The same preposition can have different uses, so learn it in a phrase and a context.",
+        "For time, use at with a clock time: at six, at 9.30 and at midnight. Use on with days and dates: on Monday and on 5 June. Use in with months, years and longer periods: in April, in 2020 and in the morning. A common expression is at night."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For place, in often means inside an area or space: ‘The keys are in the bag’. On often means touching a surface: ‘The keys are on the table’. Under means below something: ‘The shoes are under the bed’. Next to means beside something: ‘The bank is next to the café’.",
+        "Between connects a position with two reference points: ‘The bank is between the café and the library’. Opposite often means on the other side, facing something: ‘The café is opposite the station’. Use in front of for a position before something, and behind for a position at its back: ‘The car is in front of the house’ and ‘The garden is behind the house’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine a room with a bag on a chair and a phone inside the bag. The bag is on the chair, but the phone is in the bag. If the chair is near a desk, you can say ‘The chair is next to the desk’. These expressions describe different relationships, not exact measurements of distance.",
+        "Time expressions can include more than one part: ‘We meet at six on Monday’. Each part has its own preposition. In ‘We met on Monday morning’, on introduces the day and part of the day together. In ‘We met in the morning’, there is no named day, so in is common."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a preposition before every, next or last in the basic expressions taught here: ‘every Monday’, ‘next week’ and ‘last year’. These words can appear in other grammatical patterns, but the phrase ‘on every Monday’ is not the usual choice for a simple routine.",
+        "In, on and at have other uses beyond these examples. For instance, ‘at the station’ can locate someone at a place without saying precisely whether they are inside. ‘In the station’ stresses being inside. Choose the preposition that matches the meaning and the particular phrase rather than translating each word separately."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The class begins at ten.",
+      "note": "At introduces a clock time."
+    },
+    {
+      "sentence": "We meet on Tuesday morning.",
+      "note": "On introduces a named day and part of the day."
+    },
+    {
+      "sentence": "She was born in April.",
+      "note": "In introduces a month."
+    },
+    {
+      "sentence": "The keys are in the bag.",
+      "note": "In describes a position inside the bag."
+    },
+    {
+      "sentence": "The cup is on the table.",
+      "note": "On describes contact with the surface."
+    },
+    {
+      "sentence": "The cat is under the chair.",
+      "note": "Under describes a position below the chair."
+    },
+    {
+      "sentence": "The bank is between the café and the library.",
+      "note": "Between gives two reference points."
+    },
+    {
+      "sentence": "The garden is behind the house.",
+      "note": "Behind places the garden at the back of the house."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The lesson starts on eight.",
+      "correct": "The lesson starts at eight.",
+      "reason": "Use at with a clock time."
+    },
+    {
+      "incorrect": "We meet in Monday.",
+      "correct": "We meet on Monday.",
+      "reason": "Use on with a named day."
+    },
+    {
+      "incorrect": "The keys are in the table surface.",
+      "correct": "The keys are on the table surface.",
+      "reason": "Use on for contact with a surface."
+    }
+  ],
+  "summary": [
+    "Use at for clock times, on for days and dates, and in for months and years.",
+    "Use place expressions such as in, on, under, next to and between to describe position.",
+    "Choose prepositions in context; one word can have several uses."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U24-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The train leaves ___ six.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use at with a clock time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "under"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“on” does not fit here. Use at with a clock time.",
+        "b": "“in” does not fit here. Use at with a clock time.",
+        "c": "“under” does not fit here. Use at with a clock time.",
+        "d": "“at” fits here. Use at with a clock time."
+      }
+    },
+    {
+      "id": "A2-U24-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Our lesson is ___ Monday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use on with a named day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "between"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“on” fits here. Use on with a named day.",
+        "b": "“at” does not fit here. Use on with a named day.",
+        "c": "“in” does not fit here. Use on with a named day.",
+        "d": "“between” does not fit here. Use on with a named day."
+      }
+    },
+    {
+      "id": "A2-U24-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She was born ___ April.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use in with a month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“at” does not fit here. Use in with a month.",
+        "b": "“on” does not fit here. Use in with a month.",
+        "c": "“in” fits here. Use in with a month.",
+        "d": "“under” does not fit here. Use in with a month."
+      }
+    },
+    {
+      "id": "A2-U24-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The ball is below the chair. It is ___ the chair.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Under describes a position below the chair.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "under"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "next to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“in” does not fit here. Under describes a position below the chair.",
+        "b": "“under” fits here. Under describes a position below the chair.",
+        "c": "“on” does not fit here. Under describes a position below the chair.",
+        "d": "“next to” does not fit here. Under describes a position below the chair."
+      }
+    },
+    {
+      "id": "A2-U24-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The phone is inside the bag. It is ___ the bag.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "In describes a position inside the bag.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "under"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "opposite"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“on” does not fit here. In describes a position inside the bag.",
+        "b": "“under” does not fit here. In describes a position inside the bag.",
+        "c": "“in” fits here. In describes a position inside the bag.",
+        "d": "“opposite” does not fit here. In describes a position inside the bag."
+      }
+    },
+    {
+      "id": "A2-U24-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The café has the library on one side and the bank on the other. It is ___ them.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Between describes a position with two reference points.",
+      "options": [
+        {
+          "id": "a",
+          "text": "under"
+        },
+        {
+          "id": "b",
+          "text": "between"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“under” does not fit here. Between describes a position with two reference points.",
+        "b": "“between” fits here. Between describes a position with two reference points.",
+        "c": "“at” does not fit here. Between describes a position with two reference points.",
+        "d": "“in” does not fit here. Between describes a position with two reference points."
+      }
+    },
+    {
+      "id": "A2-U24-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The cup is touching the table surface. It is ___ the table.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "On describes contact with the surface.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "under"
+        },
+        {
+          "id": "d",
+          "text": "behind"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“on” fits here. On describes contact with the surface.",
+        "b": "“in” does not fit here. On describes contact with the surface.",
+        "c": "“under” does not fit here. On describes contact with the surface.",
+        "d": "“behind” does not fit here. On describes contact with the surface."
+      }
+    },
+    {
+      "id": "A2-U24-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The garden is at the back of the house. It is ___ the house.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Behind describes a position at the back.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "behind"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“in” does not fit here. Behind describes a position at the back.",
+        "b": "“on” does not fit here. Behind describes a position at the back.",
+        "c": "“at” does not fit here. Behind describes a position at the back.",
+        "d": "“behind” fits here. Behind describes a position at the back."
+      }
+    },
+    {
+      "id": "A2-U24-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The meeting is ___ 8.00. Choose at, on or in.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use at before a clock time.",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U24-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I work ___ Fridays. Choose at, on or in.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use on before days.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U24-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We moved here ___ 2020. Choose at, on or in.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use in before a year.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U24-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The coins are inside the box. They are ___ the box.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "In means inside in this context.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U24-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The keys are touching the desk surface. They are ___ the desk.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "On describes contact with a surface.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U24-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The cat is below the bed. It is ___ the bed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Under means below here.",
+      "accepted_answers": [
+        "under"
+      ]
+    },
+    {
+      "id": "A2-U24-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bank is ___ the café and the library.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Between introduces the two reference points.",
+      "accepted_answers": [
+        "between"
+      ]
+    },
+    {
+      "id": "A2-U24-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The garage is at the back of the house. It is ___ the house.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Behind describes a position at the back.",
+      "accepted_answers": [
+        "behind"
+      ]
+    },
+    {
+      "id": "A2-U24-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: in",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use on with a named day.",
+      "source_sentence": "We meet in Monday.",
+      "target_segment": "in",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U24-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: on",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use at with a clock time.",
+      "source_sentence": "The class starts on nine.",
+      "target_segment": "on",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U24-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: at",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use in with a year.",
+      "source_sentence": "She was born at 2001.",
+      "target_segment": "at",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U24-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: or",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use between A and B for the two reference points.",
+      "source_sentence": "The bank is between the café or the library.",
+      "target_segment": "or",
+      "accepted_answers": [
+        "and"
+      ]
+    },
+    {
+      "id": "A2-U24-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "In describes the position inside.",
+      "source_sentence": "The keys are inside the bag.",
+      "keyword": "in",
+      "target_sentence": "The keys are ___ the bag.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U24-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Under describes the position below.",
+      "source_sentence": "The cat is below the chair.",
+      "keyword": "under",
+      "target_sentence": "The cat is ___ the chair.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "under"
+      ]
+    },
+    {
+      "id": "A2-U24-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Use at with a clock time.",
+      "source_sentence": "The lesson begins at nine o’clock.",
+      "keyword": "at",
+      "target_sentence": "The lesson begins ___ nine.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U24-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U24"
+      ],
+      "explanation": "Behind describes the position at the back.",
+      "source_sentence": "The garden is at the back of the house.",
+      "keyword": "behind",
+      "target_sentence": "The garden is ___ the house.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "behind"
+      ]
+    }
+  ]
+}

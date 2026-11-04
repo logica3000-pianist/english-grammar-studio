@@ -1,0 +1,642 @@
+{
+  "id": "B2-U23",
+  "level": "B2",
+  "title": "Determiners and pronouns for reference",
+  "order": 23,
+  "prerequisites": [
+    "B2-U22"
+  ],
+  "objectives": [
+    "Distinguish both, either and neither.",
+    "Use each and both in standard noun and pronoun patterns.",
+    "Use one, ones, former and latter with clear reference."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Determiners and pronouns help speakers refer to people and things without repeating a noun unnecessarily. A determiner normally appears before a noun: ‘both proposals’ or ‘each student’. A pronoun can stand in place of a noun phrase when the reference is clear: ‘Both are useful’ or ‘Each has a copy’.",
+        "Both, either and neither typically refer to two people or things. ‘Both options are available’ includes the two. ‘Either option is suitable’ means that one or the other is acceptable. ‘Neither option is suitable’ means that not one of the two is suitable. Context determines whether a sentence is discussing a choice, agreement or something else."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Before a noun, both can be followed by a plural noun: ‘both plans’. Both of can precede a determiner and plural noun or an object pronoun: ‘both of the plans’ and ‘both of them’. With a pronoun, use both of them, not ‘both them’ in standard English.",
+        "Each and every generally precede a singular countable noun and take a singular verb in this structure: ‘Each student has a copy’ and ‘Every student has a copy’. Each of can precede a plural noun phrase or object pronoun: ‘Each of the students has a copy’ and ‘Each of them has a copy’. A plural verb is also heard with some of these expressions in informal usage; the singular form is a reliable choice in formal writing."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "One and ones can replace a countable noun when the reference is clear: ‘I prefer the blue chair to the red one’ and ‘The larger boxes are cheaper than the smaller ones’. One normally represents a singular noun and ones a plural noun. They do not refer to people in every structure, and they are not used as simple replacements for uncountable nouns in all contexts.",
+        "The phrases the former and the latter refer respectively to the first and second of two previously mentioned things: ‘We considered the train and the bus; the former was faster’. These phrases can sound formal, and they are less useful if the reader must search back through a long passage. Repeating the noun may be clearer."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that either and neither are interchangeable: ‘Either answer is acceptable’ permits one or the other; ‘Neither answer is acceptable’ rejects both. Do not follow each directly with a plural noun in the pattern ‘each student’: use ‘each student’ or ‘each of the students’.",
+        "A pronoun is useful only if its reference is clear. In ‘Maya called Ana after she arrived’, she could refer to Maya or Ana. Add a name when necessary. Repetition can improve clarity, and a different pronoun or a longer sentence may be preferable to an ambiguous shortcut."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Both proposals are useful.",
+      "note": "Both includes two proposals."
+    },
+    {
+      "sentence": "Either option is suitable.",
+      "note": "Either presents one or the other as acceptable."
+    },
+    {
+      "sentence": "Neither option is suitable.",
+      "note": "Neither rejects both options."
+    },
+    {
+      "sentence": "Both of them agreed.",
+      "note": "Of precedes the object pronoun them."
+    },
+    {
+      "sentence": "Each student has a copy.",
+      "note": "Each precedes a singular noun here."
+    },
+    {
+      "sentence": "Each of the students has a copy.",
+      "note": "Each of selects individuals from an identified group."
+    },
+    {
+      "sentence": "I prefer the blue chair to the red one.",
+      "note": "One replaces chair."
+    },
+    {
+      "sentence": "We considered the train and the bus; the former was faster.",
+      "note": "The former refers to the first item, the train."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Both them agreed.",
+      "correct": "Both of them agreed.",
+      "reason": "Use of before an object pronoun in this pattern."
+    },
+    {
+      "incorrect": "Each students has a copy.",
+      "correct": "Each student has a copy.",
+      "reason": "Each precedes a singular countable noun here."
+    },
+    {
+      "incorrect": "Each of the student has a copy.",
+      "correct": "Each of the students has a copy.",
+      "reason": "Each of the selects from a plural group in this pattern."
+    }
+  ],
+  "summary": [
+    "Both, either and neither have distinct meanings when referring to two things.",
+    "Use each with a singular noun, or each of with a plural noun phrase or object pronoun.",
+    "Use substitute words only when their reference is clear."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U23-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Two options are available, and each one is suitable. ___ option is suitable.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Either presents one or the other option as suitable.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neither"
+        },
+        {
+          "id": "b",
+          "text": "Both of a"
+        },
+        {
+          "id": "c",
+          "text": "Every of"
+        },
+        {
+          "id": "d",
+          "text": "Either"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Neither” does not fit here. Either presents one or the other option as suitable.",
+        "b": "“Both of a” does not fit here. Either presents one or the other option as suitable.",
+        "c": "“Every of” does not fit here. Either presents one or the other option as suitable.",
+        "d": "“Either” fits here. Either presents one or the other option as suitable."
+      }
+    },
+    {
+      "id": "B2-U23-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There are two options, and both are unsuitable. ___ option is suitable.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Neither rejects both options.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neither"
+        },
+        {
+          "id": "b",
+          "text": "Either"
+        },
+        {
+          "id": "c",
+          "text": "Both"
+        },
+        {
+          "id": "d",
+          "text": "Each of a"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Neither” fits here. Neither rejects both options.",
+        "b": "“Either” does not fit here. Neither rejects both options.",
+        "c": "“Both” does not fit here. Neither rejects both options.",
+        "d": "“Each of a” does not fit here. Neither rejects both options."
+      }
+    },
+    {
+      "id": "B2-U23-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Two proposals exist and the two are useful. ___ proposals are useful.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Both includes the two proposals.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Either"
+        },
+        {
+          "id": "b",
+          "text": "Neither"
+        },
+        {
+          "id": "c",
+          "text": "Both"
+        },
+        {
+          "id": "d",
+          "text": "Each of"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Either” does not fit here. Both includes the two proposals.",
+        "b": "“Neither” does not fit here. Both includes the two proposals.",
+        "c": "“Both” fits here. Both includes the two proposals.",
+        "d": "“Each of” does not fit here. Both includes the two proposals."
+      }
+    },
+    {
+      "id": "B2-U23-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They agreed. Choose the standard phrase with a pronoun.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Both of them uses of before the object pronoun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both them"
+        },
+        {
+          "id": "b",
+          "text": "Both of them"
+        },
+        {
+          "id": "c",
+          "text": "Each them"
+        },
+        {
+          "id": "d",
+          "text": "Either they both"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Both them” does not fit here. Both of them uses of before the object pronoun.",
+        "b": "“Both of them” fits here. Both of them uses of before the object pronoun.",
+        "c": "“Each them” does not fit here. Both of them uses of before the object pronoun.",
+        "d": "“Either they both” does not fit here. Both of them uses of before the object pronoun."
+      }
+    },
+    {
+      "id": "B2-U23-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Each student ___ a copy.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each student takes a singular verb in this pattern.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“have” does not fit here. Each student takes a singular verb in this pattern.",
+        "b": "“are” does not fit here. Each student takes a singular verb in this pattern.",
+        "c": "“has” fits here. Each student takes a singular verb in this pattern.",
+        "d": "“were” does not fit here. Each student takes a singular verb in this pattern."
+      }
+    },
+    {
+      "id": "B2-U23-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I prefer the blue chair to the red ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "One replaces the singular noun chair.",
+      "options": [
+        {
+          "id": "a",
+          "text": "one"
+        },
+        {
+          "id": "b",
+          "text": "ones"
+        },
+        {
+          "id": "c",
+          "text": "chairs"
+        },
+        {
+          "id": "d",
+          "text": "chair ones"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“one” fits here. One replaces the singular noun chair.",
+        "b": "“ones” does not fit here. One replaces the singular noun chair.",
+        "c": "“chairs” does not fit here. One replaces the singular noun chair.",
+        "d": "“chair ones” does not fit here. One replaces the singular noun chair."
+      }
+    },
+    {
+      "id": "B2-U23-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We considered the train and the bus; the former was faster. Which was faster?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "The former refers to the first item, the train.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The bus."
+        },
+        {
+          "id": "b",
+          "text": "The train."
+        },
+        {
+          "id": "c",
+          "text": "Both necessarily."
+        },
+        {
+          "id": "d",
+          "text": "Neither necessarily."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The bus.” does not fit here. The former refers to the first item, the train.",
+        "b": "“The train.” fits here. The former refers to the first item, the train.",
+        "c": "“Both necessarily.” does not fit here. The former refers to the first item, the train.",
+        "d": "“Neither necessarily.” does not fit here. The former refers to the first item, the train."
+      }
+    },
+    {
+      "id": "B2-U23-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Each ___ the students has a copy.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each of introduces the identified plural group.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "of"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“at” does not fit here. Each of introduces the identified plural group.",
+        "b": "“to” does not fit here. Each of introduces the identified plural group.",
+        "c": "“in” does not fit here. Each of introduces the identified plural group.",
+        "d": "“of” fits here. Each of introduces the identified plural group."
+      }
+    },
+    {
+      "id": "B2-U23-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use both: ___ proposals are useful; there are two and each is useful.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Both includes the two proposals.",
+      "accepted_answers": [
+        "Both"
+      ]
+    },
+    {
+      "id": "B2-U23-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose either or neither: ___ option is suitable; both are unsuitable.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Neither rejects both options.",
+      "accepted_answers": [
+        "Neither"
+      ]
+    },
+    {
+      "id": "B2-U23-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the pronoun pattern: Both ___ them agreed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Use both of them.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "B2-U23-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the group pattern: Each ___ the students has a copy.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Use each of before the identified group.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "B2-U23-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use one or ones: I prefer the blue chair to the red ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "One replaces singular chair.",
+      "accepted_answers": [
+        "one"
+      ]
+    },
+    {
+      "id": "B2-U23-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use one or ones: The smaller boxes cost less than the larger ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Ones replaces plural boxes.",
+      "accepted_answers": [
+        "ones"
+      ]
+    },
+    {
+      "id": "B2-U23-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use former or latter: We compared the train and bus; the ___, the bus, was cheaper.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "The latter refers to the second item.",
+      "accepted_answers": [
+        "latter"
+      ]
+    },
+    {
+      "id": "B2-U23-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use has or have in formal standard usage: Each student ___ a ticket.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each student is singular in this structure.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B2-U23-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Both them",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Use of before an object pronoun.",
+      "source_sentence": "Both them agreed.",
+      "target_segment": "Both them",
+      "accepted_answers": [
+        "Both of them"
+      ]
+    },
+    {
+      "id": "B2-U23-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: students",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each precedes a singular noun here.",
+      "source_sentence": "Each students has a copy.",
+      "target_segment": "students",
+      "accepted_answers": [
+        "student"
+      ]
+    },
+    {
+      "id": "B2-U23-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: student",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each of the selects from a plural group in this pattern.",
+      "source_sentence": "Each of the student has a copy.",
+      "target_segment": "student",
+      "accepted_answers": [
+        "students"
+      ]
+    },
+    {
+      "id": "B2-U23-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "The comparison concerns several red chairs. Replace: one",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Ones replaces the plural noun chairs.",
+      "source_sentence": "The blue chairs are larger than the red one.",
+      "target_segment": "one",
+      "accepted_answers": [
+        "ones"
+      ]
+    },
+    {
+      "id": "B2-U23-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Both includes the two proposals.",
+      "source_sentence": "The two proposals are useful.",
+      "keyword": "Both",
+      "target_sentence": "___ are useful.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Both proposals"
+      ]
+    },
+    {
+      "id": "B2-U23-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Neither rejects both options.",
+      "source_sentence": "The two options are unsuitable.",
+      "keyword": "Neither",
+      "target_sentence": "___ is suitable.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Neither option"
+      ]
+    },
+    {
+      "id": "B2-U23-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "Each student is singular in this pattern.",
+      "source_sentence": "Every individual student has a copy. Use each.",
+      "keyword": "Each",
+      "target_sentence": "___ has a copy.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Each student"
+      ]
+    },
+    {
+      "id": "B2-U23-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U23"
+      ],
+      "explanation": "One replaces the repeated singular noun.",
+      "source_sentence": "I prefer the blue chair to the red chair.",
+      "keyword": "one",
+      "target_sentence": "I prefer the blue chair to the red ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "one"
+      ]
+    }
+  ]
+}

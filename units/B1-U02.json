@@ -1,0 +1,642 @@
+{
+  "id": "B1-U02",
+  "level": "B1",
+  "title": "Present perfect with for and since",
+  "order": 2,
+  "prerequisites": [
+    "B1-U01"
+  ],
+  "objectives": [
+    "Describe ongoing situations with the present perfect.",
+    "Distinguish for from since.",
+    "Ask and answer questions about duration."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We can use the present perfect to describe a state or situation that began in the past and continues to the present. ‘I have lived here for five years’ means that the period began five years ago and continues now. ‘She has known Sam since 2020’ means that she met or came to know Sam in 2020 and still knows him.",
+        "Use for to give the length of a period: for two hours, for six months or for a long time. Use since to give the starting point: since nine o'clock, since Monday or since 2020. Both expressions connect the beginning of the situation with the time of speaking in these examples."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use have or has plus a past participle: ‘They have worked here for a year’ and ‘Mia has lived here since May’. Use have with I, you, we and they; use has with he, she, it and singular names. To ask about duration, use ‘How long have you lived here?’ or ‘How long has she worked here?’ The question asks about the period up to now.",
+        "For a negative, add not after have or has: ‘I haven't seen him since Monday’. This means that the last time I saw him was on Monday or that there has been no later sighting since then; context may clarify the exact event. A negative situation can also continue: ‘They haven't had a car for a year’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘for three years’ and ‘since 2023’. Three years is a duration; 2023 is a starting point. At a suitable date, both can describe the same period, but they answer slightly different questions. A starting point can be a date, a day or a past event: ‘since I moved here’. The verb in a since clause referring to a completed past event is often in the past simple.",
+        "Read the examples below. Each statement connects the earlier time to now. ‘He has worked here since June’ presents the employment as continuing. A finished period needs a different context: ‘He worked there for two years, but he left last month’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use since before a duration in the sense taught here: say ‘for two weeks’, not ‘since two weeks’. Do not use for before a starting date: say ‘since Monday’, not ‘for Monday’. The same word can have other uses in English, so make your choice according to the complete expression.",
+        "Some ongoing situations can also be expressed with the present perfect continuous, such as ‘I have been living here for five years’. That form may emphasise duration or activity and is explored later. State verbs such as know normally use the simple form: ‘I have known her for years’, not ‘I have been knowing her’."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I've lived here for five years.",
+      "note": "For introduces the length of the period."
+    },
+    {
+      "sentence": "She has worked here since May.",
+      "note": "Since introduces the starting point."
+    },
+    {
+      "sentence": "We have known each other since 2020.",
+      "note": "The state began in 2020 and continues."
+    },
+    {
+      "sentence": "How long have you had this phone?",
+      "note": "How long asks about duration up to now."
+    },
+    {
+      "sentence": "They haven't had a car for a year.",
+      "note": "The negative situation has continued for a year."
+    },
+    {
+      "sentence": "He has studied English since he moved here.",
+      "note": "Since introduces a completed past event as the starting point."
+    },
+    {
+      "sentence": "I've been a teacher for ten years.",
+      "note": "The period of being a teacher continues."
+    },
+    {
+      "sentence": "She worked there for two years but left last month.",
+      "note": "The past simple presents a finished period."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have lived here since five years.",
+      "correct": "I have lived here for five years.",
+      "reason": "For introduces a duration."
+    },
+    {
+      "incorrect": "She has known him for 2020.",
+      "correct": "She has known him since 2020.",
+      "reason": "Since introduces a starting year."
+    },
+    {
+      "incorrect": "How long she has lived here?",
+      "correct": "How long has she lived here?",
+      "reason": "Put has before the subject in this question."
+    }
+  ],
+  "summary": [
+    "Use the present perfect for certain situations that began in the past and continue now.",
+    "Use for with a duration and since with a starting point.",
+    "Use how long to ask about the duration up to now."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U02-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I have lived here ___ three years and I still live here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces a length of time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "ago"
+        },
+        {
+          "id": "d",
+          "text": "during of"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“since” does not fit here. For introduces a length of time.",
+        "b": "“for” fits here. For introduces a length of time.",
+        "c": "“ago” does not fit here. For introduces a length of time.",
+        "d": "“during of” does not fit here. For introduces a length of time."
+      }
+    },
+    {
+      "id": "B1-U02-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She has worked here ___ 2021 and still works here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Since introduces the starting year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "ago"
+        },
+        {
+          "id": "c",
+          "text": "last"
+        },
+        {
+          "id": "d",
+          "text": "since"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“for” does not fit here. Since introduces the starting year.",
+        "b": "“ago” does not fit here. Since introduces the starting year.",
+        "c": "“last” does not fit here. Since introduces the starting year.",
+        "d": "“since” fits here. Since introduces the starting year."
+      }
+    },
+    {
+      "id": "B1-U02-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ long have you known Maya?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "How long asks about duration.",
+      "options": [
+        {
+          "id": "a",
+          "text": "How"
+        },
+        {
+          "id": "b",
+          "text": "What"
+        },
+        {
+          "id": "c",
+          "text": "When"
+        },
+        {
+          "id": "d",
+          "text": "Where"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“How” fits here. How long asks about duration.",
+        "b": "“What” does not fit here. How long asks about duration.",
+        "c": "“When” does not fit here. How long asks about duration.",
+        "d": "“Where” does not fit here. How long asks about duration."
+      }
+    },
+    {
+      "id": "B1-U02-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He has ___ here since May and still lives here. (live)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Use the participle lived after has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "live"
+        },
+        {
+          "id": "b",
+          "text": "living"
+        },
+        {
+          "id": "c",
+          "text": "lived"
+        },
+        {
+          "id": "d",
+          "text": "lives"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“live” does not fit here. Use the participle lived after has.",
+        "b": "“living” does not fit here. Use the participle lived after has.",
+        "c": "“lived” fits here. Use the participle lived after has.",
+        "d": "“lives” does not fit here. Use the participle lived after has."
+      }
+    },
+    {
+      "id": "B1-U02-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ friends for years and we still are.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Have been connects the beginning of the friendship to now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been"
+        },
+        {
+          "id": "b",
+          "text": "are knowing"
+        },
+        {
+          "id": "c",
+          "text": "has been"
+        },
+        {
+          "id": "d",
+          "text": "were yesterday"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“have been” fits here. Have been connects the beginning of the friendship to now.",
+        "b": "“are knowing” does not fit here. Have been connects the beginning of the friendship to now.",
+        "c": "“has been” does not fit here. Have been connects the beginning of the friendship to now.",
+        "d": "“were yesterday” does not fit here. Have been connects the beginning of the friendship to now."
+      }
+    },
+    {
+      "id": "B1-U02-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ has she worked here? Since January.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "How long asks about duration.",
+      "options": [
+        {
+          "id": "a",
+          "text": "How many"
+        },
+        {
+          "id": "b",
+          "text": "What time"
+        },
+        {
+          "id": "c",
+          "text": "How long"
+        },
+        {
+          "id": "d",
+          "text": "How much"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“How many” does not fit here. How long asks about duration.",
+        "b": "“What time” does not fit here. How long asks about duration.",
+        "c": "“How long” fits here. How long asks about duration.",
+        "d": "“How much” does not fit here. How long asks about duration."
+      }
+    },
+    {
+      "id": "B1-U02-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They have known us ___ they moved here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Since can introduce the event marking the starting point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "ago"
+        },
+        {
+          "id": "c",
+          "text": "last"
+        },
+        {
+          "id": "d",
+          "text": "since"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“for” does not fit here. Since can introduce the event marking the starting point.",
+        "b": "“ago” does not fit here. Since can introduce the event marking the starting point.",
+        "c": "“last” does not fit here. Since can introduce the event marking the starting point.",
+        "d": "“since” fits here. Since can introduce the event marking the starting point."
+      }
+    },
+    {
+      "id": "B1-U02-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She has ___ that phone for two months. (have)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Had is the past participle of have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "having"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have” does not fit here. Had is the past participle of have.",
+        "b": "“had” fits here. Had is the past participle of have.",
+        "c": "“having” does not fit here. Had is the past participle of have.",
+        "d": "“has” does not fit here. Had is the past participle of have."
+      }
+    },
+    {
+      "id": "B1-U02-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: I have lived here ___ five years and still live here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces a duration.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U02-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: She has worked here ___ June and still works here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Since introduces the starting point.",
+      "accepted_answers": [
+        "since"
+      ]
+    },
+    {
+      "id": "B1-U02-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: We have known him ___ a long time.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces a duration.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U02-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose for or since: They have been friends ___ 2022.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Since introduces the starting year.",
+      "accepted_answers": [
+        "since"
+      ]
+    },
+    {
+      "id": "B1-U02-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with have or has: She ___ lived here since May.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "She takes has.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U02-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with have or has: We ___ worked here for a year.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "We takes have.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U02-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ have you lived here?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "How long asks about duration.",
+      "accepted_answers": [
+        "long"
+      ]
+    },
+    {
+      "id": "B1-U02-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I have ___ her since college. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Known is the participle of know.",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B1-U02-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: since",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces a duration.",
+      "source_sentence": "She has lived here since three years.",
+      "target_segment": "since",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B1-U02-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: for",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Since introduces a starting year.",
+      "source_sentence": "He has worked here for 2020.",
+      "target_segment": "for",
+      "accepted_answers": [
+        "since"
+      ]
+    },
+    {
+      "id": "B1-U02-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "They takes have.",
+      "source_sentence": "They has known us for years.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U02-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: she has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Put has before the subject in this question.",
+      "source_sentence": "How long she has worked here?",
+      "target_segment": "she has",
+      "accepted_answers": [
+        "has she"
+      ]
+    },
+    {
+      "id": "B1-U02-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "Has lived connects the starting year with now.",
+      "source_sentence": "Maya began living here in 2020 and still lives here.",
+      "keyword": "lived",
+      "target_sentence": "Maya ___ here since 2020.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "has lived"
+      ]
+    },
+    {
+      "id": "B1-U02-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces the length of the continuing period.",
+      "source_sentence": "I met Ben five years ago and we still know each other.",
+      "keyword": "for",
+      "target_sentence": "I have known Ben ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "for five years"
+      ]
+    },
+    {
+      "id": "B1-U02-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "How long asks about the continuing period.",
+      "source_sentence": "She began working here in May and still works here. Ask about the duration.",
+      "keyword": "long",
+      "target_sentence": "___ has she worked here?",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "How long"
+      ]
+    },
+    {
+      "id": "B1-U02-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U02"
+      ],
+      "explanation": "For introduces the duration.",
+      "source_sentence": "They started having this car two years ago and still have it.",
+      "keyword": "for",
+      "target_sentence": "They have had this car ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "for two years"
+      ]
+    }
+  ]
+}

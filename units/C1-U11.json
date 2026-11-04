@@ -1,0 +1,643 @@
+{
+  "id": "C1-U11",
+  "level": "C1",
+  "title": "Ellipsis and substitution in dialogue",
+  "order": 11,
+  "prerequisites": [
+    "C1-U10"
+  ],
+  "objectives": [
+    "Identify omitted or substituted material in dialogue.",
+    "Use appropriate auxiliaries in short answers.",
+    "Distinguish one from it and choose suitable clause substitutes."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Speakers often avoid repeating words that are easy to recover from the conversation. Ellipsis means leaving such words out: “Are you coming?” “I might.” The reply omits come because the preceding question makes the intended action clear. Substitution uses a short word or expression in place of something longer: “I need a pen.” “You can borrow this one.”",
+        "These choices make dialogue concise and natural. They depend on shared context; when the listener cannot recover what is omitted or replaced, a fuller sentence is clearer. Ellipsis in conversation does not mean that every word may be removed from a written sentence."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "After an auxiliary or modal, an understood verb phrase can be omitted: “She has finished, but I haven’t” means I have not finished. The auxiliary in the reply must still fit the tense or meaning: “Do you work here?” “Yes, I do”, but “Have you finished?” “Yes, I have”. A positive short answer normally uses a full form at the end: “Yes, I am”, not “Yes, I’m”.",
+        "Use one for a singular countable noun and ones for a plural countable noun when the intended type is clear: “The blue chair is comfortable; the red one is not.” The replacement normally refers to another chair, not necessarily the identical individual. Avoid using one directly for an uncountable noun in patterns such as “I need fresh water”, where “fresh one” is not a natural substitute for water."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "So and not can substitute for a clause after certain verbs: “Will it rain?” “I think so” and “I hope not.” The available negative pattern depends on the verb. “I don’t think so” is common; “I hope not” is also common, whereas “I don’t hope so” does not normally express the same expectation.",
+        "Do so can substitute for a previously mentioned action, particularly in formal or careful writing: “She promised to update the file and did so.” It refers back to update the file. In everyday dialogue, a short auxiliary response or a repeated verb may sound more natural, depending on the context."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume every auxiliary is interchangeable. “Has Lee left?” “Yes, she has” uses the auxiliary from the question; “Yes, she does” answers a different pattern. Similarly, “I hope so” and “I hope not” have different meanings, and a speaker’s intended attitude determines the answer.",
+        "Substitution can change reference. “I lost my pen and borrowed one” normally introduces another pen. “I lost my pen and found it” refers to the same pen. Context and the noun’s countability matter more than a mechanical rule to replace every repeated noun with one."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Are you coming? I might.",
+      "note": "Might stands without the recoverable verb phrase come."
+    },
+    {
+      "sentence": "Has Lee left? Yes, she has.",
+      "note": "Has remains in the positive short answer."
+    },
+    {
+      "sentence": "She has finished, but I haven’t.",
+      "note": "Finished is recoverable after the negative auxiliary."
+    },
+    {
+      "sentence": "The red chair is comfortable; the blue one is not.",
+      "note": "One substitutes for a singular countable noun."
+    },
+    {
+      "sentence": "These shoes are wet; the dry ones are upstairs.",
+      "note": "Ones substitutes for a plural countable noun."
+    },
+    {
+      "sentence": "Will it rain? I think so.",
+      "note": "So stands for the proposition that it will rain."
+    },
+    {
+      "sentence": "Will it rain? I hope not.",
+      "note": "Not stands for the negative outcome the speaker hopes for."
+    },
+    {
+      "sentence": "She promised to update the file and did so.",
+      "note": "Did so refers back to updating the file."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Has Lee left? Yes, she does.",
+      "correct": "Has Lee left? Yes, she has.",
+      "reason": "Use has in the short answer to this present perfect question."
+    },
+    {
+      "incorrect": "Is Sam ready? Yes, he’s.",
+      "correct": "Is Sam ready? Yes, he is.",
+      "reason": "A positive short answer normally ends in the full form is."
+    },
+    {
+      "incorrect": "I need fresh water, not stale one.",
+      "correct": "I need fresh water, not stale water.",
+      "reason": "One does not naturally replace uncountable water in this pattern."
+    }
+  ],
+  "summary": [
+    "Ellipsis leaves recoverable words unspoken; substitution replaces them with a shorter form.",
+    "Match the auxiliary in a short answer to the question.",
+    "Choose one, ones, so or not according to the reference and context."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U11-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Has Lee left? Yes, she ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Has matches the present perfect question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“does” does not fit here. Has matches the present perfect question.",
+        "b": "“is” does not fit here. Has matches the present perfect question.",
+        "c": "“has” fits here. Has matches the present perfect question.",
+        "d": "“did” does not fit here. Has matches the present perfect question."
+      }
+    },
+    {
+      "id": "C1-U11-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Is Sam ready? Yes, he ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "A positive short answer ends in the full form is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "he’s"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“is” fits here. A positive short answer ends in the full form is.",
+        "b": "“he’s” does not fit here. A positive short answer ends in the full form is.",
+        "c": "“does” does not fit here. A positive short answer ends in the full form is.",
+        "d": "“has” does not fit here. A positive short answer ends in the full form is."
+      }
+    },
+    {
+      "id": "C1-U11-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The blue chair is broken; the red ___ is fine.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "One substitutes for a singular countable chair.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ones"
+        },
+        {
+          "id": "b",
+          "text": "it"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "one"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“ones” does not fit here. One substitutes for a singular countable chair.",
+        "b": "“it” does not fit here. One substitutes for a singular countable chair.",
+        "c": "“so” does not fit here. One substitutes for a singular countable chair.",
+        "d": "“one” fits here. One substitutes for a singular countable chair."
+      }
+    },
+    {
+      "id": "C1-U11-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "These shoes are wet; the dry ___ are upstairs.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Ones substitutes for the plural countable noun shoes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "one"
+        },
+        {
+          "id": "b",
+          "text": "ones"
+        },
+        {
+          "id": "c",
+          "text": "it"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“one” does not fit here. Ones substitutes for the plural countable noun shoes.",
+        "b": "“ones” fits here. Ones substitutes for the plural countable noun shoes.",
+        "c": "“it” does not fit here. Ones substitutes for the plural countable noun shoes.",
+        "d": "“so” does not fit here. Ones substitutes for the plural countable noun shoes."
+      }
+    },
+    {
+      "id": "C1-U11-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Will it rain? I hope ___. I want a dry day.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "I hope not expresses a wish that it will not rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "not"
+        },
+        {
+          "id": "c",
+          "text": "one"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“so” does not fit here. I hope not expresses a wish that it will not rain.",
+        "b": "“not” fits here. I hope not expresses a wish that it will not rain.",
+        "c": "“one” does not fit here. I hope not expresses a wish that it will not rain.",
+        "d": "“does” does not fit here. I hope not expresses a wish that it will not rain."
+      }
+    },
+    {
+      "id": "C1-U11-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I lost my pen and found ___. Refer to the same pen.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "It refers back to the same pen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it"
+        },
+        {
+          "id": "b",
+          "text": "one"
+        },
+        {
+          "id": "c",
+          "text": "ones"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“it” fits here. It refers back to the same pen.",
+        "b": "“one” does not fit here. It refers back to the same pen.",
+        "c": "“ones” does not fit here. It refers back to the same pen.",
+        "d": "“so” does not fit here. It refers back to the same pen."
+      }
+    },
+    {
+      "id": "C1-U11-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She promised to update the file and did ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Did so substitutes for the action update the file.",
+      "options": [
+        {
+          "id": "a",
+          "text": "one"
+        },
+        {
+          "id": "b",
+          "text": "it is"
+        },
+        {
+          "id": "c",
+          "text": "not one"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“one” does not fit here. Did so substitutes for the action update the file.",
+        "b": "“it is” does not fit here. Did so substitutes for the action update the file.",
+        "c": "“not one” does not fit here. Did so substitutes for the action update the file.",
+        "d": "“so” fits here. Did so substitutes for the action update the file."
+      }
+    },
+    {
+      "id": "C1-U11-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which reply naturally means “I think it will rain”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "So substitutes for the proposition that it will rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I think one."
+        },
+        {
+          "id": "b",
+          "text": "I think not rain."
+        },
+        {
+          "id": "c",
+          "text": "I think so."
+        },
+        {
+          "id": "d",
+          "text": "I think it not."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“I think one.” does not fit here. So substitutes for the proposition that it will rain.",
+        "b": "“I think not rain.” does not fit here. So substitutes for the proposition that it will rain.",
+        "c": "“I think so.” fits here. So substitutes for the proposition that it will rain.",
+        "d": "“I think it not.” does not fit here. So substitutes for the proposition that it will rain."
+      }
+    },
+    {
+      "id": "C1-U11-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Have they arrived? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Have matches the present perfect question.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U11-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Does she teach here? Yes, she ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Does matches the present simple question.",
+      "accepted_answers": [
+        "does"
+      ]
+    },
+    {
+      "id": "C1-U11-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I prefer the green cup to the blue ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "One substitutes for the singular countable noun cup.",
+      "accepted_answers": [
+        "one"
+      ]
+    },
+    {
+      "id": "C1-U11-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The old files are missing; the new ___ are here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Ones substitutes for plural files.",
+      "accepted_answers": [
+        "ones"
+      ]
+    },
+    {
+      "id": "C1-U11-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Will it rain? I think ___. The forecast predicts rain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "So stands for the proposition that it will rain.",
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "C1-U11-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Will it rain? I hope ___. I want a dry day.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Hope not expresses the desired negative outcome.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "C1-U11-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She promised to update the file and did ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Did so substitutes for updating the file.",
+      "accepted_answers": [
+        "so"
+      ]
+    },
+    {
+      "id": "C1-U11-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I lost the key but found ___ later. Refer to the same key.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "It refers to the same key.",
+      "accepted_answers": [
+        "it"
+      ]
+    },
+    {
+      "id": "C1-U11-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: does",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Has matches the present perfect question.",
+      "source_sentence": "Has Lee left? Yes, she does.",
+      "target_segment": "does",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "C1-U11-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: they’re",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Use the full form at the end of this positive short answer.",
+      "source_sentence": "Are they ready? Yes, they’re.",
+      "target_segment": "they’re",
+      "accepted_answers": [
+        "they are"
+      ]
+    },
+    {
+      "id": "C1-U11-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: one",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Ones substitutes for the plural noun chairs.",
+      "source_sentence": "The old chairs are broken; the new one are fine.",
+      "target_segment": "one",
+      "accepted_answers": [
+        "ones"
+      ]
+    },
+    {
+      "id": "C1-U11-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Refer to the same pen. Replace: one",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "It identifies the original pen; one normally refers to another pen.",
+      "source_sentence": "I lost my pen and found one.",
+      "target_segment": "one",
+      "accepted_answers": [
+        "it"
+      ]
+    },
+    {
+      "id": "C1-U11-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Have not or haven’t retains the auxiliary and omits finished.",
+      "source_sentence": "She has finished, but I have not finished. Omit the repeated verb.",
+      "keyword": null,
+      "target_sentence": "She has finished, but I ___.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "have not",
+        "haven’t"
+      ]
+    },
+    {
+      "id": "C1-U11-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "One substitutes for chair and is agrees with it.",
+      "source_sentence": "The red chair is broken, but the blue chair is fine. Substitute for chair.",
+      "keyword": "one",
+      "target_sentence": "The red chair is broken, but the blue ___ fine.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "one is"
+      ]
+    },
+    {
+      "id": "C1-U11-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Did so substitutes for contacted us.",
+      "source_sentence": "They promised to contact us and they contacted us. Use do so.",
+      "keyword": "so",
+      "target_sentence": "They promised to contact us and ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "did so"
+      ]
+    },
+    {
+      "id": "C1-U11-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U11"
+      ],
+      "explanation": "Hope not expresses the wish that the train will not be late.",
+      "source_sentence": "Will the train be late? I hope it will not be late. Use a short reply.",
+      "keyword": "not",
+      "target_sentence": "Will the train be late? I ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "hope not"
+      ]
+    }
+  ]
+}

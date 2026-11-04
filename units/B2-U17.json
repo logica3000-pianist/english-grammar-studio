@@ -1,0 +1,642 @@
+{
+  "id": "B2-U17",
+  "level": "B2",
+  "title": "Participle clauses and shared subjects",
+  "order": 17,
+  "prerequisites": [
+    "B2-U16"
+  ],
+  "objectives": [
+    "Identify the understood subject of a participle clause.",
+    "Use -ing, past participle and having forms in suitable contexts.",
+    "Revise dangling or unclear modifiers."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A participle clause is a non-finite clause built around an -ing form or a past participle. It can add background information about time, reason or manner: ‘Walking home, Maya noticed a new café’. The walking and noticing are understood to involve Maya. The exact relationship is often supplied by the context rather than by a linking word.",
+        "A perfect participle clause with having plus a past participle can make an earlier action explicit: ‘Having checked the address, Maya set off’. The checking happened before the departure. Participle clauses are more common in written narratives and formal descriptions than in spontaneous everyday speech."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "An opening -ing clause normally shares its understood subject with the subject of the main clause: ‘Knowing the route, Ben offered to drive’. Ben is the person who knew the route and offered to drive. A past participle can express a passive relationship: ‘Built in 1900, the bridge is still in use’. The bridge was built.",
+        "Use having plus a past participle to emphasise that one action was completed before another: ‘Having finished the report, she sent it’. A passive perfect participle uses having been plus a participle: ‘Having been checked twice, the document was sent’. Commas normally separate an introductory participle clause from the main clause."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Checking the address, Maya noticed an error’ with ‘Having checked the address, Maya set off’. The first presents checking as background to noticing. The second explicitly places completed checking before the departure. A finite clause can make the relationship clearer: ‘After Maya had checked the address, she set off’.",
+        "A participle clause does not always identify its own subject. For clarity, the reader normally takes the main clause subject as its understood subject. In ‘Walking through the park, Maya saw a fox’, Maya was walking. If a different person was walking, use a fuller clause: ‘While Ben was walking through the park, Maya saw him’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid dangling modifiers: ‘Walking through the park, a fox appeared’ makes a fox the apparent walker, which is probably not intended. Write ‘Walking through the park, Maya saw a fox’ if Maya was walking. The issue is an unclear or illogical subject, not a ban on -ing clauses.",
+        "Do not assume every participle clause can replace every finite clause without changing the meaning or register. An explicit because, while or after may be clearer when the relationship matters. Some established introductory expressions do not follow the ordinary shared-subject pattern, but the controlled examples here use clearly shared subjects."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Walking home, Maya noticed a new café.",
+      "note": "Maya is understood to be walking."
+    },
+    {
+      "sentence": "Knowing the route, Ben offered to drive.",
+      "note": "Ben is understood to know the route."
+    },
+    {
+      "sentence": "Having checked the address, Maya set off.",
+      "note": "The perfect participle makes the earlier checking explicit."
+    },
+    {
+      "sentence": "Built in 1900, the bridge is still in use.",
+      "note": "The bridge was built; the participle has a passive relationship."
+    },
+    {
+      "sentence": "Having finished the report, she sent it.",
+      "note": "Finishing preceded sending."
+    },
+    {
+      "sentence": "Having been checked twice, the document was sent.",
+      "note": "The document received the checking."
+    },
+    {
+      "sentence": "While Ben was walking, Maya saw him.",
+      "note": "A finite clause makes the different subject explicit."
+    },
+    {
+      "sentence": "After she had checked the address, Maya set off.",
+      "note": "After explicitly states the time relationship."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Walking through the park, a fox appeared to Maya.",
+      "correct": "Walking through the park, Maya saw a fox.",
+      "reason": "The correction makes Maya the understood walker."
+    },
+    {
+      "incorrect": "Having check the address, Maya set off.",
+      "correct": "Having checked the address, Maya set off.",
+      "reason": "Use the past participle after having."
+    },
+    {
+      "incorrect": "Built in 1900, the council still uses the bridge.",
+      "correct": "Built in 1900, the bridge is still used by the council.",
+      "reason": "The bridge, not the council, is the entity built."
+    }
+  ],
+  "summary": [
+    "An opening participle clause normally shares its understood subject with the main clause.",
+    "Having plus a participle can explicitly mark an earlier completed action.",
+    "Use a finite clause when it makes a different subject or relationship clearer."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U17-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya was walking home. Choose the sentence with the intended shared subject.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Maya is the understood walker and the subject of noticed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Walking home, a café noticed Maya."
+        },
+        {
+          "id": "b",
+          "text": "Walking home, a café was noticed by Maya."
+        },
+        {
+          "id": "c",
+          "text": "Walking home, the street noticed a café."
+        },
+        {
+          "id": "d",
+          "text": "Walking home, Maya noticed a café."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Walking home, a café noticed Maya.” does not fit here. Maya is the understood walker and the subject of noticed.",
+        "b": "“Walking home, a café was noticed by Maya.” does not fit here. Maya is the understood walker and the subject of noticed.",
+        "c": "“Walking home, the street noticed a café.” does not fit here. Maya is the understood walker and the subject of noticed.",
+        "d": "“Walking home, Maya noticed a café.” fits here. Maya is the understood walker and the subject of noticed."
+      }
+    },
+    {
+      "id": "B2-U17-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The bridge was built in 1900. Choose the natural opening.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "The bridge is the entity built.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Built in 1900, the bridge is still in use."
+        },
+        {
+          "id": "b",
+          "text": "Building in 1900, the bridge is still in use."
+        },
+        {
+          "id": "c",
+          "text": "Built in 1900, the council still uses the bridge."
+        },
+        {
+          "id": "d",
+          "text": "Having build in 1900, the bridge is still in use."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Built in 1900, the bridge is still in use.” fits here. The bridge is the entity built.",
+        "b": "“Building in 1900, the bridge is still in use.” does not fit here. The bridge is the entity built.",
+        "c": "“Built in 1900, the council still uses the bridge.” does not fit here. The bridge is the entity built.",
+        "d": "“Having build in 1900, the bridge is still in use.” does not fit here. The bridge is the entity built."
+      }
+    },
+    {
+      "id": "B2-U17-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She completed the report and then sent it. Choose the form that makes completion before sending explicit.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having finished marks the earlier completed action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Finishing the report, the email sent her."
+        },
+        {
+          "id": "b",
+          "text": "Having finished the report, she sent it."
+        },
+        {
+          "id": "c",
+          "text": "Having finish the report, she sent it."
+        },
+        {
+          "id": "d",
+          "text": "Finished the report, she sent it."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Finishing the report, the email sent her.” does not fit here. Having finished marks the earlier completed action.",
+        "b": "“Having finished the report, she sent it.” fits here. Having finished marks the earlier completed action.",
+        "c": "“Having finish the report, she sent it.” does not fit here. Having finished marks the earlier completed action.",
+        "d": "“Finished the report, she sent it.” does not fit here. Having finished marks the earlier completed action."
+      }
+    },
+    {
+      "id": "B2-U17-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The document was checked twice before being sent. Choose the passive perfect participle clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having been checked presents the document as receiving the earlier checks.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Having checked twice, the document sent."
+        },
+        {
+          "id": "b",
+          "text": "Being check twice, the document was sent."
+        },
+        {
+          "id": "c",
+          "text": "Having been checked twice, the document was sent."
+        },
+        {
+          "id": "d",
+          "text": "Having being checked twice, the document was sent."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Having checked twice, the document sent.” does not fit here. Having been checked presents the document as receiving the earlier checks.",
+        "b": "“Being check twice, the document was sent.” does not fit here. Having been checked presents the document as receiving the earlier checks.",
+        "c": "“Having been checked twice, the document was sent.” fits here. Having been checked presents the document as receiving the earlier checks.",
+        "d": "“Having being checked twice, the document was sent.” does not fit here. Having been checked presents the document as receiving the earlier checks."
+      }
+    },
+    {
+      "id": "B2-U17-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Who is understood to know the route? “Knowing the route, Ben offered to drive.”",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "The understood subject normally matches the main subject Ben.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The car."
+        },
+        {
+          "id": "b",
+          "text": "Ben."
+        },
+        {
+          "id": "c",
+          "text": "An unnamed passenger."
+        },
+        {
+          "id": "d",
+          "text": "The route."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The car.” does not fit here. The understood subject normally matches the main subject Ben.",
+        "b": "“Ben.” fits here. The understood subject normally matches the main subject Ben.",
+        "c": "“An unnamed passenger.” does not fit here. The understood subject normally matches the main subject Ben.",
+        "d": "“The route.” does not fit here. The understood subject normally matches the main subject Ben."
+      }
+    },
+    {
+      "id": "B2-U17-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ben was walking; Maya saw him. Choose the sentence that makes both subjects explicit.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "The finite while clause identifies Ben as the walker.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Walking, Maya saw him."
+        },
+        {
+          "id": "b",
+          "text": "Walking, a tree saw Ben."
+        },
+        {
+          "id": "c",
+          "text": "Having walked, Maya saw Ben yesterday always."
+        },
+        {
+          "id": "d",
+          "text": "While Ben was walking, Maya saw him."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Walking, Maya saw him.” does not fit here. The finite while clause identifies Ben as the walker.",
+        "b": "“Walking, a tree saw Ben.” does not fit here. The finite while clause identifies Ben as the walker.",
+        "c": "“Having walked, Maya saw Ben yesterday always.” does not fit here. The finite while clause identifies Ben as the walker.",
+        "d": "“While Ben was walking, Maya saw him.” fits here. The finite while clause identifies Ben as the walker."
+      }
+    },
+    {
+      "id": "B2-U17-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence contains a dangling opening modifier in the intended meaning that Maya was walking?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "The apparent subject a fox does not match the intended walker Maya.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Walking through the park, Maya saw a fox."
+        },
+        {
+          "id": "b",
+          "text": "While Maya was walking, a fox appeared."
+        },
+        {
+          "id": "c",
+          "text": "Walking through the park, a fox appeared to Maya."
+        },
+        {
+          "id": "d",
+          "text": "Maya saw a fox while she walked through the park."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Walking through the park, Maya saw a fox.” does not fit here. The apparent subject a fox does not match the intended walker Maya.",
+        "b": "“While Maya was walking, a fox appeared.” does not fit here. The apparent subject a fox does not match the intended walker Maya.",
+        "c": "“Walking through the park, a fox appeared to Maya.” fits here. The apparent subject a fox does not match the intended walker Maya.",
+        "d": "“Maya saw a fox while she walked through the park.” does not fit here. The apparent subject a fox does not match the intended walker Maya."
+      }
+    },
+    {
+      "id": "B2-U17-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the perfect participle correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having is followed by the past participle checked.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Having checked the address, she left."
+        },
+        {
+          "id": "b",
+          "text": "Having check the address, she left."
+        },
+        {
+          "id": "c",
+          "text": "Having been check the address, she left."
+        },
+        {
+          "id": "d",
+          "text": "Having checks the address, she left."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Having checked the address, she left.” fits here. Having is followed by the past participle checked.",
+        "b": "“Having check the address, she left.” does not fit here. Having is followed by the past participle checked.",
+        "c": "“Having been check the address, she left.” does not fit here. Having is followed by the past participle checked.",
+        "d": "“Having checks the address, she left.” does not fit here. Having is followed by the past participle checked."
+      }
+    },
+    {
+      "id": "B2-U17-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: ___ home, Maya noticed a café. (walk)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Walking shares its understood subject with Maya.",
+      "accepted_answers": [
+        "Walking"
+      ]
+    },
+    {
+      "id": "B2-U17-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the perfect participle: Having ___ the address, Maya set off. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Use the past participle after having.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U17-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past participle: ___ in 1900, the bridge is still in use. (build)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Built describes the bridge as the entity built.",
+      "accepted_answers": [
+        "Built"
+      ]
+    },
+    {
+      "id": "B2-U17-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the passive perfect participle: Having ___ checked, the document was sent.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having been plus a participle forms the passive perfect clause.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U17-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: Having been ___ twice, the document was sent. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Checked follows having been.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U17-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the -ing form: ___ the route, Ben offered to drive. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Knowing has Ben as its understood subject.",
+      "accepted_answers": [
+        "Knowing"
+      ]
+    },
+    {
+      "id": "B2-U17-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the finite clause: While Ben was walking, Maya saw ___. Use an object pronoun for Ben.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Him refers to Ben as the object of saw.",
+      "accepted_answers": [
+        "him"
+      ]
+    },
+    {
+      "id": "B2-U17-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the perfect participle: Having ___ the report, she sent it. (finish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Finished is the participle after having.",
+      "accepted_answers": [
+        "finished"
+      ]
+    },
+    {
+      "id": "B2-U17-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Use the past participle after having.",
+      "source_sentence": "Having check the address, Maya set off.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U17-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Use the past participle after having been.",
+      "source_sentence": "Having been check twice, the document was sent.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U17-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Maya was walking. Replace: a fox appeared to Maya",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Make Maya the main subject to match the intended walker.",
+      "source_sentence": "Walking through the park, a fox appeared to Maya.",
+      "target_segment": "a fox appeared to Maya",
+      "accepted_answers": [
+        "Maya saw a fox"
+      ]
+    },
+    {
+      "id": "B2-U17-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "The bridge was built. Replace: the council still uses the bridge",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Make the bridge the main subject to match the entity built.",
+      "source_sentence": "Built in 1900, the council still uses the bridge.",
+      "target_segment": "the council still uses the bridge",
+      "accepted_answers": [
+        "the bridge is still used by the council"
+      ]
+    },
+    {
+      "id": "B2-U17-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having checked makes the earlier completion explicit.",
+      "source_sentence": "Maya checked the address. She then set off. Use a perfect participle clause.",
+      "keyword": "checked",
+      "target_sentence": "___ the address, Maya set off.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Having checked"
+      ]
+    },
+    {
+      "id": "B2-U17-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Built describes the bridge as the entity built.",
+      "source_sentence": "The bridge was built in 1900. It is still in use.",
+      "keyword": "Built",
+      "target_sentence": "___ in 1900, the bridge is still in use.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Built"
+      ]
+    },
+    {
+      "id": "B2-U17-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having finished places completion before sending.",
+      "source_sentence": "She finished the report. Then she sent it. Use having.",
+      "keyword": "Having",
+      "target_sentence": "___ the report, she sent it.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Having finished"
+      ]
+    },
+    {
+      "id": "B2-U17-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U17"
+      ],
+      "explanation": "Having been checked describes the earlier checks received by the document.",
+      "source_sentence": "The document was checked twice. Then it was sent. Use a passive perfect participle.",
+      "keyword": "checked",
+      "target_sentence": "___ twice, the document was sent.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Having been checked"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "B2-U16",
+  "level": "B2",
+  "title": "Advanced relative clauses and prepositions",
+  "order": 16,
+  "prerequisites": [
+    "B2-U15"
+  ],
+  "objectives": [
+    "Form relative clauses with stranded and fronted prepositions.",
+    "Choose whom or which after a fronted preposition.",
+    "Distinguish location from direction in relative clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A relative clause can contain a preposition related to its verb or adjective. In ‘the colleague who I spoke to’, to belongs to speak to. The relative word refers to the colleague, and the preposition remains at the end of the clause. This position is common in conversation and informal writing.",
+        "A more formal alternative places the preposition before whom or which: ‘the colleague to whom I spoke’ and ‘the proposal about which we spoke’. In these patterns, whom refers to a person and which to a thing. Moving the preposition changes the register, not necessarily the core meaning."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In a defining clause, an object relative pronoun can often be omitted when the preposition stays at the end: ‘the colleague I spoke to’ and ‘the proposal we discussed’. With a stranded preposition, who, whom or that may refer to a person, and which or that may refer to a thing: ‘the person who/that I spoke to’ and ‘the subject which/that we spoke about’.",
+        "When the preposition comes before the relative pronoun, use whom for a person and which for a thing in standard formal English: ‘the colleague to whom I spoke’ and ‘the subject about which we spoke’. Do not place that directly after the preposition in this pattern. In non-defining clauses, commas set off extra information and the relative pronoun is not normally omitted."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The organisation that she works for supports artists’ with ‘The organisation for which she works supports artists’. The first is common in everyday English. The second is more formal. Both identify an organisation, but the verb pattern work for still determines the preposition for.",
+        "Where can replace in which or at which for many place references: ‘the office where I work’ and ‘the office in which I work’. Do not assume where can replace every preposition: ‘the city to which she moved’ expresses direction, while ‘the city where she lived’ expresses location. The meaning of the preposition matters."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a preposition before that in the formal pattern: ‘the topic about which we spoke’, not ‘the topic about that we spoke’. With that, leave the preposition at the end: ‘the topic that we spoke about’. Do not repeat the relative reference with an extra object: ‘the colleague who I spoke to’, not ‘the colleague who I spoke to her’.",
+        "A sentence-final preposition is standard English and is often the natural choice in speech. Fronting the preposition can be appropriate in formal prose but may sound overly formal in everyday conversation. Some phrasal verbs do not lend themselves naturally to fronting: ‘the child she looks after’ is natural; ‘the child after whom she looks’ is awkward for many speakers."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The colleague who I spoke to called.",
+      "note": "The preposition is stranded at the end of the defining clause."
+    },
+    {
+      "sentence": "The colleague to whom I spoke called.",
+      "note": "Fronted to whom is a more formal alternative."
+    },
+    {
+      "sentence": "The topic that we spoke about was useful.",
+      "note": "That is possible with the preposition at the end."
+    },
+    {
+      "sentence": "The topic about which we spoke was useful.",
+      "note": "About which is a formal fronted pattern."
+    },
+    {
+      "sentence": "The office where I work is nearby.",
+      "note": "Where refers to a place."
+    },
+    {
+      "sentence": "The office in which I work is nearby.",
+      "note": "In which is a more formal location pattern."
+    },
+    {
+      "sentence": "The organisation for which she works supports artists.",
+      "note": "The verb pattern is work for."
+    },
+    {
+      "sentence": "The child she looks after is asleep.",
+      "note": "The object relative pronoun is omitted in a natural everyday pattern."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The topic about that we spoke was useful.",
+      "correct": "The topic about which we spoke was useful.",
+      "reason": "Use which after a fronted preposition in this formal pattern."
+    },
+    {
+      "incorrect": "The colleague who I spoke to her called.",
+      "correct": "The colleague who I spoke to called.",
+      "reason": "Do not repeat the relative reference with her."
+    },
+    {
+      "incorrect": "The office in where I work is nearby.",
+      "correct": "The office where I work is nearby.",
+      "reason": "Use where or in which for this location pattern."
+    }
+  ],
+  "summary": [
+    "A preposition may remain at the end of a relative clause or appear before whom or which in a formal pattern.",
+    "Do not use that directly after a fronted preposition in standard formal English.",
+    "Where can express a place relationship, but the intended preposition and meaning matter."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U16-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The colleague ___ I spoke called. Choose the formal fronted pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use to whom for a person after the fronted preposition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to whom"
+        },
+        {
+          "id": "b",
+          "text": "to who"
+        },
+        {
+          "id": "c",
+          "text": "to that"
+        },
+        {
+          "id": "d",
+          "text": "to where"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“to whom” fits here. Use to whom for a person after the fronted preposition.",
+        "b": "“to who” does not fit here. Use to whom for a person after the fronted preposition.",
+        "c": "“to that” does not fit here. Use to whom for a person after the fronted preposition.",
+        "d": "“to where” does not fit here. Use to whom for a person after the fronted preposition."
+      }
+    },
+    {
+      "id": "B2-U16-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The topic ___ we spoke was useful. Choose the formal fronted pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use about which for the thing after the fronted preposition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "about that"
+        },
+        {
+          "id": "b",
+          "text": "about who"
+        },
+        {
+          "id": "c",
+          "text": "about which"
+        },
+        {
+          "id": "d",
+          "text": "about where"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“about that” does not fit here. Use about which for the thing after the fronted preposition.",
+        "b": "“about who” does not fit here. Use about which for the thing after the fronted preposition.",
+        "c": "“about which” fits here. Use about which for the thing after the fronted preposition.",
+        "d": "“about where” does not fit here. Use about which for the thing after the fronted preposition."
+      }
+    },
+    {
+      "id": "B2-U16-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The office ___ I work is nearby. Choose where or whom.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Where refers to the place of work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "whose roof"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“whom” does not fit here. Where refers to the place of work.",
+        "b": "“whose roof” does not fit here. Where refers to the place of work.",
+        "c": "“who” does not fit here. Where refers to the place of work.",
+        "d": "“where” fits here. Where refers to the place of work."
+      }
+    },
+    {
+      "id": "B2-U16-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The organisation ___ she works supports artists. Use the everyday stranded pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "That can be used with for at the end.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for that she works"
+        },
+        {
+          "id": "b",
+          "text": "that she works for"
+        },
+        {
+          "id": "c",
+          "text": "which for she works"
+        },
+        {
+          "id": "d",
+          "text": "for who she works"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“for that she works” does not fit here. That can be used with for at the end.",
+        "b": "“that she works for” fits here. That can be used with for at the end.",
+        "c": "“which for she works” does not fit here. That can be used with for at the end.",
+        "d": "“for who she works” does not fit here. That can be used with for at the end."
+      }
+    },
+    {
+      "id": "B2-U16-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The city ___ she moved is far away. Choose the formal expression of direction.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "To which expresses the direction of the move.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where she moved from to"
+        },
+        {
+          "id": "b",
+          "text": "in where"
+        },
+        {
+          "id": "c",
+          "text": "at whom"
+        },
+        {
+          "id": "d",
+          "text": "to which"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“where she moved from to” does not fit here. To which expresses the direction of the move.",
+        "b": "“in where” does not fit here. To which expresses the direction of the move.",
+        "c": "“at whom” does not fit here. To which expresses the direction of the move.",
+        "d": "“to which” fits here. To which expresses the direction of the move."
+      }
+    },
+    {
+      "id": "B2-U16-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is natural in everyday English?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "The object pronoun can be omitted and after remains with looks.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child after that she looks is asleep."
+        },
+        {
+          "id": "b",
+          "text": "The child she looks after is asleep."
+        },
+        {
+          "id": "c",
+          "text": "The child she looks after her is asleep."
+        },
+        {
+          "id": "d",
+          "text": "The child after she looks whom is asleep."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The child after that she looks is asleep.” does not fit here. The object pronoun can be omitted and after remains with looks.",
+        "b": "“The child she looks after is asleep.” fits here. The object pronoun can be omitted and after remains with looks.",
+        "c": "“The child she looks after her is asleep.” does not fit here. The object pronoun can be omitted and after remains with looks.",
+        "d": "“The child after she looks whom is asleep.” does not fit here. The object pronoun can be omitted and after remains with looks."
+      }
+    },
+    {
+      "id": "B2-U16-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses a fronted preposition correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Formal fronting uses to whom for a person.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The colleague to that I spoke called."
+        },
+        {
+          "id": "b",
+          "text": "The colleague to who I spoke called."
+        },
+        {
+          "id": "c",
+          "text": "The colleague to whom I spoke called."
+        },
+        {
+          "id": "d",
+          "text": "The colleague whom to I spoke called."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The colleague to that I spoke called.” does not fit here. Formal fronting uses to whom for a person.",
+        "b": "“The colleague to who I spoke called.” does not fit here. Formal fronting uses to whom for a person.",
+        "c": "“The colleague to whom I spoke called.” fits here. Formal fronting uses to whom for a person.",
+        "d": "“The colleague whom to I spoke called.” does not fit here. Formal fronting uses to whom for a person."
+      }
+    },
+    {
+      "id": "B2-U16-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly uses that with a stranded preposition?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "That is possible with about at the end and no repeated object.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The topic that we spoke about was useful."
+        },
+        {
+          "id": "b",
+          "text": "The topic about that we spoke was useful."
+        },
+        {
+          "id": "c",
+          "text": "The topic that about we spoke was useful."
+        },
+        {
+          "id": "d",
+          "text": "The topic that we spoke about it was useful."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The topic that we spoke about was useful.” fits here. That is possible with about at the end and no repeated object.",
+        "b": "“The topic about that we spoke was useful.” does not fit here. That is possible with about at the end and no repeated object.",
+        "c": "“The topic that about we spoke was useful.” does not fit here. That is possible with about at the end and no repeated object.",
+        "d": "“The topic that we spoke about it was useful.” does not fit here. That is possible with about at the end and no repeated object."
+      }
+    },
+    {
+      "id": "B2-U16-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the formal fronted form: The colleague to ___ I spoke called.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use whom after a fronted preposition for a person.",
+      "accepted_answers": [
+        "whom"
+      ]
+    },
+    {
+      "id": "B2-U16-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the formal fronted form: The topic about ___ we spoke was useful.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use which after a fronted preposition for a thing.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U16-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use where: The office ___ I work is nearby.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Where refers to the place.",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B2-U16-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the everyday pattern: The organisation that she works ___ supports artists.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Work for introduces the organisation.",
+      "accepted_answers": [
+        "for"
+      ]
+    },
+    {
+      "id": "B2-U16-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the everyday pattern: The colleague who I spoke ___ called.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Speak to introduces the person.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U16-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use which: The office in ___ I work is nearby.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "In which expresses the location formally.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U16-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use which: The city to ___ she moved is far away.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "To which expresses direction formally.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U16-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the everyday pattern: The child she looks ___ is asleep.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Look after is the verb pattern.",
+      "accepted_answers": [
+        "after"
+      ]
+    },
+    {
+      "id": "B2-U16-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use which after a fronted preposition in this formal pattern.",
+      "source_sentence": "The topic about that we spoke was useful.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U16-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to her",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Do not repeat the relative reference with her.",
+      "source_sentence": "The colleague who I spoke to her called.",
+      "target_segment": "to her",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B2-U16-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: in where",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use where or in which for this location.",
+      "source_sentence": "The office in where I work is nearby.",
+      "target_segment": "in where",
+      "accepted_answers": [
+        "where",
+        "in which"
+      ]
+    },
+    {
+      "id": "B2-U16-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Use which after the fronted preposition.",
+      "source_sentence": "The organisation for that she works supports artists.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U16-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "To whom introduces the formal relative clause.",
+      "source_sentence": "I spoke to a colleague. The colleague called. Use the formal fronted pattern.",
+      "keyword": "whom",
+      "target_sentence": "The colleague ___ called.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "to whom I spoke"
+      ]
+    },
+    {
+      "id": "B2-U16-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "About which introduces the formal relative clause.",
+      "source_sentence": "We spoke about a topic. The topic was useful. Use the formal fronted pattern.",
+      "keyword": "which",
+      "target_sentence": "The topic ___ was useful.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "about which we spoke"
+      ]
+    },
+    {
+      "id": "B2-U16-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "Where introduces the location clause.",
+      "source_sentence": "I work in an office. The office is nearby. Use where.",
+      "keyword": "where",
+      "target_sentence": "The office ___ is nearby.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "where I work"
+      ]
+    },
+    {
+      "id": "B2-U16-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U16"
+      ],
+      "explanation": "That is followed by the clause with for at the end.",
+      "source_sentence": "She works for an organisation. The organisation supports artists. Use that and leave the preposition at the end.",
+      "keyword": "that",
+      "target_sentence": "The organisation ___ supports artists.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "that she works for"
+      ]
+    }
+  ]
+}

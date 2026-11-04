@@ -1,0 +1,642 @@
+{
+  "id": "C1-U24",
+  "level": "C1",
+  "title": "Ambiguity, reference and sentence revision",
+  "order": 24,
+  "prerequisites": [
+    "C1-U23"
+  ],
+  "objectives": [
+    "Identify multiple possible referents.",
+    "Revise modifier attachment and implied subjects.",
+    "Distinguish different scopes of only."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Ambiguity occurs when a sentence allows more than one interpretation. Some ambiguity is harmless or intentional, but in instructions and reports it can cause a reader to assign an action, description or pronoun to the wrong person or thing. Revision begins by identifying the intended meaning, not simply by choosing the shortest sentence.",
+        "Consider “Maya told Lina that she had won.” The pronoun she could refer to Maya or Lina. If the intended winner is Maya, “Maya told Lina, ‘I have won’” makes the reference explicit in direct speech. Another rewrite may be suitable, but it must preserve the intended relationship."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A modifier can also attach to more than one noun. “The report on the survey published in May” can suggest that either the report or the survey was published in May. “The report published in May about the survey” makes the report the published item. If the survey was published, “the report about the survey that was published in May” gives a clearer alternative.",
+        "Placement affects the scope of words such as only. “Only Nia checked the figures” restricts who checked them. “Nia checked only the figures” restricts what she checked. In natural speech, intonation can influence interpretation, so a writer should use context or an explicit paraphrase when the distinction matters."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "A participial clause should make its understood actor clear. “After checking the measurements, the engineer signed the form” identifies the engineer as the checker. “After checking the measurements, the form was signed” leaves the checker unclear and can produce an unintended interpretation. A full clause can name the actor: “After the engineer checked the measurements, the form was signed.”",
+        "Reference words can point to whole events as well as nouns. “The panel revised the budget and delayed the vote. This caused concern” leaves this potentially ambiguous. “The delay caused concern” specifies the intended event. Check that the chosen summary noun does not change the original claim."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not repair ambiguity by introducing information that the source never established. If a sentence does not identify who won, a rewrite naming a winner adds an assumption. Where the intended meaning is supplied separately, choose the version that matches it; otherwise retain the ambiguity or seek context.",
+        "A pronoun near a noun does not invariably refer to that noun. Meaning, grammar and discourse all contribute. Similarly, punctuation can help signal structure but cannot reliably resolve every unclear relationship. Read the revised sentence in its full context and check that the reader can recover the intended referent."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya told Lina that she had won.",
+      "note": "She could refer to either named person without further context."
+    },
+    {
+      "sentence": "Maya told Lina, “I have won.”",
+      "note": "Direct speech makes Maya the speaker who says she has won."
+    },
+    {
+      "sentence": "Only Nia checked the figures.",
+      "note": "Only restricts the person who checked them."
+    },
+    {
+      "sentence": "Nia checked only the figures.",
+      "note": "Only restricts the things Nia checked."
+    },
+    {
+      "sentence": "The report published in May described the survey.",
+      "note": "Published in May modifies the report."
+    },
+    {
+      "sentence": "The report described the survey that was published in May.",
+      "note": "The relative clause identifies the survey as the published item."
+    },
+    {
+      "sentence": "After checking the measurements, the engineer signed the form.",
+      "note": "The engineer is the understood checker."
+    },
+    {
+      "sentence": "The vote was delayed. The delay caused concern.",
+      "note": "The summary noun identifies the event referred to."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "After checking the measurements, the form signed the engineer.",
+      "correct": "After checking the measurements, the engineer signed the form.",
+      "reason": "The engineer is the intended checker and signer."
+    },
+    {
+      "incorrect": "The results was unexpected.",
+      "correct": "The results were unexpected.",
+      "reason": "Plural results takes were."
+    },
+    {
+      "incorrect": "Only Nia did checked the figures.",
+      "correct": "Only Nia checked the figures.",
+      "reason": "A past simple statement does not combine did with a past-tense main verb."
+    }
+  ],
+  "summary": [
+    "Identify the intended meaning before revising an ambiguous sentence.",
+    "Check pronoun reference, modifier attachment and the scope of only.",
+    "Name the actor or event when a shorter reference is unclear."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U24-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “Maya told Lina that she had won”, who might she refer to without further context?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "She can refer to either person without further context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Maya."
+        },
+        {
+          "id": "b",
+          "text": "Only Lina."
+        },
+        {
+          "id": "c",
+          "text": "Neither named person."
+        },
+        {
+          "id": "d",
+          "text": "Maya or Lina."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Only Maya.” does not fit here. She can refer to either person without further context.",
+        "b": "“Only Lina.” does not fit here. She can refer to either person without further context.",
+        "c": "“Neither named person.” does not fit here. She can refer to either person without further context.",
+        "d": "“Maya or Lina.” fits here. She can refer to either person without further context."
+      }
+    },
+    {
+      "id": "C1-U24-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence says Nia was the only person to check the figures?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only modifies Nia and restricts the person who checked them.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Nia checked the figures."
+        },
+        {
+          "id": "b",
+          "text": "Nia checked only the figures."
+        },
+        {
+          "id": "c",
+          "text": "The figures only checked Nia."
+        },
+        {
+          "id": "d",
+          "text": "Nia checked the figures only on Monday."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Only Nia checked the figures.” fits here. Only modifies Nia and restricts the person who checked them.",
+        "b": "“Nia checked only the figures.” does not fit here. Only modifies Nia and restricts the person who checked them.",
+        "c": "“The figures only checked Nia.” does not fit here. Only modifies Nia and restricts the person who checked them.",
+        "d": "“Nia checked the figures only on Monday.” does not fit here. Only modifies Nia and restricts the person who checked them."
+      }
+    },
+    {
+      "id": "C1-U24-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence restricts what Nia checked?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only directly before the figures restricts the items checked.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only Nia checked the figures."
+        },
+        {
+          "id": "b",
+          "text": "Only Nia and nobody else checked."
+        },
+        {
+          "id": "c",
+          "text": "Nia checked only the figures."
+        },
+        {
+          "id": "d",
+          "text": "Nia checked the figures and the notes."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Only Nia checked the figures.” does not fit here. Only directly before the figures restricts the items checked.",
+        "b": "“Only Nia and nobody else checked.” does not fit here. Only directly before the figures restricts the items checked.",
+        "c": "“Nia checked only the figures.” fits here. Only directly before the figures restricts the items checked.",
+        "d": "“Nia checked the figures and the notes.” does not fit here. Only directly before the figures restricts the items checked."
+      }
+    },
+    {
+      "id": "C1-U24-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence clearly makes the report the item published in May?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Published in May directly modifies report.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The report on the survey published in May was useful."
+        },
+        {
+          "id": "b",
+          "text": "The report published in May described the survey."
+        },
+        {
+          "id": "c",
+          "text": "The report about the survey published in May was useful."
+        },
+        {
+          "id": "d",
+          "text": "The survey in the report published in May was useful."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The report on the survey published in May was useful.” does not fit here. Published in May directly modifies report.",
+        "b": "“The report published in May described the survey.” fits here. Published in May directly modifies report.",
+        "c": "“The report about the survey published in May was useful.” does not fit here. Published in May directly modifies report.",
+        "d": "“The survey in the report published in May was useful.” does not fit here. Published in May directly modifies report."
+      }
+    },
+    {
+      "id": "C1-U24-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The panel changed the budget and delayed the vote. The intended cause of concern is the delay. Which revision states this?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The delay identifies the intended event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This caused concern."
+        },
+        {
+          "id": "b",
+          "text": "They caused concern."
+        },
+        {
+          "id": "c",
+          "text": "The delay caused concern."
+        },
+        {
+          "id": "d",
+          "text": "That caused concern."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“This caused concern.” does not fit here. The delay identifies the intended event.",
+        "b": "“They caused concern.” does not fit here. The delay identifies the intended event.",
+        "c": "“The delay caused concern.” fits here. The delay identifies the intended event.",
+        "d": "“That caused concern.” does not fit here. The delay identifies the intended event."
+      }
+    },
+    {
+      "id": "C1-U24-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Who checked the measurements? After checking the measurements, the engineer signed the form.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The introductory clause is understood to refer to the engineer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The engineer."
+        },
+        {
+          "id": "b",
+          "text": "The form."
+        },
+        {
+          "id": "c",
+          "text": "An unspecified bystander necessarily."
+        },
+        {
+          "id": "d",
+          "text": "The measurements."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The engineer.” fits here. The introductory clause is understood to refer to the engineer.",
+        "b": "“The form.” does not fit here. The introductory clause is understood to refer to the engineer.",
+        "c": "“An unspecified bystander necessarily.” does not fit here. The introductory clause is understood to refer to the engineer.",
+        "d": "“The measurements.” does not fit here. The introductory clause is understood to refer to the engineer."
+      }
+    },
+    {
+      "id": "C1-U24-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What should a writer do if the original does not identify who won and no context is available?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "A rewrite should not add an unsupported identification.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Choose the nearest name automatically."
+        },
+        {
+          "id": "b",
+          "text": "Avoid inventing a winner."
+        },
+        {
+          "id": "c",
+          "text": "Always choose the first name."
+        },
+        {
+          "id": "d",
+          "text": "Assert both people won."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Choose the nearest name automatically.” does not fit here. A rewrite should not add an unsupported identification.",
+        "b": "“Avoid inventing a winner.” fits here. A rewrite should not add an unsupported identification.",
+        "c": "“Always choose the first name.” does not fit here. A rewrite should not add an unsupported identification.",
+        "d": "“Assert both people won.” does not fit here. A rewrite should not add an unsupported identification."
+      }
+    },
+    {
+      "id": "C1-U24-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What can affect the scope of only in speech?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Intonation and context can influence how only is interpreted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only the spelling of the subject."
+        },
+        {
+          "id": "b",
+          "text": "A fixed rule that it always modifies the final word."
+        },
+        {
+          "id": "c",
+          "text": "The number of commas alone."
+        },
+        {
+          "id": "d",
+          "text": "Intonation and context as well as position."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Only the spelling of the subject.” does not fit here. Intonation and context can influence how only is interpreted.",
+        "b": "“A fixed rule that it always modifies the final word.” does not fit here. Intonation and context can influence how only is interpreted.",
+        "c": "“The number of commas alone.” does not fit here. Intonation and context can influence how only is interpreted.",
+        "d": "“Intonation and context as well as position.” fits here. Intonation and context can influence how only is interpreted."
+      }
+    },
+    {
+      "id": "C1-U24-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Only Nia ___ the figures. (check, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only Nia identifies the person and checked is the past verb.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U24-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Nia checked ___ the figures, not the notes.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only before the figures restricts what she checked.",
+      "accepted_answers": [
+        "only"
+      ]
+    },
+    {
+      "id": "C1-U24-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "After checking the measurements, the ___ signed the form. (engineer)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The engineer is the understood checker.",
+      "accepted_answers": [
+        "engineer"
+      ]
+    },
+    {
+      "id": "C1-U24-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The panel delayed the vote. The ___ caused concern.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The summary noun delay identifies the intended event.",
+      "accepted_answers": [
+        "delay"
+      ]
+    },
+    {
+      "id": "C1-U24-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The report ___ in May described the survey. (publish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Published in May modifies report.",
+      "accepted_answers": [
+        "published"
+      ]
+    },
+    {
+      "id": "C1-U24-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The survey that was ___ in May appeared in the report. (publish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Was published is the passive relative clause.",
+      "accepted_answers": [
+        "published"
+      ]
+    },
+    {
+      "id": "C1-U24-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The results ___ unexpected.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Plural results takes were.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "C1-U24-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "After the engineer checked the measurements, the form ___ signed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Was signed forms the past passive.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U24-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: the form signed the engineer",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The engineer is the intended checker and signer.",
+      "source_sentence": "After checking the measurements, the form signed the engineer.",
+      "target_segment": "the form signed the engineer",
+      "accepted_answers": [
+        "the engineer signed the form"
+      ]
+    },
+    {
+      "id": "C1-U24-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Plural results takes were.",
+      "source_sentence": "The results was unexpected.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "C1-U24-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The completed event yesterday takes the past form checked.",
+      "source_sentence": "Nia check only the figures yesterday.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "C1-U24-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: were",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Singular survey takes was in this passive clause.",
+      "source_sentence": "The survey that were published in May appeared in the report.",
+      "target_segment": "were",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "C1-U24-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only Nia restricts the person who checked.",
+      "source_sentence": "Nia was the only person who checked the figures. Begin with only.",
+      "keyword": "Only",
+      "target_sentence": "___ checked the figures.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Only Nia"
+      ]
+    },
+    {
+      "id": "C1-U24-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "Only the figures restricts the items checked.",
+      "source_sentence": "Nia checked the figures but not the notes. Use only before the object.",
+      "keyword": "only",
+      "target_sentence": "Nia checked ___.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "only the figures"
+      ]
+    },
+    {
+      "id": "C1-U24-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The engineer is the understood checker and signer.",
+      "source_sentence": "The engineer checked the measurements and then signed the form. Begin with after.",
+      "keyword": "engineer",
+      "target_sentence": "After checking the measurements, ___ the form.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "the engineer signed"
+      ]
+    },
+    {
+      "id": "C1-U24-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U24"
+      ],
+      "explanation": "The delay identifies the event causing concern.",
+      "source_sentence": "The panel delayed the vote. The delay caused concern. Use a summary noun.",
+      "keyword": "delay",
+      "target_sentence": "The panel delayed the vote. ___ caused concern.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "The delay"
+      ]
+    }
+  ]
+}

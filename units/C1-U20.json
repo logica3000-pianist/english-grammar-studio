@@ -1,0 +1,658 @@
+{
+  "id": "C1-U20",
+  "level": "C1",
+  "title": "Academic argument and cohesion: cumulative review",
+  "order": 20,
+  "prerequisites": [
+    "C1-U19"
+  ],
+  "objectives": [
+    "Distinguish addition, contrast and consequence.",
+    "Punctuate linking adverbs between full clauses.",
+    "Review concession, modality, attribution and reference."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A cohesive argument makes clear how each statement relates to the preceding one. A writer may add evidence, acknowledge a limitation, explain a consequence or distinguish an inference from an observation. Linking expressions can signal these relationships, but they cannot create a logical connection that the evidence does not support.",
+        "Compare “The sample was small. Nevertheless, the pattern merits investigation” with “The sample was small. Therefore, the findings apply to everyone.” The first acknowledges a limitation while proposing further work. The second presents an unjustified conclusion unless other evidence supplies a reason. Grammar shows the claimed relation; reasoning must support it."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use moreover or furthermore to add a related point: “The route is short. Moreover, it is accessible.” Use however or nevertheless to introduce contrast or concession: “The route is short. However, it is steep.” Use therefore or consequently for a result that follows from the stated reasoning: “The bridge was closed. Therefore, we took another route.”",
+        "These words are linking adverbs. They can start a new sentence, often followed by a comma, or follow a semicolon between independent clauses. They do not function like subordinators such as although: “Although the route is short, it is steep.” Choose the grammar as well as the intended relation."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Writers can combine links with cautious claims and attribution. “The authors report that the samples differed. However, the difference may reflect the measuring method.” Report names a source; however signals contrast; may presents a possible explanation. None of these expressions proves the explanation.",
+        "Earlier units explored concession, inference and reference. “Despite the small sample, the result was consistent” uses a preposition with a noun phrase. “The result may have been affected by timing” presents a possible past influence. “The vote was postponed. This decision allowed further discussion” uses a summary noun to identify an earlier event."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid using therefore merely because one sentence follows another. It presents a consequence, so check the causal or logical link. Likewise, however cannot substitute mechanically for because: contrast and cause are different relations. A reader should be able to explain what is added, contrasted or inferred.",
+        "Avoid a comma splice such as “It was late, however, we continued” in standard edited prose. Use a full stop or semicolon before however. A cohesive paragraph can also use ordinary sentence structure without a linker at every turn. Repetition of connectives can make the argument harder to read rather than clearer."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The route is short. Moreover, it is accessible.",
+      "note": "Moreover adds a related advantage."
+    },
+    {
+      "sentence": "The route is short. However, it is steep.",
+      "note": "However introduces a contrasting feature."
+    },
+    {
+      "sentence": "The bridge was closed. Therefore, we took another route.",
+      "note": "Therefore presents the second action as a consequence."
+    },
+    {
+      "sentence": "The sample was small; nevertheless, the pattern merits study.",
+      "note": "Nevertheless acknowledges the limitation."
+    },
+    {
+      "sentence": "Although the route is short, it is steep.",
+      "note": "Although introduces a finite concessive clause."
+    },
+    {
+      "sentence": "The result may have been affected by timing.",
+      "note": "May have been affected presents a possible past influence."
+    },
+    {
+      "sentence": "The authors report that the samples differed.",
+      "note": "Report attributes the information to the authors."
+    },
+    {
+      "sentence": "The vote was postponed. This decision allowed discussion.",
+      "note": "This decision identifies the earlier postponement."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The route is short, however, it is steep.",
+      "correct": "The route is short; however, it is steep.",
+      "reason": "A semicolon separates the independent clauses in standard edited prose."
+    },
+    {
+      "incorrect": "Despite the route was short, it was steep.",
+      "correct": "Although the route was short, it was steep.",
+      "reason": "Although introduces a finite clause."
+    },
+    {
+      "incorrect": "The change may has affected the result.",
+      "correct": "The change may have affected the result.",
+      "reason": "May takes the base form have."
+    }
+  ],
+  "summary": [
+    "Select a linker that expresses the relationship supported by the argument.",
+    "Use punctuation appropriate to linking adverbs and independent clauses.",
+    "Combine attribution, cautious claims and clear reference where useful."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U20-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose an additive linker: The route is short. ___, it is accessible.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "Moreover adds a related point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "However"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Although"
+        },
+        {
+          "id": "d",
+          "text": "Moreover"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“However” does not fit here. Moreover adds a related point.",
+        "b": "“Despite” does not fit here. Moreover adds a related point.",
+        "c": "“Although” does not fit here. Moreover adds a related point.",
+        "d": "“Moreover” fits here. Moreover adds a related point."
+      }
+    },
+    {
+      "id": "C1-U20-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a contrast: The route is short. ___, it is steep.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "However introduces a contrasting feature.",
+      "options": [
+        {
+          "id": "a",
+          "text": "However"
+        },
+        {
+          "id": "b",
+          "text": "Therefore"
+        },
+        {
+          "id": "c",
+          "text": "Because"
+        },
+        {
+          "id": "d",
+          "text": "For example of"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“However” fits here. However introduces a contrasting feature.",
+        "b": "“Therefore” does not fit here. However introduces a contrasting feature.",
+        "c": "“Because” does not fit here. However introduces a contrasting feature.",
+        "d": "“For example of” does not fit here. However introduces a contrasting feature."
+      }
+    },
+    {
+      "id": "C1-U20-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a stated consequence: The bridge was closed. ___, we took another route.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "Therefore presents the choice of another route as a consequence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Whereas"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Therefore"
+        },
+        {
+          "id": "d",
+          "text": "Although"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Whereas” does not fit here. Therefore presents the choice of another route as a consequence.",
+        "b": "“Despite” does not fit here. Therefore presents the choice of another route as a consequence.",
+        "c": "“Therefore” fits here. Therefore presents the choice of another route as a consequence.",
+        "d": "“Although” does not fit here. Therefore presents the choice of another route as a consequence."
+      }
+    },
+    {
+      "id": "C1-U20-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly links two independent clauses in standard edited prose?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "A semicolon separates the independent clauses before however.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was late, however, we continued."
+        },
+        {
+          "id": "b",
+          "text": "It was late; however, we continued."
+        },
+        {
+          "id": "c",
+          "text": "It was late although, we continued."
+        },
+        {
+          "id": "d",
+          "text": "It was late despite, we continued."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was late, however, we continued.” does not fit here. A semicolon separates the independent clauses before however.",
+        "b": "“It was late; however, we continued.” fits here. A semicolon separates the independent clauses before however.",
+        "c": "“It was late although, we continued.” does not fit here. A semicolon separates the independent clauses before however.",
+        "d": "“It was late despite, we continued.” does not fit here. A semicolon separates the independent clauses before however."
+      }
+    },
+    {
+      "id": "C1-U20-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the concessive phrase: ___ the small sample, the results were consistent.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U19"
+      ],
+      "explanation": "Despite takes the noun phrase the small sample.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although was"
+        },
+        {
+          "id": "b",
+          "text": "However of"
+        },
+        {
+          "id": "c",
+          "text": "Despite"
+        },
+        {
+          "id": "d",
+          "text": "Whereas of"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Although was” does not fit here. Despite takes the noun phrase the small sample.",
+        "b": "“However of” does not fit here. Despite takes the noun phrase the small sample.",
+        "c": "“Despite” fits here. Despite takes the noun phrase the small sample.",
+        "d": "“Whereas of” does not fit here. Despite takes the noun phrase the small sample."
+      }
+    },
+    {
+      "id": "C1-U20-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence attributes the result to a named source?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U17"
+      ],
+      "explanation": "The authors report identifies the source.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The authors report that the samples differed."
+        },
+        {
+          "id": "b",
+          "text": "The samples differed."
+        },
+        {
+          "id": "c",
+          "text": "The samples must differ."
+        },
+        {
+          "id": "d",
+          "text": "The samples are different."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The authors report that the samples differed.” fits here. The authors report identifies the source.",
+        "b": "“The samples differed.” does not fit here. The authors report identifies the source.",
+        "c": "“The samples must differ.” does not fit here. The authors report identifies the source.",
+        "d": "“The samples are different.” does not fit here. The authors report identifies the source."
+      }
+    },
+    {
+      "id": "C1-U20-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose a possible past influence.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U18"
+      ],
+      "explanation": "May have been affected presents a possible past passive event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The result may has been affected by timing."
+        },
+        {
+          "id": "b",
+          "text": "The result may have been affected by timing."
+        },
+        {
+          "id": "c",
+          "text": "The result may have affect by timing."
+        },
+        {
+          "id": "d",
+          "text": "The result may to have affected by timing."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The result may has been affected by timing.” does not fit here. May have been affected presents a possible past passive event.",
+        "b": "“The result may have been affected by timing.” fits here. May have been affected presents a possible past passive event.",
+        "c": "“The result may have affect by timing.” does not fit here. May have been affected presents a possible past passive event.",
+        "d": "“The result may to have affected by timing.” does not fit here. May have been affected presents a possible past passive event."
+      }
+    },
+    {
+      "id": "C1-U20-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “therefore” do in an argument?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "Therefore signals a claimed consequence; the reasoning still needs support.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It always proves the conclusion."
+        },
+        {
+          "id": "b",
+          "text": "It names the information source."
+        },
+        {
+          "id": "c",
+          "text": "It always expresses a concession."
+        },
+        {
+          "id": "d",
+          "text": "It presents a statement as a consequence."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“It always proves the conclusion.” does not fit here. Therefore signals a claimed consequence; the reasoning still needs support.",
+        "b": "“It names the information source.” does not fit here. Therefore signals a claimed consequence; the reasoning still needs support.",
+        "c": "“It always expresses a concession.” does not fit here. Therefore signals a claimed consequence; the reasoning still needs support.",
+        "d": "“It presents a statement as a consequence.” fits here. Therefore signals a claimed consequence; the reasoning still needs support."
+      }
+    },
+    {
+      "id": "C1-U20-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The route is short. ___, it is accessible. Use moreover.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "Moreover adds a related point.",
+      "accepted_answers": [
+        "Moreover"
+      ]
+    },
+    {
+      "id": "C1-U20-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The route is short. ___, it is steep. Use however.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "However introduces a contrast.",
+      "accepted_answers": [
+        "However"
+      ]
+    },
+    {
+      "id": "C1-U20-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bridge was closed. ___, we took another route. Use therefore.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20"
+      ],
+      "explanation": "Therefore presents the second action as a consequence.",
+      "accepted_answers": [
+        "Therefore"
+      ]
+    },
+    {
+      "id": "C1-U20-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ the small sample, the result was consistent. Use despite.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U19"
+      ],
+      "explanation": "Despite takes the noun phrase.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "C1-U20-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The authors ___ that the samples differed. Use report.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U17"
+      ],
+      "explanation": "Report attributes the statement to the authors.",
+      "accepted_answers": [
+        "report"
+      ]
+    },
+    {
+      "id": "C1-U20-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The result may ___ been affected by timing.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U18"
+      ],
+      "explanation": "May takes the base form have.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U20-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The vote was postponed. This ___ allowed discussion. Use decision.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U15"
+      ],
+      "explanation": "This decision refers to the postponement.",
+      "accepted_answers": [
+        "decision"
+      ]
+    },
+    {
+      "id": "C1-U20-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ the route was short, it was steep. Use although.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the finite clause.",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "C1-U20-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces a finite clause.",
+      "source_sentence": "Despite the route was short, it was steep.",
+      "target_segment": "Despite",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "C1-U20-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U18"
+      ],
+      "explanation": "May takes the base form have.",
+      "source_sentence": "The result may has been affected by timing.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U20-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: According",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U17"
+      ],
+      "explanation": "According to introduces the named source.",
+      "source_sentence": "According the authors, the samples differed.",
+      "target_segment": "According",
+      "accepted_answers": [
+        "According to"
+      ]
+    },
+    {
+      "id": "C1-U20-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: This",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U20",
+        "C1-U15"
+      ],
+      "explanation": "These agrees with the plural noun results.",
+      "source_sentence": "The findings were unexpected. This results changed the discussion.",
+      "target_segment": "This",
+      "accepted_answers": [
+        "These"
+      ]
+    },
+    {
+      "id": "C1-U20-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U20",
+        "C1-U19"
+      ],
+      "explanation": "Although introduces the concessive clause.",
+      "source_sentence": "The route was short, but it was steep. Begin with although.",
+      "keyword": "Although",
+      "target_sentence": "___, it was steep.",
+      "min_words": 5,
+      "max_words": 5,
+      "accepted_answers": [
+        "Although the route was short"
+      ]
+    },
+    {
+      "id": "C1-U20-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U20",
+        "C1-U18"
+      ],
+      "explanation": "May have affected presents a possible past influence.",
+      "source_sentence": "Perhaps timing affected the result. Use may.",
+      "keyword": "may",
+      "target_sentence": "Timing ___ the result.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "may have affected"
+      ]
+    },
+    {
+      "id": "C1-U20-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U20",
+        "C1-U17"
+      ],
+      "explanation": "According to the council identifies the source.",
+      "source_sentence": "The council says the bridge is closed. Begin with according to.",
+      "keyword": "council",
+      "target_sentence": "___, the bridge is closed.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "According to the council"
+      ]
+    },
+    {
+      "id": "C1-U20-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U20",
+        "C1-U15"
+      ],
+      "explanation": "This decision identifies the postponement.",
+      "source_sentence": "The panel postponed the vote. The postponement allowed discussion. Use a summary noun.",
+      "keyword": "decision",
+      "target_sentence": "The panel postponed the vote. This ___ discussion.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "decision allowed"
+      ]
+    }
+  ]
+}

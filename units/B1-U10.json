@@ -1,0 +1,655 @@
+{
+  "id": "B1-U10",
+  "level": "B1",
+  "title": "Unless and conditional links: cumulative review",
+  "order": 10,
+  "prerequisites": [
+    "B1-U09"
+  ],
+  "objectives": [
+    "Use unless for clear exception conditions.",
+    "Use as long as and provided that for conditions.",
+    "Review basic conditional and modal meanings."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Conditional links introduce a condition for a result. Unless often means ‘if not’ in straightforward conditions: ‘We will walk unless it rains’ has a similar meaning to ‘We will walk if it does not rain’. Rain is the condition that prevents the walk. Unless normally introduces the clause that states that exception.",
+        "As long as and provided that can mean ‘only if’ or ‘on condition that’: ‘You can borrow the book as long as you return it tomorrow’. Returning the book is the condition for borrowing it. These links can also have other meanings in different contexts, so focus on their role in each sentence."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a real future condition, use the present simple after unless, as long as or provided that, and a future form such as will in the result clause: ‘Unless she calls, I will leave’ and ‘We will go as long as the weather is good’. This is similar to the basic first conditional pattern with if.",
+        "The order can change: ‘I will leave unless she calls’ or ‘Unless she calls, I will leave’. A comma normally follows an opening conditional clause; a comma is not normally needed when the result comes first. Provided is also used without that, but this unit often includes that to make the link clear."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘If you do not hurry, you will miss the bus’ with ‘Unless you hurry, you will miss the bus’. In this context, both describe the same condition. Do not add a second negative in the unless clause when it would reverse the intended meaning: ‘Unless you don't hurry’ means something different and is not the intended equivalent here.",
+        "This review also includes earlier conditional and modal forms. A general result can use present simple in both clauses: ‘If you heat ice, it melts’. A future possibility can use if plus present simple and will: ‘If it rains, we will stay in’. An imagined present situation can use a past form and would: ‘If I had time, I would help’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Unless is not interchangeable with if not in every sentence. For example, it may be unsuitable when a speaker is considering two alternative facts rather than stating an exception. At this level, use it for clear exception conditions such as ‘I won't go unless you come’.",
+        "Pay attention to the meaning of the result. ‘You mustn't enter unless you have permission’ prohibits entry without permission. ‘You don't have to enter’ says entry is optional. A conditional link does not change the difference between prohibition and lack of obligation. Choose each part according to the intended message."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We will walk unless it rains.",
+      "note": "Rain is the exception that prevents the walk."
+    },
+    {
+      "sentence": "We will walk if it does not rain.",
+      "note": "In this context, if not gives the same condition."
+    },
+    {
+      "sentence": "Unless she calls, I will leave.",
+      "note": "An opening unless clause is followed by a comma."
+    },
+    {
+      "sentence": "You can borrow it as long as you return it tomorrow.",
+      "note": "Returning it is the condition for borrowing it."
+    },
+    {
+      "sentence": "We will go provided that the weather is good.",
+      "note": "Provided that introduces a condition."
+    },
+    {
+      "sentence": "If you heat ice, it melts.",
+      "note": "The zero conditional describes a general result."
+    },
+    {
+      "sentence": "If I had time, I would help.",
+      "note": "The second conditional describes an imagined situation."
+    },
+    {
+      "sentence": "You mustn't enter unless you have permission.",
+      "note": "Entry without permission is prohibited."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Unless it doesn’t rain, we will walk.",
+      "correct": "Unless it rains, we will walk.",
+      "reason": "Remove the unintended extra negative for this meaning."
+    },
+    {
+      "incorrect": "We will go provided that it will be dry.",
+      "correct": "We will go provided that it is dry.",
+      "reason": "Use the present simple for the condition in this basic future pattern."
+    },
+    {
+      "incorrect": "If I had time, I will help.",
+      "correct": "If I had time, I would help.",
+      "reason": "Use would for the intended hypothetical result."
+    }
+  ],
+  "summary": [
+    "Unless often introduces an exception equivalent to if not in clear conditions.",
+    "As long as and provided that can introduce a required condition.",
+    "Choose the conditional pattern and modal according to the intended meaning."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U10-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We will walk ___ it rains. Rain is the exception.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Unless introduces the exception.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "unless"
+        },
+        {
+          "id": "d",
+          "text": "and"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“because” does not fit here. Unless introduces the exception.",
+        "b": "“so” does not fit here. Unless introduces the exception.",
+        "c": "“unless” fits here. Unless introduces the exception.",
+        "d": "“and” does not fit here. Unless introduces the exception."
+      }
+    },
+    {
+      "id": "B1-U10-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "You may borrow the book ___ you return it tomorrow. Returning it is required.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "As long as introduces the condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as long as"
+        },
+        {
+          "id": "b",
+          "text": "unless"
+        },
+        {
+          "id": "c",
+          "text": "because not"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“as long as” fits here. As long as introduces the condition.",
+        "b": "“unless” does not fit here. As long as introduces the condition.",
+        "c": "“because not” does not fit here. As long as introduces the condition.",
+        "d": "“so” does not fit here. As long as introduces the condition."
+      }
+    },
+    {
+      "id": "B1-U10-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Unless she ___, I will leave. (call)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Use the present simple calls in this future condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will calls"
+        },
+        {
+          "id": "b",
+          "text": "called yesterday"
+        },
+        {
+          "id": "c",
+          "text": "calling"
+        },
+        {
+          "id": "d",
+          "text": "calls"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will calls” does not fit here. Use the present simple calls in this future condition.",
+        "b": "“called yesterday” does not fit here. Use the present simple calls in this future condition.",
+        "c": "“calling” does not fit here. Use the present simple calls in this future condition.",
+        "d": "“calls” fits here. Use the present simple calls in this future condition."
+      }
+    },
+    {
+      "id": "B1-U10-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If you heat ice, it generally ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U08"
+      ],
+      "explanation": "Melts expresses a general result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will melting"
+        },
+        {
+          "id": "b",
+          "text": "melts"
+        },
+        {
+          "id": "c",
+          "text": "melted yesterday"
+        },
+        {
+          "id": "d",
+          "text": "melt"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“will melting” does not fit here. Melts expresses a general result.",
+        "b": "“melts” fits here. Melts expresses a general result.",
+        "c": "“melted yesterday” does not fit here. Melts expresses a general result.",
+        "d": "“melt” does not fit here. Melts expresses a general result."
+      }
+    },
+    {
+      "id": "B1-U10-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "If I had more time, I ___ help. This is an imagined present situation.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U09"
+      ],
+      "explanation": "Would introduces the hypothetical result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "woulds"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“will” does not fit here. Would introduces the hypothetical result.",
+        "b": "“am” does not fit here. Would introduces the hypothetical result.",
+        "c": "“woulds” does not fit here. Would introduces the hypothetical result.",
+        "d": "“would” fits here. Would introduces the hypothetical result."
+      }
+    },
+    {
+      "id": "B1-U10-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Parking is prohibited. You ___ park here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don’t have to"
+        },
+        {
+          "id": "b",
+          "text": "mustn’t"
+        },
+        {
+          "id": "c",
+          "text": "should"
+        },
+        {
+          "id": "d",
+          "text": "can"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“don’t have to” does not fit here. Mustn’t expresses prohibition.",
+        "b": "“mustn’t” fits here. Mustn’t expresses prohibition.",
+        "c": "“should” does not fit here. Mustn’t expresses prohibition.",
+        "d": "“can” does not fit here. Mustn’t expresses prohibition."
+      }
+    },
+    {
+      "id": "B1-U10-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We will leave unless he arrives. Choose the equivalent condition.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Unless he arrives is equivalent here to if he does not arrive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "if he does not arrive"
+        },
+        {
+          "id": "b",
+          "text": "if he arrives"
+        },
+        {
+          "id": "c",
+          "text": "because he arrives"
+        },
+        {
+          "id": "d",
+          "text": "when he arrived"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“if he does not arrive” fits here. Unless he arrives is equivalent here to if he does not arrive.",
+        "b": "“if he arrives” does not fit here. Unless he arrives is equivalent here to if he does not arrive.",
+        "c": "“because he arrives” does not fit here. Unless he arrives is equivalent here to if he does not arrive.",
+        "d": "“when he arrived” does not fit here. Unless he arrives is equivalent here to if he does not arrive."
+      }
+    },
+    {
+      "id": "B1-U10-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We will go provided that the weather ___ good.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U08"
+      ],
+      "explanation": "Use the present simple in this basic future condition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be"
+        },
+        {
+          "id": "b",
+          "text": "was yesterday"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "being"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will be” does not fit here. Use the present simple in this basic future condition.",
+        "b": "“was yesterday” does not fit here. Use the present simple in this basic future condition.",
+        "c": "“is” fits here. Use the present simple in this basic future condition.",
+        "d": "“being” does not fit here. Use the present simple in this basic future condition."
+      }
+    },
+    {
+      "id": "B1-U10-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use unless: We will leave ___ she calls; a call would stop us.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Unless introduces the exception.",
+      "accepted_answers": [
+        "unless"
+      ]
+    },
+    {
+      "id": "B1-U10-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present simple: Unless he ___, we will begin. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Use the present simple with the singular subject.",
+      "accepted_answers": [
+        "arrives"
+      ]
+    },
+    {
+      "id": "B1-U10-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use that: You may borrow it provided ___ you return it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Provided that introduces the condition.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B1-U10-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use long: You can go as ___ as you are back at six.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "As long as introduces the condition.",
+      "accepted_answers": [
+        "long"
+      ]
+    },
+    {
+      "id": "B1-U10-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "General fact: Water ___ at 100°C at standard pressure. (boil)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U08"
+      ],
+      "explanation": "Boils states the general result under the stated conditions.",
+      "accepted_answers": [
+        "boils"
+      ]
+    },
+    {
+      "id": "B1-U10-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Future possibility: If she calls, I ___ answer. Use will.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U08"
+      ],
+      "explanation": "Will expresses the future result.",
+      "accepted_answers": [
+        "will"
+      ]
+    },
+    {
+      "id": "B1-U10-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Imagined present: If I had time, I ___ help. Use would.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U09"
+      ],
+      "explanation": "Would expresses the hypothetical result.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U10-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose mustn’t or don’t have to: Entry is prohibited; you ___ enter.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "accepted_answers": [
+        "mustn’t",
+        "mustn't"
+      ]
+    },
+    {
+      "id": "B1-U10-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: will call",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Use the present simple in this basic future condition.",
+      "source_sentence": "Unless she will call, I will leave.",
+      "target_segment": "will call",
+      "accepted_answers": [
+        "calls"
+      ]
+    },
+    {
+      "id": "B1-U10-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: will",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U09"
+      ],
+      "explanation": "Would expresses the intended hypothetical result.",
+      "source_sentence": "If he had time, he will help.",
+      "target_segment": "will",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "B1-U10-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: stays",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U08"
+      ],
+      "explanation": "Use the base verb after will.",
+      "source_sentence": "If it rains, we will stays inside.",
+      "target_segment": "stays",
+      "accepted_answers": [
+        "stay"
+      ]
+    },
+    {
+      "id": "B1-U10-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U10",
+        "B1-U06"
+      ],
+      "explanation": "Use the base verb without to after should.",
+      "source_sentence": "We should to wait here.",
+      "target_segment": "to wait",
+      "accepted_answers": [
+        "wait"
+      ]
+    },
+    {
+      "id": "B1-U10-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Unless he calls expresses the exception.",
+      "source_sentence": "We will leave if he does not call.",
+      "keyword": "unless",
+      "target_sentence": "We will leave ___ he calls.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "unless"
+      ]
+    },
+    {
+      "id": "B1-U10-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Unless it rains expresses the exception.",
+      "source_sentence": "If it does not rain, we will walk.",
+      "keyword": "unless",
+      "target_sentence": "We will walk ___ it rains.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "unless"
+      ]
+    },
+    {
+      "id": "B1-U10-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U10"
+      ],
+      "explanation": "Provided that introduces the required condition.",
+      "source_sentence": "We will go only if the weather is good.",
+      "keyword": "that",
+      "target_sentence": "We will go provided ___ the weather is good.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B1-U10-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U10",
+        "B1-U09"
+      ],
+      "explanation": "Would expresses the hypothetical result.",
+      "source_sentence": "I do not have time, so I cannot help. Imagine having time and helping.",
+      "keyword": "would",
+      "target_sentence": "If I had time, I ___ help.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "would"
+      ]
+    }
+  ]
+}

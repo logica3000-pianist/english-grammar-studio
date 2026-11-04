@@ -1,0 +1,642 @@
+{
+  "id": "B1-U16",
+  "level": "B1",
+  "title": "Passive voice in present and past",
+  "order": 16,
+  "prerequisites": [
+    "B1-U15"
+  ],
+  "objectives": [
+    "Form present and past simple passive statements.",
+    "Choose the correct form of be and past participle.",
+    "Recognise the focus and optional agent of a passive sentence."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A passive sentence often focuses on the person or thing affected by an action rather than the person who performs it. Compare ‘Someone cleans the rooms every day’ with ‘The rooms are cleaned every day’. Both describe the cleaning, but the passive begins with the rooms. The person who cleans may be unknown, obvious or less important in that context.",
+        "The passive can be useful in descriptions of processes, services and news. ‘The bridge was opened in 1995’ focuses on the bridge and the event. If the person responsible matters, we can add a by phrase: ‘The bridge was opened by the mayor’. A passive sentence does not always need a by phrase."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Make a present simple passive with am, is or are plus a past participle: ‘The room is cleaned’ and ‘The rooms are cleaned’. Make a past simple passive with was or were plus a past participle: ‘The room was cleaned’ and ‘The rooms were cleaned’. The form of be agrees with the subject and carries the tense.",
+        "Regular participles commonly end in -ed: clean–cleaned. Many are irregular: make–made, build–built, write–written and grow–grown. Use the past participle after be, not necessarily the past simple form. For a negative, put not after be: ‘The room was not cleaned’. For a question, put be before the subject: ‘Was the room cleaned?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘A company makes these bicycles’ with ‘These bicycles are made by a company’. The object of the active sentence becomes the subject of the passive sentence. The action stays the same, and the tense stays present simple. When the agent is not relevant, ‘These bicycles are made locally’ may be enough.",
+        "In ‘They repaired the road yesterday’, repaired is a past simple active verb. In ‘The road was repaired yesterday’, was repaired is past simple passive. Both refer to a completed past event. In ‘The road is repaired every year’, is repaired is present simple passive and describes a routine."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not leave out be in this basic passive pattern: ‘The room is cleaned’, not ‘The room cleaned’ when you mean a present passive statement. Do not use the base form after be: say ‘The car was made’, not ‘The car was make’. Some -ed words can also describe states as adjectives, and context helps distinguish a state from an action.",
+        "The passive is not possible in exactly the same way with every verb. Many examples begin with an active verb that takes an object, such as clean the room or build the bridge. Use the active when the person doing the action is the most useful subject: ‘Maya repaired the bike’ may be clearer than a passive with a by phrase."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The rooms are cleaned every day.",
+      "note": "Are plus cleaned forms the present simple passive."
+    },
+    {
+      "sentence": "The room is cleaned every day.",
+      "note": "The singular subject takes is."
+    },
+    {
+      "sentence": "The road was repaired yesterday.",
+      "note": "Was plus repaired forms the past simple passive."
+    },
+    {
+      "sentence": "The bridges were built in 2000.",
+      "note": "The plural subject takes were; built is a participle."
+    },
+    {
+      "sentence": "The cake was made by Maya.",
+      "note": "The by phrase identifies the person responsible."
+    },
+    {
+      "sentence": "Is the room cleaned every day?",
+      "note": "Is comes before the subject in the question."
+    },
+    {
+      "sentence": "The shop was not opened yesterday.",
+      "note": "Not follows was in the negative passive."
+    },
+    {
+      "sentence": "These bicycles are made locally.",
+      "note": "The passive focuses on the bicycles; no agent is stated."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The room cleaned every day.",
+      "correct": "The room is cleaned every day.",
+      "reason": "Use a form of be in this present passive."
+    },
+    {
+      "incorrect": "The bridge was build in 2000.",
+      "correct": "The bridge was built in 2000.",
+      "reason": "Use the participle built after was."
+    },
+    {
+      "incorrect": "The rooms is cleaned daily.",
+      "correct": "The rooms are cleaned daily.",
+      "reason": "The plural subject rooms takes are."
+    }
+  ],
+  "summary": [
+    "Use am, is or are plus a past participle for the present simple passive.",
+    "Use was or were plus a past participle for the past simple passive.",
+    "Use a by phrase when the agent is relevant; omit it when unnecessary."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U16-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The rooms ___ every day. (clean; present passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Are plus cleaned forms the present simple passive with a plural subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is clean"
+        },
+        {
+          "id": "b",
+          "text": "are cleaned"
+        },
+        {
+          "id": "c",
+          "text": "were cleans"
+        },
+        {
+          "id": "d",
+          "text": "cleaned"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“is clean” does not fit here. Are plus cleaned forms the present simple passive with a plural subject.",
+        "b": "“are cleaned” fits here. Are plus cleaned forms the present simple passive with a plural subject.",
+        "c": "“were cleans” does not fit here. Are plus cleaned forms the present simple passive with a plural subject.",
+        "d": "“cleaned” does not fit here. Are plus cleaned forms the present simple passive with a plural subject."
+      }
+    },
+    {
+      "id": "B1-U16-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The bridge ___ in 2000. (build; past passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Was plus built forms the past simple passive with a singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is built yesterday"
+        },
+        {
+          "id": "b",
+          "text": "were build"
+        },
+        {
+          "id": "c",
+          "text": "was build"
+        },
+        {
+          "id": "d",
+          "text": "was built"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“is built yesterday” does not fit here. Was plus built forms the past simple passive with a singular subject.",
+        "b": "“were build” does not fit here. Was plus built forms the past simple passive with a singular subject.",
+        "c": "“was build” does not fit here. Was plus built forms the past simple passive with a singular subject.",
+        "d": "“was built” fits here. Was plus built forms the past simple passive with a singular subject."
+      }
+    },
+    {
+      "id": "B1-U16-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "These bicycles ___ locally. (make; present passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Are plus made forms the present simple passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are made"
+        },
+        {
+          "id": "b",
+          "text": "are make"
+        },
+        {
+          "id": "c",
+          "text": "is made"
+        },
+        {
+          "id": "d",
+          "text": "made"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“are made” fits here. Are plus made forms the present simple passive.",
+        "b": "“are make” does not fit here. Are plus made forms the present simple passive.",
+        "c": "“is made” does not fit here. Are plus made forms the present simple passive.",
+        "d": "“made” does not fit here. Are plus made forms the present simple passive."
+      }
+    },
+    {
+      "id": "B1-U16-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The cake ___ by Maya yesterday. (make; past passive)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Was plus made forms the past simple passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is make"
+        },
+        {
+          "id": "b",
+          "text": "were made"
+        },
+        {
+          "id": "c",
+          "text": "was made"
+        },
+        {
+          "id": "d",
+          "text": "was make"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is make” does not fit here. Was plus made forms the past simple passive.",
+        "b": "“were made” does not fit here. Was plus made forms the past simple passive.",
+        "c": "“was made” fits here. Was plus made forms the past simple passive.",
+        "d": "“was make” does not fit here. Was plus made forms the past simple passive."
+      }
+    },
+    {
+      "id": "B1-U16-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ the room cleaned every day?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Is comes before the subject in the present passive question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Were yesterday"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Is” fits here. Is comes before the subject in the present passive question.",
+        "b": "“Does” does not fit here. Is comes before the subject in the present passive question.",
+        "c": "“Do” does not fit here. Is comes before the subject in the present passive question.",
+        "d": "“Were yesterday” does not fit here. Is comes before the subject in the present passive question."
+      }
+    },
+    {
+      "id": "B1-U16-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The windows ___ repaired last week.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Were agrees with the plural subject in the past passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "are every day"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is” does not fit here. Were agrees with the plural subject in the past passive.",
+        "b": "“was” does not fit here. Were agrees with the plural subject in the past passive.",
+        "c": "“were” fits here. Were agrees with the plural subject in the past passive.",
+        "d": "“are every day” does not fit here. Were agrees with the plural subject in the past passive."
+      }
+    },
+    {
+      "id": "B1-U16-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase identifies the agent in “The book was written by Ana”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "By Ana identifies the person responsible.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the book"
+        },
+        {
+          "id": "b",
+          "text": "was written"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "by Ana"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“the book” does not fit here. By Ana identifies the person responsible.",
+        "b": "“was written” does not fit here. By Ana identifies the person responsible.",
+        "c": "“the” does not fit here. By Ana identifies the person responsible.",
+        "d": "“by Ana” fits here. By Ana identifies the person responsible."
+      }
+    },
+    {
+      "id": "B1-U16-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which is the present passive of “They clean the room every day”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Is cleaned is the present simple passive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The room cleaned every day."
+        },
+        {
+          "id": "b",
+          "text": "The room is cleaned every day."
+        },
+        {
+          "id": "c",
+          "text": "The room are cleaned every day."
+        },
+        {
+          "id": "d",
+          "text": "The room is clean every day by they."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The room cleaned every day.” does not fit here. Is cleaned is the present simple passive.",
+        "b": "“The room is cleaned every day.” fits here. Is cleaned is the present simple passive.",
+        "c": "“The room are cleaned every day.” does not fit here. Is cleaned is the present simple passive.",
+        "d": "“The room is clean every day by they.” does not fit here. Is cleaned is the present simple passive."
+      }
+    },
+    {
+      "id": "B1-U16-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use present passive: The room ___ cleaned every day.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The singular subject takes is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "B1-U16-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use present passive: The rooms ___ cleaned every day.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The plural subject takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "B1-U16-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past passive: The bridge ___ built in 2000.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The singular subject takes was.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U16-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past passive: The roads ___ repaired last week.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The plural subject takes were.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "B1-U16-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The cake was ___ yesterday. (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Made is the participle of make.",
+      "accepted_answers": [
+        "made"
+      ]
+    },
+    {
+      "id": "B1-U16-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the participle: The bridge was ___ in 2000. (build)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Built is the participle of build.",
+      "accepted_answers": [
+        "built"
+      ]
+    },
+    {
+      "id": "B1-U16-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ the room cleaned every day?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Put is before the singular subject.",
+      "accepted_answers": [
+        "Is"
+      ]
+    },
+    {
+      "id": "B1-U16-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the agent phrase: The book was written ___ Ana.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "By introduces the agent.",
+      "accepted_answers": [
+        "by"
+      ]
+    },
+    {
+      "id": "B1-U16-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The singular subject takes is.",
+      "source_sentence": "The room are cleaned every day.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "B1-U16-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: build",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Use the participle built after was.",
+      "source_sentence": "The bridge was build in 2000.",
+      "target_segment": "build",
+      "accepted_answers": [
+        "built"
+      ]
+    },
+    {
+      "id": "B1-U16-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "The plural subject takes were.",
+      "source_sentence": "The roads was repaired yesterday.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "B1-U16-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: make",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Use the participle made after was.",
+      "source_sentence": "The cake was make yesterday.",
+      "target_segment": "make",
+      "accepted_answers": [
+        "made"
+      ]
+    },
+    {
+      "id": "B1-U16-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Is cleaned is the present simple passive.",
+      "source_sentence": "They clean the room every day. Use the present simple passive.",
+      "keyword": "cleaned",
+      "target_sentence": "The room ___ every day.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "is cleaned"
+      ]
+    },
+    {
+      "id": "B1-U16-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Was repaired is the past simple passive.",
+      "source_sentence": "They repaired the road yesterday. Use the past simple passive.",
+      "keyword": "repaired",
+      "target_sentence": "The road ___ yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was repaired"
+      ]
+    },
+    {
+      "id": "B1-U16-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "By Maya identifies the agent.",
+      "source_sentence": "Maya made the cake yesterday. Include the agent.",
+      "keyword": "by",
+      "target_sentence": "The cake was made ___ yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "by Maya"
+      ]
+    },
+    {
+      "id": "B1-U16-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U16"
+      ],
+      "explanation": "Are made is the present simple passive.",
+      "source_sentence": "They build these bicycles locally. Use the present simple passive.",
+      "keyword": "made",
+      "target_sentence": "These bicycles ___ locally.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "are made"
+      ]
+    }
+  ]
+}

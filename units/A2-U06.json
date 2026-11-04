@@ -1,0 +1,643 @@
+{
+  "id": "A2-U06",
+  "level": "A2",
+  "title": "Present continuous for actions now",
+  "order": 6,
+  "prerequisites": [
+    "A2-U05"
+  ],
+  "objectives": [
+    "Describe an action happening now using be and an -ing form.",
+    "Form negatives, questions and short answers in the present continuous.",
+    "Spell common -ing forms correctly."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Use the present continuous to talk about an action that is happening now, while you speak or write. If you say ‘I am reading’, you describe an action in progress at this moment. The action has started and is not finished. Words such as now, at the moment and right now can make the time clear, but they are not always necessary.",
+        "We can also use this form for a temporary activity around the present, even when it is not happening at the exact second of speaking. For example, ‘I’m reading a book this week’ can be true when the book is closed. In this unit, most examples describe actions happening now."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use a form of be followed by the -ing form of the main verb: I am reading, you are reading, he is reading, we are reading and they are reading. A form such as am or is is a helping verb here. Do not leave it out. In speech and informal writing, short forms such as I’m, she’s and they’re are common.",
+        "For a negative, put not after be: ‘He is not sleeping’ or ‘He isn’t sleeping’. For a yes/no question, put be before the subject: ‘Are they waiting?’ Answer ‘Yes, they are’ or ‘No, they aren’t’. For an information question, put a question word first: ‘What are you doing?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Most verbs add -ing: work becomes working. A verb ending in a single silent e normally loses e: make becomes making. If a short stressed verb ends in one vowel followed by one consonant, it often doubles the consonant: sit becomes sitting and run becomes running. Some other verbs follow different spelling patterns; check an unfamiliar word in a dictionary.",
+        "Look at the context examples below. In each one, first find am, is or are; then find the verb ending in -ing. The subject decides which form of be to use. A single person such as Lara takes is, while two people such as Lara and Max take are."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use the base verb after be in this pattern: ‘She is cooking’, not ‘She is cook’. Do not use do or does to form this question: ‘Is she cooking?’, not ‘Does she cooking?’ The verb be already makes the question.",
+        "Some verbs, including know and like in their usual meanings, are not normally used in the continuous: ‘I know the answer’, rather than ‘I am knowing the answer’. Some verbs can change meaning in different contexts, so this is a useful general pattern rather than a rule for every possible use. The next unit compares actions now with routines."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I’m making dinner right now.",
+      "note": "I’m means I am; make becomes making."
+    },
+    {
+      "sentence": "The children are playing in the garden.",
+      "note": "The plural subject children takes are."
+    },
+    {
+      "sentence": "Nina is sitting by the window.",
+      "note": "Sit doubles t before -ing."
+    },
+    {
+      "sentence": "We are not working today.",
+      "note": "Not follows are in the negative."
+    },
+    {
+      "sentence": "Is Ravi waiting outside?",
+      "note": "Is comes before the subject in a question."
+    },
+    {
+      "sentence": "Are you listening? Yes, I am.",
+      "note": "The short answer uses am."
+    },
+    {
+      "sentence": "What are they watching?",
+      "note": "The question word comes before are and the subject."
+    },
+    {
+      "sentence": "I’m learning to drive this month.",
+      "note": "The activity is temporary around the present."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "He playing football.",
+      "correct": "He is playing football.",
+      "reason": "A form of be is needed before playing."
+    },
+    {
+      "incorrect": "They are runing.",
+      "correct": "They are running.",
+      "reason": "Run doubles n before -ing."
+    },
+    {
+      "incorrect": "Does she working?",
+      "correct": "Is she working?",
+      "reason": "Use is before the subject in this question."
+    }
+  ],
+  "summary": [
+    "Use am, is or are plus an -ing form for an action in progress.",
+    "Put not after be for a negative; put be before the subject in a question.",
+    "Check spelling changes such as making, sitting and running."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U06-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Listen! The baby ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "The singular subject takes is plus crying for an action now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cry"
+        },
+        {
+          "id": "b",
+          "text": "is crying"
+        },
+        {
+          "id": "c",
+          "text": "cries"
+        },
+        {
+          "id": "d",
+          "text": "crying"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“cry” does not fit here. The singular subject takes is plus crying for an action now.",
+        "b": "“is crying” fits here. The singular subject takes is plus crying for an action now.",
+        "c": "“cries” does not fit here. The singular subject takes is plus crying for an action now.",
+        "d": "“crying” does not fit here. The singular subject takes is plus crying for an action now."
+      }
+    },
+    {
+      "id": "A2-U06-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look! They ___ across the road.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "They takes are plus running.",
+      "options": [
+        {
+          "id": "a",
+          "text": "runs"
+        },
+        {
+          "id": "b",
+          "text": "run"
+        },
+        {
+          "id": "c",
+          "text": "is running"
+        },
+        {
+          "id": "d",
+          "text": "are running"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“runs” does not fit here. They takes are plus running.",
+        "b": "“run” does not fit here. They takes are plus running.",
+        "c": "“is running” does not fit here. They takes are plus running.",
+        "d": "“are running” fits here. They takes are plus running."
+      }
+    },
+    {
+      "id": "A2-U06-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ dinner right now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "I takes am plus the -ing form cooking.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am cooking"
+        },
+        {
+          "id": "b",
+          "text": "is cooking"
+        },
+        {
+          "id": "c",
+          "text": "are cook"
+        },
+        {
+          "id": "d",
+          "text": "cooking"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“am cooking” fits here. I takes am plus the -ing form cooking.",
+        "b": "“is cooking” does not fit here. I takes am plus the -ing form cooking.",
+        "c": "“are cook” does not fit here. I takes am plus the -ing form cooking.",
+        "d": "“cooking” does not fit here. I takes am plus the -ing form cooking."
+      }
+    },
+    {
+      "id": "A2-U06-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ she waiting for a bus now?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Put is before the singular subject she.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Is"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Do” does not fit here. Put is before the singular subject she.",
+        "b": "“Does” does not fit here. Put is before the singular subject she.",
+        "c": "“Is” fits here. Put is before the singular subject she.",
+        "d": "“Are” does not fit here. Put is before the singular subject she."
+      }
+    },
+    {
+      "id": "A2-U06-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ sleeping; we are studying.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "We takes are; aren’t means are not.",
+      "options": [
+        {
+          "id": "a",
+          "text": "aren’t"
+        },
+        {
+          "id": "b",
+          "text": "not are"
+        },
+        {
+          "id": "c",
+          "text": "doesn’t"
+        },
+        {
+          "id": "d",
+          "text": "isn’t"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“aren’t” fits here. We takes are; aren’t means are not.",
+        "b": "“not are” does not fit here. We takes are; aren’t means are not.",
+        "c": "“doesn’t” does not fit here. We takes are; aren’t means are not.",
+        "d": "“isn’t” does not fit here. We takes are; aren’t means are not."
+      }
+    },
+    {
+      "id": "A2-U06-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct -ing form of make.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Drop the final silent e before adding -ing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "makeing"
+        },
+        {
+          "id": "b",
+          "text": "making"
+        },
+        {
+          "id": "c",
+          "text": "makking"
+        },
+        {
+          "id": "d",
+          "text": "makeng"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“makeing” does not fit here. Drop the final silent e before adding -ing.",
+        "b": "“making” fits here. Drop the final silent e before adding -ing.",
+        "c": "“makking” does not fit here. Drop the final silent e before adding -ing.",
+        "d": "“makeng” does not fit here. Drop the final silent e before adding -ing."
+      }
+    },
+    {
+      "id": "A2-U06-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Are you working now? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use the full form I am in a positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I do"
+        },
+        {
+          "id": "b",
+          "text": "I’m"
+        },
+        {
+          "id": "c",
+          "text": "I are"
+        },
+        {
+          "id": "d",
+          "text": "I am"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I do” does not fit here. Use the full form I am in a positive short answer.",
+        "b": "“I’m” does not fit here. Use the full form I am in a positive short answer.",
+        "c": "“I are” does not fit here. Use the full form I am in a positive short answer.",
+        "d": "“I am” fits here. Use the full form I am in a positive short answer."
+      }
+    },
+    {
+      "id": "A2-U06-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What ___ doing at the moment?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Put are before they in this question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they are"
+        },
+        {
+          "id": "b",
+          "text": "is they"
+        },
+        {
+          "id": "c",
+          "text": "are they"
+        },
+        {
+          "id": "d",
+          "text": "do they"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“they are” does not fit here. Put are before they in this question.",
+        "b": "“is they” does not fit here. Put are before they in this question.",
+        "c": "“are they” fits here. Put are before they in this question.",
+        "d": "“do they” does not fit here. Put are before they in this question."
+      }
+    },
+    {
+      "id": "A2-U06-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ reading now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "I takes am.",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U06-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ talking on the phone.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "She takes is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U06-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The dogs ___ sleeping now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "The plural subject takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U06-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Look! He is ___. (run)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Run doubles n before -ing.",
+      "accepted_answers": [
+        "running"
+      ]
+    },
+    {
+      "id": "A2-U06-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We are ___ lunch now. (make)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Drop the final e in make before -ing.",
+      "accepted_answers": [
+        "making"
+      ]
+    },
+    {
+      "id": "A2-U06-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ they listening now?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use are before they in a question.",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U06-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Is the bus coming? Yes, it ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "A positive short answer uses is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U06-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He ___ not studying right now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "He takes is; not follows it.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U06-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: danceing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Drop the final e before -ing.",
+      "source_sentence": "She is danceing now.",
+      "target_segment": "danceing",
+      "accepted_answers": [
+        "dancing"
+      ]
+    },
+    {
+      "id": "A2-U06-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "They takes are.",
+      "source_sentence": "They is playing now.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U06-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: siting",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Sit doubles t before -ing.",
+      "source_sentence": "I am siting here.",
+      "target_segment": "siting",
+      "accepted_answers": [
+        "sitting"
+      ]
+    },
+    {
+      "id": "A2-U06-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Does",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use is before the subject in this question.",
+      "source_sentence": "Does he reading now?",
+      "target_segment": "Does",
+      "accepted_answers": [
+        "Is"
+      ]
+    },
+    {
+      "id": "A2-U06-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use is plus reading with Lena.",
+      "source_sentence": "At this moment, Lena is reading.",
+      "keyword": "reading",
+      "target_sentence": "Lena ___ at this moment.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "is reading"
+      ]
+    },
+    {
+      "id": "A2-U06-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use aren’t or are not before listening.",
+      "source_sentence": "They are not listening now.",
+      "keyword": "listening",
+      "target_sentence": "They ___ now.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "aren’t listening",
+        "are not listening"
+      ]
+    },
+    {
+      "id": "A2-U06-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Use he is in the positive short answer.",
+      "source_sentence": "Is he working now? Give a positive short answer.",
+      "keyword": "he",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he is"
+      ]
+    },
+    {
+      "id": "A2-U06-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U06"
+      ],
+      "explanation": "Put are before the plural subject.",
+      "source_sentence": "The children are playing outside. Ask a yes/no question.",
+      "keyword": "Are",
+      "target_sentence": "___ the children playing outside?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Are"
+      ]
+    }
+  ]
+}

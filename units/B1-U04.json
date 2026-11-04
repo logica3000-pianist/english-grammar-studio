@@ -1,0 +1,642 @@
+{
+  "id": "B1-U04",
+  "level": "B1",
+  "title": "Future arrangements and timetables",
+  "order": 4,
+  "prerequisites": [
+    "B1-U03"
+  ],
+  "objectives": [
+    "Describe a future arrangement with the present continuous.",
+    "Describe a scheduled event with the present simple.",
+    "Form questions about arrangements and timetables."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We can use the present continuous to describe a future arrangement: a plan that has been organised, often with another person or a place. ‘I'm meeting my tutor on Tuesday’ suggests that the meeting is arranged. A future time expression or the surrounding conversation usually makes it clear that the meeting has not happened yet.",
+        "We can use the present simple for a future event that is part of a timetable or fixed schedule: ‘The train leaves at 8.15 tomorrow’. This form is common for transport times, opening times and scheduled events. The speaker presents the time as part of a schedule; it is not simply a personal prediction."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a future arrangement, use am, is or are plus the -ing form: ‘We are meeting on Friday’. For a negative, add not after be: ‘She isn't working tomorrow’. For a question, put be before the subject: ‘Are they arriving on Monday?’ A short answer uses the appropriate form of be: ‘Yes, they are’ or ‘No, they aren't’.",
+        "For a schedule, use the present simple: ‘The film starts at seven’ or ‘The buses leave every hour’. A singular subject normally takes -s: ‘The train leaves’. To form a question, use do or does and the base verb: ‘What time does the train leave?’ Use does with the singular subject train."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine that you have booked a table with friends. ‘We're having dinner together on Saturday’ presents a future arrangement. If you check the restaurant's published hours, you can say ‘The restaurant opens at six on Saturdays’. One sentence describes what people have arranged; the other describes a schedule.",
+        "The same time expression can occur with different forms: ‘I'm leaving tomorrow’ describes an arrangement, while ‘The train leaves tomorrow at six’ presents a timetable. The time word tomorrow does not choose the form by itself. The situation and the speaker's view of the event are important."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that every future arrangement requires the present continuous. Going to can also describe an intention or plan: ‘I'm going to visit my parents’. A speaker might say ‘I'm visiting my parents on Sunday’ when the visit is arranged. The two forms can overlap, and both may be possible in many contexts.",
+        "For timetables, do not leave out the -s with a singular subject: ‘The bus leaves at eight’, not ‘The bus leave at eight’. In a present continuous question, do not use do: ask ‘Are you meeting her tomorrow?’, not ‘Do you meeting her tomorrow?’ Some scheduled events can also be expressed with other future forms in different contexts."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I'm meeting my tutor on Tuesday.",
+      "note": "The present continuous presents the meeting as an arrangement."
+    },
+    {
+      "sentence": "We're having dinner with friends tomorrow.",
+      "note": "The dinner is presented as arranged."
+    },
+    {
+      "sentence": "Are you seeing the dentist on Friday?",
+      "note": "The present continuous question asks about an arrangement."
+    },
+    {
+      "sentence": "She's not working tomorrow.",
+      "note": "The negative describes her future schedule or arrangement."
+    },
+    {
+      "sentence": "The train leaves at 8.15 tomorrow.",
+      "note": "The present simple presents a timetable."
+    },
+    {
+      "sentence": "What time does the film start?",
+      "note": "Does introduces a question about the scheduled start."
+    },
+    {
+      "sentence": "The museum opens at ten on Sundays.",
+      "note": "The present simple describes scheduled opening hours."
+    },
+    {
+      "sentence": "I'm going to visit my parents next week.",
+      "note": "Going to expresses an intention or plan and can overlap with an arrangement."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She meeting her tutor tomorrow.",
+      "correct": "She is meeting her tutor tomorrow.",
+      "reason": "Use is before the -ing form."
+    },
+    {
+      "incorrect": "The train leave at six tomorrow.",
+      "correct": "The train leaves at six tomorrow.",
+      "reason": "The singular subject takes leaves in a timetable statement."
+    },
+    {
+      "incorrect": "Does the bus leaves at nine?",
+      "correct": "Does the bus leave at nine?",
+      "reason": "Use the base form after does."
+    }
+  ],
+  "summary": [
+    "Use the present continuous for arrangements with a clear future context.",
+    "Use the present simple for events presented as part of a timetable.",
+    "Going to and the present continuous can overlap when describing plans."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U04-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have booked a table. We ___ dinner with friends on Saturday. Choose the present continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Are having presents the booked event as an arrangement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are having"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "having"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“are having” fits here. Are having presents the booked event as an arrangement.",
+        "b": "“have” does not fit here. Are having presents the booked event as an arrangement.",
+        "c": "“has” does not fit here. Are having presents the booked event as an arrangement.",
+        "d": "“having” does not fit here. Are having presents the booked event as an arrangement."
+      }
+    },
+    {
+      "id": "B1-U04-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The timetable says: the train ___ at 8.15 tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes leaves in a timetable statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is leave"
+        },
+        {
+          "id": "b",
+          "text": "leaves"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "leaving"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“is leave” does not fit here. The singular subject takes leaves in a timetable statement.",
+        "b": "“leaves” fits here. The singular subject takes leaves in a timetable statement.",
+        "c": "“leave” does not fit here. The singular subject takes leaves in a timetable statement.",
+        "d": "“leaving” does not fit here. The singular subject takes leaves in a timetable statement."
+      }
+    },
+    {
+      "id": "B1-U04-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you meeting Maya on Friday?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Put are before you in a present continuous question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Do” does not fit here. Put are before you in a present continuous question.",
+        "b": "“Does” does not fit here. Put are before you in a present continuous question.",
+        "c": "“Are” fits here. Put are before you in a present continuous question.",
+        "d": "“Is” does not fit here. Put are before you in a present continuous question."
+      }
+    },
+    {
+      "id": "B1-U04-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What time ___ the film start? Choose the timetable question.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Does introduces the question with the singular subject film.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“is” does not fit here. Does introduces the question with the singular subject film.",
+        "b": "“do” does not fit here. Does introduces the question with the singular subject film.",
+        "c": "“are” does not fit here. Does introduces the question with the singular subject film.",
+        "d": "“does” fits here. Does introduces the question with the singular subject film."
+      }
+    },
+    {
+      "id": "B1-U04-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They ___ meeting the tutor tomorrow; the appointment was cancelled.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "They takes aren’t before meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn’t"
+        },
+        {
+          "id": "b",
+          "text": "doesn’t"
+        },
+        {
+          "id": "c",
+          "text": "don’t"
+        },
+        {
+          "id": "d",
+          "text": "aren’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“isn’t” does not fit here. They takes aren’t before meeting.",
+        "b": "“doesn’t” does not fit here. They takes aren’t before meeting.",
+        "c": "“don’t” does not fit here. They takes aren’t before meeting.",
+        "d": "“aren’t” fits here. They takes aren’t before meeting."
+      }
+    },
+    {
+      "id": "B1-U04-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Our appointment is arranged for Monday. She ___ the dentist then. Choose the present continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Is seeing presents the appointment as an arrangement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sees yesterday"
+        },
+        {
+          "id": "b",
+          "text": "is see"
+        },
+        {
+          "id": "c",
+          "text": "is seeing"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“sees yesterday” does not fit here. Is seeing presents the appointment as an arrangement.",
+        "b": "“is see” does not fit here. Is seeing presents the appointment as an arrangement.",
+        "c": "“is seeing” fits here. Is seeing presents the appointment as an arrangement.",
+        "d": "“seeing” does not fit here. Is seeing presents the appointment as an arrangement."
+      }
+    },
+    {
+      "id": "B1-U04-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The published schedule says the museum ___ at ten tomorrow.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Opens is the present simple form for the singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "opens"
+        },
+        {
+          "id": "b",
+          "text": "open"
+        },
+        {
+          "id": "c",
+          "text": "opening"
+        },
+        {
+          "id": "d",
+          "text": "are open"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“opens” fits here. Opens is the present simple form for the singular subject.",
+        "b": "“open” does not fit here. Opens is the present simple form for the singular subject.",
+        "c": "“opening” does not fit here. Opens is the present simple form for the singular subject.",
+        "d": "“are open” does not fit here. Opens is the present simple form for the singular subject."
+      }
+    },
+    {
+      "id": "B1-U04-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Are they arriving on Tuesday? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use they are in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they do"
+        },
+        {
+          "id": "b",
+          "text": "they are"
+        },
+        {
+          "id": "c",
+          "text": "they is"
+        },
+        {
+          "id": "d",
+          "text": "they will"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“they do” does not fit here. Use they are in the positive short answer.",
+        "b": "“they are” fits here. Use they are in the positive short answer.",
+        "c": "“they is” does not fit here. Use they are in the positive short answer.",
+        "d": "“they will” does not fit here. Use they are in the positive short answer."
+      }
+    },
+    {
+      "id": "B1-U04-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present continuous: I ___ my friend tomorrow. (meet)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "I takes am plus meeting.",
+      "accepted_answers": [
+        "am meeting"
+      ]
+    },
+    {
+      "id": "B1-U04-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present continuous: She ___ the dentist on Friday. (see)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "She takes is plus seeing.",
+      "accepted_answers": [
+        "is seeing"
+      ]
+    },
+    {
+      "id": "B1-U04-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present continuous: They ___ on Saturday. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "They takes are plus arriving.",
+      "accepted_answers": [
+        "are arriving"
+      ]
+    },
+    {
+      "id": "B1-U04-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present simple: The train ___ at six tomorrow. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes leaves.",
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U04-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present simple: The film ___ at eight. (start)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes starts.",
+      "accepted_answers": [
+        "starts"
+      ]
+    },
+    {
+      "id": "B1-U04-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ you meeting her tomorrow?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Put are before you.",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "B1-U04-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the timetable question: What time ___ the bus leave?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use does with the singular subject bus.",
+      "accepted_answers": [
+        "does"
+      ]
+    },
+    {
+      "id": "B1-U04-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Are they coming on Friday? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use are in the positive short answer.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "B1-U04-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: He meeting",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "A form of be is needed before meeting.",
+      "source_sentence": "He meeting Maya tomorrow.",
+      "target_segment": "He meeting",
+      "accepted_answers": [
+        "He is meeting"
+      ]
+    },
+    {
+      "id": "B1-U04-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "The singular subject takes leaves.",
+      "source_sentence": "The bus leave at six tomorrow.",
+      "target_segment": "leave",
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U04-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: leaves",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use the base form after does.",
+      "source_sentence": "Does the train leaves at eight?",
+      "target_segment": "leaves",
+      "accepted_answers": [
+        "leave"
+      ]
+    },
+    {
+      "id": "B1-U04-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Do",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use are in a present continuous question.",
+      "source_sentence": "Do you meeting her on Friday?",
+      "target_segment": "Do",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "B1-U04-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Are meeting describes the arrangement.",
+      "source_sentence": "Our meeting with Alex is arranged for Friday. Use the present continuous.",
+      "keyword": "meeting",
+      "target_sentence": "We ___ Alex on Friday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "are meeting"
+      ]
+    },
+    {
+      "id": "B1-U04-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Leaves presents the departure as a scheduled event.",
+      "source_sentence": "The timetable gives six as the train’s departure time.",
+      "keyword": "leaves",
+      "target_sentence": "The train ___ at six.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "leaves"
+      ]
+    },
+    {
+      "id": "B1-U04-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Put are before the subject.",
+      "source_sentence": "They are arriving on Tuesday. Ask a yes/no question.",
+      "keyword": "Are",
+      "target_sentence": "___ they arriving on Tuesday?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "B1-U04-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U04"
+      ],
+      "explanation": "Use does with the singular subject film.",
+      "source_sentence": "The published schedule gives eight as the film’s starting time. Ask about it.",
+      "keyword": "does",
+      "target_sentence": "What time ___ the film start?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "does"
+      ]
+    }
+  ]
+}

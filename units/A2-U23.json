@@ -1,0 +1,642 @@
+{
+  "id": "A2-U23",
+  "level": "A2",
+  "title": "Comparatives and superlatives",
+  "order": 23,
+  "prerequisites": [
+    "A2-U22"
+  ],
+  "objectives": [
+    "Form common comparative and superlative adjectives.",
+    "Compare two items and one item with a group.",
+    "Use better and the best accurately."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use a comparative adjective to compare two people or things: ‘This bag is lighter than that bag’. We use a superlative adjective to compare one person or thing with a group: ‘This is the lightest bag in the shop’. The group can be stated directly or understood from the conversation.",
+        "Adjectives describe qualities such as size, speed and interest. A comparative often comes before than: ‘The blue car is faster than the red car’. A superlative usually comes after the: ‘The blue car is the fastest of the three’. The does not always appear when another determiner is used, as in ‘my best friend’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For many short adjectives, add -er for the comparative and -est for the superlative: small, smaller, the smallest. If an adjective ends in e, add -r or -st: large, larger, the largest. In a short adjective ending in a single vowel plus a single consonant, the consonant often doubles: big, bigger, the biggest.",
+        "For an adjective ending in consonant plus y, change y to i before the ending: happy, happier, the happiest. For many longer adjectives, use more and most: interesting, more interesting, the most interesting. A dictionary can help with adjectives that allow more than one pattern."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Some forms are irregular. Good becomes better and the best; bad becomes worse and the worst. Far has farther and further, and farthest and furthest; the forms can differ by context. At this level, focus on good and bad and the regular forms in the examples below.",
+        "Read the examples as descriptions of real choices. ‘My room is smaller than yours’ compares two rooms. ‘My room is the smallest in the house’ compares it with all the rooms in the stated group. An adjective after be describes the subject: ‘The test is easier than the last one’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use more with an -er comparative in standard English: say ‘bigger’, not ‘more bigger’. Do not use most with an -est form: say ‘the tallest’, not ‘the most tallest’. Use than in the common two-item comparison ‘taller than’, not ‘taller that’.",
+        "A superlative needs a meaningful comparison group. ‘She is the tallest’ is clear when the listener knows the group, but not every sentence names it. More and most are also used for quantities, which is a different use. Here they form comparisons with adjectives such as interesting."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This bag is lighter than mine.",
+      "note": "Lighter compares two bags."
+    },
+    {
+      "sentence": "That is the smallest room in the house.",
+      "note": "Smallest compares one room with the rooms in the house."
+    },
+    {
+      "sentence": "Today is hotter than yesterday.",
+      "note": "Hot doubles t before -er."
+    },
+    {
+      "sentence": "The blue book is more interesting than the red one.",
+      "note": "More forms the comparative of interesting."
+    },
+    {
+      "sentence": "It is the most interesting film in the series.",
+      "note": "Most forms the superlative of interesting."
+    },
+    {
+      "sentence": "This test is easier than the last one.",
+      "note": "Easy changes y to i before -er."
+    },
+    {
+      "sentence": "My second result is better than my first.",
+      "note": "Better is the irregular comparative of good."
+    },
+    {
+      "sentence": "That was the worst meal of the trip.",
+      "note": "Worst is the irregular superlative of bad."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "This box is more bigger.",
+      "correct": "This box is bigger.",
+      "reason": "Do not combine more with bigger."
+    },
+    {
+      "incorrect": "It is the most tallest building.",
+      "correct": "It is the tallest building.",
+      "reason": "Do not combine most with tallest."
+    },
+    {
+      "incorrect": "My room is smaller that yours.",
+      "correct": "My room is smaller than yours.",
+      "reason": "Use than in this comparison."
+    }
+  ],
+  "summary": [
+    "Use a comparative to compare two things, often with than.",
+    "Use a superlative to compare one item with a group.",
+    "Learn irregular forms such as better, best, worse and worst."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U23-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My bag is ___ than yours. (small)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use smaller for a two-item comparison.",
+      "options": [
+        {
+          "id": "a",
+          "text": "smallest"
+        },
+        {
+          "id": "b",
+          "text": "smaller"
+        },
+        {
+          "id": "c",
+          "text": "more smallest"
+        },
+        {
+          "id": "d",
+          "text": "small"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“smallest” does not fit here. Use smaller for a two-item comparison.",
+        "b": "“smaller” fits here. Use smaller for a two-item comparison.",
+        "c": "“more smallest” does not fit here. Use smaller for a two-item comparison.",
+        "d": "“small” does not fit here. Use smaller for a two-item comparison."
+      }
+    },
+    {
+      "id": "A2-U23-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This is the ___ building in the town. (tall)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use the superlative tallest for one building in a group.",
+      "options": [
+        {
+          "id": "a",
+          "text": "taller"
+        },
+        {
+          "id": "b",
+          "text": "more tall"
+        },
+        {
+          "id": "c",
+          "text": "tall"
+        },
+        {
+          "id": "d",
+          "text": "tallest"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“taller” does not fit here. Use the superlative tallest for one building in a group.",
+        "b": "“more tall” does not fit here. Use the superlative tallest for one building in a group.",
+        "c": "“tall” does not fit here. Use the superlative tallest for one building in a group.",
+        "d": "“tallest” fits here. Use the superlative tallest for one building in a group."
+      }
+    },
+    {
+      "id": "A2-U23-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Today is ___ than yesterday. (hot)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Double t before -er in hotter.",
+      "options": [
+        {
+          "id": "a",
+          "text": "hotter"
+        },
+        {
+          "id": "b",
+          "text": "hoter"
+        },
+        {
+          "id": "c",
+          "text": "most hot"
+        },
+        {
+          "id": "d",
+          "text": "hottest"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“hotter” fits here. Double t before -er in hotter.",
+        "b": "“hoter” does not fit here. Double t before -er in hotter.",
+        "c": "“most hot” does not fit here. Double t before -er in hotter.",
+        "d": "“hottest” does not fit here. Double t before -er in hotter."
+      }
+    },
+    {
+      "id": "A2-U23-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This book is ___ than that one. (interesting)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use more interesting for this comparison.",
+      "options": [
+        {
+          "id": "a",
+          "text": "interestinger"
+        },
+        {
+          "id": "b",
+          "text": "most interesting"
+        },
+        {
+          "id": "c",
+          "text": "more interesting"
+        },
+        {
+          "id": "d",
+          "text": "interest"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“interestinger” does not fit here. Use more interesting for this comparison.",
+        "b": "“most interesting” does not fit here. Use more interesting for this comparison.",
+        "c": "“more interesting” fits here. Use more interesting for this comparison.",
+        "d": "“interest” does not fit here. Use more interesting for this comparison."
+      }
+    },
+    {
+      "id": "A2-U23-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Her second result is ___ than her first. (good)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Better is the comparative of good.",
+      "options": [
+        {
+          "id": "a",
+          "text": "better"
+        },
+        {
+          "id": "b",
+          "text": "gooder"
+        },
+        {
+          "id": "c",
+          "text": "best"
+        },
+        {
+          "id": "d",
+          "text": "more best"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“better” fits here. Better is the comparative of good.",
+        "b": "“gooder” does not fit here. Better is the comparative of good.",
+        "c": "“best” does not fit here. Better is the comparative of good.",
+        "d": "“more best” does not fit here. Better is the comparative of good."
+      }
+    },
+    {
+      "id": "A2-U23-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This is the ___ of the three meals. (bad)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Worst is the superlative of bad.",
+      "options": [
+        {
+          "id": "a",
+          "text": "worse"
+        },
+        {
+          "id": "b",
+          "text": "badder"
+        },
+        {
+          "id": "c",
+          "text": "worst"
+        },
+        {
+          "id": "d",
+          "text": "more badder"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“worse” does not fit here. Worst is the superlative of bad.",
+        "b": "“badder” does not fit here. Worst is the superlative of bad.",
+        "c": "“worst” fits here. Worst is the superlative of bad.",
+        "d": "“more badder” does not fit here. Worst is the superlative of bad."
+      }
+    },
+    {
+      "id": "A2-U23-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My new job is ___ than my old one. (easy)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Change y to i before adding -er.",
+      "options": [
+        {
+          "id": "a",
+          "text": "easyer"
+        },
+        {
+          "id": "b",
+          "text": "easiest"
+        },
+        {
+          "id": "c",
+          "text": "more easiest"
+        },
+        {
+          "id": "d",
+          "text": "easier"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“easyer” does not fit here. Change y to i before adding -er.",
+        "b": "“easiest” does not fit here. Change y to i before adding -er.",
+        "c": "“more easiest” does not fit here. Change y to i before adding -er.",
+        "d": "“easier” fits here. Change y to i before adding -er."
+      }
+    },
+    {
+      "id": "A2-U23-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use smaller than for this comparison.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This room is more smaller."
+        },
+        {
+          "id": "b",
+          "text": "This room is smaller than mine."
+        },
+        {
+          "id": "c",
+          "text": "This room is smallest than mine."
+        },
+        {
+          "id": "d",
+          "text": "This room is smaller that mine."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“This room is more smaller.” does not fit here. Use smaller than for this comparison.",
+        "b": "“This room is smaller than mine.” fits here. Use smaller than for this comparison.",
+        "c": "“This room is smallest than mine.” does not fit here. Use smaller than for this comparison.",
+        "d": "“This room is smaller that mine.” does not fit here. Use smaller than for this comparison."
+      }
+    },
+    {
+      "id": "A2-U23-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This box is ___ than that one. (big)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Double g before -er in bigger.",
+      "accepted_answers": [
+        "bigger"
+      ]
+    },
+    {
+      "id": "A2-U23-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It is the ___ room in the house. (small)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use the superlative smallest for the group.",
+      "accepted_answers": [
+        "smallest"
+      ]
+    },
+    {
+      "id": "A2-U23-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "My exam result is ___ than before. (good)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Better is the comparative of good.",
+      "accepted_answers": [
+        "better"
+      ]
+    },
+    {
+      "id": "A2-U23-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She is the ___ runner in the team. (fast)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use the superlative fastest for the group.",
+      "accepted_answers": [
+        "fastest"
+      ]
+    },
+    {
+      "id": "A2-U23-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This story is more ___ than that one. (interesting)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use the adjective after more.",
+      "accepted_answers": [
+        "interesting"
+      ]
+    },
+    {
+      "id": "A2-U23-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "My room is larger ___ yours.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use than in this comparison.",
+      "accepted_answers": [
+        "than"
+      ]
+    },
+    {
+      "id": "A2-U23-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is the ___ of the three days. (bad)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Worst is the superlative of bad.",
+      "accepted_answers": [
+        "worst"
+      ]
+    },
+    {
+      "id": "A2-U23-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The second question is ___ than the first. (easy)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Change y to i and add -er.",
+      "accepted_answers": [
+        "easier"
+      ]
+    },
+    {
+      "id": "A2-U23-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: more lighter",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Do not combine more with lighter.",
+      "source_sentence": "This bag is more lighter than mine.",
+      "target_segment": "more lighter",
+      "accepted_answers": [
+        "lighter"
+      ]
+    },
+    {
+      "id": "A2-U23-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: most smallest",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Do not combine most with smallest.",
+      "source_sentence": "That is the most smallest room.",
+      "target_segment": "most smallest",
+      "accepted_answers": [
+        "smallest"
+      ]
+    },
+    {
+      "id": "A2-U23-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Use than in this comparison.",
+      "source_sentence": "He is taller that me.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "than"
+      ]
+    },
+    {
+      "id": "A2-U23-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: gooder",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Better is the comparative of good.",
+      "source_sentence": "Today is gooder than yesterday.",
+      "target_segment": "gooder",
+      "accepted_answers": [
+        "better"
+      ]
+    },
+    {
+      "id": "A2-U23-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "If one bag is lighter, the other is heavier.",
+      "source_sentence": "The blue bag is lighter than the red bag.",
+      "keyword": "heavier",
+      "target_sentence": "The red bag is ___ than the blue bag.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "heavier"
+      ]
+    },
+    {
+      "id": "A2-U23-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "The smallest compares the room with the group.",
+      "source_sentence": "No other room in the house is as small as this room.",
+      "keyword": "smallest",
+      "target_sentence": "This is ___ room in the house.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "the smallest"
+      ]
+    },
+    {
+      "id": "A2-U23-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "Better is the comparative of good.",
+      "source_sentence": "The first test was good. The second test was better.",
+      "keyword": "better",
+      "target_sentence": "The second test was ___ than the first.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "better"
+      ]
+    },
+    {
+      "id": "A2-U23-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U23"
+      ],
+      "explanation": "The fastest compares Lena with the team.",
+      "source_sentence": "No other runner in the team is as fast as Lena.",
+      "keyword": "fastest",
+      "target_sentence": "Lena is ___ runner in the team.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "the fastest"
+      ]
+    }
+  ]
+}

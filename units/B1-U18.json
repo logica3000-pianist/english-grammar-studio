@@ -1,0 +1,642 @@
+{
+  "id": "B1-U18",
+  "level": "B1",
+  "title": "Reported questions and requests",
+  "order": 18,
+  "prerequisites": [
+    "B1-U17"
+  ],
+  "objectives": [
+    "Report yes/no and information questions.",
+    "Use statement word order in reported questions.",
+    "Report positive and negative requests with an infinitive."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Reported questions tell someone what another person asked. A direct question has question word order: ‘Where do you live?’ A reported question uses statement word order: ‘She asked where I lived’. The subject comes before the verb, and we do not normally use do or does just to form the reported question.",
+        "For a yes/no question, use if or whether: ‘Are you ready?’ can become ‘She asked if I was ready’. Both words can introduce a reported yes/no question in this pattern. For an information question, keep the question word: ‘Where do you work?’ can become ‘He asked where I worked’."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "After a past reporting verb such as asked, a verb in the original question often shifts back: ‘Are you ready?’ can become ‘She asked if I was ready’; ‘Where do you live?’ can become ‘She asked where I lived’. Pronouns and time expressions change only when needed by the reporting context. Backshift is not always required if the original information is still true or relevant.",
+        "Report a request with ask plus a person plus a to-infinitive: ‘Please open the door’ can become ‘She asked me to open the door’. A negative request uses not before the infinitive: ‘Please don't leave’ can become ‘She asked me not to leave’. Tell plus a person and an infinitive often reports an instruction: ‘She told me to wait’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Where is the station?’ and ‘He asked where the station was’. The direct question puts is before the subject; the reported question puts the subject before was. Compare ‘Did they leave?’ and ‘She asked whether they had left’. In this reported form, did disappears and had left expresses the backshift.",
+        "A reported question that is part of a statement normally ends with a full stop: ‘She asked where I lived.’ A direct question ends with a question mark. In ‘Could you tell me where the station is?’, the whole sentence is a direct request, so a question mark is appropriate even though the embedded clause uses statement order."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not write ‘She asked where did I live’ in the basic reported-question pattern. Say ‘She asked where I lived’. Do not put if or whether before an information word such as where in this pattern: use ‘asked where’, not ‘asked if where’.",
+        "Do not omit the person after ask when reporting a request with an infinitive: ‘She asked me to wait’ identifies the person asked. Ask can appear without an object in other patterns, so this is not a rule about every use of ask. As with reported statements, choose pronouns and tense according to the real situation and the intended viewpoint."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She asked where I lived.",
+      "note": "The reported question uses statement word order."
+    },
+    {
+      "sentence": "He asked if I was ready.",
+      "note": "If introduces a reported yes/no question."
+    },
+    {
+      "sentence": "She asked whether they had left.",
+      "note": "Whether introduces a reported yes/no question."
+    },
+    {
+      "sentence": "He asked what time the train left.",
+      "note": "The subject comes before the verb."
+    },
+    {
+      "sentence": "She asked me to open the door.",
+      "note": "Ask plus person and to-infinitive reports the request."
+    },
+    {
+      "sentence": "She asked me not to leave.",
+      "note": "Not comes before the infinitive."
+    },
+    {
+      "sentence": "He told us to wait.",
+      "note": "Tell plus person and infinitive can report an instruction."
+    },
+    {
+      "sentence": "Could you tell me where the station is?",
+      "note": "The whole sentence is a question, but the embedded clause has statement order."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She asked where did I live.",
+      "correct": "She asked where I lived.",
+      "reason": "Use statement word order in the reported question."
+    },
+    {
+      "incorrect": "He asked if where I worked.",
+      "correct": "He asked where I worked.",
+      "reason": "Keep where without adding if."
+    },
+    {
+      "incorrect": "She asked to me wait.",
+      "correct": "She asked me to wait.",
+      "reason": "Use ask plus person plus to-infinitive."
+    }
+  ],
+  "summary": [
+    "Use statement word order in reported questions.",
+    "Use if or whether for reported yes/no questions and retain information words.",
+    "Use ask or tell plus a person and an infinitive for requests or instructions."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U18-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She asked: “Where do you live?” Report with backshift to I.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Reported questions use subject-before-verb order.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She asked where did I live."
+        },
+        {
+          "id": "b",
+          "text": "She asked where I lived."
+        },
+        {
+          "id": "c",
+          "text": "She asked if where I lived."
+        },
+        {
+          "id": "d",
+          "text": "She asked where lived I."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She asked where did I live.” does not fit here. Reported questions use subject-before-verb order.",
+        "b": "“She asked where I lived.” fits here. Reported questions use subject-before-verb order.",
+        "c": "“She asked if where I lived.” does not fit here. Reported questions use subject-before-verb order.",
+        "d": "“She asked where lived I.” does not fit here. Reported questions use subject-before-verb order."
+      }
+    },
+    {
+      "id": "B1-U18-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He asked: “Are you ready?” Report with backshift to I.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "If introduces the yes/no question and I comes before was.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He asked am I ready."
+        },
+        {
+          "id": "b",
+          "text": "He asked if was I ready."
+        },
+        {
+          "id": "c",
+          "text": "He asked if I ready."
+        },
+        {
+          "id": "d",
+          "text": "He asked if I was ready."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“He asked am I ready.” does not fit here. If introduces the yes/no question and I comes before was.",
+        "b": "“He asked if was I ready.” does not fit here. If introduces the yes/no question and I comes before was.",
+        "c": "“He asked if I ready.” does not fit here. If introduces the yes/no question and I comes before was.",
+        "d": "“He asked if I was ready.” fits here. If introduces the yes/no question and I comes before was."
+      }
+    },
+    {
+      "id": "B1-U18-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya said to me: “Please wait.” Report the request.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Ask plus person plus to-infinitive reports the request.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maya asked me to wait."
+        },
+        {
+          "id": "b",
+          "text": "Maya asked to me wait."
+        },
+        {
+          "id": "c",
+          "text": "Maya asked me wait."
+        },
+        {
+          "id": "d",
+          "text": "Maya asked that me wait."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Maya asked me to wait.” fits here. Ask plus person plus to-infinitive reports the request.",
+        "b": "“Maya asked to me wait.” does not fit here. Ask plus person plus to-infinitive reports the request.",
+        "c": "“Maya asked me wait.” does not fit here. Ask plus person plus to-infinitive reports the request.",
+        "d": "“Maya asked that me wait.” does not fit here. Ask plus person plus to-infinitive reports the request."
+      }
+    },
+    {
+      "id": "B1-U18-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The teacher said to us: “Do not talk.” Report the instruction.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Not comes before the to-infinitive in this reported instruction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The teacher told us to not talking."
+        },
+        {
+          "id": "b",
+          "text": "The teacher told not us talk."
+        },
+        {
+          "id": "c",
+          "text": "The teacher told us not to talk."
+        },
+        {
+          "id": "d",
+          "text": "The teacher told us don’t talk."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The teacher told us to not talking.” does not fit here. Not comes before the to-infinitive in this reported instruction.",
+        "b": "“The teacher told not us talk.” does not fit here. Not comes before the to-infinitive in this reported instruction.",
+        "c": "“The teacher told us not to talk.” fits here. Not comes before the to-infinitive in this reported instruction.",
+        "d": "“The teacher told us don’t talk.” does not fit here. Not comes before the to-infinitive in this reported instruction."
+      }
+    },
+    {
+      "id": "B1-U18-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He asked: “Where is the station?” Report with backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "The subject the station comes before was.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He asked where the station was."
+        },
+        {
+          "id": "b",
+          "text": "He asked where was the station."
+        },
+        {
+          "id": "c",
+          "text": "He asked if where the station was."
+        },
+        {
+          "id": "d",
+          "text": "He asked where the station were."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“He asked where the station was.” fits here. The subject the station comes before was.",
+        "b": "“He asked where was the station.” does not fit here. The subject the station comes before was.",
+        "c": "“He asked if where the station was.” does not fit here. The subject the station comes before was.",
+        "d": "“He asked where the station were.” does not fit here. The subject the station comes before was."
+      }
+    },
+    {
+      "id": "B1-U18-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She asked: “Did they leave?” Report with whether and backshift.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Whether introduces the question; they comes before had left.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She asked whether did they leave."
+        },
+        {
+          "id": "b",
+          "text": "She asked whether they leave did."
+        },
+        {
+          "id": "c",
+          "text": "She asked whether they had left."
+        },
+        {
+          "id": "d",
+          "text": "She asked whether had they left."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She asked whether did they leave.” does not fit here. Whether introduces the question; they comes before had left.",
+        "b": "“She asked whether they leave did.” does not fit here. Whether introduces the question; they comes before had left.",
+        "c": "“She asked whether they had left.” fits here. Whether introduces the question; they comes before had left.",
+        "d": "“She asked whether had they left.” does not fit here. Whether introduces the question; they comes before had left."
+      }
+    },
+    {
+      "id": "B1-U18-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence reports a request correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use ask plus person plus a to-infinitive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She asked to me open the window."
+        },
+        {
+          "id": "b",
+          "text": "She asked me opening the window."
+        },
+        {
+          "id": "c",
+          "text": "She asked me open the window."
+        },
+        {
+          "id": "d",
+          "text": "She asked me to open the window."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She asked to me open the window.” does not fit here. Use ask plus person plus a to-infinitive.",
+        "b": "“She asked me opening the window.” does not fit here. Use ask plus person plus a to-infinitive.",
+        "c": "“She asked me open the window.” does not fit here. Use ask plus person plus a to-infinitive.",
+        "d": "“She asked me to open the window.” fits here. Use ask plus person plus a to-infinitive."
+      }
+    },
+    {
+      "id": "B1-U18-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which is the standard reported form of “What time does the bus leave?” with backshift?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use statement word order and the requested backshift.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He asked what time did the bus leave."
+        },
+        {
+          "id": "b",
+          "text": "He asked what time the bus left."
+        },
+        {
+          "id": "c",
+          "text": "He asked if what time the bus left."
+        },
+        {
+          "id": "d",
+          "text": "He asked what time left the bus."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“He asked what time did the bus leave.” does not fit here. Use statement word order and the requested backshift.",
+        "b": "“He asked what time the bus left.” fits here. Use statement word order and the requested backshift.",
+        "c": "“He asked if what time the bus left.” does not fit here. Use statement word order and the requested backshift.",
+        "d": "“He asked what time left the bus.” does not fit here. Use statement word order and the requested backshift."
+      }
+    },
+    {
+      "id": "B1-U18-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report with backshift: “Where do you live?” She asked where I ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Lived is the requested backshift.",
+      "accepted_answers": [
+        "lived"
+      ]
+    },
+    {
+      "id": "B1-U18-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report with if and backshift: “Are you ready?” He asked ___ I was ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "If introduces the yes/no question.",
+      "accepted_answers": [
+        "if"
+      ]
+    },
+    {
+      "id": "B1-U18-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report with whether and backshift: “Did they leave?” She asked ___ they had left.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Whether introduces the yes/no question.",
+      "accepted_answers": [
+        "whether"
+      ]
+    },
+    {
+      "id": "B1-U18-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report the request: “Please wait.” She asked me ___ wait.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use a to-infinitive after asked me.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U18-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report the negative request: “Please don’t leave.” He asked me ___ to leave.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Not comes before the to-infinitive.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "B1-U18-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report with backshift: “Where is the station?” She asked where the station ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "The subject comes before the backshifted verb was.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "B1-U18-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report with backshift: “What do they want?” He asked what they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Wanted is the requested backshift.",
+      "accepted_answers": [
+        "wanted"
+      ]
+    },
+    {
+      "id": "B1-U18-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Report the instruction: “Wait.” She told us ___ wait.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Tell plus person takes the to-infinitive here.",
+      "accepted_answers": [
+        "to"
+      ]
+    },
+    {
+      "id": "B1-U18-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: did I live",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use statement word order in the reported question.",
+      "source_sentence": "She asked where did I live.",
+      "target_segment": "did I live",
+      "accepted_answers": [
+        "I lived"
+      ]
+    },
+    {
+      "id": "B1-U18-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: if where",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Keep the information word without if.",
+      "source_sentence": "He asked if where I worked.",
+      "target_segment": "if where",
+      "accepted_answers": [
+        "where"
+      ]
+    },
+    {
+      "id": "B1-U18-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to me wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use ask plus person and a to-infinitive.",
+      "source_sentence": "She asked to me wait.",
+      "target_segment": "to me wait",
+      "accepted_answers": [
+        "me to wait"
+      ]
+    },
+    {
+      "id": "B1-U18-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: not wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use not to before the base verb.",
+      "source_sentence": "He told us not wait.",
+      "target_segment": "not wait",
+      "accepted_answers": [
+        "not to wait"
+      ]
+    },
+    {
+      "id": "B1-U18-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use subject-before-verb order and the requested backshift.",
+      "source_sentence": "She asked me: “Where do you work?” Report with backshift.",
+      "keyword": "worked",
+      "target_sentence": "She asked where ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "I worked"
+      ]
+    },
+    {
+      "id": "B1-U18-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "If introduces the question; I comes before was.",
+      "source_sentence": "He asked me: “Are you ready?” Use if and backshift.",
+      "keyword": "if",
+      "target_sentence": "He asked ___ ready.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "if I was"
+      ]
+    },
+    {
+      "id": "B1-U18-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use a to-infinitive after asked me.",
+      "source_sentence": "Maya said to me: “Please wait.” Report the request.",
+      "keyword": "wait",
+      "target_sentence": "Maya asked me ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "to wait"
+      ]
+    },
+    {
+      "id": "B1-U18-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U18"
+      ],
+      "explanation": "Use not to plus the base verb.",
+      "source_sentence": "The teacher said to us: “Do not talk.” Report the instruction.",
+      "keyword": "talk",
+      "target_sentence": "The teacher told us ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "not to talk"
+      ]
+    }
+  ]
+}

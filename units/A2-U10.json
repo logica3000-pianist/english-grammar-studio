@@ -1,0 +1,657 @@
+{
+  "id": "A2-U10",
+  "level": "A2",
+  "title": "Some, any and no: cumulative review",
+  "order": 10,
+  "prerequisites": [
+    "A2-U09"
+  ],
+  "objectives": [
+    "Choose some, any or no for a stated quantity.",
+    "Use countable and uncountable nouns with suitable verb forms.",
+    "Form offers and questions about quantities."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Some, any and no help us talk about an amount or number when we do not say exactly how much or how many. We can use them with plural countable nouns, such as apples, and with uncountable nouns, such as milk. ‘We have some apples’ tells us there is an amount greater than zero; it does not tell us the exact number.",
+        "Use no before a noun to say the amount or number is zero: ‘There is no milk’. This means there is not any milk. In this unit we also review earlier grammar, including countable nouns, there is and there are, and present forms."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Some is common in positive statements: ‘I bought some oranges’ and ‘There is some rice’. Any is common in negative statements and questions: ‘We don’t have any oranges’ and ‘Is there any rice?’ After no, use a noun without another negative in the same clause: ‘There are no eggs’, not ‘There aren’t no eggs’ in standard English.",
+        "Some can also appear in questions, especially when offering or requesting something: ‘Would you like some tea?’ and ‘Can I have some water?’ In these questions the speaker often expects or hopes for a positive answer. Any has other meanings too, but here we focus on questions and negatives about an amount."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. With eggs, the noun is plural, so say ‘There are some eggs’. With bread, the noun is uncountable, so say ‘There is some bread’. The words some and any do not determine whether the following noun is singular or plural; use the form that fits the noun and meaning.",
+        "The amount can change: ‘We have some milk this morning, but now we have no milk.’ To ask about the amount, use ‘How much milk is there?’ For a number, use ‘How many eggs are there?’ Use some, any or no when an exact amount is not the focus."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "A negative verb with any has a similar meaning to a positive verb with no: ‘I don’t have any bread’ and ‘I have no bread’. The word no makes the second sentence negative in meaning. Do not add not as well in standard English: ‘I don’t have no bread’ is not the standard form for this meaning.",
+        "Do not make a broad rule that questions always require any. Offers and requests often use some, and the choice depends on meaning. Also, some and any are not used before a singular countable noun in the ordinary quantity pattern taught here: use ‘an apple’ or ‘some apples’. More advanced uses appear in other contexts."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There are some tomatoes in the fridge.",
+      "note": "Some introduces an unspecified number of tomatoes."
+    },
+    {
+      "sentence": "There is some bread on the table.",
+      "note": "Bread is uncountable and takes is."
+    },
+    {
+      "sentence": "We don’t have any eggs.",
+      "note": "Any is common after a negative verb."
+    },
+    {
+      "sentence": "Are there any shops near here?",
+      "note": "Any is common in a question about an amount."
+    },
+    {
+      "sentence": "There is no milk left.",
+      "note": "No means the amount is zero."
+    },
+    {
+      "sentence": "There are no buses today.",
+      "note": "No can be followed by a plural noun."
+    },
+    {
+      "sentence": "Would you like some tea?",
+      "note": "Some is common in an offer."
+    },
+    {
+      "sentence": "Can I have some water, please?",
+      "note": "Some is common in a request."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "There isn’t no bread.",
+      "correct": "There isn’t any bread.",
+      "reason": "Use any after the negative verb in standard English."
+    },
+    {
+      "incorrect": "There are some milk.",
+      "correct": "There is some milk.",
+      "reason": "Milk is uncountable and takes is."
+    },
+    {
+      "incorrect": "We have some apple.",
+      "correct": "We have some apples.",
+      "reason": "In this quantity pattern, use a plural countable noun after some."
+    }
+  ],
+  "summary": [
+    "Use some with plural countable or uncountable nouns, especially in positive statements.",
+    "Use any in many negatives and questions; use some in offers and requests.",
+    "Use no with a positive verb to express zero, without adding a second negative."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U10-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have ___ eggs. We can make an omelette.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Some expresses an unspecified positive number of eggs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "no"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“any” does not fit here. Some expresses an unspecified positive number of eggs.",
+        "b": "“some” fits here. Some expresses an unspecified positive number of eggs.",
+        "c": "“no” does not fit here. Some expresses an unspecified positive number of eggs.",
+        "d": "“an” does not fit here. Some expresses an unspecified positive number of eggs."
+      }
+    },
+    {
+      "id": "A2-U10-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There isn’t ___ bread left.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Any is common after the negative verb isn’t.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "no"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "any"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“some” does not fit here. Any is common after the negative verb isn’t.",
+        "b": "“no” does not fit here. Any is common after the negative verb isn’t.",
+        "c": "“a” does not fit here. Any is common after the negative verb isn’t.",
+        "d": "“any” fits here. Any is common after the negative verb isn’t."
+      }
+    },
+    {
+      "id": "A2-U10-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The fridge is empty. There is ___ milk.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "No expresses a zero amount.",
+      "options": [
+        {
+          "id": "a",
+          "text": "no"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "many"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“no” fits here. No expresses a zero amount.",
+        "b": "“some” does not fit here. No expresses a zero amount.",
+        "c": "“an” does not fit here. No expresses a zero amount.",
+        "d": "“many” does not fit here. No expresses a zero amount."
+      }
+    },
+    {
+      "id": "A2-U10-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Would you like ___ tea? I can make you a cup.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Some is common in an offer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "any no"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "some"
+        },
+        {
+          "id": "d",
+          "text": "many"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“any no” does not fit here. Some is common in an offer.",
+        "b": "“a” does not fit here. Some is common in an offer.",
+        "c": "“some” fits here. Some is common in an offer.",
+        "d": "“many” does not fit here. Some is common in an offer."
+      }
+    },
+    {
+      "id": "A2-U10-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Are there ___ apples in the bag?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Any is common in a neutral question about quantity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "no any"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“any” fits here. Any is common in a neutral question about quantity.",
+        "b": "“a” does not fit here. Any is common in a neutral question about quantity.",
+        "c": "“no any” does not fit here. Any is common in a neutral question about quantity.",
+        "d": "“an” does not fit here. Any is common in a neutral question about quantity."
+      }
+    },
+    {
+      "id": "A2-U10-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There ___ some water in the bottle.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U08",
+        "A2-U09"
+      ],
+      "explanation": "Uncountable water takes is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“are” does not fit here. Uncountable water takes is.",
+        "b": "“am” does not fit here. Uncountable water takes is.",
+        "c": "“is” fits here. Uncountable water takes is.",
+        "d": "“do” does not fit here. Uncountable water takes is."
+      }
+    },
+    {
+      "id": "A2-U10-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "How ___ chairs are in the room?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U09"
+      ],
+      "explanation": "Use how many with plural countable chairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "any"
+        },
+        {
+          "id": "d",
+          "text": "many"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“much” does not fit here. Use how many with plural countable chairs.",
+        "b": "“some” does not fit here. Use how many with plural countable chairs.",
+        "c": "“any” does not fit here. Use how many with plural countable chairs.",
+        "d": "“many” fits here. Use how many with plural countable chairs."
+      }
+    },
+    {
+      "id": "A2-U10-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look! The children ___ in the garden now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U06"
+      ],
+      "explanation": "Use are playing for a plural subject and an action happening now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "plays"
+        },
+        {
+          "id": "b",
+          "text": "are playing"
+        },
+        {
+          "id": "c",
+          "text": "play every day"
+        },
+        {
+          "id": "d",
+          "text": "is playing"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“plays” does not fit here. Use are playing for a plural subject and an action happening now.",
+        "b": "“are playing” fits here. Use are playing for a plural subject and an action happening now.",
+        "c": "“play every day” does not fit here. Use are playing for a plural subject and an action happening now.",
+        "d": "“is playing” does not fit here. Use are playing for a plural subject and an action happening now."
+      }
+    },
+    {
+      "id": "A2-U10-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We bought ___ bananas for the trip. Use the usual word for a positive quantity.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Some commonly introduces a positive unspecified quantity.",
+      "accepted_answers": [
+        "some"
+      ]
+    },
+    {
+      "id": "A2-U10-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There aren’t ___ buses today.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Any is common after aren’t.",
+      "accepted_answers": [
+        "any"
+      ]
+    },
+    {
+      "id": "A2-U10-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The shelf is empty. There are ___ books on it.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "No expresses a zero number.",
+      "accepted_answers": [
+        "no"
+      ]
+    },
+    {
+      "id": "A2-U10-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Can I have ___ water, please? Use the usual word for a polite request.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Some is common in a request.",
+      "accepted_answers": [
+        "some"
+      ]
+    },
+    {
+      "id": "A2-U10-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ some rice in the bowl.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U08",
+        "A2-U09"
+      ],
+      "explanation": "Rice is uncountable and takes is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U10-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ some chairs by the wall.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U08"
+      ],
+      "explanation": "The plural noun chairs takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U10-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ milk do you need?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U09"
+      ],
+      "explanation": "Use how much with uncountable milk.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "A2-U10-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ to school every day. (walk)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U02"
+      ],
+      "explanation": "The singular subject takes walks for a routine.",
+      "accepted_answers": [
+        "walks"
+      ]
+    },
+    {
+      "id": "A2-U10-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: no",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Use any after the negative verb in standard English.",
+      "source_sentence": "We don’t have no cheese.",
+      "target_segment": "no",
+      "accepted_answers": [
+        "any"
+      ]
+    },
+    {
+      "id": "A2-U10-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U08",
+        "A2-U09"
+      ],
+      "explanation": "Bread is uncountable and takes is.",
+      "source_sentence": "There are some bread on the plate.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U10-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: much",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U09"
+      ],
+      "explanation": "Use how many with plural countable oranges.",
+      "source_sentence": "How much oranges do you want?",
+      "target_segment": "much",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "A2-U10-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: read",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U10",
+        "A2-U06"
+      ],
+      "explanation": "Use an -ing form after is for an action now.",
+      "source_sentence": "She is read a book now.",
+      "target_segment": "read",
+      "accepted_answers": [
+        "reading"
+      ]
+    },
+    {
+      "id": "A2-U10-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "No milk expresses zero milk.",
+      "source_sentence": "There is not any milk in the fridge.",
+      "keyword": "no",
+      "target_sentence": "There is ___ in the fridge.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "no milk"
+      ]
+    },
+    {
+      "id": "A2-U10-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U10"
+      ],
+      "explanation": "Some cups expresses an unspecified positive number.",
+      "source_sentence": "The cupboard contains a positive but unspecified number of cups.",
+      "keyword": "some",
+      "target_sentence": "There are ___ in the cupboard.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "some cups"
+      ]
+    },
+    {
+      "id": "A2-U10-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U10",
+        "A2-U08"
+      ],
+      "explanation": "Use there are in the positive short answer.",
+      "source_sentence": "Are there any seats? Give a positive short answer.",
+      "keyword": "there",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "there are"
+      ]
+    },
+    {
+      "id": "A2-U10-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U10",
+        "A2-U06"
+      ],
+      "explanation": "Put are before the subject in the question.",
+      "source_sentence": "The children are playing now. Ask a yes/no question.",
+      "keyword": "Are",
+      "target_sentence": "___ the children playing now?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Are"
+      ]
+    }
+  ]
+}

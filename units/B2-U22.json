@@ -1,0 +1,643 @@
+{
+  "id": "B2-U22",
+  "level": "B2",
+  "title": "Articles and generic reference",
+  "order": 22,
+  "prerequisites": [
+    "B2-U21"
+  ],
+  "objectives": [
+    "Distinguish general and specific noun reference.",
+    "Use articles with singular countable nouns.",
+    "Recognise countable uses of normally uncountable nouns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Generic reference means talking about a class or substance in general rather than a particular example. ‘Dogs need exercise’ makes a general statement about dogs. ‘Water is essential’ refers to water generally. In these sentences, plural countable nouns and uncountable nouns commonly appear without an article.",
+        "The can identify a specific group or amount: ‘The dogs next door are barking’ and ‘The water in this bottle is warm’. The context and any identifying phrase help the listener understand which dogs or water are intended. An article choice can therefore change the reference, not merely the grammar."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A singular countable noun normally requires a determiner. ‘A dog needs exercise’ can make a general statement about a representative member of a class. ‘The tiger is a large cat’ can refer to the species as a whole in a suitable context, especially in factual writing. These forms are not interchangeable in every sentence; the intended meaning and noun matter.",
+        "Use a or an for one non-specific singular countable item: ‘I need a pen’. Use the when the item is identifiable in context: ‘Please pass me the pen on the desk’. An is chosen before a vowel sound and a before a consonant sound: an hour but a university."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Books can be expensive’ with ‘The books on the shelf are expensive’. The first concerns books generally; the second concerns a particular set. Compare ‘Coffee contains caffeine’ with ‘The coffee in my cup is cold’. Coffee can also be countable when referring to servings: ‘Two coffees, please’.",
+        "Some common phrases have established article patterns: ‘play the piano’ is common in British English, while ‘play piano’ is also used, especially in American English and in some contexts. Institutional phrases such as ‘go to school’ and ‘go to the school’ can differ in meaning and depend on context; they require more than a simple general-versus-specific rule."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not put a or an directly before an uncountable noun in its ordinary uncountable meaning: say ‘some information’ or ‘a piece of information’, not ‘an information’. Do not assume the is always incorrect before a plural or uncountable noun: ‘the information in this report’ identifies a specific set of information.",
+        "A sentence with a plural noun and no article is not automatically a universal law. ‘Dogs can be friendly’ is a generalisation, not a claim that every dog is friendly. Article use involves reference, meaning and context; in controlled questions, the intended general or specific reference is stated explicitly."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Dogs need exercise.",
+      "note": "The plural noun makes a general statement about dogs."
+    },
+    {
+      "sentence": "The dogs next door are barking.",
+      "note": "The identifies a particular group."
+    },
+    {
+      "sentence": "Water is essential.",
+      "note": "The uncountable noun refers to the substance generally."
+    },
+    {
+      "sentence": "The water in this bottle is warm.",
+      "note": "The identifies a particular amount."
+    },
+    {
+      "sentence": "A dog needs exercise.",
+      "note": "A singular representative can express a general statement."
+    },
+    {
+      "sentence": "The tiger is a large cat.",
+      "note": "The singular can refer to the species in this factual context."
+    },
+    {
+      "sentence": "Two coffees, please.",
+      "note": "Coffees counts servings."
+    },
+    {
+      "sentence": "She plays the piano.",
+      "note": "The piano is a common British English instrument expression."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "An information is missing.",
+      "correct": "A piece of information is missing.",
+      "reason": "Information is uncountable in this meaning."
+    },
+    {
+      "incorrect": "I need an advice.",
+      "correct": "I need some advice.",
+      "reason": "Advice is uncountable in this meaning."
+    },
+    {
+      "incorrect": "She is an university student.",
+      "correct": "She is a university student.",
+      "reason": "University starts with a consonant sound."
+    }
+  ],
+  "summary": [
+    "Bare plural and uncountable nouns often express generic reference.",
+    "The can identify a particular group or amount; singular generic forms are also possible in suitable contexts.",
+    "Article choice depends on meaning, context and established patterns."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U22-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Make a general statement about dogs: ___ need exercise.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The bare plural expresses the intended general reference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The dog next door"
+        },
+        {
+          "id": "b",
+          "text": "Dogs"
+        },
+        {
+          "id": "c",
+          "text": "A dogs"
+        },
+        {
+          "id": "d",
+          "text": "The dogs in this room"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The dog next door” does not fit here. The bare plural expresses the intended general reference.",
+        "b": "“Dogs” fits here. The bare plural expresses the intended general reference.",
+        "c": "“A dogs” does not fit here. The bare plural expresses the intended general reference.",
+        "d": "“The dogs in this room” does not fit here. The bare plural expresses the intended general reference."
+      }
+    },
+    {
+      "id": "B2-U22-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The particular water in this bottle is warm. ___ is warm.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The identifies the specific amount.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Water in general"
+        },
+        {
+          "id": "b",
+          "text": "A water generally"
+        },
+        {
+          "id": "c",
+          "text": "Waters generally"
+        },
+        {
+          "id": "d",
+          "text": "The water in this bottle"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Water in general” does not fit here. The identifies the specific amount.",
+        "b": "“A water generally” does not fit here. The identifies the specific amount.",
+        "c": "“Waters generally” does not fit here. The identifies the specific amount.",
+        "d": "“The water in this bottle” fits here. The identifies the specific amount."
+      }
+    },
+    {
+      "id": "B2-U22-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the natural phrase for one item of information.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Information is uncountable in this meaning; piece provides a unit.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a piece of information"
+        },
+        {
+          "id": "b",
+          "text": "an information"
+        },
+        {
+          "id": "c",
+          "text": "two informations"
+        },
+        {
+          "id": "d",
+          "text": "a information"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“a piece of information” fits here. Information is uncountable in this meaning; piece provides a unit.",
+        "b": "“an information” does not fit here. Information is uncountable in this meaning; piece provides a unit.",
+        "c": "“two informations” does not fit here. Information is uncountable in this meaning; piece provides a unit.",
+        "d": "“a information” does not fit here. Information is uncountable in this meaning; piece provides a unit."
+      }
+    },
+    {
+      "id": "B2-U22-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the standard article before university student.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "University begins with a consonant y sound.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an university student"
+        },
+        {
+          "id": "b",
+          "text": "an universities student"
+        },
+        {
+          "id": "c",
+          "text": "a university student"
+        },
+        {
+          "id": "d",
+          "text": "university a student"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“an university student” does not fit here. University begins with a consonant y sound.",
+        "b": "“an universities student” does not fit here. University begins with a consonant y sound.",
+        "c": "“a university student” fits here. University begins with a consonant y sound.",
+        "d": "“university a student” does not fit here. University begins with a consonant y sound."
+      }
+    },
+    {
+      "id": "B2-U22-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We are ordering two servings of coffee. “Two ___, please.”",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Coffees can count servings.",
+      "options": [
+        {
+          "id": "a",
+          "text": "coffees"
+        },
+        {
+          "id": "b",
+          "text": "coffee informations"
+        },
+        {
+          "id": "c",
+          "text": "coffeeses"
+        },
+        {
+          "id": "d",
+          "text": "coffeess"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“coffees” fits here. Coffees can count servings.",
+        "b": "“coffee informations” does not fit here. Coffees can count servings.",
+        "c": "“coffeeses” does not fit here. Coffees can count servings.",
+        "d": "“coffeess” does not fit here. Coffees can count servings."
+      }
+    },
+    {
+      "id": "B2-U22-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence refers specifically to books on the shelf?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The phrase identifies the particular books.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Books generally are useful."
+        },
+        {
+          "id": "b",
+          "text": "Books can be useful."
+        },
+        {
+          "id": "c",
+          "text": "The books on the shelf are useful."
+        },
+        {
+          "id": "d",
+          "text": "Books as a class are useful."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Books generally are useful.” does not fit here. The phrase identifies the particular books.",
+        "b": "“Books can be useful.” does not fit here. The phrase identifies the particular books.",
+        "c": "“The books on the shelf are useful.” fits here. The phrase identifies the particular books.",
+        "d": "“Books as a class are useful.” does not fit here. The phrase identifies the particular books."
+      }
+    },
+    {
+      "id": "B2-U22-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the common British expression for the instrument.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Play the piano is a common British expression.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She plays an piano."
+        },
+        {
+          "id": "b",
+          "text": "She plays a pianos."
+        },
+        {
+          "id": "c",
+          "text": "She plays the pianos generally an instrument."
+        },
+        {
+          "id": "d",
+          "text": "She plays the piano."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She plays an piano.” does not fit here. Play the piano is a common British expression.",
+        "b": "“She plays a pianos.” does not fit here. Play the piano is a common British expression.",
+        "c": "“She plays the pianos generally an instrument.” does not fit here. Play the piano is a common British expression.",
+        "d": "“She plays the piano.” fits here. Play the piano is a common British expression."
+      }
+    },
+    {
+      "id": "B2-U22-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence can describe the tiger as a species?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The singular can refer to the species in this factual context.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The tiger are large cats."
+        },
+        {
+          "id": "b",
+          "text": "The tiger is a large cat."
+        },
+        {
+          "id": "c",
+          "text": "A tiger are a large cat."
+        },
+        {
+          "id": "d",
+          "text": "Tigers is a large cat."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The tiger are large cats.” does not fit here. The singular can refer to the species in this factual context.",
+        "b": "“The tiger is a large cat.” fits here. The singular can refer to the species in this factual context.",
+        "c": "“A tiger are a large cat.” does not fit here. The singular can refer to the species in this factual context.",
+        "d": "“Tigers is a large cat.” does not fit here. The singular can refer to the species in this factual context."
+      }
+    },
+    {
+      "id": "B2-U22-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use no article or the: ___ dogs next door are barking.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The identifies the particular group.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "B2-U22-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a or an: She is ___ university student.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "University begins with a consonant sound.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "B2-U22-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a or an: We waited for ___ hour.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Hour begins with a vowel sound.",
+      "accepted_answers": [
+        "an"
+      ]
+    },
+    {
+      "id": "B2-U22-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use piece: I need a ___ of information.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Piece provides a countable unit.",
+      "accepted_answers": [
+        "piece"
+      ]
+    },
+    {
+      "id": "B2-U22-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use coffees: Two ___, please; we mean two servings.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Coffees counts servings.",
+      "accepted_answers": [
+        "coffees"
+      ]
+    },
+    {
+      "id": "B2-U22-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the: Please pass me ___ pen on the desk.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The phrase identifies the particular pen.",
+      "accepted_answers": [
+        "the"
+      ]
+    },
+    {
+      "id": "B2-U22-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use no article or the: ___ water in this bottle is warm.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The identifies the particular amount.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "B2-U22-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the standard British expression: She plays ___ piano.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Play the piano is a common British expression.",
+      "accepted_answers": [
+        "the"
+      ]
+    },
+    {
+      "id": "B2-U22-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: An information",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Use a countable unit with uncountable information.",
+      "source_sentence": "An information is missing.",
+      "target_segment": "An information",
+      "accepted_answers": [
+        "A piece of information"
+      ]
+    },
+    {
+      "id": "B2-U22-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: an",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "University begins with a consonant sound.",
+      "source_sentence": "She is an university student.",
+      "target_segment": "an",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "B2-U22-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "In the intended uncountable meaning, replace: waters",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Water is uncountable in this intended meaning.",
+      "source_sentence": "The waters in this bottle is warm.",
+      "target_segment": "waters",
+      "accepted_answers": [
+        "water"
+      ]
+    },
+    {
+      "id": "B2-U22-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: a information",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "Information is uncountable in this meaning.",
+      "source_sentence": "I need a information.",
+      "target_segment": "a information",
+      "accepted_answers": [
+        "some information",
+        "a piece of information"
+      ]
+    },
+    {
+      "id": "B2-U22-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The identifies the specific amount.",
+      "source_sentence": "We refer to the specific water in this bottle. It is warm.",
+      "keyword": "water",
+      "target_sentence": "___ in this bottle is warm.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "The water"
+      ]
+    },
+    {
+      "id": "B2-U22-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "A piece provides a countable unit.",
+      "source_sentence": "We need one item of information.",
+      "keyword": "piece",
+      "target_sentence": "We need ___ of information.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a piece"
+      ]
+    },
+    {
+      "id": "B2-U22-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "A is used before the consonant sound in university.",
+      "source_sentence": "She studies at a university. Use the singular noun student.",
+      "keyword": "university",
+      "target_sentence": "She is ___ student.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a university"
+      ]
+    },
+    {
+      "id": "B2-U22-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U22"
+      ],
+      "explanation": "The identifies the particular books.",
+      "source_sentence": "The particular books on the shelf are expensive.",
+      "keyword": "books",
+      "target_sentence": "___ on the shelf are expensive.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "The books"
+      ]
+    }
+  ]
+}

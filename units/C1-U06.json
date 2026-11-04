@@ -1,0 +1,642 @@
+{
+  "id": "C1-U06",
+  "level": "C1",
+  "title": "Inversion after negative and restrictive expressions",
+  "order": 6,
+  "prerequisites": [
+    "C1-U05"
+  ],
+  "objectives": [
+    "Form statements with initial negative and restrictive expressions.",
+    "Place inversion in the correct clause.",
+    "Contrast emphatic fronting with neutral word order."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Writers sometimes place a negative or restrictive expression at the beginning of a clause to give it emphasis or connect it to the preceding argument. “Rarely have we seen such a result” highlights how unusual the result is. This ordering is more typical of formal writing and prepared speech than of relaxed conversation. The ordinary order, “We have rarely seen such a result”, is also standard.",
+        "Inversion means placing an auxiliary verb before the subject. It is similar in form to question order, but the sentence remains a statement. Fronting a negative or restrictive expression can trigger this inversion in the main clause: “Under no circumstances should visitors open the cabinet.”"
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "With an existing auxiliary, move it before the subject: “Never have I heard that version” and “Little did they know what would happen.” If a simple present or past clause has no auxiliary, add do, does or did and use the base form: “Seldom do we receive complaints” and “Never did she mention the cost.” With main verb be, put be before the subject: “Rarely is the room empty.”",
+        "The restrictive expression must be in the relevant initial position. Compare “Only after the meeting did we understand” with “We understood only after the meeting”. In the first, only after the meeting is fronted and the main clause is inverted. In the second, the expression follows the verb and does not trigger inversion."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In a safety notice, “At no time may visitors enter the laboratory alone” gives a strong restriction. In a narrative, “Not until the lights went out did they notice the sound” postpones the main clause until after the time clause. The inversion is in “did they notice”, not inside “the lights went out”.",
+        "Compare “Only when the report arrived did she call” with “Only she called”. In the second sentence, only modifies the subject she; it does not trigger the pattern taught here. “Not only did she call, but she also wrote” is another main-clause pattern, though writers need not use it whenever they want to add information."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not insert an auxiliary and retain a past-tense main verb: “Never did he say that”, not “Never did he said that”. After did, the main verb is in its base form. Equally, do not invert the subordinate clause in “Only when the rain stopped did we leave”: the inversion belongs in the main clause.",
+        "These patterns often sound emphatic or formal. Their absence is not an error, and overusing them can make ordinary prose sound dramatic. In a neutral account, “We rarely receive complaints” is usually simpler; choose the fronted version when its emphasis serves the context."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Rarely have we seen such a result.",
+      "note": "Have comes before the subject after initial rarely."
+    },
+    {
+      "sentence": "Never did she mention the cost.",
+      "note": "Did carries past tense and mention stays in the base form."
+    },
+    {
+      "sentence": "Seldom do we receive complaints.",
+      "note": "Do supplies the auxiliary in the present simple."
+    },
+    {
+      "sentence": "At no time were the documents unattended.",
+      "note": "Were precedes the subject in this passive clause."
+    },
+    {
+      "sentence": "Only after lunch did the visitors leave.",
+      "note": "The fronted restrictive phrase triggers inversion."
+    },
+    {
+      "sentence": "Not until the rain stopped did we leave.",
+      "note": "Inversion occurs in the main clause."
+    },
+    {
+      "sentence": "Only she knew the code.",
+      "note": "Only modifies the subject and does not trigger this inversion."
+    },
+    {
+      "sentence": "We rarely see a queue here.",
+      "note": "Without initial rarely, ordinary subject–verb order is natural."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Never she had seen the report.",
+      "correct": "Never had she seen the report.",
+      "reason": "Initial never triggers auxiliary–subject inversion."
+    },
+    {
+      "incorrect": "Rarely did he mentioned the problem.",
+      "correct": "Rarely did he mention the problem.",
+      "reason": "Did is followed by the base form."
+    },
+    {
+      "incorrect": "Only when did the rain stop we left.",
+      "correct": "Only when the rain stopped did we leave.",
+      "reason": "Invert the main clause after the complete fronted time clause."
+    }
+  ],
+  "summary": [
+    "Initial negative or restrictive expressions can trigger auxiliary–subject inversion.",
+    "Use do, does or did when an appropriate auxiliary is absent.",
+    "Place inversion in the main clause and choose the emphasis to suit the register."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U06-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct form: Rarely ___ such careful work.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Initial rarely is followed by the auxiliary have and the subject we.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we have seen"
+        },
+        {
+          "id": "b",
+          "text": "have we seen"
+        },
+        {
+          "id": "c",
+          "text": "have seen we"
+        },
+        {
+          "id": "d",
+          "text": "we seen have"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“we have seen” does not fit here. Initial rarely is followed by the auxiliary have and the subject we.",
+        "b": "“have we seen” fits here. Initial rarely is followed by the auxiliary have and the subject we.",
+        "c": "“have seen we” does not fit here. Initial rarely is followed by the auxiliary have and the subject we.",
+        "d": "“we seen have” does not fit here. Initial rarely is followed by the auxiliary have and the subject we."
+      }
+    },
+    {
+      "id": "C1-U06-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the past statement: Never ___ the price.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did precedes the subject and mention is the base form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "she did mentioned"
+        },
+        {
+          "id": "b",
+          "text": "she mentioned did"
+        },
+        {
+          "id": "c",
+          "text": "did she mentioned"
+        },
+        {
+          "id": "d",
+          "text": "did she mention"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“she did mentioned” does not fit here. Did precedes the subject and mention is the base form.",
+        "b": "“she mentioned did” does not fit here. Did precedes the subject and mention is the base form.",
+        "c": "“did she mentioned” does not fit here. Did precedes the subject and mention is the base form.",
+        "d": "“did she mention” fits here. Did precedes the subject and mention is the base form."
+      }
+    },
+    {
+      "id": "C1-U06-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly uses initial only after?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "The auxiliary precedes the subject after the complete restrictive phrase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only after lunch did the guests leave."
+        },
+        {
+          "id": "b",
+          "text": "Only after lunch the guests did left."
+        },
+        {
+          "id": "c",
+          "text": "Only after did lunch the guests leave."
+        },
+        {
+          "id": "d",
+          "text": "Only after lunch did leave the guests."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Only after lunch did the guests leave.” fits here. The auxiliary precedes the subject after the complete restrictive phrase.",
+        "b": "“Only after lunch the guests did left.” does not fit here. The auxiliary precedes the subject after the complete restrictive phrase.",
+        "c": "“Only after did lunch the guests leave.” does not fit here. The auxiliary precedes the subject after the complete restrictive phrase.",
+        "d": "“Only after lunch did leave the guests.” does not fit here. The auxiliary precedes the subject after the complete restrictive phrase."
+      }
+    },
+    {
+      "id": "C1-U06-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct time-clause pattern.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "The time clause retains normal order; did we leave is inverted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not until did the rain stop we left."
+        },
+        {
+          "id": "b",
+          "text": "Not until the rain stopped we did left."
+        },
+        {
+          "id": "c",
+          "text": "Not until the rain stopped did we leave."
+        },
+        {
+          "id": "d",
+          "text": "Not until stopped the rain did we leave."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Not until did the rain stop we left.” does not fit here. The time clause retains normal order; did we leave is inverted.",
+        "b": "“Not until the rain stopped we did left.” does not fit here. The time clause retains normal order; did we leave is inverted.",
+        "c": "“Not until the rain stopped did we leave.” fits here. The time clause retains normal order; did we leave is inverted.",
+        "d": "“Not until stopped the rain did we leave.” does not fit here. The time clause retains normal order; did we leave is inverted."
+      }
+    },
+    {
+      "id": "C1-U06-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the neutral statement without fronting.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Without an initial restrictive expression, the subject normally precedes have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have rarely we seen this."
+        },
+        {
+          "id": "b",
+          "text": "Rarely we have seen this."
+        },
+        {
+          "id": "c",
+          "text": "Rarely have seen we this."
+        },
+        {
+          "id": "d",
+          "text": "We have rarely seen this."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Have rarely we seen this.” does not fit here. Without an initial restrictive expression, the subject normally precedes have.",
+        "b": "“Rarely we have seen this.” does not fit here. Without an initial restrictive expression, the subject normally precedes have.",
+        "c": "“Rarely have seen we this.” does not fit here. Without an initial restrictive expression, the subject normally precedes have.",
+        "d": "“We have rarely seen this.” fits here. Without an initial restrictive expression, the subject normally precedes have."
+      }
+    },
+    {
+      "id": "C1-U06-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which expression in “Only she knew” does only modify?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Only modifies she here; the sentence does not use initial-adjunct inversion.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The place."
+        },
+        {
+          "id": "b",
+          "text": "The time of knowing."
+        },
+        {
+          "id": "c",
+          "text": "The subject she."
+        },
+        {
+          "id": "d",
+          "text": "The auxiliary did."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The place.” does not fit here. Only modifies she here; the sentence does not use initial-adjunct inversion.",
+        "b": "“The time of knowing.” does not fit here. Only modifies she here; the sentence does not use initial-adjunct inversion.",
+        "c": "“The subject she.” fits here. Only modifies she here; the sentence does not use initial-adjunct inversion.",
+        "d": "“The auxiliary did.” does not fit here. Only modifies she here; the sentence does not use initial-adjunct inversion."
+      }
+    },
+    {
+      "id": "C1-U06-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the rule: Under no circumstances ___ the lock.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Should precedes you after initial under no circumstances.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should you force"
+        },
+        {
+          "id": "b",
+          "text": "you should force"
+        },
+        {
+          "id": "c",
+          "text": "should force you"
+        },
+        {
+          "id": "d",
+          "text": "you force should"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“should you force” fits here. Should precedes you after initial under no circumstances.",
+        "b": "“you should force” does not fit here. Should precedes you after initial under no circumstances.",
+        "c": "“should force you” does not fit here. Should precedes you after initial under no circumstances.",
+        "d": "“you force should” does not fit here. Should precedes you after initial under no circumstances."
+      }
+    },
+    {
+      "id": "C1-U06-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct main-verb form after did.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did takes the base form realise.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Never did they realised."
+        },
+        {
+          "id": "b",
+          "text": "Never did they realise."
+        },
+        {
+          "id": "c",
+          "text": "Never did they realising."
+        },
+        {
+          "id": "d",
+          "text": "Never did they to realise."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Never did they realised.” does not fit here. Did takes the base form realise.",
+        "b": "“Never did they realise.” fits here. Did takes the base form realise.",
+        "c": "“Never did they realising.” does not fit here. Did takes the base form realise.",
+        "d": "“Never did they to realise.” does not fit here. Did takes the base form realise."
+      }
+    },
+    {
+      "id": "C1-U06-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the inversion: Rarely ___ we see this result. Use do.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Do precedes the subject in this present-simple statement.",
+      "accepted_answers": [
+        "do"
+      ]
+    },
+    {
+      "id": "C1-U06-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the inversion: Never ___ she mentioned the fee. Use had.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Had moves before she.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "C1-U06-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past auxiliary: Seldom ___ they arrive late.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did supplies the past auxiliary before they.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U06-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base form: Never did I ___ that. (say)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did is followed by the base form say.",
+      "accepted_answers": [
+        "say"
+      ]
+    },
+    {
+      "id": "C1-U06-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Only after the meeting ___ we understand. Use did.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did precedes the subject in the main clause.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U06-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Not until the door opened ___ they notice the light. Use did.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Did precedes they after the fronted time clause.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "C1-U06-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Rarely ___ the room empty. Use the present form of be.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Is precedes the singular subject the room.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U06-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Under no circumstances ___ visitors touch the display. Use must.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Must precedes visitors after the restrictive expression.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "C1-U06-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: she had",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Move the auxiliary before the subject after initial never.",
+      "source_sentence": "Never she had seen the report.",
+      "target_segment": "she had",
+      "accepted_answers": [
+        "had she"
+      ]
+    },
+    {
+      "id": "C1-U06-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: mentioned",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Use the base verb after did.",
+      "source_sentence": "Rarely did he mentioned the problem.",
+      "target_segment": "mentioned",
+      "accepted_answers": [
+        "mention"
+      ]
+    },
+    {
+      "id": "C1-U06-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: the guests did",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Put did before the subject in the main clause.",
+      "source_sentence": "Only after lunch the guests did leave.",
+      "target_segment": "the guests did",
+      "accepted_answers": [
+        "did the guests"
+      ]
+    },
+    {
+      "id": "C1-U06-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: we do",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Put do before the subject after initial seldom.",
+      "source_sentence": "Seldom we do see such a view.",
+      "target_segment": "we do",
+      "accepted_answers": [
+        "do we"
+      ]
+    },
+    {
+      "id": "C1-U06-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Initial rarely requires do before we and the base verb.",
+      "source_sentence": "We rarely receive such a complaint. Begin with rarely.",
+      "keyword": "do",
+      "target_sentence": "Rarely ___ such a complaint.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "do we receive"
+      ]
+    },
+    {
+      "id": "C1-U06-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Use did before the subject and the base form mention.",
+      "source_sentence": "She never mentioned the delay. Begin with never.",
+      "keyword": "did",
+      "target_sentence": "Never ___ the delay.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "did she mention"
+      ]
+    },
+    {
+      "id": "C1-U06-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "The fronted phrase triggers inversion in the main clause.",
+      "source_sentence": "We understood only after the meeting. Begin with only after.",
+      "keyword": "did",
+      "target_sentence": "Only after the meeting ___.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "did we understand"
+      ]
+    },
+    {
+      "id": "C1-U06-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U06"
+      ],
+      "explanation": "Invert the main clause after the complete time clause.",
+      "source_sentence": "They noticed the sound only when the lights went out. Begin with only when.",
+      "keyword": "did",
+      "target_sentence": "Only when the lights went out ___ the sound.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "did they notice"
+      ]
+    }
+  ]
+}

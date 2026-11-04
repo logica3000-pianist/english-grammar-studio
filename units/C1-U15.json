@@ -1,0 +1,659 @@
+{
+  "id": "C1-U15",
+  "level": "C1",
+  "title": "Economy and reference: cumulative review",
+  "order": 15,
+  "prerequisites": [
+    "C1-U14"
+  ],
+  "objectives": [
+    "Select a clear summary noun for an earlier event.",
+    "Apply ellipsis and substitution in context.",
+    "Review nominalisation, apposition and article choice."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A concise text avoids repeating information that readers can recover, while still making every important reference clear. Substitution, ellipsis, apposition and nominalisation can all reduce repetition. They do different jobs: a substitute stands for another expression, ellipsis leaves recoverable material out, an appositive adds a description, and a nominalisation packages an action or quality as a noun.",
+        "The aim is not to remove as many words as possible. A shorter sentence can force readers to guess what this, it or one refers to. Use a more explicit phrase when several earlier ideas could plausibly be meant."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A summary noun can clarify a broad reference: “The panel postponed the vote. This decision gave members more time.” This decision points to the postponement. Compare “The panel postponed the vote after the budget changed. This caused concern.” This could refer to either event; the writer can specify “This postponement” or “The budget change” according to the intended meaning.",
+        "Agreement helps establish a clear link. “The findings were unexpected. These results changed the discussion” uses plural these with plural results. “The decision was unexpected. This decision changed the discussion” uses singular this with singular decision. A summary noun should accurately describe what happened rather than silently changing its meaning."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Earlier units showed how one and ones can replace countable nouns: “The red folder is full; the blue one is empty.” A short auxiliary can avoid repeating a verb phrase: “The team has checked the files, but I haven’t.” A nominalisation can make an action the topic of the next sentence: “They revised the plan. The revision reduced costs.”",
+        "An appositive can add a compact identification: “Mina, the editor, approved the text.” Article choice also contributes to reference: “Education matters” makes a broad claim, while “the education she received” identifies a specific experience. These patterns work best when their connection to surrounding sentences is easy to interpret."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid assuming that this always refers to the nearest noun or to the entire preceding sentence. Readers use meaning and context; if two interpretations are plausible, name the intended event. Likewise, “one” usually refers to another member of the same type, while “it” normally refers back to the same identifiable item.",
+        "Nominalisation can improve cohesion, but a chain of abstract nouns can obscure the actor and the action. Appositives and reduced clauses can also create ambiguity if attached to the wrong noun. Read the passage as a whole and check whether the shorter version preserves the original meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The vote was postponed. This decision gave members time.",
+      "note": "This decision identifies the postponement as the topic."
+    },
+    {
+      "sentence": "The budget changed and the vote was postponed. The postponement caused concern.",
+      "note": "The summary noun specifies which event caused concern."
+    },
+    {
+      "sentence": "The findings were unexpected. These results changed the discussion.",
+      "note": "These agrees with the plural noun results."
+    },
+    {
+      "sentence": "The red folder is full; the blue one is empty.",
+      "note": "One substitutes for a singular countable folder."
+    },
+    {
+      "sentence": "The team has checked the files, but I haven’t.",
+      "note": "The repeated verb phrase is omitted after the auxiliary."
+    },
+    {
+      "sentence": "They revised the plan. The revision reduced costs.",
+      "note": "Revision packages the action as a noun."
+    },
+    {
+      "sentence": "Mina, the editor, approved the text.",
+      "note": "The appositive identifies Mina."
+    },
+    {
+      "sentence": "The education she received was excellent.",
+      "note": "The identifies a specific education."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The findings were unexpected. This results changed the discussion.",
+      "correct": "The findings were unexpected. These results changed the discussion.",
+      "reason": "Use these with the plural noun results."
+    },
+    {
+      "incorrect": "The red folder is full; the blue ones is empty.",
+      "correct": "The red folder is full; the blue one is empty.",
+      "reason": "One substitutes for the singular noun folder."
+    },
+    {
+      "incorrect": "Their analysis the figures took a week.",
+      "correct": "Their analysis of the figures took a week.",
+      "reason": "The noun analysis commonly takes an of-phrase."
+    }
+  ],
+  "summary": [
+    "Use summary nouns to make references to events explicit.",
+    "Ellipsis and substitution reduce repetition when the context is clear.",
+    "Preserve agreement, meaning and the intended referent."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U15-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The panel postponed the vote. Which phrase explicitly refers to that postponement?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "This decision can summarise the panel’s act of postponing the vote.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This chair"
+        },
+        {
+          "id": "b",
+          "text": "These manager"
+        },
+        {
+          "id": "c",
+          "text": "This decision"
+        },
+        {
+          "id": "d",
+          "text": "This postponing of voting it"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“This chair” does not fit here. This decision can summarise the panel’s act of postponing the vote.",
+        "b": "“These manager” does not fit here. This decision can summarise the panel’s act of postponing the vote.",
+        "c": "“This decision” fits here. This decision can summarise the panel’s act of postponing the vote.",
+        "d": "“This postponing of voting it” does not fit here. This decision can summarise the panel’s act of postponing the vote."
+      }
+    },
+    {
+      "id": "C1-U15-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The budget changed and the vote was postponed. The writer means the delay caused concern. Choose the clearest sentence.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "The postponement identifies the intended event rather than leaving this ambiguous.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The postponement caused concern."
+        },
+        {
+          "id": "b",
+          "text": "This caused concern."
+        },
+        {
+          "id": "c",
+          "text": "The budget change caused concern."
+        },
+        {
+          "id": "d",
+          "text": "They caused concern this."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The postponement caused concern.” fits here. The postponement identifies the intended event rather than leaving this ambiguous.",
+        "b": "“This caused concern.” does not fit here. The postponement identifies the intended event rather than leaving this ambiguous.",
+        "c": "“The budget change caused concern.” does not fit here. The postponement identifies the intended event rather than leaving this ambiguous.",
+        "d": "“They caused concern this.” does not fit here. The postponement identifies the intended event rather than leaving this ambiguous."
+      }
+    },
+    {
+      "id": "C1-U15-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the plural reference: The findings were unexpected. ___ changed the discussion.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "These results agrees in number and refers back to the findings.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This results"
+        },
+        {
+          "id": "b",
+          "text": "This result were"
+        },
+        {
+          "id": "c",
+          "text": "These result"
+        },
+        {
+          "id": "d",
+          "text": "These results"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“This results” does not fit here. These results agrees in number and refers back to the findings.",
+        "b": "“This result were” does not fit here. These results agrees in number and refers back to the findings.",
+        "c": "“These result” does not fit here. These results agrees in number and refers back to the findings.",
+        "d": "“These results” fits here. These results agrees in number and refers back to the findings."
+      }
+    },
+    {
+      "id": "C1-U15-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The red folder is full; the blue ___ is empty.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "One substitutes for a singular countable folder.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ones are"
+        },
+        {
+          "id": "b",
+          "text": "one"
+        },
+        {
+          "id": "c",
+          "text": "it"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“ones are” does not fit here. One substitutes for a singular countable folder.",
+        "b": "“one” fits here. One substitutes for a singular countable folder.",
+        "c": "“it” does not fit here. One substitutes for a singular countable folder.",
+        "d": "“so” does not fit here. One substitutes for a singular countable folder."
+      }
+    },
+    {
+      "id": "C1-U15-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The team has finished, but I ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "Haven’t retains the matching auxiliary and omits finished.",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn’t"
+        },
+        {
+          "id": "b",
+          "text": "haven’t"
+        },
+        {
+          "id": "c",
+          "text": "isn’t"
+        },
+        {
+          "id": "d",
+          "text": "don’t has"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“doesn’t” does not fit here. Haven’t retains the matching auxiliary and omits finished.",
+        "b": "“haven’t” fits here. Haven’t retains the matching auxiliary and omits finished.",
+        "c": "“isn’t” does not fit here. Haven’t retains the matching auxiliary and omits finished.",
+        "d": "“don’t has” does not fit here. Haven’t retains the matching auxiliary and omits finished."
+      }
+    },
+    {
+      "id": "C1-U15-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They revised the plan. The ___ reduced costs.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U12"
+      ],
+      "explanation": "Revision nominalises the earlier action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "revision"
+        },
+        {
+          "id": "b",
+          "text": "revise"
+        },
+        {
+          "id": "c",
+          "text": "revising to"
+        },
+        {
+          "id": "d",
+          "text": "revised is"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“revision” fits here. Revision nominalises the earlier action.",
+        "b": "“revise” does not fit here. Revision nominalises the earlier action.",
+        "c": "“revising to” does not fit here. Revision nominalises the earlier action.",
+        "d": "“revised is” does not fit here. Revision nominalises the earlier action."
+      }
+    },
+    {
+      "id": "C1-U15-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Who is the editor in “Mina, the editor, approved the text”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U13"
+      ],
+      "explanation": "The appositive identifies Mina as the editor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Another person necessarily."
+        },
+        {
+          "id": "b",
+          "text": "The text."
+        },
+        {
+          "id": "c",
+          "text": "An unidentified reader."
+        },
+        {
+          "id": "d",
+          "text": "Mina."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Another person necessarily.” does not fit here. The appositive identifies Mina as the editor.",
+        "b": "“The text.” does not fit here. The appositive identifies Mina as the editor.",
+        "c": "“An unidentified reader.” does not fit here. The appositive identifies Mina as the editor.",
+        "d": "“Mina.” fits here. The appositive identifies Mina as the editor."
+      }
+    },
+    {
+      "id": "C1-U15-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase identifies a specific education?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U14"
+      ],
+      "explanation": "The following clause identifies which education is meant.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Education matters generally."
+        },
+        {
+          "id": "b",
+          "text": "An educating was good."
+        },
+        {
+          "id": "c",
+          "text": "The education she received."
+        },
+        {
+          "id": "d",
+          "text": "Education generally changes lives."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Education matters generally.” does not fit here. The following clause identifies which education is meant.",
+        "b": "“An educating was good.” does not fit here. The following clause identifies which education is meant.",
+        "c": "“The education she received.” fits here. The following clause identifies which education is meant.",
+        "d": "“Education generally changes lives.” does not fit here. The following clause identifies which education is meant."
+      }
+    },
+    {
+      "id": "C1-U15-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The decision was unexpected. ___ decision changed the discussion.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "This agrees with singular decision.",
+      "accepted_answers": [
+        "This"
+      ]
+    },
+    {
+      "id": "C1-U15-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The findings were unexpected. ___ results changed the discussion.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "These agrees with plural results.",
+      "accepted_answers": [
+        "These"
+      ]
+    },
+    {
+      "id": "C1-U15-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The red pen is lost; the blue ___ is here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "One replaces a singular countable pen.",
+      "accepted_answers": [
+        "one"
+      ]
+    },
+    {
+      "id": "C1-U15-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Have the guests arrived? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "Have matches the present perfect question.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U15-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Their analysis ___ the figures took a week.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U12"
+      ],
+      "explanation": "The noun analysis takes an of-phrase here.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "C1-U15-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The visitors ___ near the entrance need tickets. (wait)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U13"
+      ],
+      "explanation": "Waiting describes the people’s activity.",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "C1-U15-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Refer to a specific education: ___ education she received was excellent.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U14"
+      ],
+      "explanation": "The identifies a particular education.",
+      "accepted_answers": [
+        "The"
+      ]
+    },
+    {
+      "id": "C1-U15-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They revised the plan. The ___ reduced costs. (revise, noun)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U12"
+      ],
+      "explanation": "Revision refers back to revising the plan.",
+      "accepted_answers": [
+        "revision"
+      ]
+    },
+    {
+      "id": "C1-U15-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: This",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "These agrees with plural results.",
+      "source_sentence": "The results were unexpected. This results changed the discussion.",
+      "target_segment": "This",
+      "accepted_answers": [
+        "These"
+      ]
+    },
+    {
+      "id": "C1-U15-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ones",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "One substitutes for the singular noun chair.",
+      "source_sentence": "The red chair is broken; the blue ones is fine.",
+      "target_segment": "ones",
+      "accepted_answers": [
+        "one"
+      ]
+    },
+    {
+      "id": "C1-U15-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: analysis",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U12"
+      ],
+      "explanation": "Analysis takes an of-phrase in this pattern.",
+      "source_sentence": "Their analysis the data took a week.",
+      "target_segment": "analysis",
+      "accepted_answers": [
+        "analysis of"
+      ]
+    },
+    {
+      "id": "C1-U15-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: signing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U15",
+        "C1-U13"
+      ],
+      "explanation": "Signed expresses the intended passive relationship.",
+      "source_sentence": "The documents signing yesterday are ready.",
+      "target_segment": "signing",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U15-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U15"
+      ],
+      "explanation": "This decision refers to the postponement.",
+      "source_sentence": "The panel postponed the vote. The postponement gave members time. Use a summary noun.",
+      "keyword": "decision",
+      "target_sentence": "The panel postponed the vote. This ___ members time.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "decision gave"
+      ]
+    },
+    {
+      "id": "C1-U15-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U15",
+        "C1-U11"
+      ],
+      "explanation": "One replaces the singular noun bag.",
+      "source_sentence": "The small bag is heavy, but the large bag is light. Substitute for bag.",
+      "keyword": "one",
+      "target_sentence": "The small bag is heavy, but the large ___ light.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "one is"
+      ]
+    },
+    {
+      "id": "C1-U15-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U15",
+        "C1-U12"
+      ],
+      "explanation": "Analysis of the data packages the action as a noun phrase.",
+      "source_sentence": "They analysed the data. Their analysis took a week.",
+      "keyword": "of",
+      "target_sentence": "Their analysis ___ took a week.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "of the data"
+      ]
+    },
+    {
+      "id": "C1-U15-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U15",
+        "C1-U13"
+      ],
+      "explanation": "Waiting outside describes the people performing the activity.",
+      "source_sentence": "The people who are waiting outside need tickets. Reduce the relative clause.",
+      "keyword": "waiting",
+      "target_sentence": "The people ___ need tickets.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "waiting outside"
+      ]
+    }
+  ]
+}

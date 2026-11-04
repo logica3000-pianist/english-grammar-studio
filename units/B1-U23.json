@@ -1,0 +1,642 @@
+{
+  "id": "B1-U23",
+  "level": "B1",
+  "title": "Comparative patterns and degree",
+  "order": 23,
+  "prerequisites": [
+    "B1-U22"
+  ],
+  "objectives": [
+    "Express equality and inequality.",
+    "Modify comparative adjectives to show degree.",
+    "Describe continuing change with repeated comparatives."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Comparative structures describe differences or similarities in degree. ‘This suitcase is heavier than that one’ compares the weight of two suitcases. ‘This suitcase is as heavy as that one’ says that their weight is equal to the degree relevant in the conversation. ‘This suitcase isn't as heavy as that one’ says the first is lighter.",
+        "We can also use less with an adjective to express a lower degree: ‘The bus is less expensive than the train’. A comparison can concern cost, speed, difficulty or another quality. The adjective and the context tell us which quality is being compared."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use as plus the base form of an adjective plus as for equality: ‘as tall as’, ‘as useful as’ and ‘as expensive as’. For a negative comparison, use not as … as: ‘This room is not as large as the other one’. Do not use a comparative ending inside this pattern: ‘as tall as’, not ‘as taller as’.",
+        "Use a comparative adjective plus than for a difference: ‘smaller than’ or ‘more interesting than’. Use less plus the base adjective plus than to express a lower degree: ‘less comfortable than’. We can add much, far or a lot before a comparative to show a large difference, and a bit or a little to show a small difference: ‘much faster’ and ‘a bit cheaper’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The blue bag is much heavier than the red one’ with ‘The blue bag is a little heavier’. Both say the blue bag is heavier, but the first describes a larger difference. ‘The blue bag is not as light as the red one’ also expresses a difference in weight, though the emphasis is on lightness.",
+        "We can describe change using a repeated comparative: ‘The days are getting longer and longer’ or ‘The work is becoming more and more difficult’. These patterns describe a continuing change, not a comparison between exactly two objects. They are useful when discussing progress, weather or prices."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use very directly before a comparative in standard English: say ‘much bigger’ or ‘a lot bigger’, not ‘very bigger’. Very can modify the base adjective: ‘very big’. Do not add more to an adjective already ending in -er in this pattern: ‘faster’, not ‘more faster’.",
+        "Not as … as and less … than can sometimes communicate a similar comparison, but naturalness depends on the adjective and context. The meaning of a comparison also depends on what is being measured. ‘Less expensive’ describes cost; it does not say whether an item is comfortable or useful."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This bag is as heavy as that one.",
+      "note": "As … as expresses equality of degree."
+    },
+    {
+      "sentence": "This room isn't as large as the other one.",
+      "note": "Not as … as expresses a lower degree."
+    },
+    {
+      "sentence": "The bus is less expensive than the train.",
+      "note": "Less … than compares cost."
+    },
+    {
+      "sentence": "The blue bag is much heavier than the red one.",
+      "note": "Much emphasises a large difference."
+    },
+    {
+      "sentence": "The second test is a bit easier.",
+      "note": "A bit presents a small difference."
+    },
+    {
+      "sentence": "The days are getting longer and longer.",
+      "note": "The repeated comparative describes change."
+    },
+    {
+      "sentence": "The task is becoming more and more difficult.",
+      "note": "More and more describes an increasing degree."
+    },
+    {
+      "sentence": "That house is very big.",
+      "note": "Very modifies the base adjective big."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "This room is as bigger as that one.",
+      "correct": "This room is as big as that one.",
+      "reason": "Use the base adjective in as … as."
+    },
+    {
+      "incorrect": "The blue bag is very heavier.",
+      "correct": "The blue bag is much heavier.",
+      "reason": "Use much to modify the comparative heavier."
+    },
+    {
+      "incorrect": "This road is more shorter.",
+      "correct": "This road is shorter.",
+      "reason": "Do not combine more with the -er form."
+    }
+  ],
+  "summary": [
+    "Use as plus a base adjective plus as for equality.",
+    "Use degree words such as much or a bit before a comparative.",
+    "Repeated comparatives can describe continuing change."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U23-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The two rooms are equal in size. This room is ___ the other one.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "As large as expresses equality.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as larger as"
+        },
+        {
+          "id": "b",
+          "text": "as large as"
+        },
+        {
+          "id": "c",
+          "text": "more larger"
+        },
+        {
+          "id": "d",
+          "text": "less largest"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“as larger as” does not fit here. As large as expresses equality.",
+        "b": "“as large as” fits here. As large as expresses equality.",
+        "c": "“more larger” does not fit here. As large as expresses equality.",
+        "d": "“less largest” does not fit here. As large as expresses equality."
+      }
+    },
+    {
+      "id": "B1-U23-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The blue bag weighs much more. It is ___ than the red one.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Much modifies the comparative heavier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "very heavyer"
+        },
+        {
+          "id": "b",
+          "text": "most heavy"
+        },
+        {
+          "id": "c",
+          "text": "much heavier"
+        },
+        {
+          "id": "d",
+          "text": "as heavier"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“very heavyer” does not fit here. Much modifies the comparative heavier.",
+        "b": "“most heavy” does not fit here. Much modifies the comparative heavier.",
+        "c": "“much heavier” fits here. Much modifies the comparative heavier.",
+        "d": "“as heavier” does not fit here. Much modifies the comparative heavier."
+      }
+    },
+    {
+      "id": "B1-U23-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This task is becoming steadily harder. It is getting ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "More and more difficult describes an increasing degree.",
+      "options": [
+        {
+          "id": "a",
+          "text": "more and more difficult"
+        },
+        {
+          "id": "b",
+          "text": "most difficult than"
+        },
+        {
+          "id": "c",
+          "text": "very difficult than"
+        },
+        {
+          "id": "d",
+          "text": "difficultest"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“more and more difficult” fits here. More and more difficult describes an increasing degree.",
+        "b": "“most difficult than” does not fit here. More and more difficult describes an increasing degree.",
+        "c": "“very difficult than” does not fit here. More and more difficult describes an increasing degree.",
+        "d": "“difficultest” does not fit here. More and more difficult describes an increasing degree."
+      }
+    },
+    {
+      "id": "B1-U23-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The bus costs less than the train. It is ___ the train.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Less expensive than expresses a lower cost.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as expensive than"
+        },
+        {
+          "id": "b",
+          "text": "more cheaper than"
+        },
+        {
+          "id": "c",
+          "text": "most cheap than"
+        },
+        {
+          "id": "d",
+          "text": "less expensive than"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“as expensive than” does not fit here. Less expensive than expresses a lower cost.",
+        "b": "“more cheaper than” does not fit here. Less expensive than expresses a lower cost.",
+        "c": "“most cheap than” does not fit here. Less expensive than expresses a lower cost.",
+        "d": "“less expensive than” fits here. Less expensive than expresses a lower cost."
+      }
+    },
+    {
+      "id": "B1-U23-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The second test is only slightly easier. It is ___ easier.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "A bit describes a small difference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "very"
+        },
+        {
+          "id": "b",
+          "text": "most"
+        },
+        {
+          "id": "c",
+          "text": "as"
+        },
+        {
+          "id": "d",
+          "text": "a bit"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“very” does not fit here. A bit describes a small difference.",
+        "b": "“most” does not fit here. A bit describes a small difference.",
+        "c": "“as” does not fit here. A bit describes a small difference.",
+        "d": "“a bit” fits here. A bit describes a small difference."
+      }
+    },
+    {
+      "id": "B1-U23-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Use the base adjective inside as … as.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is as tall as me."
+        },
+        {
+          "id": "b",
+          "text": "She is as taller as me."
+        },
+        {
+          "id": "c",
+          "text": "She is more taller than me."
+        },
+        {
+          "id": "d",
+          "text": "She is very taller than me."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“She is as tall as me.” fits here. Use the base adjective inside as … as.",
+        "b": "“She is as taller as me.” does not fit here. Use the base adjective inside as … as.",
+        "c": "“She is more taller than me.” does not fit here. Use the base adjective inside as … as.",
+        "d": "“She is very taller than me.” does not fit here. Use the base adjective inside as … as."
+      }
+    },
+    {
+      "id": "B1-U23-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The days keep becoming longer. They are getting ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "The repeated comparative expresses continuing change.",
+      "options": [
+        {
+          "id": "a",
+          "text": "more longer and longer"
+        },
+        {
+          "id": "b",
+          "text": "longest and longest"
+        },
+        {
+          "id": "c",
+          "text": "longer and longer"
+        },
+        {
+          "id": "d",
+          "text": "very longer"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“more longer and longer” does not fit here. The repeated comparative expresses continuing change.",
+        "b": "“longest and longest” does not fit here. The repeated comparative expresses continuing change.",
+        "c": "“longer and longer” fits here. The repeated comparative expresses continuing change.",
+        "d": "“very longer” does not fit here. The repeated comparative expresses continuing change."
+      }
+    },
+    {
+      "id": "B1-U23-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase describes a large difference?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Much modifies the comparative to show a large difference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a bit faster"
+        },
+        {
+          "id": "b",
+          "text": "much faster"
+        },
+        {
+          "id": "c",
+          "text": "as fast as"
+        },
+        {
+          "id": "d",
+          "text": "very faster"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“a bit faster” does not fit here. Much modifies the comparative to show a large difference.",
+        "b": "“much faster” fits here. Much modifies the comparative to show a large difference.",
+        "c": "“as fast as” does not fit here. Much modifies the comparative to show a large difference.",
+        "d": "“very faster” does not fit here. Much modifies the comparative to show a large difference."
+      }
+    },
+    {
+      "id": "B1-U23-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base adjective: The two rooms are as ___ as each other. (large)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Use the base adjective inside as … as.",
+      "accepted_answers": [
+        "large"
+      ]
+    },
+    {
+      "id": "B1-U23-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use than: This bag is heavier ___ that one.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Than introduces the second item in this comparison.",
+      "accepted_answers": [
+        "than"
+      ]
+    },
+    {
+      "id": "B1-U23-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use much: The car is ___ faster than the bus; the difference is large.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Much emphasises a large difference.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "B1-U23-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use bit: This book is a ___ shorter than that one.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "A bit expresses a small difference.",
+      "accepted_answers": [
+        "bit"
+      ]
+    },
+    {
+      "id": "B1-U23-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use less: The bus is ___ expensive than the train.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Less plus the base adjective expresses a lower degree.",
+      "accepted_answers": [
+        "less"
+      ]
+    },
+    {
+      "id": "B1-U23-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use as: This room is not as big ___ that room.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "The structure is not as … as.",
+      "accepted_answers": [
+        "as"
+      ]
+    },
+    {
+      "id": "B1-U23-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the comparative: The days are getting longer and ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "The repeated comparative describes change.",
+      "accepted_answers": [
+        "longer"
+      ]
+    },
+    {
+      "id": "B1-U23-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use more: The task is becoming more and ___ difficult.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "More and more modifies the longer adjective.",
+      "accepted_answers": [
+        "more"
+      ]
+    },
+    {
+      "id": "B1-U23-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: bigger",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Use the base adjective inside as … as.",
+      "source_sentence": "The room is as bigger as mine.",
+      "target_segment": "bigger",
+      "accepted_answers": [
+        "big"
+      ]
+    },
+    {
+      "id": "B1-U23-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: very",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Much can modify a comparative.",
+      "source_sentence": "This car is very faster.",
+      "target_segment": "very",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "B1-U23-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: more shorter",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Do not combine more with the -er form.",
+      "source_sentence": "The road is more shorter.",
+      "target_segment": "more shorter",
+      "accepted_answers": [
+        "shorter"
+      ]
+    },
+    {
+      "id": "B1-U23-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: that",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Use than in this comparison.",
+      "source_sentence": "This room is less expensive that mine.",
+      "target_segment": "that",
+      "accepted_answers": [
+        "than"
+      ]
+    },
+    {
+      "id": "B1-U23-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "As heavy as expresses equality.",
+      "source_sentence": "The two bags are equal in weight.",
+      "keyword": "heavy",
+      "target_sentence": "This bag is ___ that bag.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "as heavy as"
+      ]
+    },
+    {
+      "id": "B1-U23-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "Not as large as expresses the lower degree of size.",
+      "source_sentence": "The blue room is smaller than the red room.",
+      "keyword": "large",
+      "target_sentence": "The blue room is not ___ the red room.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "as large as"
+      ]
+    },
+    {
+      "id": "B1-U23-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "A bit expresses a small difference.",
+      "source_sentence": "The second test is only slightly easier.",
+      "keyword": "bit",
+      "target_sentence": "The second test is ___ easier.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "a bit"
+      ]
+    },
+    {
+      "id": "B1-U23-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U23"
+      ],
+      "explanation": "More and more expresses an increasing degree.",
+      "source_sentence": "The task is becoming increasingly difficult.",
+      "keyword": "more",
+      "target_sentence": "The task is becoming ___ difficult.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "more and more"
+      ]
+    }
+  ]
+}

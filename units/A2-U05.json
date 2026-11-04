@@ -1,0 +1,656 @@
+{
+  "id": "A2-U05",
+  "level": "A2",
+  "title": "Present routines and time expressions: cumulative review",
+  "order": 5,
+  "prerequisites": [
+    "A2-U04"
+  ],
+  "objectives": [
+    "Use common prepositions with routine time expressions.",
+    "Describe a weekly routine with appropriate present simple forms.",
+    "Review questions, be and frequency adverbs from earlier units."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A routine is something a person does regularly. We can describe a routine with the present simple and add a time expression to say when it happens. ‘I have breakfast at seven’ gives a clock time. ‘I visit my family on Sundays’ tells us the day. These expressions help a listener understand the pattern of a person’s week.",
+        "This unit also reviews the earlier units. You will use be to describe a situation, the present simple to describe actions, do or does to ask questions, and frequency words to say how often something happens. Think about the meaning and the subject before you choose the verb."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use at before a clock time: at six, at 8.30 or at half past nine. Use on before a day or a day with a part of the day: on Monday, on Fridays and on Tuesday evening. Use in with parts of the day such as the morning, the afternoon and the evening. A common exception is at night. ‘At the weekend’ is common in British English; ‘on the weekend’ is common in American English.",
+        "Time expressions often come at the end: ‘We study in the evening’. They can also come at the beginning, followed by a comma in writing: ‘On Fridays, we study together.’ An expression beginning with every does not normally need at, on or in: ‘every Monday’, not ‘on every Monday’ in this routine pattern."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Read the examples below as parts of a weekly diary. The verb still agrees with the subject: ‘She starts at nine’, but ‘They start at nine’. In a negative, use the base form after don’t or doesn’t: ‘She doesn’t work on Sundays’. In a question, put do or does before the subject: ‘Does she work on Sundays?’",
+        "Frequency adverbs such as usually normally come before an ordinary main verb but after be: ‘I usually eat at home’ and ‘I am usually at home at six’. Longer expressions such as twice a week often come at the end. More than one time expression can appear together: ‘We meet at seven on Mondays.’"
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use in before a weekday in this pattern: say ‘on Monday’. Do not use on before a clock time: say ‘at seven’. A day and a time need their own prepositions: ‘at six on Friday’. Some expressions have other uses and meanings in English, so learn these examples in their routine context rather than treating every preposition as a universal rule.",
+        "Be and ordinary verbs use different question patterns. Ask ‘Are you busy on Fridays?’ with be, but ‘Do you work on Fridays?’ with an ordinary verb. This review connects the forms; the exercises identify which earlier units they revisit."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The lesson starts at nine.",
+      "note": "Use at with a clock time."
+    },
+    {
+      "sentence": "I visit my friend on Tuesdays.",
+      "note": "Use on with a day of the week."
+    },
+    {
+      "sentence": "We walk in the morning.",
+      "note": "Use in with the morning."
+    },
+    {
+      "sentence": "Our café closes at night.",
+      "note": "Use at in the expression at night."
+    },
+    {
+      "sentence": "On Fridays, Leo finishes work early.",
+      "note": "A time expression can come at the beginning."
+    },
+    {
+      "sentence": "She usually works at the weekend.",
+      "note": "At the weekend is a common British expression."
+    },
+    {
+      "sentence": "They don’t study on Sunday evenings.",
+      "note": "Use don’t and the base verb with they."
+    },
+    {
+      "sentence": "Are you busy at six? Yes, I am.",
+      "note": "Use be in the question and positive short answer."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have a class in Monday.",
+      "correct": "I have a class on Monday.",
+      "reason": "Use on before a weekday."
+    },
+    {
+      "incorrect": "The train leaves on six.",
+      "correct": "The train leaves at six.",
+      "reason": "Use at before a clock time."
+    },
+    {
+      "incorrect": "She doesn’t works on Saturdays.",
+      "correct": "She doesn’t work on Saturdays.",
+      "reason": "Use the base form after doesn’t."
+    }
+  ],
+  "summary": [
+    "Use at for clock times, on for days and in for the morning, afternoon and evening.",
+    "Use at night and every Monday without an extra preposition.",
+    "Check the subject, verb and position of frequency adverbs when describing routines."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U05-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The shop opens ___ nine.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use at before a clock time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "every"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "On normally introduces a day here.",
+        "b": "At is used before a clock time.",
+        "c": "In is not used with this clock time.",
+        "d": "Every needs a time unit, not the clock time alone."
+      }
+    },
+    {
+      "id": "A2-U05-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We have English class ___ Thursdays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use on before days of the week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "every at"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "At is used with clock times.",
+        "b": "In is not the usual choice with weekdays.",
+        "c": "On is used before Thursdays.",
+        "d": "Every at is not a correct combination."
+      }
+    },
+    {
+      "id": "A2-U05-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I go for a walk ___ the morning.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use in with the morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "every"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "In is used with the morning.",
+        "b": "On would need a specific day, such as Monday morning.",
+        "c": "At is not used in the expression in the morning.",
+        "d": "Every morning has no the."
+      }
+    },
+    {
+      "id": "A2-U05-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct routine sentence.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U02"
+      ],
+      "explanation": "She takes goes, and on introduces Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She go to work on Monday."
+        },
+        {
+          "id": "b",
+          "text": "She goes to work at Monday."
+        },
+        {
+          "id": "c",
+          "text": "She goes to work in Monday."
+        },
+        {
+          "id": "d",
+          "text": "She goes to work on Monday."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "She takes goes.",
+        "b": "Use on before Monday.",
+        "c": "Use on before Monday.",
+        "d": "Goes and on Monday are correct."
+      }
+    },
+    {
+      "id": "A2-U05-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My parents ___ busy on Fridays.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U01"
+      ],
+      "explanation": "My parents is plural and takes are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Is is singular.",
+        "b": "Are agrees with the plural subject.",
+        "c": "Am is used with I.",
+        "d": "Use the present form are."
+      }
+    },
+    {
+      "id": "A2-U05-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ your brother work at night?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U03"
+      ],
+      "explanation": "Use does with the singular subject your brother.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Is"
+        },
+        {
+          "id": "c",
+          "text": "Does"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Do does not agree with this singular subject.",
+        "b": "Is does not form a question with work.",
+        "c": "Does agrees with your brother.",
+        "d": "Are does not form a question with work."
+      }
+    },
+    {
+      "id": "A2-U05-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the usual position: Mina ___ at eight.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U04"
+      ],
+      "explanation": "Usually goes before the main verb starts.",
+      "options": [
+        {
+          "id": "a",
+          "text": "usually starts"
+        },
+        {
+          "id": "b",
+          "text": "starts usually"
+        },
+        {
+          "id": "c",
+          "text": "usually start"
+        },
+        {
+          "id": "d",
+          "text": "is usually start"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Usually starts is the standard order.",
+        "b": "The usual position of usually is before the main verb.",
+        "c": "Mina takes starts.",
+        "d": "Do not add is before starts."
+      }
+    },
+    {
+      "id": "A2-U05-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We meet ___ Monday evening.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use on before a day with a part of the day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "every at"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Use on with Monday evening.",
+        "b": "At is used with a clock time.",
+        "c": "Every at is not a correct combination.",
+        "d": "On introduces Monday evening."
+      }
+    },
+    {
+      "id": "A2-U05-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The lesson starts ___ 10.15.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use at before a clock time.",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U05-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We play football ___ Saturdays.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use on before a day of the week.",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U05-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I read ___ the evening.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use in with the evening.",
+      "accepted_answers": [
+        "in"
+      ]
+    },
+    {
+      "id": "A2-U05-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bakery is open ___ night.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "The usual expression is at night.",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U05-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Mia ___ to work by bus every day. (go)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U02"
+      ],
+      "explanation": "A singular subject takes goes.",
+      "accepted_answers": [
+        "goes"
+      ]
+    },
+    {
+      "id": "A2-U05-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you work on Mondays?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U03"
+      ],
+      "explanation": "Use do with you in this question.",
+      "accepted_answers": [
+        "Do"
+      ]
+    },
+    {
+      "id": "A2-U05-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "My friends ___ at the library on Fridays. (be)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U01"
+      ],
+      "explanation": "The plural subject takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U05-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Put often before the verb: He ___ plays tennis at six.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U04"
+      ],
+      "explanation": "Often normally comes before the main verb.",
+      "accepted_answers": [
+        "often"
+      ]
+    },
+    {
+      "id": "A2-U05-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: in",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use at with the clock time seven.",
+      "source_sentence": "The bus leaves in seven.",
+      "target_segment": "in",
+      "accepted_answers": [
+        "at"
+      ]
+    },
+    {
+      "id": "A2-U05-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: at",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Use on with the weekday Mondays.",
+      "source_sentence": "We study at Mondays.",
+      "target_segment": "at",
+      "accepted_answers": [
+        "on"
+      ]
+    },
+    {
+      "id": "A2-U05-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: don’t",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U03"
+      ],
+      "explanation": "She takes doesn’t or does not.",
+      "source_sentence": "She don’t work on Fridays.",
+      "target_segment": "don’t",
+      "accepted_answers": [
+        "doesn’t",
+        "does not"
+      ]
+    },
+    {
+      "id": "A2-U05-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U05",
+        "A2-U01"
+      ],
+      "explanation": "They takes are.",
+      "source_sentence": "They is busy in the afternoon.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U05-E21",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Starts expresses the same routine as begins.",
+      "source_sentence": "The class begins at 8.00.",
+      "keyword": "starts",
+      "target_sentence": "The class ___ at eight.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "starts"
+      ]
+    },
+    {
+      "id": "A2-U05-E22",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U05"
+      ],
+      "explanation": "Every Monday does not need on in this routine expression.",
+      "source_sentence": "My meeting is on every Monday. Use a natural routine expression without on.",
+      "keyword": "every",
+      "target_sentence": "My meeting is ___ Monday.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "every"
+      ]
+    },
+    {
+      "id": "A2-U05-E23",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U05",
+        "A2-U03"
+      ],
+      "explanation": "The negative uses doesn’t or does not plus the base verb.",
+      "source_sentence": "The café does not open on Sundays.",
+      "keyword": "open",
+      "target_sentence": "The café ___ on Sundays.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "doesn’t open",
+        "does not open"
+      ]
+    },
+    {
+      "id": "A2-U05-E24",
+      "type": "transformation",
+      "instruction": "Complete the target sentence so that it keeps the meaning of the source. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U05",
+        "A2-U04"
+      ],
+      "explanation": "Twice means two times.",
+      "source_sentence": "The train leaves two times a day.",
+      "keyword": "twice",
+      "target_sentence": "The train leaves ___ a day.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "twice"
+      ]
+    }
+  ]
+}

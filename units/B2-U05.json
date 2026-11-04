@@ -1,0 +1,668 @@
+{
+  "id": "B2-U05",
+  "level": "B2",
+  "title": "Tense and aspect choices: cumulative review",
+  "order": 5,
+  "prerequisites": [
+    "B2-U04"
+  ],
+  "objectives": [
+    "Choose tense and aspect for a stated viewpoint.",
+    "Review perfect simple and continuous forms.",
+    "Distinguish narrative sequence from background."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Tense locates a situation in relation to a point of reference; aspect presents it from a particular viewpoint, such as completed, ongoing or connected to another time. These choices help a reader follow a narrative or understand why a past action matters now. ‘I've repaired the door’ foregrounds a present result. ‘I've been repairing the door’ foregrounds the activity, which may or may not be complete.",
+        "This unit reviews present, past and future perfect forms alongside narrative forms. More than one form can be grammatical in many contexts. Instead of searching for one tense that always belongs with a time word, decide which time and aspect the speaker intends to highlight."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "The present perfect simple is have or has plus a past participle; the continuous is have or has been plus -ing. A completed number often favours the simple: ‘I've answered six emails’. A duration or recent activity can favour the continuous: ‘I've been answering emails for an hour’. Both forms can describe an ongoing situation with some verbs: ‘I've lived here for years’ and ‘I've been living here for years’.",
+        "The past perfect simple is had plus a participle; the continuous is had been plus -ing. The simple can foreground an earlier result: ‘By noon, she had written three reports’. The continuous can foreground activity leading to a past point: ‘She had been writing for hours when the power failed’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "The future continuous is will be plus -ing; the future perfect is will have plus a participle. ‘At ten tomorrow, I'll be meeting a client’ presents an activity in progress at a future point. ‘By ten, I'll have finished the report’ presents completion no later than that point. A simple future can also be appropriate in many situations: ‘I'll finish by ten’.",
+        "In a past narrative, the past simple commonly moves events forward: ‘I opened the door and stepped inside’. The past continuous can provide background: ‘Rain was falling as I entered’. The past perfect can identify an event earlier than the narrative reference point: ‘Someone had left a message before I arrived’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume the continuous proves an action is unfinished. ‘I've been painting’ focuses on the activity; the context may show that it has stopped or even finished. Nor does a duration such as for five years automatically demand a continuous form. State verbs such as know normally use the simple in their usual state meaning.",
+        "Avoid unnecessary past perfect forms when ordinary chronological order is already clear. ‘She stood up and left’ is a natural sequence. A sentence can permit several tense choices with different implications, so the exercises specify the intended viewpoint when a single answer is required."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I've answered six emails today.",
+      "note": "The simple foregrounds a completed number."
+    },
+    {
+      "sentence": "I've been answering emails for an hour.",
+      "note": "The continuous foregrounds activity and duration."
+    },
+    {
+      "sentence": "By noon, she had written three reports.",
+      "note": "The past perfect simple foregrounds an earlier completed amount."
+    },
+    {
+      "sentence": "She had been writing for hours when the power failed.",
+      "note": "The continuous foregrounds activity before the past event."
+    },
+    {
+      "sentence": "At ten tomorrow, I'll be meeting a client.",
+      "note": "The future continuous presents progress at a future point."
+    },
+    {
+      "sentence": "By ten, I'll have finished the report.",
+      "note": "The future perfect presents completion by a future point."
+    },
+    {
+      "sentence": "Rain was falling as I entered.",
+      "note": "The past continuous provides background."
+    },
+    {
+      "sentence": "I opened the door and stepped inside.",
+      "note": "Past simple verbs move a sequence forward."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I have been knowing her for years.",
+      "correct": "I have known her for years.",
+      "reason": "Know normally uses the simple form in this state meaning."
+    },
+    {
+      "incorrect": "They had been write for an hour.",
+      "correct": "They had been writing for an hour.",
+      "reason": "Use an -ing form after had been in this pattern."
+    },
+    {
+      "incorrect": "She will have wrote it by noon.",
+      "correct": "She will have written it by noon.",
+      "reason": "Use the past participle written after will have."
+    }
+  ],
+  "summary": [
+    "Choose aspect according to the intended reference point and focus.",
+    "Simple and continuous forms can overlap; context establishes whether a contrast matters.",
+    "Use past narrative forms to distinguish sequence, background and earlier events."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U05-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Completed number in an unfinished day: She ___ five emails today. Use the present perfect simple.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Has written presents the completed number.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been write"
+        },
+        {
+          "id": "b",
+          "text": "has written"
+        },
+        {
+          "id": "c",
+          "text": "has been writing five emails for"
+        },
+        {
+          "id": "d",
+          "text": "has wrote"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“has been write” does not fit here. Has written presents the completed number.",
+        "b": "“has written” fits here. Has written presents the completed number.",
+        "c": "“has been writing five emails for” does not fit here. Has written presents the completed number.",
+        "d": "“has wrote” does not fit here. Has written presents the completed number."
+      }
+    },
+    {
+      "id": "B2-U05-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Activity leading up to a past point: He ___ for hours when the lights went out. Use the past perfect continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Had been writing foregrounds activity before the power failure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has written"
+        },
+        {
+          "id": "b",
+          "text": "had wrote"
+        },
+        {
+          "id": "c",
+          "text": "had been wrote"
+        },
+        {
+          "id": "d",
+          "text": "had been writing"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“has written” does not fit here. Had been writing foregrounds activity before the power failure.",
+        "b": "“had wrote” does not fit here. Had been writing foregrounds activity before the power failure.",
+        "c": "“had been wrote” does not fit here. Had been writing foregrounds activity before the power failure.",
+        "d": "“had been writing” fits here. Had been writing foregrounds activity before the power failure."
+      }
+    },
+    {
+      "id": "B2-U05-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Future progress: At ten tomorrow, we ___ with the client.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Will be meeting presents progress at the future point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be meeting"
+        },
+        {
+          "id": "b",
+          "text": "will have meet"
+        },
+        {
+          "id": "c",
+          "text": "will meeted"
+        },
+        {
+          "id": "d",
+          "text": "had been meeting"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“will be meeting” fits here. Will be meeting presents progress at the future point.",
+        "b": "“will have meet” does not fit here. Will be meeting presents progress at the future point.",
+        "c": "“will meeted” does not fit here. Will be meeting presents progress at the future point.",
+        "d": "“had been meeting” does not fit here. Will be meeting presents progress at the future point."
+      }
+    },
+    {
+      "id": "B2-U05-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Future completion: By noon, she ___ the report. Use the future perfect.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Will have written presents completion by noon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be write"
+        },
+        {
+          "id": "b",
+          "text": "will has written"
+        },
+        {
+          "id": "c",
+          "text": "will have written"
+        },
+        {
+          "id": "d",
+          "text": "will have write"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“will be write” does not fit here. Will have written presents completion by noon.",
+        "b": "“will has written” does not fit here. Will have written presents completion by noon.",
+        "c": "“will have written” fits here. Will have written presents completion by noon.",
+        "d": "“will have write” does not fit here. Will have written presents completion by noon."
+      }
+    },
+    {
+      "id": "B2-U05-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Usual state meaning: I ___ Maya for years.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Have known is the usual simple form for this state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been knowing"
+        },
+        {
+          "id": "b",
+          "text": "have know"
+        },
+        {
+          "id": "c",
+          "text": "has known"
+        },
+        {
+          "id": "d",
+          "text": "have known"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have been knowing” does not fit here. Have known is the usual simple form for this state.",
+        "b": "“have know” does not fit here. Have known is the usual simple form for this state.",
+        "c": "“has known” does not fit here. Have known is the usual simple form for this state.",
+        "d": "“have known” fits here. Have known is the usual simple form for this state."
+      }
+    },
+    {
+      "id": "B2-U05-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Narrative background: It ___ as we entered the village. Use the past continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U04"
+      ],
+      "explanation": "Was raining provides background to the past event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has rained tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "had rains"
+        },
+        {
+          "id": "c",
+          "text": "was raining"
+        },
+        {
+          "id": "d",
+          "text": "rains yesterday"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“has rained tomorrow” does not fit here. Was raining provides background to the past event.",
+        "b": "“had rains” does not fit here. Was raining provides background to the past event.",
+        "c": "“was raining” fits here. Was raining provides background to the past event.",
+        "d": "“rains yesterday” does not fit here. Was raining provides background to the past event."
+      }
+    },
+    {
+      "id": "B2-U05-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Earlier completed result: By noon yesterday, she ___ the report. Use the past perfect simple.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Had finished presents completion before the past reference point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had finished"
+        },
+        {
+          "id": "b",
+          "text": "has finishing"
+        },
+        {
+          "id": "c",
+          "text": "had been finish"
+        },
+        {
+          "id": "d",
+          "text": "will have finished"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had finished” fits here. Had finished presents completion before the past reference point.",
+        "b": "“has finishing” does not fit here. Had finished presents completion before the past reference point.",
+        "c": "“had been finish” does not fit here. Had finished presents completion before the past reference point.",
+        "d": "“will have finished” does not fit here. Had finished presents completion before the past reference point."
+      }
+    },
+    {
+      "id": "B2-U05-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Both forms can describe some continuing situations with different or overlapping emphasis.",
+      "options": [
+        {
+          "id": "a",
+          "text": "For always requires a continuous form."
+        },
+        {
+          "id": "b",
+          "text": "The simple and continuous can overlap in some continuing situations."
+        },
+        {
+          "id": "c",
+          "text": "The continuous always proves the activity is unfinished."
+        },
+        {
+          "id": "d",
+          "text": "The past perfect is required for every event in a past sequence."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“For always requires a continuous form.” does not fit here. Both forms can describe some continuing situations with different or overlapping emphasis.",
+        "b": "“The simple and continuous can overlap in some continuing situations.” fits here. Both forms can describe some continuing situations with different or overlapping emphasis.",
+        "c": "“The continuous always proves the activity is unfinished.” does not fit here. Both forms can describe some continuing situations with different or overlapping emphasis.",
+        "d": "“The past perfect is required for every event in a past sequence.” does not fit here. Both forms can describe some continuing situations with different or overlapping emphasis."
+      }
+    },
+    {
+      "id": "B2-U05-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect simple: I have ___ six emails today. (answer)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Answered reports the completed number.",
+      "accepted_answers": [
+        "answered"
+      ]
+    },
+    {
+      "id": "B2-U05-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the present perfect continuous: She has been ___ all morning. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Use an -ing form after has been.",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U05-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect simple: They had ___ before noon. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Left is the participle of leave.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "B2-U05-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect continuous: He had been ___ for an hour. (wait)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Use an -ing form after had been.",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "B2-U05-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future continuous: At ten, we will be ___. (travel)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Both British and American spellings are accepted.",
+      "accepted_answers": [
+        "travelling",
+        "traveling"
+      ]
+    },
+    {
+      "id": "B2-U05-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the future perfect: By noon, she will have ___ the report. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U05-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use past simple for the next event: She opened the door and ___. (enter)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U04"
+      ],
+      "explanation": "Entered advances the past sequence.",
+      "accepted_answers": [
+        "entered"
+      ]
+    },
+    {
+      "id": "B2-U05-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past continuous: Rain was ___ as we arrived. (fall)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U04"
+      ],
+      "explanation": "Was falling provides background.",
+      "accepted_answers": [
+        "falling"
+      ]
+    },
+    {
+      "id": "B2-U05-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: been knowing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Know normally takes the simple form in this state meaning.",
+      "source_sentence": "He has been knowing her for years.",
+      "target_segment": "been knowing",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B2-U05-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: write",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Use an -ing form after had been.",
+      "source_sentence": "They had been write for an hour.",
+      "target_segment": "write",
+      "accepted_answers": [
+        "writing"
+      ]
+    },
+    {
+      "id": "B2-U05-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wrote",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Use the participle written after will have.",
+      "source_sentence": "She will have wrote the report by noon.",
+      "target_segment": "wrote",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U05-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: travel",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Use an -ing form after will be.",
+      "source_sentence": "At ten tomorrow, they will be travel. Use the future continuous.",
+      "target_segment": "travel",
+      "accepted_answers": [
+        "travelling",
+        "traveling"
+      ]
+    },
+    {
+      "id": "B2-U05-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U05",
+        "B2-U01"
+      ],
+      "explanation": "Has answered foregrounds the completed number.",
+      "source_sentence": "She completed six emails today; today is not over. Use the present perfect simple.",
+      "keyword": "answered",
+      "target_sentence": "She ___ six emails today.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "has answered"
+      ]
+    },
+    {
+      "id": "B2-U05-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U05",
+        "B2-U02"
+      ],
+      "explanation": "Had been writing foregrounds the duration.",
+      "source_sentence": "She spent three hours writing before noon. Focus on duration.",
+      "keyword": "writing",
+      "target_sentence": "By noon, she ___ for three hours.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had been writing"
+      ]
+    },
+    {
+      "id": "B2-U05-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Will be meeting presents future progress.",
+      "source_sentence": "At ten tomorrow, their meeting will be in progress.",
+      "keyword": "meeting",
+      "target_sentence": "At ten tomorrow, they ___ .",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "will be meeting"
+      ]
+    },
+    {
+      "id": "B2-U05-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U05",
+        "B2-U03"
+      ],
+      "explanation": "Will have finished foregrounds completion.",
+      "source_sentence": "The report will be complete by noon. Use the future perfect.",
+      "keyword": "finished",
+      "target_sentence": "By noon, she ___ the report.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "will have finished"
+      ]
+    }
+  ]
+}

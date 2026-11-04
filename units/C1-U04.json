@@ -1,0 +1,642 @@
+{
+  "id": "C1-U04",
+  "level": "C1",
+  "title": "Advanced agreement and notional concord",
+  "order": 4,
+  "prerequisites": [
+    "C1-U03"
+  ],
+  "objectives": [
+    "Identify the head of a complex subject.",
+    "Choose agreement for number expressions, proportions and measurements.",
+    "Interpret collective agreement and the reference of relative pronouns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Subject–verb agreement is often straightforward: a singular subject takes a singular present-tense verb, and a plural subject takes a plural verb. In longer noun phrases, however, the word nearest the verb is not necessarily the head of the subject. In “The quality of the answers is improving”, quality is the head; answers belongs to a prepositional phrase.",
+        "Agreement can also follow how the speaker conceives a group. In British English, a collective noun such as committee or team may take a singular verb when the group is viewed as one body, or a plural verb when the members are prominent: “The committee has reached a decision” and “The committee are disagreeing among themselves.” Both patterns are possible; context and variety influence the choice."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "A number of plus a plural noun normally takes a plural verb: “A number of applicants have withdrawn.” The number of plus a plural noun normally takes a singular verb: “The number of applicants has increased.” The expressions have different heads and meanings: a number of refers to several people or things, while the number of refers to a quantity.",
+        "Expressions of measurement can take a singular verb when a sum, period or distance is treated as a single amount: “Ten minutes is enough.” Some nouns ending in -s, such as news, normally take a singular verb. By contrast, plural-only nouns such as scissors normally take a plural verb, while “a pair of scissors” normally takes a singular verb."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "A relative clause can create a longer agreement chain. Compare “She is one of the researchers who work here” with “She is the only one of the researchers who works here.” In the first, who refers to researchers; in the second, who normally refers to the only one. The intended reference, and therefore the verb, differs.",
+        "With a proportion, agreement often depends on the noun after of: “Half of the equipment is ready” but “Half of the devices are ready.” In a formal report, check the noun being quantified instead of choosing a verb solely from half. Other quantities may behave differently according to meaning and construction."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not label a British plural collective as wrong merely because its noun has no plural -s. Equally, a singular collective is appropriate when the group acts as a unit. Maintain a clear perspective across nearby verbs and pronouns, while recognising that a change of perspective can sometimes justify a change.",
+        "Avoid a plural verb merely because a plural noun appears between the head and the verb: “The list of participants is available.” Compare “A number of participants are waiting”, where a number of functions as a plural quantity expression. Both grammatical form and the intended referent matter."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The list of participants is available.",
+      "note": "List is the singular head; participants is inside a prepositional phrase."
+    },
+    {
+      "sentence": "A number of applicants have withdrawn.",
+      "note": "A number of refers to several applicants and normally takes a plural verb."
+    },
+    {
+      "sentence": "The number of applicants has increased.",
+      "note": "The number refers to a quantity and takes a singular verb."
+    },
+    {
+      "sentence": "The committee has reached its decision.",
+      "note": "The committee is presented as one body."
+    },
+    {
+      "sentence": "The committee are disagreeing among themselves.",
+      "note": "British plural agreement foregrounds the members."
+    },
+    {
+      "sentence": "Ten minutes is enough for the introduction.",
+      "note": "The period is treated as a single amount."
+    },
+    {
+      "sentence": "Half of the equipment is ready.",
+      "note": "Equipment is uncountable here and takes singular agreement."
+    },
+    {
+      "sentence": "She is one of the researchers who work here.",
+      "note": "Who refers to the plural researchers."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The quality of the responses are improving.",
+      "correct": "The quality of the responses is improving.",
+      "reason": "Quality is the singular head of the subject."
+    },
+    {
+      "incorrect": "The number of applicants have increased.",
+      "correct": "The number of applicants has increased.",
+      "reason": "The number takes singular agreement in this construction."
+    },
+    {
+      "incorrect": "The scissors is on the table.",
+      "correct": "The scissors are on the table.",
+      "reason": "Scissors is normally plural-only and takes a plural verb."
+    }
+  ],
+  "summary": [
+    "Find the head of a complex subject before selecting the verb.",
+    "British collective nouns can take singular or plural agreement, depending on perspective.",
+    "Agreement with quantities and relative clauses depends on their structure and intended reference."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U04-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the form agreeing with the head: The quality of the responses ___ improving.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Quality is the singular head, so it takes is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "were have"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "have being"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“are” does not fit here. Quality is the singular head, so it takes is.",
+        "b": "“were have” does not fit here. Quality is the singular head, so it takes is.",
+        "c": "“is” fits here. Quality is the singular head, so it takes is.",
+        "d": "“have being” does not fit here. Quality is the singular head, so it takes is."
+      }
+    },
+    {
+      "id": "C1-U04-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the quantity expression: A number of applicants ___ withdrawn.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "A number of applicants refers to several applicants and normally takes plural have.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“have” fits here. A number of applicants refers to several applicants and normally takes plural have.",
+        "b": "“has” does not fit here. A number of applicants refers to several applicants and normally takes plural have.",
+        "c": "“is” does not fit here. A number of applicants refers to several applicants and normally takes plural have.",
+        "d": "“was” does not fit here. A number of applicants refers to several applicants and normally takes plural have."
+      }
+    },
+    {
+      "id": "C1-U04-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Complete the quantity expression: The number of applicants ___ increased.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "The number is singular, so it takes has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have” does not fit here. The number is singular, so it takes has.",
+        "b": "“are” does not fit here. The number is singular, so it takes has.",
+        "c": "“were” does not fit here. The number is singular, so it takes has.",
+        "d": "“has” fits here. The number is singular, so it takes has."
+      }
+    },
+    {
+      "id": "C1-U04-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which British sentence foregrounds the committee members as individuals?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Plural are and among themselves foreground the individual members in British usage.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The committee are one organisation and it has a name."
+        },
+        {
+          "id": "b",
+          "text": "The committee are disagreeing among themselves."
+        },
+        {
+          "id": "c",
+          "text": "The committee are an organisation with its own logo."
+        },
+        {
+          "id": "d",
+          "text": "The committee is a single body called the panel."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The committee are one organisation and it has a name.” does not fit here. Plural are and among themselves foreground the individual members in British usage.",
+        "b": "“The committee are disagreeing among themselves.” fits here. Plural are and among themselves foreground the individual members in British usage.",
+        "c": "“The committee are an organisation with its own logo.” does not fit here. Plural are and among themselves foreground the individual members in British usage.",
+        "d": "“The committee is a single body called the panel.” does not fit here. Plural are and among themselves foreground the individual members in British usage."
+      }
+    },
+    {
+      "id": "C1-U04-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Treat the duration as one amount: Ten minutes ___ enough for this exercise.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "A period viewed as a single amount can take singular is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are been"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "were be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“are been” does not fit here. A period viewed as a single amount can take singular is.",
+        "b": "“is” fits here. A period viewed as a single amount can take singular is.",
+        "c": "“have” does not fit here. A period viewed as a single amount can take singular is.",
+        "d": "“were be” does not fit here. A period viewed as a single amount can take singular is."
+      }
+    },
+    {
+      "id": "C1-U04-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct in standard English?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "News normally takes a singular verb despite ending in -s.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The news is surprising."
+        },
+        {
+          "id": "b",
+          "text": "The news are surprising."
+        },
+        {
+          "id": "c",
+          "text": "The news have surprising."
+        },
+        {
+          "id": "d",
+          "text": "The news were be surprising."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The news is surprising.” fits here. News normally takes a singular verb despite ending in -s.",
+        "b": "“The news are surprising.” does not fit here. News normally takes a singular verb despite ending in -s.",
+        "c": "“The news have surprising.” does not fit here. News normally takes a singular verb despite ending in -s.",
+        "d": "“The news were be surprising.” does not fit here. News normally takes a singular verb despite ending in -s."
+      }
+    },
+    {
+      "id": "C1-U04-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct agreement: Half of the devices ___ ready.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Devices is plural, so half of the devices takes plural are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "was being"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“is” does not fit here. Devices is plural, so half of the devices takes plural are.",
+        "b": "“has” does not fit here. Devices is plural, so half of the devices takes plural are.",
+        "c": "“was being” does not fit here. Devices is plural, so half of the devices takes plural are.",
+        "d": "“are” fits here. Devices is plural, so half of the devices takes plural are."
+      }
+    },
+    {
+      "id": "C1-U04-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “one of the researchers who work here”, who is the antecedent of who?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "The relative clause identifies members of the plural group researchers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The speaker alone."
+        },
+        {
+          "id": "b",
+          "text": "A singular research project."
+        },
+        {
+          "id": "c",
+          "text": "The researchers."
+        },
+        {
+          "id": "d",
+          "text": "One research department."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The speaker alone.” does not fit here. The relative clause identifies members of the plural group researchers.",
+        "b": "“A singular research project.” does not fit here. The relative clause identifies members of the plural group researchers.",
+        "c": "“The researchers.” fits here. The relative clause identifies members of the plural group researchers.",
+        "d": "“One research department.” does not fit here. The relative clause identifies members of the plural group researchers."
+      }
+    },
+    {
+      "id": "C1-U04-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose the singular verb: The list of contributors ___ complete.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "List is the singular head of the subject.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use plural agreement: A number of guests ___ arrived.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "A number of guests refers to several guests.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U04-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use singular agreement: The number of guests ___ fallen.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "The number is a singular head.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "C1-U04-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The equipment is uncountable: Half of the equipment ___ ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Half of the equipment takes singular agreement.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The machines are plural: Half of the machines ___ ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Half of the machines takes plural agreement.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "C1-U04-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use standard agreement: The scissors ___ on the table.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Scissors normally takes a plural verb.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "C1-U04-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use singular agreement: A pair of scissors ___ in the drawer.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Pair is the singular head.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use plural agreement with researchers: She is one of the researchers who ___ here. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Who refers to the plural researchers.",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "C1-U04-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Quality is the singular head.",
+      "source_sentence": "The quality of the responses are improving.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "The number takes a singular verb.",
+      "source_sentence": "The number of applications have decreased.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "C1-U04-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "News normally takes singular agreement.",
+      "source_sentence": "The news are on the radio.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Pair is the singular head of the noun phrase.",
+      "source_sentence": "A pair of scissors are in the drawer.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "A number of residents normally takes a plural verb.",
+      "source_sentence": "Several residents have offered to help. Rewrite using a number of.",
+      "keyword": "have",
+      "target_sentence": "A number of residents ___ to help.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have offered"
+      ]
+    },
+    {
+      "id": "C1-U04-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "The number takes singular has.",
+      "source_sentence": "The total number of visitors has risen. Use the same singular head.",
+      "keyword": "risen",
+      "target_sentence": "The number of visitors ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "has risen"
+      ]
+    },
+    {
+      "id": "C1-U04-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Uncountable equipment takes singular is.",
+      "source_sentence": "The equipment is half ready. Express this with half of.",
+      "keyword": "is",
+      "target_sentence": "Half of the equipment ___ ready.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "C1-U04-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U04"
+      ],
+      "explanation": "Pair is the singular head.",
+      "source_sentence": "The scissors are one pair. State that one pair is in the box.",
+      "keyword": "is",
+      "target_sentence": "A pair of scissors ___ in the box.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "is"
+      ]
+    }
+  ]
+}

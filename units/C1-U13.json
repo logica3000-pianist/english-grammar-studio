@@ -1,0 +1,642 @@
+{
+  "id": "C1-U13",
+  "level": "C1",
+  "title": "Apposition and compact modification",
+  "order": 13,
+  "prerequisites": [
+    "C1-U12"
+  ],
+  "objectives": [
+    "Identify the reference of an appositive noun phrase.",
+    "Distinguish active and passive participial modifiers.",
+    "Revise ambiguous compact modification."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Apposition places two expressions side by side so that the second identifies, renames or explains the first. In “Mina, the project manager, opened the meeting”, the project manager refers to Mina. The added phrase supplies information without requiring a separate clause. Apposition can help introduce people, places and concepts concisely.",
+        "Some appositives supply supplementary information, usually marked by commas in writing: “Our director, Elena Rossi, spoke first”, when the context identifies one director. Others identify which person or thing is meant and are typically integrated without commas: “The author Nia Patel spoke first.” The intended relationship, not just the presence of a name, determines the punctuation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "An appositive noun phrase normally refers to the same person or thing as the noun phrase it accompanies. Compare “Mina, the manager” with “Mina’s manager”: the former identifies Mina as the manager; the latter refers to a manager associated with Mina, who is normally another person. An article may be required inside the appositive: “Mina, a manager”, not “Mina, manager” in an ordinary descriptive sentence, although bare titles occur in certain institutional styles.",
+        "Writers also use compact modifiers after a noun. A present participle can describe an active relationship: “the people waiting outside”. A past participle can describe a passive or resultant relationship: “the documents signed yesterday”. These reduced structures depend on meaning; not every relative clause can be reduced in the same way."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "In “The bridge, a local landmark, reopened in May”, the appositive adds a description of an already identified bridge. In “The scientist Asha Rao led the study”, the name helps identify the scientist. If a writer changes the punctuation, the information may be framed differently; the change is not automatically a simple correction without context.",
+        "Compare “the students waiting outside” with “the essays written by the students”. Waiting describes what the students are doing; written describes what was done to the essays. Expanding them can clarify the relationship: “the students who are waiting” and “the essays that were written”."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Avoid attaching a modifier to the wrong noun: “the photographs of the bridge damaged in the storm” can be unclear about whether the photographs or bridge were damaged. Reword the sentence to identify the intended referent explicitly. Concision is useful only when readers can recover the intended meaning.",
+        "Do not treat commas as an automatic marker for every appositive or name. A restrictive name may identify which person is meant, while a supplementary phrase adds information about someone already identified. Consider context, house style and intended meaning, and use punctuation consistently."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Mina, the project manager, opened the meeting.",
+      "note": "The appositive identifies Mina as the project manager."
+    },
+    {
+      "sentence": "The author Nia Patel spoke first.",
+      "note": "The name identifies which author is meant."
+    },
+    {
+      "sentence": "The bridge, a local landmark, reopened in May.",
+      "note": "The appositive adds information about an identified bridge."
+    },
+    {
+      "sentence": "Mina’s manager opened the meeting.",
+      "note": "The possessive refers to a manager associated with Mina."
+    },
+    {
+      "sentence": "The people waiting outside need tickets.",
+      "note": "Waiting describes an activity of the people."
+    },
+    {
+      "sentence": "The documents signed yesterday are in the folder.",
+      "note": "Signed describes documents that were signed."
+    },
+    {
+      "sentence": "The students who are waiting can enter.",
+      "note": "The relative clause makes the active relationship explicit."
+    },
+    {
+      "sentence": "The essays that were written yesterday are ready.",
+      "note": "The relative clause makes the passive relationship explicit."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Mina, a project manager opened the meeting.",
+      "correct": "Mina, a project manager, opened the meeting.",
+      "reason": "A supplementary appositive within this sentence is set off by a pair of commas."
+    },
+    {
+      "incorrect": "The people waited outside need tickets.",
+      "correct": "The people waiting outside need tickets.",
+      "reason": "Waiting is the participial modifier describing the people."
+    },
+    {
+      "incorrect": "The documents signing yesterday are in the folder.",
+      "correct": "The documents signed yesterday are in the folder.",
+      "reason": "Signed expresses the intended passive relationship."
+    }
+  ],
+  "summary": [
+    "An appositive identifies or adds information about the same referent.",
+    "Punctuation reflects whether information is integrated or supplementary in context.",
+    "Use reduced modifiers only when their relationship and referent are clear."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U13-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “Mina, the manager, spoke”, who is the manager?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The appositive the manager refers to Mina.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mina."
+        },
+        {
+          "id": "b",
+          "text": "Someone whose identity is necessarily unknown."
+        },
+        {
+          "id": "c",
+          "text": "A different person from Mina."
+        },
+        {
+          "id": "d",
+          "text": "Everyone at the meeting."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Mina.” fits here. The appositive the manager refers to Mina.",
+        "b": "“Someone whose identity is necessarily unknown.” does not fit here. The appositive the manager refers to Mina.",
+        "c": "“A different person from Mina.” does not fit here. The appositive the manager refers to Mina.",
+        "d": "“Everyone at the meeting.” does not fit here. The appositive the manager refers to Mina."
+      }
+    },
+    {
+      "id": "C1-U13-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In “Mina’s manager spoke”, who spoke?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The possessive relates a manager to Mina; it does not identify Mina as the manager.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mina necessarily."
+        },
+        {
+          "id": "b",
+          "text": "Mina and the manager necessarily."
+        },
+        {
+          "id": "c",
+          "text": "A manager associated with Mina."
+        },
+        {
+          "id": "d",
+          "text": "An unspecified author."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Mina necessarily.” does not fit here. The possessive relates a manager to Mina; it does not identify Mina as the manager.",
+        "b": "“Mina and the manager necessarily.” does not fit here. The possessive relates a manager to Mina; it does not identify Mina as the manager.",
+        "c": "“A manager associated with Mina.” fits here. The possessive relates a manager to Mina; it does not identify Mina as the manager.",
+        "d": "“An unspecified author.” does not fit here. The possessive relates a manager to Mina; it does not identify Mina as the manager."
+      }
+    },
+    {
+      "id": "C1-U13-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the active modifier for people currently waiting.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Waiting describes what the people are doing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the people waited outside need tickets"
+        },
+        {
+          "id": "b",
+          "text": "the people wait outside need tickets"
+        },
+        {
+          "id": "c",
+          "text": "the people to waited outside"
+        },
+        {
+          "id": "d",
+          "text": "the people waiting outside"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“the people waited outside need tickets” does not fit here. Waiting describes what the people are doing.",
+        "b": "“the people wait outside need tickets” does not fit here. Waiting describes what the people are doing.",
+        "c": "“the people to waited outside” does not fit here. Waiting describes what the people are doing.",
+        "d": "“the people waiting outside” fits here. Waiting describes what the people are doing."
+      }
+    },
+    {
+      "id": "C1-U13-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the passive modifier for documents someone signed yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Signed describes the documents as receiving the action.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the documents signing yesterday"
+        },
+        {
+          "id": "b",
+          "text": "the documents signed yesterday"
+        },
+        {
+          "id": "c",
+          "text": "the documents sign yesterday"
+        },
+        {
+          "id": "d",
+          "text": "the documents to signing yesterday"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“the documents signing yesterday” does not fit here. Signed describes the documents as receiving the action.",
+        "b": "“the documents signed yesterday” fits here. Signed describes the documents as receiving the action.",
+        "c": "“the documents sign yesterday” does not fit here. Signed describes the documents as receiving the action.",
+        "d": "“the documents to signing yesterday” does not fit here. Signed describes the documents as receiving the action."
+      }
+    },
+    {
+      "id": "C1-U13-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase explicitly identifies the damaged bridge?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Damaged directly modifies bridge, making the intended referent clearer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the photographs of the bridge damaged in the storm"
+        },
+        {
+          "id": "b",
+          "text": "the photographs damaging of the bridge"
+        },
+        {
+          "id": "c",
+          "text": "the photographs bridge damaged were"
+        },
+        {
+          "id": "d",
+          "text": "the photographs of the damaged bridge after the storm"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“the photographs of the bridge damaged in the storm” does not fit here. Damaged directly modifies bridge, making the intended referent clearer.",
+        "b": "The phrase does not form a clear noun phrase identifying the bridge.",
+        "c": "The words do not form a clear noun phrase identifying the bridge.",
+        "d": "“the photographs of the damaged bridge after the storm” fits here. Damaged directly modifies bridge, making the intended referent clearer."
+      }
+    },
+    {
+      "id": "C1-U13-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence adds a supplementary description of an already identified bridge?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The paired commas set off the supplementary appositive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The bridge a landmark reopened in May."
+        },
+        {
+          "id": "b",
+          "text": "The bridge, a local landmark, reopened in May."
+        },
+        {
+          "id": "c",
+          "text": "The bridge, a landmark reopened in May."
+        },
+        {
+          "id": "d",
+          "text": "The bridge, reopened in May a landmark."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The bridge a landmark reopened in May.” does not fit here. The paired commas set off the supplementary appositive.",
+        "b": "“The bridge, a local landmark, reopened in May.” fits here. The paired commas set off the supplementary appositive.",
+        "c": "“The bridge, a landmark reopened in May.” does not fit here. The paired commas set off the supplementary appositive.",
+        "d": "“The bridge, reopened in May a landmark.” does not fit here. The paired commas set off the supplementary appositive."
+      }
+    },
+    {
+      "id": "C1-U13-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which expanded clause corresponds to “the students waiting outside”?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Who are waiting states the active relationship explicitly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the students who were waited outside"
+        },
+        {
+          "id": "b",
+          "text": "the students that are wait outside"
+        },
+        {
+          "id": "c",
+          "text": "the students who are waiting outside"
+        },
+        {
+          "id": "d",
+          "text": "the students who waiting are outside"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“the students who were waited outside” does not fit here. Who are waiting states the active relationship explicitly.",
+        "b": "“the students that are wait outside” does not fit here. Who are waiting states the active relationship explicitly.",
+        "c": "“the students who are waiting outside” fits here. Who are waiting states the active relationship explicitly.",
+        "d": "“the students who waiting are outside” does not fit here. Who are waiting states the active relationship explicitly."
+      }
+    },
+    {
+      "id": "C1-U13-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What can make a compact modifier difficult to understand?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Ambiguity about the referent can make the intended relationship unclear.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Uncertainty about which noun it modifies."
+        },
+        {
+          "id": "b",
+          "text": "A clearly identified head noun."
+        },
+        {
+          "id": "c",
+          "text": "A fully specified relationship."
+        },
+        {
+          "id": "d",
+          "text": "A well-established referent."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Uncertainty about which noun it modifies.” fits here. Ambiguity about the referent can make the intended relationship unclear.",
+        "b": "“A clearly identified head noun.” does not fit here. Ambiguity about the referent can make the intended relationship unclear.",
+        "c": "“A fully specified relationship.” does not fit here. Ambiguity about the referent can make the intended relationship unclear.",
+        "d": "“A well-established referent.” does not fit here. Ambiguity about the referent can make the intended relationship unclear."
+      }
+    },
+    {
+      "id": "C1-U13-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Mina, ___ project manager, opened the meeting. Use a.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The singular countable noun manager takes a in this descriptive appositive.",
+      "accepted_answers": [
+        "a"
+      ]
+    },
+    {
+      "id": "C1-U13-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The people ___ outside need tickets. (wait)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Waiting describes what the people are doing.",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "C1-U13-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The documents ___ yesterday are in the folder. (sign)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Signed expresses a passive relationship.",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U13-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The students ___ are waiting can enter. Use who.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Who refers to the students in the relative clause.",
+      "accepted_answers": [
+        "who"
+      ]
+    },
+    {
+      "id": "C1-U13-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The essays that ___ written yesterday are ready.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Were written is a past passive relative clause.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "C1-U13-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Mina, the ___, opened the meeting. (manage, noun)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Manager is the noun naming Mina’s role.",
+      "accepted_answers": [
+        "manager"
+      ]
+    },
+    {
+      "id": "C1-U13-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The author Nia Patel ___ the study. (lead, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Led is the past form of lead.",
+      "accepted_answers": [
+        "led"
+      ]
+    },
+    {
+      "id": "C1-U13-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bridge, a local landmark, ___ in May. (reopen, past)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Reopened is the past form of reopen.",
+      "accepted_answers": [
+        "reopened"
+      ]
+    },
+    {
+      "id": "C1-U13-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: waited",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Waiting describes the people performing the action.",
+      "source_sentence": "The people waited outside need tickets.",
+      "target_segment": "waited",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "C1-U13-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: signing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Signed expresses that the documents received the action.",
+      "source_sentence": "The documents signing yesterday are in the folder.",
+      "target_segment": "signing",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U13-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: managing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The appositive needs the role noun manager after a project.",
+      "source_sentence": "Mina, a project managing, opened the meeting.",
+      "target_segment": "managing",
+      "accepted_answers": [
+        "manager"
+      ]
+    },
+    {
+      "id": "C1-U13-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wait",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Are is followed by waiting in the progressive relative clause.",
+      "source_sentence": "The students who are wait outside can enter.",
+      "target_segment": "wait",
+      "accepted_answers": [
+        "waiting"
+      ]
+    },
+    {
+      "id": "C1-U13-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Waiting outside reduces the active relative clause.",
+      "source_sentence": "The people who are waiting outside need tickets. Use a reduced modifier.",
+      "keyword": "waiting",
+      "target_sentence": "The people ___ need tickets.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "waiting outside"
+      ]
+    },
+    {
+      "id": "C1-U13-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "Signed yesterday reduces the passive relative clause.",
+      "source_sentence": "The documents that were signed yesterday are in the folder. Reduce the relative clause.",
+      "keyword": "signed",
+      "target_sentence": "The documents ___ are in the folder.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "signed yesterday"
+      ]
+    },
+    {
+      "id": "C1-U13-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The appositive identifies Mina as the project manager.",
+      "source_sentence": "Mina is the project manager. Mina opened the meeting. Use a supplementary appositive.",
+      "keyword": "manager",
+      "target_sentence": "Mina, ___, opened the meeting.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "the project manager"
+      ]
+    },
+    {
+      "id": "C1-U13-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U13"
+      ],
+      "explanation": "The appositive adds a supplementary description of the bridge.",
+      "source_sentence": "The bridge is a local landmark. The identified bridge reopened in May. Use an appositive.",
+      "keyword": "landmark",
+      "target_sentence": "The bridge, ___, reopened in May.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "a local landmark"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "A2-U07",
+  "level": "A2",
+  "title": "Present simple and present continuous",
+  "order": 7,
+  "prerequisites": [
+    "A2-U06"
+  ],
+  "objectives": [
+    "Choose a present form for a routine or an action now.",
+    "Make statements and questions using the two patterns.",
+    "Recognise common state verbs in the simple form."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The present simple often describes a habit, routine or general fact. ‘I cycle to work’ describes a usual activity. The present continuous often describes an action happening now or a temporary situation around now. ‘I am cycling to work today’ describes what is happening today, not necessarily every day.",
+        "Choose the form by thinking about the situation, not just by looking for a time word. Someone can say ‘I work in a café’ even while they are at home. Someone can say ‘I am working in a café this month’ to show that the arrangement is temporary."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In a positive present simple statement, use the base verb with I, you, we and they: ‘They study’. Add the appropriate ending with he, she and it: ‘She studies’. For negatives and most questions, use do or does and the base verb: ‘They don’t study here’ and ‘Does she study here?’",
+        "In the present continuous, use am, is or are with an -ing form: ‘They are studying’ and ‘She is studying’. Make a negative by adding not after be. Make a question by putting be before the subject: ‘Are they studying?’ Use a form of be in short answers to these questions."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare a usual day and the present moment: ‘Nico usually has lunch at home, but he is eating at a café today.’ Usually points to his routine. Today makes the temporary contrast clear. You can also describe two activities together: ‘I am listening to music while I do my homework.’ Context tells us how the speaker sees each activity.",
+        "Expressions such as every day and on Mondays often accompany routines. Now, at the moment and today often accompany an action or situation in progress. These expressions are clues, not automatic rules: ‘Today is Monday’ uses today with be, not a continuous verb."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Some verbs describe a state rather than an action. In their usual meanings, know, like and want are not normally used in the continuous: ‘I know her’ and ‘She wants water’. Some verbs can have different meanings in different contexts. For example, ‘I have a car’ describes possession, while ‘I am having lunch’ describes an activity.",
+        "Avoid mixing the patterns: ‘She works here’ and ‘She is working here today’ are correct. ‘She is works here’ is not correct. In questions, do not combine do and be in this way: ask ‘Does she work here?’ for a routine or ‘Is she working here today?’ for a temporary activity."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I walk to college every day.",
+      "note": "The present simple describes a routine."
+    },
+    {
+      "sentence": "I am walking to college now.",
+      "note": "The present continuous describes an action now."
+    },
+    {
+      "sentence": "She usually eats at home, but today she is eating out.",
+      "note": "The forms contrast a routine with today’s activity."
+    },
+    {
+      "sentence": "They live in York.",
+      "note": "The present simple describes a usual situation."
+    },
+    {
+      "sentence": "They are staying with friends this week.",
+      "note": "The present continuous describes a temporary situation."
+    },
+    {
+      "sentence": "Do you work on Saturdays?",
+      "note": "Do forms a question about a routine."
+    },
+    {
+      "sentence": "Is he working at the moment?",
+      "note": "Is forms a question about an action now."
+    },
+    {
+      "sentence": "I like this song.",
+      "note": "Like normally uses the simple form for this state."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She is work every day.",
+      "correct": "She works every day.",
+      "reason": "Use works for this routine."
+    },
+    {
+      "incorrect": "They playing now.",
+      "correct": "They are playing now.",
+      "reason": "Use are plus playing for an action now."
+    },
+    {
+      "incorrect": "I am knowing the answer.",
+      "correct": "I know the answer.",
+      "reason": "Know in this meaning normally uses the simple form."
+    }
+  ],
+  "summary": [
+    "Use the present simple for routines and general facts.",
+    "Use be plus -ing for an action now or a temporary activity.",
+    "Some state verbs normally use the simple form."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U07-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Every Monday, Maria ___ to college.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The routine takes the present simple; Maria takes walks.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is walking"
+        },
+        {
+          "id": "b",
+          "text": "walk"
+        },
+        {
+          "id": "c",
+          "text": "walks"
+        },
+        {
+          "id": "d",
+          "text": "walking"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is walking” does not fit here. The routine takes the present simple; Maria takes walks.",
+        "b": "“walk” does not fit here. The routine takes the present simple; Maria takes walks.",
+        "c": "“walks” fits here. The routine takes the present simple; Maria takes walks.",
+        "d": "“walking” does not fit here. The routine takes the present simple; Maria takes walks."
+      }
+    },
+    {
+      "id": "A2-U07-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Listen! Someone ___ at the door.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The action is happening now, so use is knocking.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is knocking"
+        },
+        {
+          "id": "b",
+          "text": "knocks"
+        },
+        {
+          "id": "c",
+          "text": "knock"
+        },
+        {
+          "id": "d",
+          "text": "are knocking"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“is knocking” fits here. The action is happening now, so use is knocking.",
+        "b": "“knocks” does not fit here. The action is happening now, so use is knocking.",
+        "c": "“knock” does not fit here. The action is happening now, so use is knocking.",
+        "d": "“are knocking” does not fit here. The action is happening now, so use is knocking."
+      }
+    },
+    {
+      "id": "A2-U07-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ coffee every morning.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Every morning describes a routine; I takes drink.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am drinking"
+        },
+        {
+          "id": "b",
+          "text": "drinks"
+        },
+        {
+          "id": "c",
+          "text": "drinking"
+        },
+        {
+          "id": "d",
+          "text": "drink"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“am drinking” does not fit here. Every morning describes a routine; I takes drink.",
+        "b": "“drinks” does not fit here. Every morning describes a routine; I takes drink.",
+        "c": "“drinking” does not fit here. Every morning describes a routine; I takes drink.",
+        "d": "“drink” fits here. Every morning describes a routine; I takes drink."
+      }
+    },
+    {
+      "id": "A2-U07-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Today, we ___ at home because the office is closed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Today’s temporary arrangement takes are working.",
+      "options": [
+        {
+          "id": "a",
+          "text": "work every day"
+        },
+        {
+          "id": "b",
+          "text": "are working"
+        },
+        {
+          "id": "c",
+          "text": "works"
+        },
+        {
+          "id": "d",
+          "text": "working"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“work every day” does not fit here. Today’s temporary arrangement takes are working.",
+        "b": "“are working” fits here. Today’s temporary arrangement takes are working.",
+        "c": "“works” does not fit here. Today’s temporary arrangement takes are working.",
+        "d": "“working” does not fit here. Today’s temporary arrangement takes are working."
+      }
+    },
+    {
+      "id": "A2-U07-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ the answer now.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Know normally uses the simple form for this state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am knowing"
+        },
+        {
+          "id": "b",
+          "text": "knows"
+        },
+        {
+          "id": "c",
+          "text": "knowing"
+        },
+        {
+          "id": "d",
+          "text": "know"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“am knowing” does not fit here. Know normally uses the simple form for this state.",
+        "b": "“knows” does not fit here. Know normally uses the simple form for this state.",
+        "c": "“knowing” does not fit here. Know normally uses the simple form for this state.",
+        "d": "“know” fits here. Know normally uses the simple form for this state."
+      }
+    },
+    {
+      "id": "A2-U07-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ your sister work on Saturdays?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use does with the singular subject for a routine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Is” does not fit here. Use does with the singular subject for a routine.",
+        "b": "“Does” fits here. Use does with the singular subject for a routine.",
+        "c": "“Are” does not fit here. Use does with the singular subject for a routine.",
+        "d": "“Do” does not fit here. Use does with the singular subject for a routine."
+      }
+    },
+    {
+      "id": "A2-U07-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look! The children ___ in the garden.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The plural subject takes are playing for an action now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are playing"
+        },
+        {
+          "id": "b",
+          "text": "play every day"
+        },
+        {
+          "id": "c",
+          "text": "plays"
+        },
+        {
+          "id": "d",
+          "text": "is playing"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“are playing” fits here. The plural subject takes are playing for an action now.",
+        "b": "“play every day” does not fit here. The plural subject takes are playing for an action now.",
+        "c": "“plays” does not fit here. The plural subject takes are playing for an action now.",
+        "d": "“is playing” does not fit here. The plural subject takes are playing for an action now."
+      }
+    },
+    {
+      "id": "A2-U07-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My dad ___ dinner every evening.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The routine takes cooks with a singular subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is cook"
+        },
+        {
+          "id": "b",
+          "text": "cooking"
+        },
+        {
+          "id": "c",
+          "text": "cooks"
+        },
+        {
+          "id": "d",
+          "text": "cook"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is cook” does not fit here. The routine takes cooks with a singular subject.",
+        "b": "“cooking” does not fit here. The routine takes cooks with a singular subject.",
+        "c": "“cooks” fits here. The routine takes cooks with a singular subject.",
+        "d": "“cook” does not fit here. The routine takes cooks with a singular subject."
+      }
+    },
+    {
+      "id": "A2-U07-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ to music every evening. (listen)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "She takes listens for a routine.",
+      "accepted_answers": [
+        "listens"
+      ]
+    },
+    {
+      "id": "A2-U07-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Right now, they ___ a film. (watch)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The action now takes are watching.",
+      "accepted_answers": [
+        "are watching"
+      ]
+    },
+    {
+      "id": "A2-U07-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He ___ not work on Sundays.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use does not with he for a routine.",
+      "accepted_answers": [
+        "does"
+      ]
+    },
+    {
+      "id": "A2-U07-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Look! The bus ___ . (come)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The singular subject takes is coming.",
+      "accepted_answers": [
+        "is coming"
+      ]
+    },
+    {
+      "id": "A2-U07-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We usually ___ at six. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "We takes the base form for a routine.",
+      "accepted_answers": [
+        "eat"
+      ]
+    },
+    {
+      "id": "A2-U07-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ this music. (like)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Like normally takes the simple form for this state.",
+      "accepted_answers": [
+        "like"
+      ]
+    },
+    {
+      "id": "A2-U07-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ she sleeping at the moment?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use is before she in the continuous question.",
+      "accepted_answers": [
+        "Is"
+      ]
+    },
+    {
+      "id": "A2-U07-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ they live nearby?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use do with they in a present simple question.",
+      "accepted_answers": [
+        "Do"
+      ]
+    },
+    {
+      "id": "A2-U07-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: walk",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "The singular subject takes walks.",
+      "source_sentence": "He walk to work every day.",
+      "target_segment": "walk",
+      "accepted_answers": [
+        "walks"
+      ]
+    },
+    {
+      "id": "A2-U07-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "We takes are.",
+      "source_sentence": "We is cooking now.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U07-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is like",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Like normally takes the simple form here; she takes likes.",
+      "source_sentence": "She is like tea.",
+      "target_segment": "is like",
+      "accepted_answers": [
+        "likes"
+      ]
+    },
+    {
+      "id": "A2-U07-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: play",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use the -ing form after are.",
+      "source_sentence": "They are play in the garden now.",
+      "target_segment": "play",
+      "accepted_answers": [
+        "playing"
+      ]
+    },
+    {
+      "id": "A2-U07-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Usually comes before the main verb have.",
+      "source_sentence": "Normally, I have lunch at one.",
+      "keyword": "usually",
+      "target_sentence": "I ___ lunch at one.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "usually have"
+      ]
+    },
+    {
+      "id": "A2-U07-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use is washing for the action now.",
+      "source_sentence": "At this moment, Ali is washing the car.",
+      "keyword": "washing",
+      "target_sentence": "Ali ___ the car now.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "is washing"
+      ]
+    },
+    {
+      "id": "A2-U07-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "A negative short answer uses I don’t or I do not.",
+      "source_sentence": "Do you usually work here? Give a negative short answer.",
+      "keyword": "I",
+      "target_sentence": "No, ___.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "I don’t",
+        "I do not"
+      ]
+    },
+    {
+      "id": "A2-U07-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U07"
+      ],
+      "explanation": "Use they are in the positive short answer.",
+      "source_sentence": "Are the students studying now? Give a positive short answer.",
+      "keyword": "they",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "they are"
+      ]
+    }
+  ]
+}

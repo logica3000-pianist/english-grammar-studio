@@ -1,0 +1,643 @@
+{
+  "id": "A2-U16",
+  "level": "A2",
+  "title": "Past simple: be and regular verbs",
+  "order": 16,
+  "prerequisites": [
+    "A2-U15"
+  ],
+  "objectives": [
+    "Describe finished past states using was and were.",
+    "Spell and use common regular past verb forms.",
+    "Form past simple questions and negatives."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Use the past simple to describe a finished situation or action in the past. ‘I was tired yesterday’ describes a past state. ‘We visited a museum last Saturday’ describes a completed action. Expressions such as yesterday, last week, last year and two days ago can show when it happened, but the time can also be clear from the conversation.",
+        "This unit introduces past forms of be and regular verbs. A regular verb usually forms its past with -ed: work becomes worked. The past form of be is different: it is was or were. You will study more irregular verbs in the next unit."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use was with I, he, she, it and a singular name or noun: ‘I was at home’ and ‘The shop was open’. Use were with you, we, they and plural nouns: ‘You were late’ and ‘The shops were open’. The form you were is used for one listener or several listeners.",
+        "For a negative with be, add not: was not or wasn’t; were not or weren’t. For a question, put was or were before the subject: ‘Was the film good?’ and ‘Were they at home?’ In a short answer, use was or were: ‘Yes, it was’ or ‘No, they weren’t’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "For most regular verbs, add -ed: work becomes worked and visit becomes visited. If the verb already ends in e, add -d: live becomes lived. If it ends in a consonant plus y, change y to i and add -ed: study becomes studied. Some short stressed verbs double the final consonant: stop becomes stopped. The spelling pattern depends on the word.",
+        "The past form of a regular verb is the same for every subject: I worked, she worked and they worked. To make a negative, use did not or didn’t plus the base verb: ‘She didn’t work’. For a question, put did before the subject and use the base verb: ‘Did she work?’ Use did or didn’t in a short answer."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Compare be and an ordinary verb: ‘Was he tired?’ but ‘Did he work?’ Do not use did with was in the same basic question: ‘Was he at home?’, not ‘Did he was at home?’ After did or didn’t, the main verb returns to its base form: ‘Did they visit?’, not ‘Did they visited?’",
+        "Regular past endings can sound different in speech. For example, worked, played and visited do not all end with the same sound, although each is written with -ed. In this unit, focus first on choosing the correct written form and on showing a completed past time."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I was at home yesterday.",
+      "note": "I takes was in the past."
+    },
+    {
+      "sentence": "The children were tired after the trip.",
+      "note": "Children is plural and takes were."
+    },
+    {
+      "sentence": "The café wasn’t open last night.",
+      "note": "Wasn’t is the negative form for a singular subject."
+    },
+    {
+      "sentence": "Were you at school on Monday? Yes, I was.",
+      "note": "The question uses were with you; the answer uses was with I."
+    },
+    {
+      "sentence": "We visited our friends last weekend.",
+      "note": "Visited is the regular past form of visit."
+    },
+    {
+      "sentence": "Nina studied English yesterday.",
+      "note": "Study changes y to i before -ed."
+    },
+    {
+      "sentence": "The bus stopped near the station.",
+      "note": "Stop doubles p before -ed."
+    },
+    {
+      "sentence": "Did she work on Friday? No, she didn’t.",
+      "note": "Did introduces the question and work stays in the base form."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "They was at home.",
+      "correct": "They were at home.",
+      "reason": "They takes were."
+    },
+    {
+      "incorrect": "She didn’t worked yesterday.",
+      "correct": "She didn’t work yesterday.",
+      "reason": "Use the base form after didn’t."
+    },
+    {
+      "incorrect": "Did you visited the museum?",
+      "correct": "Did you visit the museum?",
+      "reason": "Use the base form after did."
+    }
+  ],
+  "summary": [
+    "Use was and were for past forms of be.",
+    "Form most regular past verbs with -ed, checking spelling changes.",
+    "Use did or didn’t with the base form of ordinary verbs in questions and negatives."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U16-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ at home yesterday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "I takes was in the past.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“were” does not fit here. I takes was in the past.",
+        "b": "“was” fits here. I takes was in the past.",
+        "c": "“are” does not fit here. I takes was in the past.",
+        "d": "“be” does not fit here. I takes was in the past."
+      }
+    },
+    {
+      "id": "A2-U16-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The students ___ tired after the lesson.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "The plural subject students takes were.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“was” does not fit here. The plural subject students takes were.",
+        "b": "“is” does not fit here. The plural subject students takes were.",
+        "c": "“am” does not fit here. The plural subject students takes were.",
+        "d": "“were” fits here. The plural subject students takes were."
+      }
+    },
+    {
+      "id": "A2-U16-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ a film last night. (watch)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "The completed past action uses watched.",
+      "options": [
+        {
+          "id": "a",
+          "text": "watched"
+        },
+        {
+          "id": "b",
+          "text": "watch"
+        },
+        {
+          "id": "c",
+          "text": "watchs"
+        },
+        {
+          "id": "d",
+          "text": "watching"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“watched” fits here. The completed past action uses watched.",
+        "b": "“watch” does not fit here. The completed past action uses watched.",
+        "c": "“watchs” does not fit here. The completed past action uses watched.",
+        "d": "“watching” does not fit here. The completed past action uses watched."
+      }
+    },
+    {
+      "id": "A2-U16-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ English yesterday. (study)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Change consonant plus y to i before adding -ed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "studyed"
+        },
+        {
+          "id": "b",
+          "text": "study"
+        },
+        {
+          "id": "c",
+          "text": "studied"
+        },
+        {
+          "id": "d",
+          "text": "studys"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“studyed” does not fit here. Change consonant plus y to i before adding -ed.",
+        "b": "“study” does not fit here. Change consonant plus y to i before adding -ed.",
+        "c": "“studied” fits here. Change consonant plus y to i before adding -ed.",
+        "d": "“studys” does not fit here. Change consonant plus y to i before adding -ed."
+      }
+    },
+    {
+      "id": "A2-U16-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Did he work yesterday? No, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use didn’t in the short answer to a did question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "he wasn’t"
+        },
+        {
+          "id": "b",
+          "text": "he doesn’t"
+        },
+        {
+          "id": "c",
+          "text": "he didn’t"
+        },
+        {
+          "id": "d",
+          "text": "he isn’t"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“he wasn’t” does not fit here. Use didn’t in the short answer to a did question.",
+        "b": "“he doesn’t” does not fit here. Use didn’t in the short answer to a did question.",
+        "c": "“he didn’t” fits here. Use didn’t in the short answer to a did question.",
+        "d": "“he isn’t” does not fit here. Use didn’t in the short answer to a did question."
+      }
+    },
+    {
+      "id": "A2-U16-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They didn’t ___ on Sunday.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use the base form work after didn’t.",
+      "options": [
+        {
+          "id": "a",
+          "text": "work"
+        },
+        {
+          "id": "b",
+          "text": "worked"
+        },
+        {
+          "id": "c",
+          "text": "working"
+        },
+        {
+          "id": "d",
+          "text": "works"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“work” fits here. Use the base form work after didn’t.",
+        "b": "“worked” does not fit here. Use the base form work after didn’t.",
+        "c": "“working” does not fit here. Use the base form work after didn’t.",
+        "d": "“works” does not fit here. Use the base form work after didn’t."
+      }
+    },
+    {
+      "id": "A2-U16-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you at the party last night?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use were with you in a past question with be.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Was"
+        },
+        {
+          "id": "d",
+          "text": "Were"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Did” does not fit here. Use were with you in a past question with be.",
+        "b": "“Are” does not fit here. Use were with you in a past question with be.",
+        "c": "“Was” does not fit here. Use were with you in a past question with be.",
+        "d": "“Were” fits here. Use were with you in a past question with be."
+      }
+    },
+    {
+      "id": "A2-U16-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The car ___ outside yesterday. (stop)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Stop doubles p before -ed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stoped"
+        },
+        {
+          "id": "b",
+          "text": "stopped"
+        },
+        {
+          "id": "c",
+          "text": "stops"
+        },
+        {
+          "id": "d",
+          "text": "stopping"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“stoped” does not fit here. Stop doubles p before -ed.",
+        "b": "“stopped” fits here. Stop doubles p before -ed.",
+        "c": "“stops” does not fit here. Stop doubles p before -ed.",
+        "d": "“stopping” does not fit here. Stop doubles p before -ed."
+      }
+    },
+    {
+      "id": "A2-U16-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ at the office yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "She takes was in the past.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U16-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We ___ at home last night.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "We takes were in the past.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U16-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ the shop open yesterday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "The singular subject shop takes was.",
+      "accepted_answers": [
+        "Was"
+      ]
+    },
+    {
+      "id": "A2-U16-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "They ___ tennis last Sunday. (play)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Add -ed to play.",
+      "accepted_answers": [
+        "played"
+      ]
+    },
+    {
+      "id": "A2-U16-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I ___ in London last year. (live)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Add d to live, which already ends in e.",
+      "accepted_answers": [
+        "lived"
+      ]
+    },
+    {
+      "id": "A2-U16-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She ___ not work yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use did not plus the base verb.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "A2-U16-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ you visit your parents yesterday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use did before the subject for a past question.",
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U16-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Did they watch the film? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use did in the positive short answer.",
+      "accepted_answers": [
+        "did"
+      ]
+    },
+    {
+      "id": "A2-U16-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "We takes were in the past.",
+      "source_sentence": "We was late yesterday.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U16-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: studyed",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Change consonant plus y to i before adding -ed.",
+      "source_sentence": "He studyed last night.",
+      "target_segment": "studyed",
+      "accepted_answers": [
+        "studied"
+      ]
+    },
+    {
+      "id": "A2-U16-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: played",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use the base form after didn’t.",
+      "source_sentence": "They didn’t played yesterday.",
+      "target_segment": "played",
+      "accepted_answers": [
+        "play"
+      ]
+    },
+    {
+      "id": "A2-U16-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: walked",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use the base form after did.",
+      "source_sentence": "Did she walked to school yesterday?",
+      "target_segment": "walked",
+      "accepted_answers": [
+        "walk"
+      ]
+    },
+    {
+      "id": "A2-U16-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Was not and wasn’t are negative past forms of be.",
+      "source_sentence": "Last night, I was not at home.",
+      "keyword": null,
+      "target_sentence": "Last night, I ___ at home.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "was not",
+        "wasn’t"
+      ]
+    },
+    {
+      "id": "A2-U16-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Put did before the subject and use visit.",
+      "source_sentence": "They visited the museum yesterday. Ask a yes/no question.",
+      "keyword": "Did",
+      "target_sentence": "___ they visit the museum yesterday?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Did"
+      ]
+    },
+    {
+      "id": "A2-U16-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Use he did in the positive short answer.",
+      "source_sentence": "Did he work on Monday? Give a positive short answer.",
+      "keyword": "he",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he did"
+      ]
+    },
+    {
+      "id": "A2-U16-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U16"
+      ],
+      "explanation": "Was closed describes the shop as not open in the past.",
+      "source_sentence": "The shop was not open yesterday.",
+      "keyword": "closed",
+      "target_sentence": "The shop ___ yesterday.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was closed"
+      ]
+    }
+  ]
+}

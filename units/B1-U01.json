@@ -1,0 +1,643 @@
+{
+  "id": "B1-U01",
+  "level": "B1",
+  "title": "Present perfect: experiences",
+  "order": 1,
+  "prerequisites": [
+    "A2-U25"
+  ],
+  "objectives": [
+    "Form present perfect statements and questions about experiences.",
+    "Use ever and never appropriately.",
+    "Select common irregular past participles."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The present perfect connects a past action or experience with the present. One common use is to talk about something that has happened at least once in a person's life up to now, without saying exactly when. ‘I have visited Scotland’ tells us about my experience; the listener does not learn the date. The time period considered is my life up to the present.",
+        "We often use ever in questions about life experience: ‘Have you ever tried sushi?’ Never means ‘not at any time’ in the relevant period: ‘I have never tried sushi’. We can use before or expressions such as once and twice when the exact date is not the focus."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Make the present perfect with have or has plus the past participle. Use have with I, you, we and they, and has with he, she, it and a singular noun. For many regular verbs, the past participle ends in -ed: visited, played and watched. Many common participles are irregular: been, seen, eaten, taken, written and done.",
+        "Make a negative with have not or haven't, and has not or hasn't: ‘She hasn't seen the film’. Put have or has before the subject in a question: ‘Have they been to London?’ A short answer uses the auxiliary: ‘Yes, they have’ or ‘No, they haven't’. In informal English, ‘I've’ and ‘she's’ can mean ‘I have’ and ‘she has’ here."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Read the examples below. ‘Have you ever ridden a horse?’ asks about experience at any time in your life up to now. ‘Yes, I have’ answers the question. A follow-up can use the past simple to give a finished time: ‘I rode one on holiday last year’. The first question focuses on experience; the second sentence tells us when it happened.",
+        "In British English, ‘have been to’ often describes a visit and return: ‘I've been to Lisbon twice’. ‘Has gone to Lisbon’ usually means the person has left for Lisbon and is not here now. For a life-experience question about visiting a place, been to is often the form we need."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add a separate negative to never in standard English: say ‘I have never seen it’, not ‘I haven't never seen it’. Do not use the present perfect with a finished past time such as yesterday or in 2019 in this experience pattern: say ‘I saw it yesterday’. The next units explore time references in more detail.",
+        "A past participle is not always the same as the past simple form. For example, saw is the past simple of see, but seen is its past participle. Say ‘I saw it last week’ and ‘I have seen it’. Some verbs have the same form for both, such as visited; check irregular forms when necessary."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I have visited Edinburgh twice.",
+      "note": "The exact dates are not stated."
+    },
+    {
+      "sentence": "She has never tried sushi.",
+      "note": "Never means not at any time in her experience."
+    },
+    {
+      "sentence": "Have you ever ridden a horse?",
+      "note": "Ever asks about experience up to now."
+    },
+    {
+      "sentence": "We have seen that film before.",
+      "note": "Seen is the past participle of see."
+    },
+    {
+      "sentence": "They haven't eaten Korean food.",
+      "note": "Haven't forms the negative with they."
+    },
+    {
+      "sentence": "Has Ben visited Paris? Yes, he has.",
+      "note": "The short answer uses has."
+    },
+    {
+      "sentence": "I've been to Lisbon twice.",
+      "note": "Been to describes visits and return."
+    },
+    {
+      "sentence": "Maya has gone to Lisbon; she isn't here now.",
+      "note": "Gone to normally indicates she has left for Lisbon."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She has saw the film.",
+      "correct": "She has seen the film.",
+      "reason": "Use the participle seen after has."
+    },
+    {
+      "incorrect": "I have never ate sushi.",
+      "correct": "I have never eaten sushi.",
+      "reason": "Use the participle eaten after have."
+    },
+    {
+      "incorrect": "Have he ever visited York?",
+      "correct": "Has he ever visited York?",
+      "reason": "He takes has in the question."
+    }
+  ],
+  "summary": [
+    "Use have or has plus a past participle for experiences up to now.",
+    "Use ever in questions and never for no experience.",
+    "Use the past simple when a finished past time is stated."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U01-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ that film before, so I know the story.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Have seen uses the participle seen with I.",
+      "options": [
+        {
+          "id": "a",
+          "text": "saw yesterday"
+        },
+        {
+          "id": "b",
+          "text": "has seen"
+        },
+        {
+          "id": "c",
+          "text": "have seen"
+        },
+        {
+          "id": "d",
+          "text": "have saw"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“saw yesterday” does not fit here. Have seen uses the participle seen with I.",
+        "b": "“has seen” does not fit here. Have seen uses the participle seen with I.",
+        "c": "“have seen” fits here. Have seen uses the participle seen with I.",
+        "d": "“have saw” does not fit here. Have seen uses the participle seen with I."
+      }
+    },
+    {
+      "id": "B1-U01-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ you ever tried Thai food?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Have comes before you in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have"
+        },
+        {
+          "id": "b",
+          "text": "Did have"
+        },
+        {
+          "id": "c",
+          "text": "Has"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Have” fits here. Have comes before you in the question.",
+        "b": "“Did have” does not fit here. Have comes before you in the question.",
+        "c": "“Has” does not fit here. Have comes before you in the question.",
+        "d": "“Are” does not fit here. Have comes before you in the question."
+      }
+    },
+    {
+      "id": "B1-U01-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She ___ never visited Wales.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "She takes has in the present perfect.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“have” does not fit here. She takes has in the present perfect.",
+        "b": "“is” does not fit here. She takes has in the present perfect.",
+        "c": "“did” does not fit here. She takes has in the present perfect.",
+        "d": "“has” fits here. She takes has in the present perfect."
+      }
+    },
+    {
+      "id": "B1-U01-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They have ___ a horse before. (ride)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Ridden is the past participle of ride.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rode"
+        },
+        {
+          "id": "b",
+          "text": "ridden"
+        },
+        {
+          "id": "c",
+          "text": "ride"
+        },
+        {
+          "id": "d",
+          "text": "riding"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“rode” does not fit here. Ridden is the past participle of ride.",
+        "b": "“ridden” fits here. Ridden is the past participle of ride.",
+        "c": "“ride” does not fit here. Ridden is the past participle of ride.",
+        "d": "“riding” does not fit here. Ridden is the past participle of ride."
+      }
+    },
+    {
+      "id": "B1-U01-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Has Mia been to Rome? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use she has in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "she did"
+        },
+        {
+          "id": "b",
+          "text": "she has"
+        },
+        {
+          "id": "c",
+          "text": "she is"
+        },
+        {
+          "id": "d",
+          "text": "she have"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“she did” does not fit here. Use she has in the positive short answer.",
+        "b": "“she has” fits here. Use she has in the positive short answer.",
+        "c": "“she is” does not fit here. Use she has in the positive short answer.",
+        "d": "“she have” does not fit here. Use she has in the positive short answer."
+      }
+    },
+    {
+      "id": "B1-U01-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We haven’t ___ that museum before. (visit)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Visited is the participle of regular visit.",
+      "options": [
+        {
+          "id": "a",
+          "text": "visited"
+        },
+        {
+          "id": "b",
+          "text": "visiting"
+        },
+        {
+          "id": "c",
+          "text": "visits"
+        },
+        {
+          "id": "d",
+          "text": "visit"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“visited” fits here. Visited is the participle of regular visit.",
+        "b": "“visiting” does not fit here. Visited is the participle of regular visit.",
+        "c": "“visits” does not fit here. Visited is the participle of regular visit.",
+        "d": "“visit” does not fit here. Visited is the participle of regular visit."
+      }
+    },
+    {
+      "id": "B1-U01-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He has ___ sushi. He has not tried it at any time.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Never expresses no experience and precedes the participle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ever tried"
+        },
+        {
+          "id": "b",
+          "text": "didn’t tried"
+        },
+        {
+          "id": "c",
+          "text": "never try"
+        },
+        {
+          "id": "d",
+          "text": "never tried"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“ever tried” does not fit here. Never expresses no experience and precedes the participle.",
+        "b": "“didn’t tried” does not fit here. Never expresses no experience and precedes the participle.",
+        "c": "“never try” does not fit here. Never expresses no experience and precedes the participle.",
+        "d": "“never tried” fits here. Never expresses no experience and precedes the participle."
+      }
+    },
+    {
+      "id": "B1-U01-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She has ___ to the office and is still there.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Gone to indicates that she has left for the office and is not here now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "been yesterday"
+        },
+        {
+          "id": "b",
+          "text": "go"
+        },
+        {
+          "id": "c",
+          "text": "gone"
+        },
+        {
+          "id": "d",
+          "text": "went"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“been yesterday” does not fit here. Gone to indicates that she has left for the office and is not here now.",
+        "b": "“go” does not fit here. Gone to indicates that she has left for the office and is not here now.",
+        "c": "“gone” fits here. Gone to indicates that she has left for the office and is not here now.",
+        "d": "“went” does not fit here. Gone to indicates that she has left for the office and is not here now."
+      }
+    },
+    {
+      "id": "B1-U01-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with have or has: I ___ visited York.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "I takes have.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U01-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with have or has: Ben ___ seen the film.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Ben takes has.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U01-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Have you ever ___ a horse? (ride)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Ridden is the participle of ride.",
+      "accepted_answers": [
+        "ridden"
+      ]
+    },
+    {
+      "id": "B1-U01-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She has never ___ sushi. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Eaten is the participle of eat.",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U01-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We have ___ that book before. (read)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Read is the written past participle.",
+      "accepted_answers": [
+        "read"
+      ]
+    },
+    {
+      "id": "B1-U01-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ they ever been to Paris? Use have or has.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use have before they.",
+      "accepted_answers": [
+        "Have"
+      ]
+    },
+    {
+      "id": "B1-U01-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Has she seen the film? Yes, she ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use has in the positive short answer.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U01-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He has ___ the answer before. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B1-U01-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: saw",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use seen after have.",
+      "source_sentence": "I have saw that film before.",
+      "target_segment": "saw",
+      "accepted_answers": [
+        "seen"
+      ]
+    },
+    {
+      "id": "B1-U01-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "She takes has.",
+      "source_sentence": "She have visited York.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U01-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use eaten after have.",
+      "source_sentence": "They have never ate sushi.",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U01-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "You takes have in this question.",
+      "source_sentence": "Has you ever tried tea?",
+      "target_segment": "Has",
+      "accepted_answers": [
+        "Have"
+      ]
+    },
+    {
+      "id": "B1-U01-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Have visited expresses the experience without a finished date.",
+      "source_sentence": "At least once in my life, I visited Rome. No date is specified.",
+      "keyword": "visited",
+      "target_sentence": "I ___ Rome.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have visited"
+      ]
+    },
+    {
+      "id": "B1-U01-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Hasn’t seen and has not seen are negative present perfect forms.",
+      "source_sentence": "Maya has not seen the film before.",
+      "keyword": null,
+      "target_sentence": "Maya ___ the film before.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "hasn’t seen",
+        "has not seen"
+      ]
+    },
+    {
+      "id": "B1-U01-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Put have before the subject.",
+      "source_sentence": "Ask whether they have ever eaten sushi.",
+      "keyword": "Have",
+      "target_sentence": "___ they ever eaten sushi?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Have"
+      ]
+    },
+    {
+      "id": "B1-U01-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U01"
+      ],
+      "explanation": "Use he has in the positive short answer.",
+      "source_sentence": "Has Ben been to London? Give a positive short answer.",
+      "keyword": "he",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he has"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "id": "C1-U17",
+  "level": "C1",
+  "title": "Distancing and attribution in reporting",
+  "order": 17,
+  "prerequisites": [
+    "C1-U16"
+  ],
+  "objectives": [
+    "Distinguish attributed statements from direct assertions.",
+    "Select reporting patterns and verbs for the intended stance.",
+    "Form passive reporting structures with appropriate time reference."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A report often distinguishes what the writer knows from what another person or source claims. Attribution names or identifies that source: “The company says that the service will resume.” The sentence reports the company’s statement; it does not by itself establish that the service will resume. A reader can then assess both the claim and its source.",
+        "Distancing structures allow a writer to report information without fully adopting it as fact. “The service is reported to have resumed” attributes the information to reports, although it does not identify the reporters. If the source is important or its credibility needs assessment, naming it is often clearer than using an anonymous passive."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Reporting verbs differ in meaning and strength. Say is relatively neutral; claim can suggest that a statement is disputed or needs verification, depending on context. Confirm suggests that something has been established by the source, so it can overstate the evidence if the source has merely alleged it. According to introduces a source: “According to the council, the bridge will reopen in May.”",
+        "Use “It is reported that the bridge has reopened” or “The bridge is reported to have reopened” for a report about an earlier event. The perfect infinitive to have reopened locates reopening before the time of reporting. “The bridge is reported to be closed” describes a state presented as current at the reporting time."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare “The supplier says it sent the parts” with “The supplier sent the parts.” The first attributes a statement to the supplier; the second makes the delivery claim directly. In a news report, “Officials say the inspection is complete” makes the source visible. “The inspection is said to be complete” omits the source and focuses on the reported state.",
+        "In a research summary, “The authors argue that the sample is representative” accurately attributes an interpretation if that is what they argue. “The authors prove that the sample is representative” makes a stronger evaluation. A cautious writer checks the source and selects a reporting verb that reflects the evidence and purpose."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Attribution does not guarantee truth or falsehood. Claim does not always mean that a statement is false, and said to does not identify who said it. The broader context determines whether the reporting is neutral, sceptical or cautious. Avoid adding a suggestion of doubt that the source or evidence does not justify.",
+        "Be careful with time and grammar. “She is reported to have left” reports an earlier departure; “She is reported to be leaving” reports a departure in progress or planned, depending on context. After according to, use a noun phrase for the source: “according to the report”, not “according to the report says”."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The company says that the service will resume.",
+      "note": "The future claim is attributed to the company."
+    },
+    {
+      "sentence": "According to the council, the bridge will reopen in May.",
+      "note": "According to names the source of the statement."
+    },
+    {
+      "sentence": "It is reported that the bridge has reopened.",
+      "note": "The passive reports an earlier reopening without naming the reporters."
+    },
+    {
+      "sentence": "The bridge is reported to have reopened.",
+      "note": "The perfect infinitive places reopening before the reporting point."
+    },
+    {
+      "sentence": "The bridge is reported to be closed.",
+      "note": "The infinitive presents a state at the reporting point."
+    },
+    {
+      "sentence": "The authors argue that the sample is representative.",
+      "note": "Argue attributes an interpretation to the authors."
+    },
+    {
+      "sentence": "The supplier sent the parts.",
+      "note": "The writer makes a direct claim without attributing it to a source."
+    },
+    {
+      "sentence": "The supplier says it sent the parts.",
+      "note": "The writer reports the supplier’s statement."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "According to the report says, the bridge is closed.",
+      "correct": "According to the report, the bridge is closed.",
+      "reason": "According to takes a noun phrase naming the source."
+    },
+    {
+      "incorrect": "The bridge is reported to has reopened.",
+      "correct": "The bridge is reported to have reopened.",
+      "reason": "To takes the base form have in the perfect infinitive."
+    },
+    {
+      "incorrect": "Officials says the work is complete.",
+      "correct": "Officials say the work is complete.",
+      "reason": "The plural subject officials takes say."
+    }
+  ],
+  "summary": [
+    "Attribution identifies whose claim or interpretation is being reported.",
+    "Reporting verbs carry different implications and should match the evidence.",
+    "Use infinitive forms to distinguish reported current states from earlier events."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U17-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence attributes the reopening claim to the council?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Says makes the council the source of the claim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The council says the bridge has reopened."
+        },
+        {
+          "id": "b",
+          "text": "The bridge has reopened."
+        },
+        {
+          "id": "c",
+          "text": "The bridge reopened yesterday."
+        },
+        {
+          "id": "d",
+          "text": "The bridge is open."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“The council says the bridge has reopened.” fits here. Says makes the council the source of the claim.",
+        "b": "“The bridge has reopened.” does not fit here. Says makes the council the source of the claim.",
+        "c": "“The bridge reopened yesterday.” does not fit here. Says makes the council the source of the claim.",
+        "d": "“The bridge is open.” does not fit here. Says makes the council the source of the claim."
+      }
+    },
+    {
+      "id": "C1-U17-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which phrase correctly introduces a named source?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "According to is followed by a noun phrase naming the source.",
+      "options": [
+        {
+          "id": "a",
+          "text": "According the report says"
+        },
+        {
+          "id": "b",
+          "text": "According to says the report"
+        },
+        {
+          "id": "c",
+          "text": "According to the report"
+        },
+        {
+          "id": "d",
+          "text": "According to reports says"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“According the report says” does not fit here. According to is followed by a noun phrase naming the source.",
+        "b": "“According to says the report” does not fit here. According to is followed by a noun phrase naming the source.",
+        "c": "“According to the report” fits here. According to is followed by a noun phrase naming the source.",
+        "d": "“According to reports says” does not fit here. According to is followed by a noun phrase naming the source."
+      }
+    },
+    {
+      "id": "C1-U17-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the report of an earlier departure.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "To have left is a perfect infinitive describing an earlier departure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is reported to has left."
+        },
+        {
+          "id": "b",
+          "text": "She is reported to leaving yesterday."
+        },
+        {
+          "id": "c",
+          "text": "She is reported to left."
+        },
+        {
+          "id": "d",
+          "text": "She is reported to have left."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“She is reported to has left.” does not fit here. To have left is a perfect infinitive describing an earlier departure.",
+        "b": "“She is reported to leaving yesterday.” does not fit here. To have left is a perfect infinitive describing an earlier departure.",
+        "c": "“She is reported to left.” does not fit here. To have left is a perfect infinitive describing an earlier departure.",
+        "d": "“She is reported to have left.” fits here. To have left is a perfect infinitive describing an earlier departure."
+      }
+    },
+    {
+      "id": "C1-U17-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence reports a current state?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "To be closed presents the state at the reporting time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The building is reported to have be closed."
+        },
+        {
+          "id": "b",
+          "text": "The building is reported to be closed."
+        },
+        {
+          "id": "c",
+          "text": "The building is reported to has closed."
+        },
+        {
+          "id": "d",
+          "text": "The building reported is closed to."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The building is reported to have be closed.” does not fit here. To be closed presents the state at the reporting time.",
+        "b": "“The building is reported to be closed.” fits here. To be closed presents the state at the reporting time.",
+        "c": "“The building is reported to has closed.” does not fit here. To be closed presents the state at the reporting time.",
+        "d": "“The building reported is closed to.” does not fit here. To be closed presents the state at the reporting time."
+      }
+    },
+    {
+      "id": "C1-U17-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement about “claim” is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Claim can indicate a disputed or unverified statement, but context matters.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It always proves the statement false."
+        },
+        {
+          "id": "b",
+          "text": "It always means that the writer witnessed the event."
+        },
+        {
+          "id": "c",
+          "text": "It names the source’s entire evidence."
+        },
+        {
+          "id": "d",
+          "text": "It can suggest a statement requires verification, depending on context."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“It always proves the statement false.” does not fit here. Claim can indicate a disputed or unverified statement, but context matters.",
+        "b": "“It always means that the writer witnessed the event.” does not fit here. Claim can indicate a disputed or unverified statement, but context matters.",
+        "c": "“It names the source’s entire evidence.” does not fit here. Claim can indicate a disputed or unverified statement, but context matters.",
+        "d": "“It can suggest a statement requires verification, depending on context.” fits here. Claim can indicate a disputed or unverified statement, but context matters."
+      }
+    },
+    {
+      "id": "C1-U17-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "What does “The supplier says it sent the parts” establish?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "The sentence attributes a statement to the supplier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The parts definitely arrived."
+        },
+        {
+          "id": "b",
+          "text": "The supplier made the stated claim."
+        },
+        {
+          "id": "c",
+          "text": "The supplier definitely did not send them."
+        },
+        {
+          "id": "d",
+          "text": "The writer witnessed the shipment."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“The parts definitely arrived.” does not fit here. The sentence attributes a statement to the supplier.",
+        "b": "“The supplier made the stated claim.” fits here. The sentence attributes a statement to the supplier.",
+        "c": "“The supplier definitely did not send them.” does not fit here. The sentence attributes a statement to the supplier.",
+        "d": "“The writer witnessed the shipment.” does not fit here. The sentence attributes a statement to the supplier."
+      }
+    },
+    {
+      "id": "C1-U17-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which wording names the source?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Officials identifies the people making the statement.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The inspection is said to be complete."
+        },
+        {
+          "id": "b",
+          "text": "It is said that the inspection is complete."
+        },
+        {
+          "id": "c",
+          "text": "Officials say the inspection is complete."
+        },
+        {
+          "id": "d",
+          "text": "The inspection is reported to be complete."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The inspection is said to be complete.” does not fit here. Officials identifies the people making the statement.",
+        "b": "“It is said that the inspection is complete.” does not fit here. Officials identifies the people making the statement.",
+        "c": "“Officials say the inspection is complete.” fits here. Officials identifies the people making the statement.",
+        "d": "“The inspection is reported to be complete.” does not fit here. Officials identifies the people making the statement."
+      }
+    },
+    {
+      "id": "C1-U17-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Why choose a reporting verb carefully?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "For example, confirm can imply stronger support than merely report.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbs differ in meaning and can overstate the evidence."
+        },
+        {
+          "id": "b",
+          "text": "Every reporting verb has the same force."
+        },
+        {
+          "id": "c",
+          "text": "Attribution automatically proves a claim."
+        },
+        {
+          "id": "d",
+          "text": "Passive reporting always names its source."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Verbs differ in meaning and can overstate the evidence.” fits here. For example, confirm can imply stronger support than merely report.",
+        "b": "“Every reporting verb has the same force.” does not fit here. For example, confirm can imply stronger support than merely report.",
+        "c": "“Attribution automatically proves a claim.” does not fit here. For example, confirm can imply stronger support than merely report.",
+        "d": "“Passive reporting always names its source.” does not fit here. For example, confirm can imply stronger support than merely report."
+      }
+    },
+    {
+      "id": "C1-U17-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ to the council, the bridge will reopen.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "According to introduces a source.",
+      "accepted_answers": [
+        "According"
+      ]
+    },
+    {
+      "id": "C1-U17-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bridge is reported to ___ reopened.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "To have reopened is a perfect infinitive.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U17-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The bridge is reported to ___ closed.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "To be closed presents a reported state.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "C1-U17-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The officials ___ the inspection is complete. (say)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "The plural subject officials takes say.",
+      "accepted_answers": [
+        "say"
+      ]
+    },
+    {
+      "id": "C1-U17-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The company ___ the service will resume. (say)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "The singular subject company takes says.",
+      "accepted_answers": [
+        "says"
+      ]
+    },
+    {
+      "id": "C1-U17-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The authors argue ___ the sample is representative.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "That can introduce the attributed proposition.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "C1-U17-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The director is said to have ___. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Have takes the past participle left.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "C1-U17-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "It is reported ___ the bridge has reopened.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "That introduces the reported proposition.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "C1-U17-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: report says",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "According to takes a noun phrase naming the source.",
+      "source_sentence": "According to the report says, the bridge is closed.",
+      "target_segment": "report says",
+      "accepted_answers": [
+        "report"
+      ]
+    },
+    {
+      "id": "C1-U17-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "To is followed by the base form have.",
+      "source_sentence": "The bridge is reported to has reopened.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U17-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: says",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "The plural subject officials takes say.",
+      "source_sentence": "Officials says the work is complete.",
+      "target_segment": "says",
+      "accepted_answers": [
+        "say"
+      ]
+    },
+    {
+      "id": "C1-U17-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: leave",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Have takes the past participle left.",
+      "source_sentence": "She is reported to have leave.",
+      "target_segment": "leave",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "C1-U17-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Is said to be presents the attributed current state.",
+      "source_sentence": "Officials say that the inspection is complete. Begin with a passive reporting structure.",
+      "keyword": "said",
+      "target_sentence": "The inspection ___ complete.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "is said to be"
+      ]
+    },
+    {
+      "id": "C1-U17-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Is reported to have reopened reports an earlier event.",
+      "source_sentence": "Reports say that the bridge has reopened. Use a passive reporting structure.",
+      "keyword": "reported",
+      "target_sentence": "The bridge ___ reopened.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "is reported to have"
+      ]
+    },
+    {
+      "id": "C1-U17-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "According to the council names the source.",
+      "source_sentence": "The council says the bridge will reopen in May. Begin with according to.",
+      "keyword": "council",
+      "target_sentence": "___, the bridge will reopen in May.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "According to the council"
+      ]
+    },
+    {
+      "id": "C1-U17-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U17"
+      ],
+      "explanation": "Argue that attributes the interpretation to the authors.",
+      "source_sentence": "The authors say the sample is representative and present arguments for this view. Use argue.",
+      "keyword": "argue",
+      "target_sentence": "The authors ___ the sample is representative.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "argue that"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "A2-U21",
+  "level": "A2",
+  "title": "Future plans with going to",
+  "order": 21,
+  "prerequisites": [
+    "A2-U20"
+  ],
+  "objectives": [
+    "Describe future plans with be going to.",
+    "Form questions and negatives with going to.",
+    "Recognise a prediction based on present evidence."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use be going to to talk about a plan or intention for the future. ‘I am going to study tonight’ means that I intend to study. The decision was made before the moment of speaking. ‘They are going to visit their grandparents on Sunday’ describes their planned visit. A plan does not guarantee that the action will happen.",
+        "We can also use going to for a prediction based on something we can see or know now: ‘Look at those dark clouds. It is going to rain’. The dark clouds are present evidence. This unit focuses mainly on plans, with a short introduction to predictions based on evidence."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use a present form of be, then going to, then the base form of the main verb: ‘I am going to work’, ‘She is going to work’ and ‘They are going to work’. In everyday speech and informal writing, contractions are common: I’m, she’s and they’re. The form of be must agree with the subject.",
+        "For a negative, put not after be: ‘He is not going to travel’ or ‘He isn’t going to travel’. For a yes/no question, put be before the subject: ‘Are you going to travel?’ A short answer uses be: ‘Yes, I am’ or ‘No, I’m not’. For an information question, put the question word first: ‘Where are you going to stay?’"
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. In ‘We are going to cook tonight’, going to comes before cook, the base form. In ‘Is she going to study?’, is comes before she. A time expression such as tomorrow, next week or tonight can show when the planned action will happen.",
+        "Going to can be followed by go: ‘I’m going to go home’. This is grammatical. People also often say ‘I’m going home’ for a planned movement, but the present continuous for arrangements has its own uses. In this unit practise the full going to pattern, including the second go where it is needed."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not leave out be: say ‘She is going to cook’, not ‘She going to cook’. Do not add -s or -ing to the main verb after going to in this pattern: ‘He is going to play’, not ‘He is going to plays’. Do not use do to make the basic question: ‘Are they going to play?’, not ‘Do they going to play?’",
+        "A plan is different from an immediate decision made while speaking. English can use will for such decisions, and the next unit explores will. Both going to and other future forms have further uses, so choose according to the meaning and the context rather than treating a single time word as a rule."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I’m going to study tonight.",
+      "note": "The speaker has an intention to study."
+    },
+    {
+      "sentence": "She is going to visit her aunt tomorrow.",
+      "note": "Is agrees with she; visit is the base verb."
+    },
+    {
+      "sentence": "We are going to cook on Saturday.",
+      "note": "Are agrees with we."
+    },
+    {
+      "sentence": "They aren’t going to travel next week.",
+      "note": "Aren’t makes the plan negative."
+    },
+    {
+      "sentence": "Are you going to work tomorrow? Yes, I am.",
+      "note": "The question and short answer use forms of be."
+    },
+    {
+      "sentence": "Where is Maya going to stay?",
+      "note": "The question word comes before is and the subject."
+    },
+    {
+      "sentence": "He is going to go home early.",
+      "note": "Going to go is a grammatical sequence."
+    },
+    {
+      "sentence": "Look at those clouds. It is going to rain.",
+      "note": "The prediction is based on present evidence."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She going to study.",
+      "correct": "She is going to study.",
+      "reason": "Use a form of be before going to."
+    },
+    {
+      "incorrect": "They are going to travels.",
+      "correct": "They are going to travel.",
+      "reason": "Use the base verb after going to."
+    },
+    {
+      "incorrect": "Do you going to cook?",
+      "correct": "Are you going to cook?",
+      "reason": "Use be before the subject in the question."
+    }
+  ],
+  "summary": [
+    "Use be going to plus the base verb for a future plan or intention.",
+    "Use am, is or are according to the subject.",
+    "Going to can also express a prediction based on present evidence."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U21-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ study tonight; I have already made a plan.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "I takes am before going to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am going to"
+        },
+        {
+          "id": "b",
+          "text": "is going to"
+        },
+        {
+          "id": "c",
+          "text": "are going to"
+        },
+        {
+          "id": "d",
+          "text": "going to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“am going to” fits here. I takes am before going to.",
+        "b": "“is going to” does not fit here. I takes am before going to.",
+        "c": "“are going to” does not fit here. I takes am before going to.",
+        "d": "“going to” does not fit here. I takes am before going to."
+      }
+    },
+    {
+      "id": "A2-U21-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They ___ visit their aunt tomorrow; it is their plan.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "They takes are before going to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is going to"
+        },
+        {
+          "id": "b",
+          "text": "am going"
+        },
+        {
+          "id": "c",
+          "text": "are going to"
+        },
+        {
+          "id": "d",
+          "text": "does going to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is going to” does not fit here. They takes are before going to.",
+        "b": "“am going” does not fit here. They takes are before going to.",
+        "c": "“are going to” fits here. They takes are before going to.",
+        "d": "“does going to” does not fit here. They takes are before going to."
+      }
+    },
+    {
+      "id": "A2-U21-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ she going to travel next week?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Put is before she in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Does” does not fit here. Put is before she in the question.",
+        "b": "“Do” does not fit here. Put is before she in the question.",
+        "c": "“Are” does not fit here. Put is before she in the question.",
+        "d": "“Is” fits here. Put is before she in the question."
+      }
+    },
+    {
+      "id": "A2-U21-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He is going to ___ dinner tonight.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use the base form cook after going to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cooks"
+        },
+        {
+          "id": "b",
+          "text": "cook"
+        },
+        {
+          "id": "c",
+          "text": "cooking"
+        },
+        {
+          "id": "d",
+          "text": "cooked"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“cooks” does not fit here. Use the base form cook after going to.",
+        "b": "“cook” fits here. Use the base form cook after going to.",
+        "c": "“cooking” does not fit here. Use the base form cook after going to.",
+        "d": "“cooked” does not fit here. Use the base form cook after going to."
+      }
+    },
+    {
+      "id": "A2-U21-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Are you going to study? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use I am in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I do"
+        },
+        {
+          "id": "b",
+          "text": "I are"
+        },
+        {
+          "id": "c",
+          "text": "I going"
+        },
+        {
+          "id": "d",
+          "text": "I am"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“I do” does not fit here. Use I am in the positive short answer.",
+        "b": "“I are” does not fit here. Use I am in the positive short answer.",
+        "c": "“I going” does not fit here. Use I am in the positive short answer.",
+        "d": "“I am” fits here. Use I am in the positive short answer."
+      }
+    },
+    {
+      "id": "A2-U21-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ going to drive; we plan to take the train.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "We takes aren’t before going to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn’t"
+        },
+        {
+          "id": "b",
+          "text": "aren’t"
+        },
+        {
+          "id": "c",
+          "text": "doesn’t"
+        },
+        {
+          "id": "d",
+          "text": "not are"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“isn’t” does not fit here. We takes aren’t before going to.",
+        "b": "“aren’t” fits here. We takes aren’t before going to.",
+        "c": "“doesn’t” does not fit here. We takes aren’t before going to.",
+        "d": "“not are” does not fit here. We takes aren’t before going to."
+      }
+    },
+    {
+      "id": "A2-U21-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Look at those dark clouds! It ___ rain.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Is going to expresses a prediction based on present evidence.",
+      "options": [
+        {
+          "id": "a",
+          "text": "going to"
+        },
+        {
+          "id": "b",
+          "text": "are going to"
+        },
+        {
+          "id": "c",
+          "text": "is going to"
+        },
+        {
+          "id": "d",
+          "text": "does going"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“going to” does not fit here. Is going to expresses a prediction based on present evidence.",
+        "b": "“are going to” does not fit here. Is going to expresses a prediction based on present evidence.",
+        "c": "“is going to” fits here. Is going to expresses a prediction based on present evidence.",
+        "d": "“does going” does not fit here. Is going to expresses a prediction based on present evidence."
+      }
+    },
+    {
+      "id": "A2-U21-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Where ___ stay during the trip?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Put are before you in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are you going to"
+        },
+        {
+          "id": "b",
+          "text": "you are going to"
+        },
+        {
+          "id": "c",
+          "text": "is you going to"
+        },
+        {
+          "id": "d",
+          "text": "do you going to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“are you going to” fits here. Put are before you in the question.",
+        "b": "“you are going to” does not fit here. Put are before you in the question.",
+        "c": "“is you going to” does not fit here. Put are before you in the question.",
+        "d": "“do you going to” does not fit here. Put are before you in the question."
+      }
+    },
+    {
+      "id": "A2-U21-E09",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive present form of be.",
+      "prompt": "I ___ going to study tonight.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "I takes am.",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U21-E10",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive present form of be.",
+      "prompt": "Maya ___ going to cook tomorrow.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "The singular subject Maya takes is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U21-E11",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive present form of be.",
+      "prompt": "We ___ going to visit the museum.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "We takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U21-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ they going to work on Saturday?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Put are before they.",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U21-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "He is going to ___ a book. (buy)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use the base verb buy after going to.",
+      "accepted_answers": [
+        "buy"
+      ]
+    },
+    {
+      "id": "A2-U21-E14",
+      "type": "gap",
+      "instruction": "Complete the gap to make a negative statement.",
+      "prompt": "She is ___ going to travel; she plans to stay home.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Put not after is for the negative.",
+      "accepted_answers": [
+        "not"
+      ]
+    },
+    {
+      "id": "A2-U21-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Are you going to leave? Yes, I ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use I am in the positive short answer.",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U21-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Where ___ he going to stay?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use is before he.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U21-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: She going",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "A form of be is needed before going to.",
+      "source_sentence": "She going to study tonight.",
+      "target_segment": "She going",
+      "accepted_answers": [
+        "She is going"
+      ]
+    },
+    {
+      "id": "A2-U21-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "They takes are.",
+      "source_sentence": "They is going to play.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U21-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: works",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use the base verb after going to.",
+      "source_sentence": "He is going to works tomorrow.",
+      "target_segment": "works",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "A2-U21-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Do",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use are before they in the question.",
+      "source_sentence": "Do they going to travel?",
+      "target_segment": "Do",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U21-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use am going to plus read for the intention.",
+      "source_sentence": "I plan to read tonight.",
+      "keyword": "read",
+      "target_sentence": "I ___ tonight.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "am going to read"
+      ]
+    },
+    {
+      "id": "A2-U21-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use the negative form of be plus going to travel.",
+      "source_sentence": "She does not plan to travel tomorrow.",
+      "keyword": "travel",
+      "target_sentence": "She ___ tomorrow.",
+      "min_words": 4,
+      "max_words": 5,
+      "accepted_answers": [
+        "isn’t going to travel",
+        "is not going to travel"
+      ]
+    },
+    {
+      "id": "A2-U21-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Put are before they.",
+      "source_sentence": "They plan to leave at six. Ask a yes/no question about their plan.",
+      "keyword": "Are",
+      "target_sentence": "___ they going to leave at six?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U21-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U21"
+      ],
+      "explanation": "Use he is in a positive short answer.",
+      "source_sentence": "Is he going to cook? Give a positive short answer.",
+      "keyword": "he",
+      "target_sentence": "Yes, ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "he is"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "id": "B1-U21",
+  "level": "B1",
+  "title": "Past perfect for earlier events",
+  "order": 21,
+  "prerequisites": [
+    "B1-U20"
+  ],
+  "objectives": [
+    "Identify the earlier of two past events.",
+    "Form positive, negative and question forms of the past perfect.",
+    "Use past participles accurately after had."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The past perfect helps us describe an event or situation that happened before another time in the past. In ‘The train had left when we arrived’, the train left first; we arrived later. The past perfect makes the earlier relationship clear. The later event is often expressed in the past simple.",
+        "We can use the past perfect when explaining a past result: ‘Maya was tired because she had worked all night’. The work happened before the time when Maya was tired. The sentence presents the earlier activity as relevant to that past situation."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Form the past perfect with had plus a past participle: ‘I had left’, ‘she had left’ and ‘they had left’. Had is the same with every subject. Many regular participles end in -ed; common irregular participles include gone, seen, eaten and written. In informal English, had can be shortened after a pronoun: ‘I'd finished’ means ‘I had finished’ in this context.",
+        "For a negative, use had not or hadn't before the participle: ‘They hadn't arrived’. For a yes/no question, put had before the subject: ‘Had they arrived?’ A short answer uses had: ‘Yes, they had’ or ‘No, they hadn't’. The position of the earlier event in the sentence does not determine its time: ‘When we arrived, the train had left’ has the same sequence."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘When we arrived, the train left’ with ‘When we arrived, the train had left’. The first can suggest that the departure happened when or after we arrived. The second makes the departure earlier than the arrival. Context and the verbs used can affect the interpretation, so check which event happened first.",
+        "We can use already to make completion before a past point explicit: ‘When I called, she had already left’. We can use by the time before the later past event: ‘By the time he arrived, we had finished’. The past perfect event may be important because it explains what the later situation was like."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add had to every past event. ‘We opened the door and walked in’ naturally uses past simple forms for events in sequence. When words such as before or after already make the order clear, the past simple is often possible: ‘After she finished, she left’. The past perfect can add or emphasise an earlier viewpoint, but it is not automatically required.",
+        "Do not use a past simple form instead of the participle after had: say ‘had seen’, not ‘had saw’. Do not confuse the past perfect with a third conditional: ‘If I had known, I would have called’ is a different pattern that is explored later. This unit focuses on earlier real events in past narratives."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The train had left when we arrived.",
+      "note": "The departure happened before the arrival."
+    },
+    {
+      "sentence": "Maya was tired because she had worked all night.",
+      "note": "The work preceded the past state of being tired."
+    },
+    {
+      "sentence": "When I called, she had already left.",
+      "note": "Already makes the earlier completion explicit."
+    },
+    {
+      "sentence": "By the time he arrived, we had finished.",
+      "note": "Finishing happened before his arrival."
+    },
+    {
+      "sentence": "They hadn't eaten before the meeting.",
+      "note": "Hadn't makes the past perfect negative."
+    },
+    {
+      "sentence": "Had she left when you called?",
+      "note": "Had comes before the subject in the question."
+    },
+    {
+      "sentence": "We opened the door and walked in.",
+      "note": "The past simple presents a sequence of actions."
+    },
+    {
+      "sentence": "She had seen the film before that evening.",
+      "note": "Seen is the participle of see."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She had saw the film.",
+      "correct": "She had seen the film.",
+      "reason": "Use the participle seen after had."
+    },
+    {
+      "incorrect": "They has left when we arrived.",
+      "correct": "They had left when we arrived.",
+      "reason": "Use had for the earlier past event."
+    },
+    {
+      "incorrect": "Had she went home?",
+      "correct": "Had she gone home?",
+      "reason": "Use the participle gone after had."
+    }
+  ],
+  "summary": [
+    "Use had plus a past participle to show an earlier event from a past viewpoint.",
+    "The past simple often describes the later event.",
+    "Do not use the past perfect automatically when a simple sequence is already clear."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U21-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The train left at 8.00; we arrived at 8.10. When we arrived, it ___. Use the past perfect.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had left makes the earlier departure clear.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has left"
+        },
+        {
+          "id": "b",
+          "text": "had leave"
+        },
+        {
+          "id": "c",
+          "text": "leaves"
+        },
+        {
+          "id": "d",
+          "text": "had left"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“has left” does not fit here. Had left makes the earlier departure clear.",
+        "b": "“had leave” does not fit here. Had left makes the earlier departure clear.",
+        "c": "“leaves” does not fit here. Had left makes the earlier departure clear.",
+        "d": "“had left” fits here. Had left makes the earlier departure clear."
+      }
+    },
+    {
+      "id": "B1-U21-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya worked all night before she felt tired. She was tired because she ___ all night.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had worked refers to the earlier activity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had worked"
+        },
+        {
+          "id": "b",
+          "text": "has worked"
+        },
+        {
+          "id": "c",
+          "text": "was work"
+        },
+        {
+          "id": "d",
+          "text": "had work"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had worked” fits here. Had worked refers to the earlier activity.",
+        "b": "“has worked” does not fit here. Had worked refers to the earlier activity.",
+        "c": "“was work” does not fit here. Had worked refers to the earlier activity.",
+        "d": "“had work” does not fit here. Had worked refers to the earlier activity."
+      }
+    },
+    {
+      "id": "B1-U21-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "By the time I called, she ___ . (leave; past perfect)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had plus the participle left forms the past perfect.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has left"
+        },
+        {
+          "id": "b",
+          "text": "had left"
+        },
+        {
+          "id": "c",
+          "text": "had leave"
+        },
+        {
+          "id": "d",
+          "text": "was leave"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“has left” does not fit here. Had plus the participle left forms the past perfect.",
+        "b": "“had left” fits here. Had plus the participle left forms the past perfect.",
+        "c": "“had leave” does not fit here. Had plus the participle left forms the past perfect.",
+        "d": "“was leave” does not fit here. Had plus the participle left forms the past perfect."
+      }
+    },
+    {
+      "id": "B1-U21-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ they finished before the meeting began? Use the past perfect.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had comes before the subject in the question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Had"
+        },
+        {
+          "id": "d",
+          "text": "Were"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Have” does not fit here. Had comes before the subject in the question.",
+        "b": "“Did” does not fit here. Had comes before the subject in the question.",
+        "c": "“Had” fits here. Had comes before the subject in the question.",
+        "d": "“Were” does not fit here. Had comes before the subject in the question."
+      }
+    },
+    {
+      "id": "B1-U21-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "She had ___ the film before that day. (see)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Seen is the past participle of see.",
+      "options": [
+        {
+          "id": "a",
+          "text": "saw"
+        },
+        {
+          "id": "b",
+          "text": "seen"
+        },
+        {
+          "id": "c",
+          "text": "see"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“saw” does not fit here. Seen is the past participle of see.",
+        "b": "“seen” fits here. Seen is the past participle of see.",
+        "c": "“see” does not fit here. Seen is the past participle of see.",
+        "d": "“seeing” does not fit here. Seen is the past participle of see."
+      }
+    },
+    {
+      "id": "B1-U21-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Had he left before you arrived? No, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Hadn’t forms the negative short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "he did"
+        },
+        {
+          "id": "b",
+          "text": "he has"
+        },
+        {
+          "id": "c",
+          "text": "he was"
+        },
+        {
+          "id": "d",
+          "text": "he hadn’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“he did” does not fit here. Hadn’t forms the negative short answer.",
+        "b": "“he has” does not fit here. Hadn’t forms the negative short answer.",
+        "c": "“he was” does not fit here. Hadn’t forms the negative short answer.",
+        "d": "“he hadn’t” fits here. Hadn’t forms the negative short answer."
+      }
+    },
+    {
+      "id": "B1-U21-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which event happened first? “The shop had closed when we arrived.”",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had closed places closing before arrival.",
+      "options": [
+        {
+          "id": "a",
+          "text": "We arrived."
+        },
+        {
+          "id": "b",
+          "text": "Both definitely happened at the same moment."
+        },
+        {
+          "id": "c",
+          "text": "The shop closed."
+        },
+        {
+          "id": "d",
+          "text": "The shop opened."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“We arrived.” does not fit here. Had closed places closing before arrival.",
+        "b": "“Both definitely happened at the same moment.” does not fit here. Had closed places closing before arrival.",
+        "c": "“The shop closed.” fits here. Had closed places closing before arrival.",
+        "d": "“The shop opened.” does not fit here. Had closed places closing before arrival."
+      }
+    },
+    {
+      "id": "B1-U21-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the past perfect correctly?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had is followed by the participle gone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had gone home before we arrived."
+        },
+        {
+          "id": "b",
+          "text": "She had went home."
+        },
+        {
+          "id": "c",
+          "text": "She has left before we arrived, yesterday."
+        },
+        {
+          "id": "d",
+          "text": "She had leave home."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“She had gone home before we arrived.” fits here. Had is followed by the participle gone.",
+        "b": "“She had went home.” does not fit here. Had is followed by the participle gone.",
+        "c": "“She has left before we arrived, yesterday.” does not fit here. Had is followed by the participle gone.",
+        "d": "“She had leave home.” does not fit here. Had is followed by the participle gone."
+      }
+    },
+    {
+      "id": "B1-U21-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: They ___ left before we arrived.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had plus left forms the past perfect.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U21-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: She had ___ the film before. (see)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Seen is the participle of see.",
+      "accepted_answers": [
+        "seen"
+      ]
+    },
+    {
+      "id": "B1-U21-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: We had ___ dinner before he arrived. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Eaten is the participle of eat.",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U21-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: He had ___ the letter before noon. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B1-U21-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ she left before you called?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had comes before the subject.",
+      "accepted_answers": [
+        "Had"
+      ]
+    },
+    {
+      "id": "B1-U21-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Had they finished? Yes, they ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had forms the positive short answer.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U21-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use had not: She ___ not arrived before we left.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had not forms the negative.",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U21-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect: I had ___ the report before the meeting. (finish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Finished is the participle of finish.",
+      "accepted_answers": [
+        "finished"
+      ]
+    },
+    {
+      "id": "B1-U21-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: saw",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Use seen after had.",
+      "source_sentence": "She had saw the film before.",
+      "target_segment": "saw",
+      "accepted_answers": [
+        "seen"
+      ]
+    },
+    {
+      "id": "B1-U21-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Use had for the earlier past event.",
+      "source_sentence": "They has left when we arrived.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B1-U21-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: went",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Use the participle gone after had.",
+      "source_sentence": "Had he went home before you called?",
+      "target_segment": "went",
+      "accepted_answers": [
+        "gone"
+      ]
+    },
+    {
+      "id": "B1-U21-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: ate",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Use eaten after had.",
+      "source_sentence": "We had ate before the meeting.",
+      "target_segment": "ate",
+      "accepted_answers": [
+        "eaten"
+      ]
+    },
+    {
+      "id": "B1-U21-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had left places departure before arrival.",
+      "source_sentence": "The train left first. We arrived later. Use the past perfect for the departure.",
+      "keyword": "left",
+      "target_sentence": "When we arrived, the train ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had left"
+      ]
+    },
+    {
+      "id": "B1-U21-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had finished places completion before the meeting.",
+      "source_sentence": "She finished the report. Then the meeting began.",
+      "keyword": "finished",
+      "target_sentence": "She ___ the report before the meeting began.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had finished"
+      ]
+    },
+    {
+      "id": "B1-U21-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Had not plus eaten forms the negative past perfect.",
+      "source_sentence": "They did not eat before the meeting. Use the past perfect.",
+      "keyword": null,
+      "target_sentence": "They ___ before the meeting.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "hadn’t eaten",
+        "had not eaten"
+      ]
+    },
+    {
+      "id": "B1-U21-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U21"
+      ],
+      "explanation": "Put had before the subject.",
+      "source_sentence": "She had left before you called. Ask a yes/no question.",
+      "keyword": "Had",
+      "target_sentence": "___ she left before you called?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Had"
+      ]
+    }
+  ]
+}

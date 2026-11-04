@@ -1,0 +1,643 @@
+{
+  "id": "A2-U08",
+  "level": "A2",
+  "title": "There is and there are",
+  "order": 8,
+  "prerequisites": [
+    "A2-U07"
+  ],
+  "objectives": [
+    "Describe what exists or is in a place.",
+    "Form questions and negatives with there is and there are.",
+    "Choose how many or how much for suitable nouns."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use there is and there are to say that a person or thing exists or is in a place. ‘There is a café near the station’ tells us about one café. ‘There are two cafés near the station’ tells us about more than one. The word there is part of this pattern; the sentence usually introduces something before giving more information about it.",
+        "Use there is with one singular countable noun: ‘There is a book on the desk’. Use there are with a plural noun: ‘There are three books on the desk’. Use there is with an uncountable noun such as water: ‘There is water in the bottle’. You will practise countability in the next unit."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In a positive statement, use there + is or are + noun: ‘There is a chair’ or ‘There are chairs’. There’s is a common short form of there is. In standard writing, use there are with plural nouns; do not write ‘there’s two chairs’ in formal work, even though some speakers use there’s with plurals in informal speech.",
+        "For a negative, put not after is or are: ‘There isn’t a bank here’ and ‘There aren’t any shops nearby’. You can also use the full forms is not and are not. For a yes/no question, put is or are before there: ‘Is there a bank?’ or ‘Are there any shops?’ The short answers are ‘Yes, there is’, ‘No, there isn’t’, ‘Yes, there are’ and ‘No, there aren’t’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Read the examples below as descriptions of a neighbourhood or a room. Ask yourself what comes after the verb. One lamp needs is; two lamps need are. Some is common in positive statements with plural nouns and uncountable nouns. Any is common in questions and negatives: ‘There are some chairs’ and ‘Are there any chairs?’ You will study some and any in more detail later.",
+        "For questions about number, use ‘How many’ with a plural countable noun: ‘How many rooms are there?’ A possible answer is ‘There are four.’ For uncountable nouns, use ‘How much’: ‘How much water is there?’ A possible answer is ‘There is one litre.’"
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Compare ‘There is a lamp on the desk’ and ‘The lamp is on the desk’. The first sentence introduces a lamp; the second normally refers to a lamp the listener can identify. Both can describe the same place, but they organise the information differently.",
+        "Do not omit there from this introductory structure: ‘There are two windows’, not ‘Are two windows’. Also match the verb to the noun: use is with a singular noun and are with a plural noun. In a positive short answer, use the full form ‘Yes, there is’, rather than ending with the contraction ‘there’s’."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is a bank next to the library.",
+      "note": "Use is with one bank."
+    },
+    {
+      "sentence": "There are two buses outside.",
+      "note": "Use are with the plural noun buses."
+    },
+    {
+      "sentence": "There’s water on the floor.",
+      "note": "There’s means there is; water is uncountable here."
+    },
+    {
+      "sentence": "There isn’t a lift in the building.",
+      "note": "Isn’t makes the singular negative."
+    },
+    {
+      "sentence": "There aren’t any eggs in the fridge.",
+      "note": "Aren’t makes the plural negative."
+    },
+    {
+      "sentence": "Is there a café nearby? Yes, there is.",
+      "note": "Put is before there in the question."
+    },
+    {
+      "sentence": "Are there any seats? No, there aren’t.",
+      "note": "The short answer uses are not in contracted form."
+    },
+    {
+      "sentence": "How many rooms are there? There are four.",
+      "note": "How many asks about a number of countable things."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "There are a book on the desk.",
+      "correct": "There is a book on the desk.",
+      "reason": "Use is with the singular noun a book."
+    },
+    {
+      "incorrect": "There is two chairs.",
+      "correct": "There are two chairs.",
+      "reason": "Use are with a plural noun in standard writing."
+    },
+    {
+      "incorrect": "Is a café near here?",
+      "correct": "Is there a café near here?",
+      "reason": "Include there in this question pattern."
+    }
+  ],
+  "summary": [
+    "Use there is with one thing or an uncountable noun; use there are with plural nouns.",
+    "Put not after the verb for a negative, or put the verb before there for a question.",
+    "Use how many with plural countable nouns and how much with uncountable nouns."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U08-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There ___ a museum near my home.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "A museum is singular, so use is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“are” does not fit here. A museum is singular, so use is.",
+        "b": "“am” does not fit here. A museum is singular, so use is.",
+        "c": "“be” does not fit here. A museum is singular, so use is.",
+        "d": "“is” fits here. A museum is singular, so use is."
+      }
+    },
+    {
+      "id": "A2-U08-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There ___ three cats in the garden.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Cats is plural, so use are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“are” fits here. Cats is plural, so use are.",
+        "b": "“is” does not fit here. Cats is plural, so use are.",
+        "c": "“am” does not fit here. Cats is plural, so use are.",
+        "d": "“be” does not fit here. Cats is plural, so use are."
+      }
+    },
+    {
+      "id": "A2-U08-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ there a supermarket nearby?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use is before there with the singular noun a supermarket.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Are"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Is"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Are” does not fit here. Use is before there with the singular noun a supermarket.",
+        "b": "“Do” does not fit here. Use is before there with the singular noun a supermarket.",
+        "c": "“Is” fits here. Use is before there with the singular noun a supermarket.",
+        "d": "“Does” does not fit here. Use is before there with the singular noun a supermarket."
+      }
+    },
+    {
+      "id": "A2-U08-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Are there any windows? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use there are in the positive short answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "there is"
+        },
+        {
+          "id": "b",
+          "text": "there are"
+        },
+        {
+          "id": "c",
+          "text": "they is"
+        },
+        {
+          "id": "d",
+          "text": "there’s"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“there is” does not fit here. Use there are in the positive short answer.",
+        "b": "“there are” fits here. Use there are in the positive short answer.",
+        "c": "“they is” does not fit here. Use there are in the positive short answer.",
+        "d": "“there’s” does not fit here. Use there are in the positive short answer."
+      }
+    },
+    {
+      "id": "A2-U08-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There ___ any chairs in the room.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Chairs is plural, so use aren’t.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn’t"
+        },
+        {
+          "id": "b",
+          "text": "aren’t"
+        },
+        {
+          "id": "c",
+          "text": "am not"
+        },
+        {
+          "id": "d",
+          "text": "not are"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“isn’t” does not fit here. Chairs is plural, so use aren’t.",
+        "b": "“aren’t” fits here. Chairs is plural, so use aren’t.",
+        "c": "“am not” does not fit here. Chairs is plural, so use aren’t.",
+        "d": "“not are” does not fit here. Chairs is plural, so use aren’t."
+      }
+    },
+    {
+      "id": "A2-U08-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ many students are there?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "How many asks about the number of students.",
+      "options": [
+        {
+          "id": "a",
+          "text": "How"
+        },
+        {
+          "id": "b",
+          "text": "What"
+        },
+        {
+          "id": "c",
+          "text": "Where"
+        },
+        {
+          "id": "d",
+          "text": "Who"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“How” fits here. How many asks about the number of students.",
+        "b": "“What” does not fit here. How many asks about the number of students.",
+        "c": "“Where” does not fit here. How many asks about the number of students.",
+        "d": "“Who” does not fit here. How many asks about the number of students."
+      }
+    },
+    {
+      "id": "A2-U08-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "There ___ milk in the fridge.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Milk is uncountable here, so use is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "am"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“are” does not fit here. Milk is uncountable here, so use is.",
+        "b": "“be” does not fit here. Milk is uncountable here, so use is.",
+        "c": "“is” fits here. Milk is uncountable here, so use is.",
+        "d": "“am” does not fit here. Milk is uncountable here, so use is."
+      }
+    },
+    {
+      "id": "A2-U08-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Is there a bus stop? No, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use there isn’t for a negative short answer to is there.",
+      "options": [
+        {
+          "id": "a",
+          "text": "there are"
+        },
+        {
+          "id": "b",
+          "text": "it does"
+        },
+        {
+          "id": "c",
+          "text": "there not"
+        },
+        {
+          "id": "d",
+          "text": "there isn’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“there are” does not fit here. Use there isn’t for a negative short answer to is there.",
+        "b": "“it does” does not fit here. Use there isn’t for a negative short answer to is there.",
+        "c": "“there not” does not fit here. Use there isn’t for a negative short answer to is there.",
+        "d": "“there isn’t” fits here. Use there isn’t for a negative short answer to is there."
+      }
+    },
+    {
+      "id": "A2-U08-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ a small park here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "A park is singular.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U08-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ two shops on this road.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Two shops is plural.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U08-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ there a train station?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use is with a singular noun in this question.",
+      "accepted_answers": [
+        "Is"
+      ]
+    },
+    {
+      "id": "A2-U08-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "___ there any apples?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use are with the plural noun apples.",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U08-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "There ___ not any buses today.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Buses is plural, so use are not.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U08-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Is there a lift? Yes, there ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "The positive short answer uses is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U08-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ rooms are there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use how many with plural countable rooms.",
+      "accepted_answers": [
+        "many"
+      ]
+    },
+    {
+      "id": "A2-U08-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "How ___ water is there?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use how much with uncountable water.",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "A2-U08-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "A table is singular and takes is.",
+      "source_sentence": "There are a table by the door.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U08-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Three books is plural and takes are.",
+      "source_sentence": "There is three books on the shelf.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U08-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "A pharmacy is singular, so use is.",
+      "source_sentence": "Are there a pharmacy nearby?",
+      "target_segment": "Are",
+      "accepted_answers": [
+        "Is"
+      ]
+    },
+    {
+      "id": "A2-U08-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: many",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Milk is uncountable here; use how much.",
+      "source_sentence": "How many milk is there?",
+      "target_segment": "many",
+      "accepted_answers": [
+        "much"
+      ]
+    },
+    {
+      "id": "A2-U08-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use there is with one tree.",
+      "source_sentence": "One tree is in the garden. Introduce it with there.",
+      "keyword": "There",
+      "target_sentence": "___ one tree in the garden.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "There is"
+      ]
+    },
+    {
+      "id": "A2-U08-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use there are with two windows.",
+      "source_sentence": "The room has two windows.",
+      "keyword": "There",
+      "target_sentence": "___ two windows in the room.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "There are"
+      ]
+    },
+    {
+      "id": "A2-U08-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use there isn’t or there is not in the negative short answer.",
+      "source_sentence": "Is there a café? Give a negative short answer.",
+      "keyword": "there",
+      "target_sentence": "No, ___.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "there isn’t",
+        "there is not"
+      ]
+    },
+    {
+      "id": "A2-U08-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U08"
+      ],
+      "explanation": "Use how many with plural countable chairs.",
+      "source_sentence": "Ask about the number of chairs in the room.",
+      "keyword": "many",
+      "target_sentence": "___ chairs are there in the room?",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "How many"
+      ]
+    }
+  ]
+}

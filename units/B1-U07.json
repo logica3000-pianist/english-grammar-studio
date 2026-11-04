@@ -1,0 +1,644 @@
+{
+  "id": "B1-U07",
+  "level": "B1",
+  "title": "Modals of possibility and deduction",
+  "order": 7,
+  "prerequisites": [
+    "B1-U06"
+  ],
+  "objectives": [
+    "Express possibility about a present situation.",
+    "Distinguish uncertain possibility from strong deduction.",
+    "Use a base verb after modal verbs."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Modal verbs can express how certain a speaker is about a situation. May, might and could can express possibility: ‘Maya might be at home’ means that being at home is one possibility, but the speaker is not certain. ‘She may be at work’ expresses another possibility. These words do not tell us an exact probability.",
+        "Must can express a strong deduction based on evidence: ‘The lights are on and I can hear music. They must be at home’. Here must does not give an order; it shows that the speaker sees being at home as a likely explanation. A deduction can still be wrong."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use may, might, could, must or can't followed by the base form of the main verb: ‘She might work here’, ‘They must know him’ and ‘He can't be at home’. The modal has the same form with all subjects: ‘I may’ and ‘she may’. To use the verb be, put be immediately after the modal: ‘It might be late’.",
+        "For a negative possibility, use may not or might not: ‘He might not come’ means that his absence is possible, not certain. Can't can express a strong conclusion that something is impossible or very unlikely: ‘That can't be Leo; Leo is in London’. This is different from might not, which leaves open whether something is true."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare three statements about a closed shop. ‘It might be closed’ expresses uncertainty. ‘It must be closed’ is a strong deduction, perhaps because the lights are off and the opening hours have ended. ‘It can't be open’ expresses the speaker's strong conclusion that it is not open. The evidence and the speaker's certainty determine the choice.",
+        "May and might can both express possibility, and there is often little practical difference between them. Could can also express possibility in an affirmative statement: ‘The keys could be in the car’. For a negative possibility, use might not or may not in this unit rather than couldn't, which can express a stronger conclusion in many contexts."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add to after these modals: say ‘She might arrive’, not ‘She might to arrive’. Do not add -s to the modal or the following verb after she: ‘She may work here’, not ‘She mays works here’. Modal meaning depends on context: must can express obligation as well as deduction, and can't can express inability as well as a deduction of impossibility.",
+        "Avoid treating must as absolute proof. A speaker can say ‘He must be tired’ as a strong inference and later discover that he is not. In questions and statements about other times, modal patterns can change. This unit focuses on deductions and possibilities about the present."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Maya might be at home.",
+      "note": "Might expresses a possibility."
+    },
+    {
+      "sentence": "The keys may be in the car.",
+      "note": "May expresses a possibility."
+    },
+    {
+      "sentence": "The parcel could be at reception.",
+      "note": "Could expresses a possible location."
+    },
+    {
+      "sentence": "They must be at home; I can hear them inside.",
+      "note": "Must expresses a strong deduction from evidence."
+    },
+    {
+      "sentence": "That can't be Leo; he is in London.",
+      "note": "Can't expresses a strong conclusion of impossibility."
+    },
+    {
+      "sentence": "She might not come to the meeting.",
+      "note": "Might not means her absence is possible."
+    },
+    {
+      "sentence": "He may not know the answer.",
+      "note": "May not expresses a negative possibility."
+    },
+    {
+      "sentence": "The room is dark. It could be empty.",
+      "note": "Could presents one possible explanation."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She might to be at home.",
+      "correct": "She might be at home.",
+      "reason": "Use the base form without to after might."
+    },
+    {
+      "incorrect": "He mays work here.",
+      "correct": "He may work here.",
+      "reason": "May has no -s ending."
+    },
+    {
+      "incorrect": "They must are tired.",
+      "correct": "They must be tired.",
+      "reason": "Use the base form be after must."
+    }
+  ],
+  "summary": [
+    "May, might and could can express possibility.",
+    "Must can express a strong deduction; can’t can express a strong deduction of impossibility.",
+    "Might not or may not expresses a negative possibility, not certainty."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U07-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I am not sure where Mia is. She ___ be at home; it is one possibility.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Might expresses an uncertain possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must to"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "mights"
+        },
+        {
+          "id": "d",
+          "text": "might to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“must to” does not fit here. Might expresses an uncertain possibility.",
+        "b": "“might” fits here. Might expresses an uncertain possibility.",
+        "c": "“mights” does not fit here. Might expresses an uncertain possibility.",
+        "d": "“might to” does not fit here. Might expresses an uncertain possibility."
+      }
+    },
+    {
+      "id": "B1-U07-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I can hear them talking inside. They ___ be at home; that is my strong conclusion.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Must expresses the stated strong deduction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "might to"
+        },
+        {
+          "id": "b",
+          "text": "musts"
+        },
+        {
+          "id": "c",
+          "text": "must are"
+        },
+        {
+          "id": "d",
+          "text": "must"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“might to” does not fit here. Must expresses the stated strong deduction.",
+        "b": "“musts” does not fit here. Must expresses the stated strong deduction.",
+        "c": "“must are” does not fit here. Must expresses the stated strong deduction.",
+        "d": "“must” fits here. Must expresses the stated strong deduction."
+      }
+    },
+    {
+      "id": "B1-U07-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "That ___ be Leo: he is in London, and this person is here. Express a strong conclusion of impossibility.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Can’t expresses the strong conclusion that it is impossible.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can’t"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "may"
+        },
+        {
+          "id": "d",
+          "text": "should"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“can’t” fits here. Can’t expresses the strong conclusion that it is impossible.",
+        "b": "“might” does not fit here. Can’t expresses the strong conclusion that it is impossible.",
+        "c": "“may” does not fit here. Can’t expresses the strong conclusion that it is impossible.",
+        "d": "“should” does not fit here. Can’t expresses the strong conclusion that it is impossible."
+      }
+    },
+    {
+      "id": "B1-U07-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Her attendance is uncertain. She ___ come. Express a negative possibility.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Might not says her absence is possible.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "must be"
+        },
+        {
+          "id": "c",
+          "text": "might not"
+        },
+        {
+          "id": "d",
+          "text": "can"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“must” does not fit here. Might not says her absence is possible.",
+        "b": "“must be” does not fit here. Might not says her absence is possible.",
+        "c": "“might not” fits here. Might not says her absence is possible.",
+        "d": "“can” does not fit here. Might not says her absence is possible."
+      }
+    },
+    {
+      "id": "B1-U07-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The parcel ___ be at reception; I am not certain. Choose the possibility modal.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Could expresses one possible location.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must to"
+        },
+        {
+          "id": "b",
+          "text": "coulds"
+        },
+        {
+          "id": "c",
+          "text": "could to"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“must to” does not fit here. Could expresses one possible location.",
+        "b": "“coulds” does not fit here. Could expresses one possible location.",
+        "c": "“could to” does not fit here. Could expresses one possible location.",
+        "d": "“could” fits here. Could expresses one possible location."
+      }
+    },
+    {
+      "id": "B1-U07-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He ___ know the answer. It is possible that he does not know it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "May not expresses a negative possibility.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "can"
+        },
+        {
+          "id": "c",
+          "text": "may not"
+        },
+        {
+          "id": "d",
+          "text": "must to"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“must” does not fit here. May not expresses a negative possibility.",
+        "b": "“can” does not fit here. May not expresses a negative possibility.",
+        "c": "“may not” fits here. May not expresses a negative possibility.",
+        "d": "“must to” does not fit here. May not expresses a negative possibility."
+      }
+    },
+    {
+      "id": "B1-U07-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The lights are on and I hear music. They ___ be home, I conclude.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Must expresses the stated strong deduction.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "must to"
+        },
+        {
+          "id": "c",
+          "text": "musts"
+        },
+        {
+          "id": "d",
+          "text": "must are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“must” fits here. Must expresses the stated strong deduction.",
+        "b": "“must to” does not fit here. Must expresses the stated strong deduction.",
+        "c": "“musts” does not fit here. Must expresses the stated strong deduction.",
+        "d": "“must are” does not fit here. Must expresses the stated strong deduction."
+      }
+    },
+    {
+      "id": "B1-U07-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Might is followed by the base form work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She might to work here."
+        },
+        {
+          "id": "b",
+          "text": "She might work here."
+        },
+        {
+          "id": "c",
+          "text": "She mights work here."
+        },
+        {
+          "id": "d",
+          "text": "She might works here."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She might to work here.” does not fit here. Might is followed by the base form work.",
+        "b": "“She might work here.” fits here. Might is followed by the base form work.",
+        "c": "“She mights work here.” does not fit here. Might is followed by the base form work.",
+        "d": "“She might works here.” does not fit here. Might is followed by the base form work."
+      }
+    },
+    {
+      "id": "B1-U07-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose might or must to express possibility, not certainty: She ___ be at work.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Might presents one possibility.",
+      "accepted_answers": [
+        "might"
+      ]
+    },
+    {
+      "id": "B1-U07-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose must or might for a strong deduction: Their voices are inside, so they ___ be home.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Must expresses the stated strong deduction.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "B1-U07-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose may not or must: It is possible he does not know; he ___ know.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "May not expresses a negative possibility.",
+      "accepted_answers": [
+        "may not"
+      ]
+    },
+    {
+      "id": "B1-U07-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with be: They could ___ at reception.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base form be after could.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B1-U07-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with be: She must ___ tired.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base form be after must.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B1-U07-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: He might ___ here. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base form after might.",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "B1-U07-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with can’t: That ___ be Sara; she is abroad.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Can’t expresses the strong deduction of impossibility.",
+      "accepted_answers": [
+        "can’t",
+        "can't"
+      ]
+    },
+    {
+      "id": "B1-U07-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: She may ___ the answer. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base form after may.",
+      "accepted_answers": [
+        "know"
+      ]
+    },
+    {
+      "id": "B1-U07-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to work",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base verb without to after might.",
+      "source_sentence": "She might to work here.",
+      "target_segment": "to work",
+      "accepted_answers": [
+        "work"
+      ]
+    },
+    {
+      "id": "B1-U07-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: mays",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "May has no -s ending.",
+      "source_sentence": "He mays be tired.",
+      "target_segment": "mays",
+      "accepted_answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "B1-U07-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base form be after must.",
+      "source_sentence": "They must are at home.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "B1-U07-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: knows",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Use the base verb after could.",
+      "source_sentence": "She could knows the answer.",
+      "target_segment": "knows",
+      "accepted_answers": [
+        "know"
+      ]
+    },
+    {
+      "id": "B1-U07-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Might be expresses the possibility.",
+      "source_sentence": "It is possible that Maya is at home. Use might.",
+      "keyword": "might",
+      "target_sentence": "Maya ___ at home.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "might be"
+      ]
+    },
+    {
+      "id": "B1-U07-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "May not know expresses a negative possibility.",
+      "source_sentence": "It is possible that he does not know. Use may.",
+      "keyword": "may",
+      "target_sentence": "He ___ the answer.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "may not know"
+      ]
+    },
+    {
+      "id": "B1-U07-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Must be expresses the deduction.",
+      "source_sentence": "The evidence leads me to conclude strongly that they are tired. Use must.",
+      "keyword": "must",
+      "target_sentence": "They ___ tired.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "must be"
+      ]
+    },
+    {
+      "id": "B1-U07-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U07"
+      ],
+      "explanation": "Can’t be expresses the strong conclusion of impossibility.",
+      "source_sentence": "The evidence leads me to conclude that it is impossible for this to be Leo.",
+      "keyword": null,
+      "target_sentence": "This ___ Leo.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "can’t be",
+        "cannot be"
+      ]
+    }
+  ]
+}

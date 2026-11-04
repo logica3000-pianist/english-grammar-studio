@@ -1,0 +1,642 @@
+{
+  "id": "A2-U19",
+  "level": "A2",
+  "title": "Past simple and past continuous",
+  "order": 19,
+  "prerequisites": [
+    "A2-U18"
+  ],
+  "objectives": [
+    "Distinguish a past event from an action in progress.",
+    "Combine past simple and past continuous clauses.",
+    "Describe simultaneous past activities."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We can use the past simple and past continuous together to describe a past event. The past continuous often describes an action in progress; the past simple can describe another event that happened during that activity. ‘I was cooking when the phone rang’ tells us that the cooking was in progress when the ringing happened.",
+        "The past simple also tells a sequence of completed actions: ‘The phone rang, I answered it and I spoke to my friend’. Each action moves the story forward. The past continuous can provide a background: ‘It was raining when I left home’. It tells us what was happening around the time I left."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Make the past continuous with was or were plus an -ing form: ‘She was studying’ or ‘They were studying’. Use a past simple form for the completed event: ‘The lights went out’. Put the ideas together with when: ‘She was studying when the lights went out’. You can reverse the order: ‘When the lights went out, she was studying’. In writing, a comma commonly follows an opening when clause.",
+        "While often introduces an activity in progress: ‘While they were walking, it started to rain’. When and while can appear in other patterns too, so do not choose a verb form from the linking word alone. Ask whether the speaker is describing an event or an activity in progress."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Imagine a photograph taken at eight. In the photograph, Ali is reading. If the phone rings at that moment, we can describe the past scene: ‘Ali was reading when the phone rang’. We do not know from this sentence exactly when Ali started or stopped reading.",
+        "Two actions can be in progress together: ‘I was washing the dishes while my brother was drying them’. Two past simple verbs can describe events in order: ‘I opened the door and walked in’. Look at the examples below and identify which action is background and which event moves the story forward."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume that a past continuous action always stops because another event happens. ‘I was walking when I saw Sam’ does not tell us whether I stopped walking. Similarly, a longer action is not automatically continuous: the past simple can describe a completed long activity if the speaker presents it as a whole.",
+        "Avoid mixing the forms: use was or were plus -ing for the past continuous, and a past simple form for the completed event. ‘She was reading when I arrived’ is correct. ‘She was read when I arrive’ is not. The intended meaning, not simply the length of an action, guides the choice."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I was sleeping when the alarm rang.",
+      "note": "Sleeping was in progress when the alarm rang."
+    },
+    {
+      "sentence": "When the train arrived, we were waiting.",
+      "note": "Waiting provides the background at the time of arrival."
+    },
+    {
+      "sentence": "While Maya was cooking, the phone rang.",
+      "note": "Cooking was in progress when the phone rang."
+    },
+    {
+      "sentence": "It was raining when we left home.",
+      "note": "Raining describes the background weather."
+    },
+    {
+      "sentence": "I opened the window and sat down.",
+      "note": "The past simple verbs describe a sequence of events."
+    },
+    {
+      "sentence": "We were talking while they were eating.",
+      "note": "Two activities were in progress at the same time."
+    },
+    {
+      "sentence": "He was walking when he saw Anna.",
+      "note": "The sentence does not say whether he stopped walking."
+    },
+    {
+      "sentence": "When I arrived, they were having lunch.",
+      "note": "Having lunch was in progress when I arrived."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I was cook when she arrived.",
+      "correct": "I was cooking when she arrived.",
+      "reason": "Use an -ing form after was."
+    },
+    {
+      "incorrect": "They were waiting when the bus arrive.",
+      "correct": "They were waiting when the bus arrived.",
+      "reason": "Use arrived for the past event."
+    },
+    {
+      "incorrect": "She was read when I called.",
+      "correct": "She was reading when I called.",
+      "reason": "Use reading after was."
+    }
+  ],
+  "summary": [
+    "Use the past continuous for an action in progress at a past moment.",
+    "Use the past simple to present a past event or completed sequence.",
+    "When and while connect events, but context determines the verb forms."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U19-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ dinner when the phone rang.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Was cooking describes the activity in progress when the phone rang.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cook"
+        },
+        {
+          "id": "b",
+          "text": "am cooking"
+        },
+        {
+          "id": "c",
+          "text": "was cooking"
+        },
+        {
+          "id": "d",
+          "text": "cooked every day"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“cook” does not fit here. Was cooking describes the activity in progress when the phone rang.",
+        "b": "“am cooking” does not fit here. Was cooking describes the activity in progress when the phone rang.",
+        "c": "“was cooking” fits here. Was cooking describes the activity in progress when the phone rang.",
+        "d": "“cooked every day” does not fit here. Was cooking describes the activity in progress when the phone rang."
+      }
+    },
+    {
+      "id": "A2-U19-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "They were walking when it ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Started describes the past event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "started"
+        },
+        {
+          "id": "b",
+          "text": "starts"
+        },
+        {
+          "id": "c",
+          "text": "start"
+        },
+        {
+          "id": "d",
+          "text": "starting"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“started” fits here. Started describes the past event.",
+        "b": "“starts” does not fit here. Started describes the past event.",
+        "c": "“start” does not fit here. Started describes the past event.",
+        "d": "“starting” does not fit here. Started describes the past event."
+      }
+    },
+    {
+      "id": "A2-U19-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "When I arrived, she ___ a book.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Was reading describes her action in progress at my arrival.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is reading"
+        },
+        {
+          "id": "b",
+          "text": "read every day"
+        },
+        {
+          "id": "c",
+          "text": "were reading"
+        },
+        {
+          "id": "d",
+          "text": "was reading"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“is reading” does not fit here. Was reading describes her action in progress at my arrival.",
+        "b": "“read every day” does not fit here. Was reading describes her action in progress at my arrival.",
+        "c": "“were reading” does not fit here. Was reading describes her action in progress at my arrival.",
+        "d": "“was reading” fits here. Was reading describes her action in progress at my arrival."
+      }
+    },
+    {
+      "id": "A2-U19-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "While we were studying, the lights ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Went out describes the completed past event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "go out"
+        },
+        {
+          "id": "b",
+          "text": "went out"
+        },
+        {
+          "id": "c",
+          "text": "are going out"
+        },
+        {
+          "id": "d",
+          "text": "going out"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“go out” does not fit here. Went out describes the completed past event.",
+        "b": "“went out” fits here. Went out describes the completed past event.",
+        "c": "“are going out” does not fit here. Went out describes the completed past event.",
+        "d": "“going out” does not fit here. Went out describes the completed past event."
+      }
+    },
+    {
+      "id": "A2-U19-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The sun ___ when we left.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Was shining describes the background weather.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is shining"
+        },
+        {
+          "id": "b",
+          "text": "shine"
+        },
+        {
+          "id": "c",
+          "text": "were shine"
+        },
+        {
+          "id": "d",
+          "text": "was shining"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“is shining” does not fit here. Was shining describes the background weather.",
+        "b": "“shine” does not fit here. Was shining describes the background weather.",
+        "c": "“were shine” does not fit here. Was shining describes the background weather.",
+        "d": "“was shining” fits here. Was shining describes the background weather."
+      }
+    },
+    {
+      "id": "A2-U19-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I opened the door and ___ inside.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Walked continues a sequence of past events.",
+      "options": [
+        {
+          "id": "a",
+          "text": "walks"
+        },
+        {
+          "id": "b",
+          "text": "walked"
+        },
+        {
+          "id": "c",
+          "text": "am walking"
+        },
+        {
+          "id": "d",
+          "text": "walking"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“walks” does not fit here. Walked continues a sequence of past events.",
+        "b": "“walked” fits here. Walked continues a sequence of past events.",
+        "c": "“am walking” does not fit here. Walked continues a sequence of past events.",
+        "d": "“walking” does not fit here. Walked continues a sequence of past events."
+      }
+    },
+    {
+      "id": "A2-U19-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "While I was reading, my sister ___ dinner.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Was cooking describes a simultaneous activity in progress.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was cooking"
+        },
+        {
+          "id": "b",
+          "text": "cooks every day"
+        },
+        {
+          "id": "c",
+          "text": "is cooking"
+        },
+        {
+          "id": "d",
+          "text": "were cooking"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“was cooking” fits here. Was cooking describes a simultaneous activity in progress.",
+        "b": "“cooks every day” does not fit here. Was cooking describes a simultaneous activity in progress.",
+        "c": "“is cooking” does not fit here. Was cooking describes a simultaneous activity in progress.",
+        "d": "“were cooking” does not fit here. Was cooking describes a simultaneous activity in progress."
+      }
+    },
+    {
+      "id": "A2-U19-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He was driving when he ___ Sam.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Saw is the past simple form for the event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sees"
+        },
+        {
+          "id": "b",
+          "text": "is seeing"
+        },
+        {
+          "id": "c",
+          "text": "saw"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“sees” does not fit here. Saw is the past simple form for the event.",
+        "b": "“is seeing” does not fit here. Saw is the past simple form for the event.",
+        "c": "“saw” fits here. Saw is the past simple form for the event.",
+        "d": "“seeing” does not fit here. Saw is the past simple form for the event."
+      }
+    },
+    {
+      "id": "A2-U19-E09",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "I ___ reading when the bell rang.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "I takes was for the action in progress.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U19-E10",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "They ___ playing when it rained.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "They takes were for the action in progress.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U19-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "She was sleeping when I ___. (arrive)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Arrived is the past event.",
+      "accepted_answers": [
+        "arrived"
+      ]
+    },
+    {
+      "id": "A2-U19-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "While we were cooking, the phone ___. (ring)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Rang is the past form of ring.",
+      "accepted_answers": [
+        "rang"
+      ]
+    },
+    {
+      "id": "A2-U19-E13",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "It ___ raining when I left.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Use was with it in the past continuous.",
+      "accepted_answers": [
+        "was"
+      ]
+    },
+    {
+      "id": "A2-U19-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "When he came in, we were ___. (eat)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Use eating after were.",
+      "accepted_answers": [
+        "eating"
+      ]
+    },
+    {
+      "id": "A2-U19-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "I opened the book and ___. (sit down)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Sat down describes the next completed event.",
+      "accepted_answers": [
+        "sat down"
+      ]
+    },
+    {
+      "id": "A2-U19-E16",
+      "type": "gap",
+      "instruction": "Complete the gap with the positive past form of be.",
+      "prompt": "While they ___ walking, they saw a dog.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "They takes were before walking.",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U19-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: cook",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Use the -ing form after was.",
+      "source_sentence": "She was cook when I arrived.",
+      "target_segment": "cook",
+      "accepted_answers": [
+        "cooking"
+      ]
+    },
+    {
+      "id": "A2-U19-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: start",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Use started for the past event.",
+      "source_sentence": "They were playing when it start to rain.",
+      "target_segment": "start",
+      "accepted_answers": [
+        "started"
+      ]
+    },
+    {
+      "id": "A2-U19-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: was",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "We takes were.",
+      "source_sentence": "We was watching when the lights went out.",
+      "target_segment": "was",
+      "accepted_answers": [
+        "were"
+      ]
+    },
+    {
+      "id": "A2-U19-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: driveing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Drop the final e before -ing.",
+      "source_sentence": "While he was driveing, he saw a dog.",
+      "target_segment": "driveing",
+      "accepted_answers": [
+        "driving"
+      ]
+    },
+    {
+      "id": "A2-U19-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Was reading shows the activity in progress.",
+      "source_sentence": "Mia was reading. At that moment, the phone rang.",
+      "keyword": "reading",
+      "target_sentence": "Mia ___ when the phone rang.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "was reading"
+      ]
+    },
+    {
+      "id": "A2-U19-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Began is the past form of begin.",
+      "source_sentence": "They were walking. At that moment, it began to rain.",
+      "keyword": "began",
+      "target_sentence": "They were walking when it ___ to rain.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "began"
+      ]
+    },
+    {
+      "id": "A2-U19-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Were cooking describes the activity in progress.",
+      "source_sentence": "I arrived. At that moment, they were cooking.",
+      "keyword": "cooking",
+      "target_sentence": "When I arrived, they ___ .",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "were cooking"
+      ]
+    },
+    {
+      "id": "A2-U19-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U19"
+      ],
+      "explanation": "Rang is the past event.",
+      "source_sentence": "The bell rang while we were studying.",
+      "keyword": "rang",
+      "target_sentence": "We were studying when the bell ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "rang"
+      ]
+    }
+  ]
+}

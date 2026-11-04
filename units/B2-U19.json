@@ -1,0 +1,642 @@
+{
+  "id": "B2-U19",
+  "level": "B2",
+  "title": "Adverbial clauses of contrast and concession",
+  "order": 19,
+  "prerequisites": [
+    "B2-U18"
+  ],
+  "objectives": [
+    "Choose suitable concessive and contrast links.",
+    "Distinguish noun-phrase and clause complements.",
+    "Punctuate however in controlled contexts."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A contrast link presents a difference between ideas. ‘Maya enjoys working at home, whereas Ben prefers the office’ contrasts their preferences. A concessive link presents a fact that might make another fact unexpected: ‘Although it was raining, we walked to the station’. The rain did not prevent the walk.",
+        "Although, even though, while and whereas can introduce clauses, but their meanings and uses overlap rather than being identical. Even though often emphasises an unexpected contrast. Whereas usually contrasts two facts; it does not normally mean ‘during the time that’ as while can."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Use although or even though plus a clause containing a subject and finite verb: ‘Although the road was busy, we arrived on time’. Use despite or in spite of plus a noun phrase or -ing form: ‘Despite the traffic, we arrived on time’ and ‘In spite of leaving late, we arrived on time’. Despite the fact that and in spite of the fact that can introduce a full clause.",
+        "However is a linking adverb, not a conjunction used to join two complete clauses with only a comma in standard edited prose. Write ‘It was late. However, we continued’ or ‘It was late; however, we continued’. A comma commonly follows an opening however. Punctuation reflects the structure of the whole sentence."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘Although Maya likes the office, she works at home’ with ‘Maya likes the office, whereas Ben prefers home’. The first presents an unexpected relationship involving Maya; the second contrasts two people's preferences. ‘While Maya was working, Ben called’ can describe time, so context is necessary when interpreting while.",
+        "Compare ‘Despite the delay, they arrived before noon’ with ‘Although they were delayed, they arrived before noon’. Both make a concession, but the phrase after despite is a noun phrase and the words after although form a clause. The fact that makes a full clause possible after despite: ‘Despite the fact that they were delayed, they arrived before noon’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use although and but together as parallel links for the same relationship in a standard sentence: choose ‘Although it rained, we walked’ or ‘It rained, but we walked’. Do not put of after despite: use ‘despite the rain’ or ‘in spite of the rain’.",
+        "Different links are not always interchangeable. Whereas contrasts facts; because gives a reason; therefore gives a result. Also, a clause joined with however may need a full stop or semicolon where a conjunction would use a comma. In exercises, the requested meaning and structure determine the intended answer."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Although it was raining, we walked.",
+      "note": "Although introduces a concessive clause."
+    },
+    {
+      "sentence": "Even though it was raining, we walked.",
+      "note": "Even though can emphasise the unexpected contrast."
+    },
+    {
+      "sentence": "Despite the rain, we walked.",
+      "note": "Despite introduces a noun phrase."
+    },
+    {
+      "sentence": "In spite of leaving late, we arrived on time.",
+      "note": "In spite of introduces an -ing form."
+    },
+    {
+      "sentence": "Despite the fact that it rained, we walked.",
+      "note": "The fact that allows a full clause after despite."
+    },
+    {
+      "sentence": "Maya likes the office, whereas Ben prefers home.",
+      "note": "Whereas contrasts two preferences."
+    },
+    {
+      "sentence": "It was late; however, we continued.",
+      "note": "A semicolon joins the clauses, followed by however."
+    },
+    {
+      "sentence": "While Maya was working, Ben called.",
+      "note": "While can express time rather than contrast."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "Despite of the rain, we walked.",
+      "correct": "Despite the rain, we walked.",
+      "reason": "Do not add of directly after despite."
+    },
+    {
+      "incorrect": "Although it rained, but we walked.",
+      "correct": "Although it rained, we walked.",
+      "reason": "Do not use although and but for the same link."
+    },
+    {
+      "incorrect": "Despite it rained, we walked.",
+      "correct": "Although it rained, we walked.",
+      "reason": "Although can introduce the full clause."
+    }
+  ],
+  "summary": [
+    "Use although or even though with a clause and despite or in spite of with a noun phrase or -ing form.",
+    "Use whereas to contrast facts; while can express contrast or time.",
+    "In standard edited prose, punctuate however as a linking adverb between full clauses."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U19-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ the traffic, we arrived on time. Choose the link before a noun phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Despite introduces the noun phrase the traffic.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Whereas"
+        },
+        {
+          "id": "d",
+          "text": "Because"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Although” does not fit here. Despite introduces the noun phrase the traffic.",
+        "b": "“Despite” fits here. Despite introduces the noun phrase the traffic.",
+        "c": "“Whereas” does not fit here. Despite introduces the noun phrase the traffic.",
+        "d": "“Because” does not fit here. Despite introduces the noun phrase the traffic."
+      }
+    },
+    {
+      "id": "B2-U19-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ it was raining, we walked. Choose the concessive link before a clause.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Although introduces the full clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite"
+        },
+        {
+          "id": "b",
+          "text": "In spite of"
+        },
+        {
+          "id": "c",
+          "text": "Because of"
+        },
+        {
+          "id": "d",
+          "text": "Although"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Despite” does not fit here. Although introduces the full clause.",
+        "b": "“In spite of” does not fit here. Although introduces the full clause.",
+        "c": "“Because of” does not fit here. Although introduces the full clause.",
+        "d": "“Although” fits here. Although introduces the full clause."
+      }
+    },
+    {
+      "id": "B2-U19-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya prefers home, ___ Ben prefers the office. Contrast the preferences.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Whereas contrasts the two preferences.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whereas"
+        },
+        {
+          "id": "b",
+          "text": "because of"
+        },
+        {
+          "id": "c",
+          "text": "despite"
+        },
+        {
+          "id": "d",
+          "text": "therefore of"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“whereas” fits here. Whereas contrasts the two preferences.",
+        "b": "“because of” does not fit here. Whereas contrasts the two preferences.",
+        "c": "“despite” does not fit here. Whereas contrasts the two preferences.",
+        "d": "“therefore of” does not fit here. Whereas contrasts the two preferences."
+      }
+    },
+    {
+      "id": "B2-U19-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "It was late; ___, we continued. Choose the linking adverb.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "However links the contrasting statements after the semicolon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "although of"
+        },
+        {
+          "id": "b",
+          "text": "despite"
+        },
+        {
+          "id": "c",
+          "text": "however"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“although of” does not fit here. However links the contrasting statements after the semicolon.",
+        "b": "“despite” does not fit here. However links the contrasting statements after the semicolon.",
+        "c": "“however” fits here. However links the contrasting statements after the semicolon.",
+        "d": "“because” does not fit here. However links the contrasting statements after the semicolon."
+      }
+    },
+    {
+      "id": "B2-U19-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "In spite of ___ late, they arrived on time. (leave)",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "In spite of can introduce an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to leave"
+        },
+        {
+          "id": "b",
+          "text": "leave"
+        },
+        {
+          "id": "c",
+          "text": "left yesterday"
+        },
+        {
+          "id": "d",
+          "text": "leaving"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“to leave” does not fit here. In spite of can introduce an -ing form.",
+        "b": "“leave” does not fit here. In spite of can introduce an -ing form.",
+        "c": "“left yesterday” does not fit here. In spite of can introduce an -ing form.",
+        "d": "“leaving” fits here. In spite of can introduce an -ing form."
+      }
+    },
+    {
+      "id": "B2-U19-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Despite the fact ___ it was raining, we walked.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "The fact that introduces the full clause after despite.",
+      "options": [
+        {
+          "id": "a",
+          "text": "of"
+        },
+        {
+          "id": "b",
+          "text": "to"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "than"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“of” does not fit here. The fact that introduces the full clause after despite.",
+        "b": "“to” does not fit here. The fact that introduces the full clause after despite.",
+        "c": "“that” fits here. The fact that introduces the full clause after despite.",
+        "d": "“than” does not fit here. The fact that introduces the full clause after despite."
+      }
+    },
+    {
+      "id": "B2-U19-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses standard edited punctuation?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "A semicolon can separate the clauses before however.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was late; however, we continued."
+        },
+        {
+          "id": "b",
+          "text": "It was late, however, we continued."
+        },
+        {
+          "id": "c",
+          "text": "It was late however, we continued."
+        },
+        {
+          "id": "d",
+          "text": "It was late; although, we continued."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“It was late; however, we continued.” fits here. A semicolon can separate the clauses before however.",
+        "b": "“It was late, however, we continued.” does not fit here. A semicolon can separate the clauses before however.",
+        "c": "“It was late however, we continued.” does not fit here. A semicolon can separate the clauses before however.",
+        "d": "“It was late; although, we continued.” does not fit here. A semicolon can separate the clauses before however."
+      }
+    },
+    {
+      "id": "B2-U19-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence correctly expresses concession?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Although introduces the clause without a second contrast link.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite of the rain, we walked."
+        },
+        {
+          "id": "b",
+          "text": "Although it rained, we walked."
+        },
+        {
+          "id": "c",
+          "text": "Although it rained, but we walked."
+        },
+        {
+          "id": "d",
+          "text": "Despite it rained, we walked."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Despite of the rain, we walked.” does not fit here. Although introduces the clause without a second contrast link.",
+        "b": "“Although it rained, we walked.” fits here. Although introduces the clause without a second contrast link.",
+        "c": "“Although it rained, but we walked.” does not fit here. Although introduces the clause without a second contrast link.",
+        "d": "“Despite it rained, we walked.” does not fit here. Although introduces the clause without a second contrast link."
+      }
+    },
+    {
+      "id": "B2-U19-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose although or despite: ___ the delay, we arrived before noon.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Despite introduces the noun phrase.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "B2-U19-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose although or despite: ___ they were delayed, they arrived before noon.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Although introduces a full clause.",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B2-U19-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the phrase: in spite ___ the rain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "In spite of introduces the noun phrase.",
+      "accepted_answers": [
+        "of"
+      ]
+    },
+    {
+      "id": "B2-U19-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the phrase: despite the fact ___ it rained.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "The fact that introduces the full clause.",
+      "accepted_answers": [
+        "that"
+      ]
+    },
+    {
+      "id": "B2-U19-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use an -ing form: Despite ___ late, she arrived on time. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Despite can introduce an -ing form.",
+      "accepted_answers": [
+        "leaving"
+      ]
+    },
+    {
+      "id": "B2-U19-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use whereas: Maya prefers home, ___ Ben prefers the office.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Whereas contrasts the preferences.",
+      "accepted_answers": [
+        "whereas"
+      ]
+    },
+    {
+      "id": "B2-U19-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use however: It was late; ___, we continued.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "However links the contrasting statements.",
+      "accepted_answers": [
+        "however"
+      ]
+    },
+    {
+      "id": "B2-U19-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base word: Even ___ it rained, we walked.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Even though introduces the concessive clause.",
+      "accepted_answers": [
+        "though"
+      ]
+    },
+    {
+      "id": "B2-U19-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite of",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Do not add of directly after despite.",
+      "source_sentence": "Despite of the rain, we walked.",
+      "target_segment": "Despite of",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "B2-U19-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: but they continued",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Do not add but for the same contrast already introduced by although.",
+      "source_sentence": "Although it was cold, but they continued.",
+      "target_segment": "but they continued",
+      "accepted_answers": [
+        "they continued"
+      ]
+    },
+    {
+      "id": "B2-U19-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: Despite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Although can introduce the full clause.",
+      "source_sentence": "Despite it rained, we walked.",
+      "target_segment": "Despite",
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B2-U19-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: spite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Use in spite of before the noun phrase.",
+      "source_sentence": "In spite the rain, we walked.",
+      "target_segment": "spite",
+      "accepted_answers": [
+        "spite of"
+      ]
+    },
+    {
+      "id": "B2-U19-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Although introduces the concessive clause.",
+      "source_sentence": "It rained, but we walked. Use although.",
+      "keyword": "Although",
+      "target_sentence": "___ it rained, we walked.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Although"
+      ]
+    },
+    {
+      "id": "B2-U19-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Despite introduces the noun phrase.",
+      "source_sentence": "Although it was raining, we walked. Use despite and the noun rain.",
+      "keyword": "Despite",
+      "target_sentence": "___, we walked.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "Despite the rain"
+      ]
+    },
+    {
+      "id": "B2-U19-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "In spite of introduces the -ing form.",
+      "source_sentence": "She left late, but arrived on time. Use in spite of and an -ing form.",
+      "keyword": "spite",
+      "target_sentence": "___ late, she arrived on time.",
+      "min_words": 4,
+      "max_words": 4,
+      "accepted_answers": [
+        "In spite of leaving"
+      ]
+    },
+    {
+      "id": "B2-U19-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U19"
+      ],
+      "explanation": "Whereas contrasts the two preferences.",
+      "source_sentence": "Maya prefers home; Ben prefers the office. Use whereas.",
+      "keyword": "whereas",
+      "target_sentence": "Maya prefers home, ___ the office.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "whereas Ben prefers"
+      ]
+    }
+  ]
+}

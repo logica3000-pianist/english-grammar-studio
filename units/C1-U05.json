@@ -1,0 +1,657 @@
+{
+  "id": "C1-U05",
+  "level": "C1",
+  "title": "Time, stance and agreement: cumulative review",
+  "order": 5,
+  "prerequisites": [
+    "C1-U04"
+  ],
+  "objectives": [
+    "Distinguish possibility, strong inference and prohibition.",
+    "Use modal perfect forms to assess earlier events.",
+    "Integrate previous work on aspect, future viewpoint, mandative clauses and agreement."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A report may need to distinguish an observation from a conclusion. Epistemic modality is grammar for expressing how strongly a speaker judges a proposition, often on the basis of evidence. “The office may be closed” presents a possibility; “The office must be closed” presents a strong inference in an appropriate context. Neither sentence itself reports that the speaker has directly checked the office.",
+        "The same distinction applies to earlier events. “The parcel may have arrived” presents a possible past arrival. “The parcel must have arrived” presents a strong inference, not an instruction to arrive. The evidence and the wider discourse determine whether the strength of the inference is appropriate."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "For a present possibility, use may or might plus the base form: “The results may differ.” For a possible earlier event, use may or might have plus a past participle: “The results might have changed.” Strong inference about an earlier event can use must have plus a past participle: “She must have left.” A strongly negative inference can use cannot or can’t have plus a past participle: “She can’t have left; her coat is still here.”",
+        "Must not and can’t do not always convey the same meaning. “You must not enter” expresses prohibition. “That cannot be true” can express a negative inference. The difference comes from meaning and context, not just from the presence of not."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Consider an analyst discussing an incomplete dataset: “The change may reflect a seasonal effect.” The writer leaves room for other explanations. A stronger inference might be “The files must have been moved: they were here an hour ago and the cabinet is now empty.” Even strong inferences can turn out to be mistaken.",
+        "Earlier units explored viewpoint, mandative clauses and agreement. “They expected the figures would improve” reports an expectation from a past viewpoint; it does not establish improvement. “The panel recommended that the data be checked” records a proposal. “The number of errors has fallen” uses a singular head, while “a number of errors have remained” refers to several errors."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not present may have as proof that an event happened. Likewise, must have expresses a strong conclusion about the past here, not a past obligation; “had to leave” can express that obligation. “She must have left” and “She had to leave” therefore answer different questions.",
+        "A hedge is useful when it accurately reflects uncertainty; it should not be added to every claim merely to make writing sound academic. When you know an event happened because you witnessed it, a direct past statement may be clearer. Select the form according to the strength and source of the evidence, and keep agreement and the intended time reference consistent."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The results may reflect a seasonal effect.",
+      "note": "May presents one possible explanation."
+    },
+    {
+      "sentence": "The parcel might have arrived already.",
+      "note": "Might have plus a participle presents a possible past event."
+    },
+    {
+      "sentence": "She must have left; her office is empty.",
+      "note": "Must have expresses a strong inference, not direct proof."
+    },
+    {
+      "sentence": "He can’t have taken the key; it is still on the desk.",
+      "note": "Can’t have expresses a strongly negative inference in this context."
+    },
+    {
+      "sentence": "Staff must not enter the store room.",
+      "note": "Must not expresses prohibition here."
+    },
+    {
+      "sentence": "They expected that sales would improve.",
+      "note": "Would places the expected improvement after a past viewpoint."
+    },
+    {
+      "sentence": "The panel recommended that the form be revised.",
+      "note": "Be revised is a passive mandative subjunctive."
+    },
+    {
+      "sentence": "The number of complaints has fallen.",
+      "note": "The singular head number takes has."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She may has left early.",
+      "correct": "She may have left early.",
+      "reason": "A modal is followed by the base form have."
+    },
+    {
+      "incorrect": "He must have leave already.",
+      "correct": "He must have left already.",
+      "reason": "Have takes the past participle left."
+    },
+    {
+      "incorrect": "The number of reports have increased.",
+      "correct": "The number of reports has increased.",
+      "reason": "The number is a singular subject head."
+    }
+  ],
+  "summary": [
+    "Use may or might for possibility and must for a strong inference in suitable contexts.",
+    "Use modal plus have and a past participle to refer to an earlier possible or inferred event.",
+    "Revisit time viewpoint, mandative forms and agreement when evaluating a claim."
+  ],
+  "exercises": [
+    {
+      "id": "C1-U05-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The evidence allows several explanations. Choose the cautious claim: The delay ___ be due to weather.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "May presents weather as a possibility rather than an established fact.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must certainly to"
+        },
+        {
+          "id": "b",
+          "text": "may"
+        },
+        {
+          "id": "c",
+          "text": "has might"
+        },
+        {
+          "id": "d",
+          "text": "may to"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“must certainly to” does not fit here. May presents weather as a possibility rather than an established fact.",
+        "b": "“may” fits here. May presents weather as a possibility rather than an established fact.",
+        "c": "“has might” does not fit here. May presents weather as a possibility rather than an established fact.",
+        "d": "“may to” does not fit here. May presents weather as a possibility rather than an established fact."
+      }
+    },
+    {
+      "id": "C1-U05-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the strong inference about a past departure: Her coat is gone; she ___ already.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "Must have left expresses a strong inference about an earlier event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must leave yesterday"
+        },
+        {
+          "id": "b",
+          "text": "must has left"
+        },
+        {
+          "id": "c",
+          "text": "must had leaving"
+        },
+        {
+          "id": "d",
+          "text": "must have left"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“must leave yesterday” does not fit here. Must have left expresses a strong inference about an earlier event.",
+        "b": "“must has left” does not fit here. Must have left expresses a strong inference about an earlier event.",
+        "c": "“must had leaving” does not fit here. Must have left expresses a strong inference about an earlier event.",
+        "d": "“must have left” fits here. Must have left expresses a strong inference about an earlier event."
+      }
+    },
+    {
+      "id": "C1-U05-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the strongly negative inference: The key is still here; he ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "Can’t have taken expresses a strong negative inference about the earlier event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can’t have taken"
+        },
+        {
+          "id": "b",
+          "text": "must not to take"
+        },
+        {
+          "id": "c",
+          "text": "may has taken"
+        },
+        {
+          "id": "d",
+          "text": "can’t have take"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“can’t have taken” fits here. Can’t have taken expresses a strong negative inference about the earlier event.",
+        "b": "“must not to take” does not fit here. Can’t have taken expresses a strong negative inference about the earlier event.",
+        "c": "“may has taken” does not fit here. Can’t have taken expresses a strong negative inference about the earlier event.",
+        "d": "“can’t have take” does not fit here. Can’t have taken expresses a strong negative inference about the earlier event."
+      }
+    },
+    {
+      "id": "C1-U05-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence expresses prohibition?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "Must not enter expresses a rule prohibiting entry.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The office may be closed."
+        },
+        {
+          "id": "b",
+          "text": "She might have left."
+        },
+        {
+          "id": "c",
+          "text": "Visitors must not enter this room."
+        },
+        {
+          "id": "d",
+          "text": "He can’t have heard us."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“The office may be closed.” does not fit here. Must not enter expresses a rule prohibiting entry.",
+        "b": "“She might have left.” does not fit here. Must not enter expresses a rule prohibiting entry.",
+        "c": "“Visitors must not enter this room.” fits here. Must not enter expresses a rule prohibiting entry.",
+        "d": "“He can’t have heard us.” does not fit here. Must not enter expresses a rule prohibiting entry."
+      }
+    },
+    {
+      "id": "C1-U05-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Select the report of a past expectation, without claiming success.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U02"
+      ],
+      "explanation": "Would succeed presents the predicted success from a past viewpoint.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They had known the project succeeds tomorrow."
+        },
+        {
+          "id": "b",
+          "text": "They expected the project has succeeding."
+        },
+        {
+          "id": "c",
+          "text": "They expected the project will succeeding."
+        },
+        {
+          "id": "d",
+          "text": "They expected the project would succeed."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“They had known the project succeeds tomorrow.” does not fit here. Would succeed presents the predicted success from a past viewpoint.",
+        "b": "“They expected the project has succeeding.” does not fit here. Would succeed presents the predicted success from a past viewpoint.",
+        "c": "“They expected the project will succeeding.” does not fit here. Would succeed presents the predicted success from a past viewpoint.",
+        "d": "“They expected the project would succeed.” fits here. Would succeed presents the predicted success from a past viewpoint."
+      }
+    },
+    {
+      "id": "C1-U05-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Use the passive mandative subjunctive: The panel proposed that the schedule ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U03"
+      ],
+      "explanation": "Be changed is the passive subjunctive after a proposal.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is be changed"
+        },
+        {
+          "id": "b",
+          "text": "be changing"
+        },
+        {
+          "id": "c",
+          "text": "be changed"
+        },
+        {
+          "id": "d",
+          "text": "being changed"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“is be changed” does not fit here. Be changed is the passive subjunctive after a proposal.",
+        "b": "“be changing” does not fit here. Be changed is the passive subjunctive after a proposal.",
+        "c": "“be changed” fits here. Be changed is the passive subjunctive after a proposal.",
+        "d": "“being changed” does not fit here. Be changed is the passive subjunctive after a proposal."
+      }
+    },
+    {
+      "id": "C1-U05-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose standard agreement: The number of complaints ___ fallen.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U04"
+      ],
+      "explanation": "The singular head the number takes has.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“has” fits here. The singular head the number takes has.",
+        "b": "“have” does not fit here. The singular head the number takes has.",
+        "c": "“are” does not fit here. The singular head the number takes has.",
+        "d": "“were” does not fit here. The singular head the number takes has."
+      }
+    },
+    {
+      "id": "C1-U05-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence foregrounds an activity continuing before a past meeting?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U01"
+      ],
+      "explanation": "Had been working foregrounds the duration of the activity before the past meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has writes a report today."
+        },
+        {
+          "id": "b",
+          "text": "She had been working for hours before the meeting."
+        },
+        {
+          "id": "c",
+          "text": "She had completed a report tomorrow."
+        },
+        {
+          "id": "d",
+          "text": "She will have working before the meeting."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“She has writes a report today.” does not fit here. Had been working foregrounds the duration of the activity before the past meeting.",
+        "b": "“She had been working for hours before the meeting.” fits here. Had been working foregrounds the duration of the activity before the past meeting.",
+        "c": "“She had completed a report tomorrow.” does not fit here. Had been working foregrounds the duration of the activity before the past meeting.",
+        "d": "“She will have working before the meeting.” does not fit here. Had been working foregrounds the duration of the activity before the past meeting."
+      }
+    },
+    {
+      "id": "C1-U05-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a modal of possibility: The delay ___ be due to rain. Use may.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "May presents a possible explanation.",
+      "accepted_answers": [
+        "may"
+      ]
+    },
+    {
+      "id": "C1-U05-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the possibility pattern: The parcel might ___ arrived already.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "A modal takes the base form have before the participle.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U05-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past participle: She must have ___ before noon. (leave)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "Must have takes the past participle left.",
+      "accepted_answers": [
+        "left"
+      ]
+    },
+    {
+      "id": "C1-U05-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past-viewpoint prediction: They expected sales ___ improve.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U02"
+      ],
+      "explanation": "Would locates the expected improvement after the past expectation.",
+      "accepted_answers": [
+        "would"
+      ]
+    },
+    {
+      "id": "C1-U05-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the passive subjunctive: They requested that the data ___ checked.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U03"
+      ],
+      "explanation": "Be checked is the passive subjunctive.",
+      "accepted_answers": [
+        "be"
+      ]
+    },
+    {
+      "id": "C1-U05-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use singular agreement: The number of errors ___ decreased.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U04"
+      ],
+      "explanation": "The number is singular.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "C1-U05-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use plural agreement: A number of errors ___ remained.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U04"
+      ],
+      "explanation": "A number of errors refers to several errors and takes plural have.",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U05-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the past perfect continuous: She had ___ working for hours before the meeting.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U01"
+      ],
+      "explanation": "Had been plus working forms the past perfect continuous.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "C1-U05-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "A modal takes the base form have.",
+      "source_sentence": "The parcel may has arrived already.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "C1-U05-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: succeeds",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U02"
+      ],
+      "explanation": "Would takes the base form succeed.",
+      "source_sentence": "The manager expected that the plan would succeeds.",
+      "target_segment": "succeeds",
+      "accepted_answers": [
+        "succeed"
+      ]
+    },
+    {
+      "id": "C1-U05-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: sign",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U03"
+      ],
+      "explanation": "The passive subjunctive takes the past participle signed after be.",
+      "source_sentence": "The board proposed that the forms be sign.",
+      "target_segment": "sign",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "C1-U05-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "C1-U05",
+        "C1-U04"
+      ],
+      "explanation": "The singular head number takes has.",
+      "source_sentence": "The number of complaints have fallen.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "C1-U05-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U05"
+      ],
+      "explanation": "May have left presents a possible past departure.",
+      "source_sentence": "Perhaps she left early. Express the past possibility using may.",
+      "keyword": "may",
+      "target_sentence": "She ___ early.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "may have left"
+      ]
+    },
+    {
+      "id": "C1-U05-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U05",
+        "C1-U02"
+      ],
+      "explanation": "Would succeed presents the success as future from their past viewpoint.",
+      "source_sentence": "They predicted that the project would succeed. Use expected.",
+      "keyword": "would",
+      "target_sentence": "They expected the project ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "would succeed"
+      ]
+    },
+    {
+      "id": "C1-U05-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U05",
+        "C1-U03"
+      ],
+      "explanation": "Be checked is the passive subjunctive.",
+      "source_sentence": "The panel recommended that someone check the figures. Use the passive subjunctive.",
+      "keyword": "checked",
+      "target_sentence": "The panel recommended that the figures ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "be checked"
+      ]
+    },
+    {
+      "id": "C1-U05-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "C1-U05",
+        "C1-U04"
+      ],
+      "explanation": "A number of complaints normally takes plural have.",
+      "source_sentence": "Several complaints have remained. Rewrite using a number of.",
+      "keyword": "remained",
+      "target_sentence": "A number of complaints ___.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "have remained"
+      ]
+    }
+  ]
+}

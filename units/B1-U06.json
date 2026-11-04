@@ -1,0 +1,646 @@
+{
+  "id": "B1-U06",
+  "level": "B1",
+  "title": "Modals of obligation and advice",
+  "order": 6,
+  "prerequisites": [
+    "B1-U05"
+  ],
+  "objectives": [
+    "Distinguish obligation, prohibition and lack of obligation.",
+    "Give advice using should.",
+    "Form questions and negatives with have to."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use must and have to to express obligation or necessity. ‘You must wear a seat belt’ states a strong requirement. ‘I have to leave at six because my shift starts at seven’ describes something necessary in my situation. The difference between must and have to is not fixed: both can express rules or obligations, and the choice depends on context and the speaker's view.",
+        "Use should for advice or a recommendation: ‘You should take a break’. It is generally less forceful than must. You can advise against something with shouldn't: ‘You shouldn't work all night’. Advice is not necessarily a rule."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Must and should are modal verbs. They do not change after he or she, and they are followed by the base form: ‘She must leave’ and ‘He should rest’. Their negatives are must not or mustn't, and should not or shouldn't. Questions put the modal before the subject: ‘Should I call?’ and ‘Must we leave now?’",
+        "Have to behaves differently. Use have to with I, you, we and they, and has to with he, she, it and singular nouns: ‘She has to work’. For a present question or negative, use do or does: ‘Does she have to work?’ and ‘She doesn't have to work’. In the past, had to can express necessity: ‘We had to leave early yesterday’."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "The negative meanings differ. Mustn't means something is prohibited: ‘You mustn't park here’ means parking is not allowed. Don't have to means there is no obligation: ‘You don't have to bring food’ means food is optional; bringing it is not prohibited. Read signs and instructions carefully, because these meanings are very different.",
+        "Look at the examples below. ‘You should drink some water’ is advice. ‘You have to show a ticket’ describes a requirement. ‘You don't have to print the ticket’ removes an obligation. A person could still choose to print it unless another rule says otherwise."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add to after must or should: ‘must go’ and ‘should go’, not ‘must to go’ or ‘should to go’. Do not add -s to the main verb after these modals: ‘He must work’. In contrast, have to changes to has to with he and she.",
+        "Mustn't and don't have to are not interchangeable. Also, advice and rules can be expressed in other ways: ‘You need to leave’ may describe necessity, while ‘It would be a good idea to leave’ suggests advice. Tone, context and the source of a rule help the listener understand how strong an instruction is."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Passengers must wear a seat belt.",
+      "note": "Must expresses a strong requirement."
+    },
+    {
+      "sentence": "I have to start work at seven.",
+      "note": "Have to expresses a necessity."
+    },
+    {
+      "sentence": "She has to show her ticket.",
+      "note": "A singular subject takes has to."
+    },
+    {
+      "sentence": "You mustn't park here.",
+      "note": "Mustn't expresses prohibition."
+    },
+    {
+      "sentence": "You don't have to print the ticket.",
+      "note": "Printing is optional, not prohibited."
+    },
+    {
+      "sentence": "You should take a break.",
+      "note": "Should gives advice."
+    },
+    {
+      "sentence": "Should I call the office?",
+      "note": "Should comes before the subject in the question."
+    },
+    {
+      "sentence": "We had to leave early yesterday.",
+      "note": "Had to expresses a past necessity."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She must to leave.",
+      "correct": "She must leave.",
+      "reason": "Use the base verb without to after must."
+    },
+    {
+      "incorrect": "He have to work.",
+      "correct": "He has to work.",
+      "reason": "He takes has to."
+    },
+    {
+      "incorrect": "You mustn’t bring food. It is optional.",
+      "correct": "You don’t have to bring food. It is optional.",
+      "reason": "Don’t have to expresses no obligation; mustn’t prohibits it."
+    }
+  ],
+  "summary": [
+    "Use must or have to for obligation and should for advice.",
+    "Mustn’t expresses prohibition; don’t have to expresses no obligation.",
+    "Use the base verb after must and should, but use have to or has to as appropriate."
+  ],
+  "exercises": [
+    {
+      "id": "B1-U06-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The sign says parking is prohibited. You ___ park here.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don’t have to"
+        },
+        {
+          "id": "b",
+          "text": "should"
+        },
+        {
+          "id": "c",
+          "text": "mustn’t"
+        },
+        {
+          "id": "d",
+          "text": "can"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“don’t have to” does not fit here. Mustn’t expresses prohibition.",
+        "b": "“should” does not fit here. Mustn’t expresses prohibition.",
+        "c": "“mustn’t” fits here. Mustn’t expresses prohibition.",
+        "d": "“can” does not fit here. Mustn’t expresses prohibition."
+      }
+    },
+    {
+      "id": "B1-U06-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Printing is optional. You ___ print the ticket.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Don’t have to means there is no obligation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don’t have to"
+        },
+        {
+          "id": "b",
+          "text": "mustn’t"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "have to"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“don’t have to” fits here. Don’t have to means there is no obligation.",
+        "b": "“mustn’t” does not fit here. Don’t have to means there is no obligation.",
+        "c": "“must” does not fit here. Don’t have to means there is no obligation.",
+        "d": "“have to” does not fit here. Don’t have to means there is no obligation."
+      }
+    },
+    {
+      "id": "B1-U06-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I advise you to rest. You ___ take a break.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Should expresses advice.",
+      "options": [
+        {
+          "id": "a",
+          "text": "mustn’t"
+        },
+        {
+          "id": "b",
+          "text": "have not to"
+        },
+        {
+          "id": "c",
+          "text": "should to"
+        },
+        {
+          "id": "d",
+          "text": "should"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“mustn’t” does not fit here. Should expresses advice.",
+        "b": "“have not to” does not fit here. Should expresses advice.",
+        "c": "“should to” does not fit here. Should expresses advice.",
+        "d": "“should” fits here. Should expresses advice."
+      }
+    },
+    {
+      "id": "B1-U06-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Company rules require Mia to wear a badge. She ___ wear one.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Has to expresses the requirement with she.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have to"
+        },
+        {
+          "id": "b",
+          "text": "has to"
+        },
+        {
+          "id": "c",
+          "text": "should to"
+        },
+        {
+          "id": "d",
+          "text": "musts"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“have to” does not fit here. Has to expresses the requirement with she.",
+        "b": "“has to” fits here. Has to expresses the requirement with she.",
+        "c": "“should to” does not fit here. Has to expresses the requirement with she.",
+        "d": "“musts” does not fit here. Has to expresses the requirement with she."
+      }
+    },
+    {
+      "id": "B1-U06-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ she have to work on Sunday?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Does introduces the question with she; use have to.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does"
+        },
+        {
+          "id": "b",
+          "text": "Must to"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Does” fits here. Does introduces the question with she; use have to.",
+        "b": "“Must to” does not fit here. Does introduces the question with she; use have to.",
+        "c": "“Do” does not fit here. Does introduces the question with she; use have to.",
+        "d": "“Is” does not fit here. Does introduces the question with she; use have to."
+      }
+    },
+    {
+      "id": "B1-U06-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ leave early yesterday because the office closed.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Had to expresses past necessity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must to"
+        },
+        {
+          "id": "b",
+          "text": "has to"
+        },
+        {
+          "id": "c",
+          "text": "had to"
+        },
+        {
+          "id": "d",
+          "text": "shoulds"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“must to” does not fit here. Had to expresses past necessity.",
+        "b": "“has to” does not fit here. Had to expresses past necessity.",
+        "c": "“had to” fits here. Had to expresses past necessity.",
+        "d": "“shoulds” does not fit here. Had to expresses past necessity."
+      }
+    },
+    {
+      "id": "B1-U06-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "You ___ touch the wire. The sign says it is prohibited.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don’t have to"
+        },
+        {
+          "id": "b",
+          "text": "should"
+        },
+        {
+          "id": "c",
+          "text": "may"
+        },
+        {
+          "id": "d",
+          "text": "mustn’t"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“don’t have to” does not fit here. Mustn’t expresses prohibition.",
+        "b": "“should” does not fit here. Mustn’t expresses prohibition.",
+        "c": "“may” does not fit here. Mustn’t expresses prohibition.",
+        "d": "“mustn’t” fits here. Mustn’t expresses prohibition."
+      }
+    },
+    {
+      "id": "B1-U06-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence gives advice?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Should is followed by the base verb rest.",
+      "options": [
+        {
+          "id": "a",
+          "text": "You shoulds rest."
+        },
+        {
+          "id": "b",
+          "text": "You should rest."
+        },
+        {
+          "id": "c",
+          "text": "You should to rest."
+        },
+        {
+          "id": "d",
+          "text": "You should rests."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“You shoulds rest.” does not fit here. Should is followed by the base verb rest.",
+        "b": "“You should rest.” fits here. Should is followed by the base verb rest.",
+        "c": "“You should to rest.” does not fit here. Should is followed by the base verb rest.",
+        "d": "“You should rests.” does not fit here. Should is followed by the base verb rest."
+      }
+    },
+    {
+      "id": "B1-U06-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use must: You ___ wear a helmet; it is required.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Must expresses the requirement.",
+      "accepted_answers": [
+        "must"
+      ]
+    },
+    {
+      "id": "B1-U06-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose mustn’t or don’t have to: Parking is prohibited; you ___ park here.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "accepted_answers": [
+        "mustn’t",
+        "mustn't"
+      ]
+    },
+    {
+      "id": "B1-U06-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose mustn’t or don’t have to: A jacket is optional; you ___ wear one.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Don’t have to expresses no obligation.",
+      "accepted_answers": [
+        "don’t have to",
+        "don't have to"
+      ]
+    },
+    {
+      "id": "B1-U06-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use should: You ___ speak to your teacher; that is my advice.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Should introduces advice.",
+      "accepted_answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "B1-U06-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with have or has: She ___ to leave now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "She takes has to.",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U06-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete with do or does: ___ he have to work tomorrow?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Does introduces the question with he.",
+      "accepted_answers": [
+        "Does"
+      ]
+    },
+    {
+      "id": "B1-U06-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the base verb: You must ___ your ticket. (show)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Use the base verb after must.",
+      "accepted_answers": [
+        "show"
+      ]
+    },
+    {
+      "id": "B1-U06-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use had to: We ___ leave early yesterday.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Had to describes past necessity.",
+      "accepted_answers": [
+        "had to"
+      ]
+    },
+    {
+      "id": "B1-U06-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: to wear",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Use the base verb without to after must.",
+      "source_sentence": "She must to wear a badge.",
+      "target_segment": "to wear",
+      "accepted_answers": [
+        "wear"
+      ]
+    },
+    {
+      "id": "B1-U06-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: have",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "He takes has to.",
+      "source_sentence": "He have to leave now.",
+      "target_segment": "have",
+      "accepted_answers": [
+        "has"
+      ]
+    },
+    {
+      "id": "B1-U06-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Use have after does.",
+      "source_sentence": "Does she has to work?",
+      "target_segment": "has",
+      "accepted_answers": [
+        "have"
+      ]
+    },
+    {
+      "id": "B1-U06-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: shoulds",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Should has no -s ending.",
+      "source_sentence": "You shoulds rest.",
+      "target_segment": "shoulds",
+      "accepted_answers": [
+        "should"
+      ]
+    },
+    {
+      "id": "B1-U06-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Must wear expresses the requirement.",
+      "source_sentence": "A helmet is required.",
+      "keyword": "must",
+      "target_sentence": "You ___ a helmet.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "must wear"
+      ]
+    },
+    {
+      "id": "B1-U06-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Don’t have to means bringing food is not required.",
+      "source_sentence": "Bringing food is optional.",
+      "keyword": null,
+      "target_sentence": "You ___ food.",
+      "min_words": 4,
+      "max_words": 5,
+      "accepted_answers": [
+        "don’t have to bring",
+        "do not have to bring"
+      ]
+    },
+    {
+      "id": "B1-U06-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Should introduces the advice.",
+      "source_sentence": "My advice is to call the office.",
+      "keyword": "should",
+      "target_sentence": "You ___ the office.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "should call"
+      ]
+    },
+    {
+      "id": "B1-U06-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B1-U06"
+      ],
+      "explanation": "Mustn’t expresses prohibition.",
+      "source_sentence": "The rule prohibits parking here.",
+      "keyword": null,
+      "target_sentence": "You ___ here.",
+      "min_words": 2,
+      "max_words": 3,
+      "accepted_answers": [
+        "mustn’t park",
+        "must not park"
+      ]
+    }
+  ]
+}

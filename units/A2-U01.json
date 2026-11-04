@@ -1,0 +1,641 @@
+{
+  "id": "A2-U01",
+  "level": "A2",
+  "title": "Be: statements and short answers",
+  "order": 1,
+  "prerequisites": [],
+  "objectives": [
+    "Choose am, is or are for a subject.",
+    "Make positive and negative statements with be.",
+    "Ask yes/no questions and give short answers with be."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "We use the verb be to give information about people, places and things. It can tell us a person's name, age, job or feeling. It can also describe a place or say where something is. For example, ‘I am a student’ tells us about a person, while ‘The keys are on the table’ tells us where things are.",
+        "In this unit, we focus on the present: information that is true now or generally true. A subject is the person or thing we talk about. The verb changes with the subject. Learn the subject and verb together: I am, you are, he is, she is, it is, we are and they are. You can mean one person or more than one person; in both cases, use are."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "In a positive statement, put the subject before am, is or are. Then add the information: subject + be + information. With a single named person, use is: ‘Maya is a doctor.’ With two or more people, use are: ‘Maya and Leo are doctors.’ Use it for one thing and they for two or more things.",
+        "In everyday speech and informal writing, a short form is common: I’m, you’re, he’s, she’s, it’s, we’re and they’re. An apostrophe shows missing letters. The full forms are also correct. In a negative statement, add not after the verb: ‘The shop is not open.’ Common short forms include isn’t and aren’t; ‘I’m not’ is the usual short negative with I. We do not normally write ‘I amn’t’ in standard British English."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Be is useful in a conversation when you introduce yourself, talk about a place or describe a situation. Look at the examples below and notice which subject each verb goes with. A name such as Ben works like he; a group such as Ben and Mia works like they.",
+        "For a yes/no question, put the verb before the subject: ‘Are you ready?’ For a short answer, use Yes or No, a subject pronoun and the correct form of be: ‘Yes, I am’ or ‘No, I’m not.’ Do not use a short positive form at the end of a short answer: say ‘Yes, she is’, not ‘Yes, she’s’."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not add do or does to a question with be: ‘Is she at home?’ is correct. Also, do not leave out the verb in an English statement: ‘My brother is tired’, not ‘My brother tired’. In a longer answer, you can add more information after the short answer: ‘Yes, we are. We are ready.’",
+        "A contraction can have more than one meaning in English, but here he’s, she’s and it’s mean he is, she is and it is. Context helps you understand the sentence. Practise choosing the subject first and then choosing the matching form of be."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I’m a student at the local college.",
+      "note": "I’m is the short form of I am."
+    },
+    {
+      "sentence": "Maya is a nurse at our hospital.",
+      "note": "A single person’s name takes is."
+    },
+    {
+      "sentence": "My parents are at home today.",
+      "note": "Parents is plural, so use are."
+    },
+    {
+      "sentence": "The museum is open on Sundays.",
+      "note": "The singular subject museum takes is."
+    },
+    {
+      "sentence": "You are early, Sam.",
+      "note": "You takes are when it refers to one person."
+    },
+    {
+      "sentence": "You are both welcome here.",
+      "note": "You also takes are for more than one person."
+    },
+    {
+      "sentence": "Is the bus late? Yes, it is.",
+      "note": "Put is before the subject in the question; use the full form in the positive short answer."
+    },
+    {
+      "sentence": "We aren’t ready for the lesson.",
+      "note": "Aren’t is a short form of are not."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "My brother tired.",
+      "correct": "My brother is tired.",
+      "reason": "A statement needs a form of be."
+    },
+    {
+      "incorrect": "They is at home.",
+      "correct": "They are at home.",
+      "reason": "They takes are."
+    },
+    {
+      "incorrect": "Is she ready? Yes, she’s.",
+      "correct": "Is she ready? Yes, she is.",
+      "reason": "Use the full form is at the end of a positive short answer."
+    }
+  ],
+  "summary": [
+    "Use am with I, is with he, she and it, and are with you, we and they.",
+    "Put not after be to make a negative; put be before the subject in a yes/no question.",
+    "Use a full verb form at the end of a positive short answer."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U01-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I ___ from Brazil.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "I takes am.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "Is does not agree with I.",
+        "b": "Am agrees with I.",
+        "c": "Are does not agree with I.",
+        "d": "Be is the base form; use am here."
+      }
+    },
+    {
+      "id": "A2-U01-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My sister ___ a teacher.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "A singular person takes is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Are is used with you, we or they.",
+        "b": "Am is used with I.",
+        "c": "Is agrees with my sister.",
+        "d": "Be is not the present form needed here."
+      }
+    },
+    {
+      "id": "A2-U01-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The children ___ in the garden.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "Children is plural, so use are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Are agrees with the plural subject.",
+        "b": "Is is singular.",
+        "c": "Am is used with I.",
+        "d": "Be is not the correct present form."
+      }
+    },
+    {
+      "id": "A2-U01-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Sam, ___ you ready?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "Use are before you in a question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "Is does not agree with you.",
+        "b": "Be is not the correct present form.",
+        "c": "Am is used with I.",
+        "d": "Are agrees with you."
+      }
+    },
+    {
+      "id": "A2-U01-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Is your phone here? Yes, ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "A positive short answer ends with the full form it is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it’s"
+        },
+        {
+          "id": "b",
+          "text": "is it"
+        },
+        {
+          "id": "c",
+          "text": "it are"
+        },
+        {
+          "id": "d",
+          "text": "it is"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "The contraction cannot end this positive short answer.",
+        "b": "Is it has question word order.",
+        "c": "It takes is, not are.",
+        "d": "It is is the correct short answer."
+      }
+    },
+    {
+      "id": "A2-U01-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We ___ late; the train leaves in an hour.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "We takes are; aren’t means are not.",
+      "options": [
+        {
+          "id": "a",
+          "text": "aren’t"
+        },
+        {
+          "id": "b",
+          "text": "isn’t"
+        },
+        {
+          "id": "c",
+          "text": "am not"
+        },
+        {
+          "id": "d",
+          "text": "not are"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "Aren’t agrees with we and fits the meaning.",
+        "b": "Isn’t does not agree with we.",
+        "c": "Am not goes with I.",
+        "d": "Not follows are, not precedes it."
+      }
+    },
+    {
+      "id": "A2-U01-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "My name ___ Daniel.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The singular subject my name takes is.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "Are does not agree with my name.",
+        "b": "Am is used with I.",
+        "c": "Is agrees with the singular subject.",
+        "d": "Use a present form rather than base be."
+      }
+    },
+    {
+      "id": "A2-U01-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence is correct?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "A statement needs be, and they takes are.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They at school."
+        },
+        {
+          "id": "b",
+          "text": "They are at school."
+        },
+        {
+          "id": "c",
+          "text": "They am at school."
+        },
+        {
+          "id": "d",
+          "text": "They is at school."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "The sentence needs a verb.",
+        "b": "They are has the correct subject and verb.",
+        "c": "They does not take am.",
+        "d": "They does not take is."
+      }
+    },
+    {
+      "id": "A2-U01-E09",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "I ___ a little tired today.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "I takes am.",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U01-E10",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "They ___ at the station now.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "They takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U01-E11",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "My dog ___ very friendly.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The singular subject my dog takes is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U01-E12",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "We ___ not hungry after lunch.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "We takes are; not follows the verb.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U01-E13",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "___ you a student, Alex?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "Use are with you, including in questions.",
+      "accepted_answers": [
+        "Are"
+      ]
+    },
+    {
+      "id": "A2-U01-E14",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "Is the library open? Yes, it ___ .",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "A positive short answer uses the full form is.",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U01-E15",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "No, I ___ not ready yet.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "I takes am in the negative.",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U01-E16",
+      "type": "gap",
+      "instruction": "Complete the gap. Use the word in brackets when given.",
+      "prompt": "My friends and I ___ from London.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "My friends and I means we, which takes are.",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U01-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: is",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "Friends is plural and takes are.",
+      "source_sentence": "My friends is in the café.",
+      "target_segment": "is",
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U01-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "I takes am.",
+      "source_sentence": "I are from Portugal.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U01-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: are",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The singular subject book takes is.",
+      "source_sentence": "The book are on the desk.",
+      "target_segment": "are",
+      "accepted_answers": [
+        "is"
+      ]
+    },
+    {
+      "id": "A2-U01-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: he’s",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "A positive short answer ends with the full form he is.",
+      "source_sentence": "Is he at home? Yes, he’s.",
+      "target_segment": "he’s",
+      "accepted_answers": [
+        "he is"
+      ]
+    },
+    {
+      "id": "A2-U01-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The full form am follows I; the contraction joins I directly.",
+      "source_sentence": "I am a teacher.",
+      "keyword": null,
+      "target_sentence": "I ___ a teacher.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "am"
+      ]
+    },
+    {
+      "id": "A2-U01-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "Aren’t and are not both express the negative with they.",
+      "source_sentence": "They are not late.",
+      "keyword": null,
+      "target_sentence": "They ___ late.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "aren’t",
+        "are not"
+      ]
+    },
+    {
+      "id": "A2-U01-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The plural subject children takes are.",
+      "source_sentence": "The children are at home.",
+      "keyword": null,
+      "target_sentence": "The children ___ at home.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "are"
+      ]
+    },
+    {
+      "id": "A2-U01-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so that it keeps the meaning of the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U01"
+      ],
+      "explanation": "The positive short answer ends with she is.",
+      "source_sentence": "Is Maya ready? She is ready.",
+      "keyword": null,
+      "target_sentence": "Is Maya ready? Yes, ___.",
+      "min_words": 1,
+      "max_words": 2,
+      "accepted_answers": [
+        "she is"
+      ]
+    }
+  ]
+}

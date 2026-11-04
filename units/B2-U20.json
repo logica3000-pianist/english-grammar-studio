@@ -1,0 +1,659 @@
+{
+  "id": "B2-U20",
+  "level": "B2",
+  "title": "Linking and cohesion: cumulative review",
+  "order": 20,
+  "prerequisites": [
+    "B2-U19"
+  ],
+  "objectives": [
+    "Choose links for result, contrast and addition.",
+    "Clarify pronoun reference.",
+    "Review participle clauses, reduced relative clauses and concession."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "Cohesion is the set of language choices that helps connect parts of a text. A writer may use linking expressions, repeated key nouns, pronouns or other references to show how one sentence relates to another. ‘The road was closed. Therefore, we took another route’ makes the second sentence a result of the first.",
+        "Cohesive words do not automatically make an argument logical. ‘The road was closed. However, we took another route’ is grammatical, but however presents a contrast that may not be the intended relationship. The writer must first decide whether the next idea adds information, gives a result or provides a contrast."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "However commonly signals contrast; therefore commonly signals a conclusion or result; furthermore adds information. In standard edited prose, these linking adverbs do not normally join two complete clauses with only a comma. Use a full stop or semicolon: ‘The road was closed; therefore, we took another route’. A comma commonly follows the opening adverb.",
+        "Pronouns and expressions such as this decision or these results refer back to earlier information. Choose a form that agrees in number and makes the reference clear. ‘Maya cancelled the meeting. This decision surprised the team’ identifies the cancellation as the decision. If this could refer to several things, repeat or name the relevant idea."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘The hotel was expensive. However, it was fully booked’ with ‘The hotel was expensive. Therefore, we chose another one’. The first presents a contrast; the second states a result. ‘Furthermore’ adds another point, but it does not in itself prove that the points are related.",
+        "This review connects earlier structures. ‘The proposal discussed yesterday was approved’ uses a reduced passive relative clause. ‘Having checked the figures, Ana submitted the report’ uses a participle clause whose understood subject is Ana. ‘Although the sample was small, the findings were useful’ uses a concessive clause."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not join two independent clauses with only a comma and however in standard edited prose: avoid ‘It was late, however, we continued’. Use a full stop or semicolon. However can appear in other positions, so punctuation depends on the complete sentence rather than one fixed formula.",
+        "Avoid ambiguous pronouns. In ‘Maya told Ana she had won’, she could refer to either person without further context. Repeating a name can resolve the ambiguity. Also avoid treating therefore as evidence: it states that the writer sees a result or conclusion; the supporting facts still need to justify that conclusion."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The road was closed; therefore, we took another route.",
+      "note": "Therefore introduces the stated result."
+    },
+    {
+      "sentence": "It was late. However, we continued.",
+      "note": "However introduces a contrast across sentences."
+    },
+    {
+      "sentence": "The plan is affordable. Furthermore, it is easy to maintain.",
+      "note": "Furthermore adds another point."
+    },
+    {
+      "sentence": "Maya cancelled the meeting. This decision surprised the team.",
+      "note": "This decision names the earlier action."
+    },
+    {
+      "sentence": "The proposal discussed yesterday was approved.",
+      "note": "The reduced clause describes the proposal that received the discussion."
+    },
+    {
+      "sentence": "Having checked the figures, Ana submitted the report.",
+      "note": "Ana is the understood subject of checking."
+    },
+    {
+      "sentence": "Although the sample was small, the findings were useful.",
+      "note": "Although introduces a concessive clause."
+    },
+    {
+      "sentence": "Maya told Ana that Ana had won.",
+      "note": "Repeating Ana clarifies who won."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "The road was closed, therefore, we took another route.",
+      "correct": "The road was closed; therefore, we took another route.",
+      "reason": "Use a semicolon or full stop between the independent clauses in standard edited prose."
+    },
+    {
+      "incorrect": "Although it was late, but we continued.",
+      "correct": "Although it was late, we continued.",
+      "reason": "Do not combine although and but for the same contrast."
+    },
+    {
+      "incorrect": "Having checked the figures, the report was submitted by Ana.",
+      "correct": "Having checked the figures, Ana submitted the report.",
+      "reason": "Make Ana the main subject to match the intended checker."
+    }
+  ],
+  "summary": [
+    "Choose links that match the intended relationship between ideas.",
+    "Use punctuation appropriate for linking adverbs between independent clauses.",
+    "Make references and the understood subjects of reduced clauses clear."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U20-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The road was closed; ___, we took another route. State the result.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Therefore introduces the stated result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "therefore"
+        },
+        {
+          "id": "b",
+          "text": "however"
+        },
+        {
+          "id": "c",
+          "text": "whereas of"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“therefore” fits here. Therefore introduces the stated result.",
+        "b": "“however” does not fit here. Therefore introduces the stated result.",
+        "c": "“whereas of” does not fit here. Therefore introduces the stated result.",
+        "d": "“despite” does not fit here. Therefore introduces the stated result."
+      }
+    },
+    {
+      "id": "B2-U20-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The hotel was expensive. ___, it was fully booked. Introduce a contrast.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "However presents the second fact as a contrast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Therefore"
+        },
+        {
+          "id": "b",
+          "text": "Because of"
+        },
+        {
+          "id": "c",
+          "text": "However"
+        },
+        {
+          "id": "d",
+          "text": "As a result"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Therefore” does not fit here. However presents the second fact as a contrast.",
+        "b": "“Because of” does not fit here. However presents the second fact as a contrast.",
+        "c": "“However” fits here. However presents the second fact as a contrast.",
+        "d": "“As a result” does not fit here. However presents the second fact as a contrast."
+      }
+    },
+    {
+      "id": "B2-U20-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The plan is affordable. ___, it is easy to maintain. Add another point.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Furthermore adds another point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Therefore of"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Although of"
+        },
+        {
+          "id": "d",
+          "text": "Furthermore"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“Therefore of” does not fit here. Furthermore adds another point.",
+        "b": "“Despite” does not fit here. Furthermore adds another point.",
+        "c": "“Although of” does not fit here. Furthermore adds another point.",
+        "d": "“Furthermore” fits here. Furthermore adds another point."
+      }
+    },
+    {
+      "id": "B2-U20-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses standard edited punctuation between the full clauses?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "A semicolon can separate the clauses before however.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It was late, however, we continued."
+        },
+        {
+          "id": "b",
+          "text": "It was late; however, we continued."
+        },
+        {
+          "id": "c",
+          "text": "It was late however, we continued."
+        },
+        {
+          "id": "d",
+          "text": "It was late; although, we continued."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“It was late, however, we continued.” does not fit here. A semicolon can separate the clauses before however.",
+        "b": "“It was late; however, we continued.” fits here. A semicolon can separate the clauses before however.",
+        "c": "“It was late however, we continued.” does not fit here. A semicolon can separate the clauses before however.",
+        "d": "“It was late; although, we continued.” does not fit here. A semicolon can separate the clauses before however."
+      }
+    },
+    {
+      "id": "B2-U20-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The documents ___ yesterday are on the desk. The documents received the signatures.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U18"
+      ],
+      "explanation": "Signed is the reduced passive relative clause.",
+      "options": [
+        {
+          "id": "a",
+          "text": "signing"
+        },
+        {
+          "id": "b",
+          "text": "who signing"
+        },
+        {
+          "id": "c",
+          "text": "being sign"
+        },
+        {
+          "id": "d",
+          "text": "signed"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“signing” does not fit here. Signed is the reduced passive relative clause.",
+        "b": "“who signing” does not fit here. Signed is the reduced passive relative clause.",
+        "c": "“being sign” does not fit here. Signed is the reduced passive relative clause.",
+        "d": "“signed” fits here. Signed is the reduced passive relative clause."
+      }
+    },
+    {
+      "id": "B2-U20-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ana checked the figures. Choose the sentence with the intended shared subject.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U17"
+      ],
+      "explanation": "Ana is the understood checker and main subject.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Having checked the figures, the report submitted Ana."
+        },
+        {
+          "id": "b",
+          "text": "Having checked the figures, Ana submitted the report."
+        },
+        {
+          "id": "c",
+          "text": "Having checked the figures, the figures submitted Ana."
+        },
+        {
+          "id": "d",
+          "text": "Having check the figures, Ana submitted the report."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“Having checked the figures, the report submitted Ana.” does not fit here. Ana is the understood checker and main subject.",
+        "b": "“Having checked the figures, Ana submitted the report.” fits here. Ana is the understood checker and main subject.",
+        "c": "“Having checked the figures, the figures submitted Ana.” does not fit here. Ana is the understood checker and main subject.",
+        "d": "“Having check the figures, Ana submitted the report.” does not fit here. Ana is the understood checker and main subject."
+      }
+    },
+    {
+      "id": "B2-U20-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "___ the small sample, the findings were useful. Choose the concessive link before a noun phrase.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U19"
+      ],
+      "explanation": "Despite introduces the noun phrase.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although of"
+        },
+        {
+          "id": "b",
+          "text": "Because"
+        },
+        {
+          "id": "c",
+          "text": "Despite"
+        },
+        {
+          "id": "d",
+          "text": "Whereas"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“Although of” does not fit here. Despite introduces the noun phrase.",
+        "b": "“Because” does not fit here. Despite introduces the noun phrase.",
+        "c": "“Despite” fits here. Despite introduces the noun phrase.",
+        "d": "“Whereas” does not fit here. Despite introduces the noun phrase."
+      }
+    },
+    {
+      "id": "B2-U20-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Maya told Ana that Ana had won. Who won?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Repeating Ana identifies her as the winner.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ana."
+        },
+        {
+          "id": "b",
+          "text": "Maya necessarily."
+        },
+        {
+          "id": "c",
+          "text": "Both necessarily."
+        },
+        {
+          "id": "d",
+          "text": "The reader cannot identify the person named."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“Ana.” fits here. Repeating Ana identifies her as the winner.",
+        "b": "“Maya necessarily.” does not fit here. Repeating Ana identifies her as the winner.",
+        "c": "“Both necessarily.” does not fit here. Repeating Ana identifies her as the winner.",
+        "d": "“The reader cannot identify the person named.” does not fit here. Repeating Ana identifies her as the winner."
+      }
+    },
+    {
+      "id": "B2-U20-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use therefore: The road was closed; ___, we took another route.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Therefore introduces the stated result.",
+      "accepted_answers": [
+        "therefore"
+      ]
+    },
+    {
+      "id": "B2-U20-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use however: It was late. ___, we continued.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "However introduces the contrast.",
+      "accepted_answers": [
+        "However"
+      ]
+    },
+    {
+      "id": "B2-U20-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use furthermore: The plan is affordable. ___, it is easy to maintain.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Furthermore adds a related point.",
+      "accepted_answers": [
+        "Furthermore"
+      ]
+    },
+    {
+      "id": "B2-U20-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the reference: Maya cancelled the meeting. This ___ surprised the team. Use the noun decision.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "This decision names the earlier cancellation.",
+      "accepted_answers": [
+        "decision"
+      ]
+    },
+    {
+      "id": "B2-U20-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a reduced passive clause: The documents ___ yesterday are here. (sign)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U18"
+      ],
+      "explanation": "Signed describes the documents receiving the action.",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "B2-U20-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use a perfect participle: Having ___ the figures, Ana submitted the report. (check)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U17"
+      ],
+      "explanation": "Having checked marks the earlier action by Ana.",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U20-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Choose although or despite: ___ the delay, we arrived on time.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U19"
+      ],
+      "explanation": "Despite introduces the noun phrase.",
+      "accepted_answers": [
+        "Despite"
+      ]
+    },
+    {
+      "id": "B2-U20-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use which: The topic about ___ we spoke was useful.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U16"
+      ],
+      "explanation": "Which follows a fronted preposition for a thing.",
+      "accepted_answers": [
+        "which"
+      ]
+    },
+    {
+      "id": "B2-U20-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: It was late, however,",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "A semicolon or full stop separates the independent clauses in standard edited prose.",
+      "source_sentence": "It was late, however, we continued.",
+      "target_segment": "It was late, however,",
+      "accepted_answers": [
+        "It was late; however,",
+        "It was late. However,"
+      ],
+      "grading": {
+        "case_sensitive": false,
+        "ignore_terminal_punctuation": false
+      }
+    },
+    {
+      "id": "B2-U20-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: check",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U17"
+      ],
+      "explanation": "Use a participle after having.",
+      "source_sentence": "Having check the figures, Ana submitted the report.",
+      "target_segment": "check",
+      "accepted_answers": [
+        "checked"
+      ]
+    },
+    {
+      "id": "B2-U20-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "The documents received the signatures. Replace: signing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U18"
+      ],
+      "explanation": "Use the passive participle for documents receiving the action.",
+      "source_sentence": "The documents signing yesterday are here.",
+      "target_segment": "signing",
+      "accepted_answers": [
+        "signed"
+      ]
+    },
+    {
+      "id": "B2-U20-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: spite",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U20",
+        "B2-U19"
+      ],
+      "explanation": "Use in spite of before the noun phrase.",
+      "source_sentence": "In spite the cost, we agreed.",
+      "target_segment": "spite",
+      "accepted_answers": [
+        "spite of"
+      ]
+    },
+    {
+      "id": "B2-U20-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "Therefore states the result.",
+      "source_sentence": "The road was closed. As a result, we took another route.",
+      "keyword": "therefore",
+      "target_sentence": "The road was closed; ___, we took another route.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "therefore"
+      ]
+    },
+    {
+      "id": "B2-U20-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U20"
+      ],
+      "explanation": "However introduces the contrast.",
+      "source_sentence": "It was late, but we continued. Use however and a semicolon.",
+      "keyword": "however",
+      "target_sentence": "It was late; ___, we continued.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "however"
+      ]
+    },
+    {
+      "id": "B2-U20-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U20",
+        "B2-U18"
+      ],
+      "explanation": "Signed identifies the documents receiving the earlier action.",
+      "source_sentence": "The documents were signed yesterday. They are here. Use a reduced clause.",
+      "keyword": "signed",
+      "target_sentence": "The documents ___ are here.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "signed yesterday"
+      ]
+    },
+    {
+      "id": "B2-U20-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U20",
+        "B2-U17"
+      ],
+      "explanation": "Having checked makes the earlier action explicit.",
+      "source_sentence": "Ana checked the figures. Then she submitted the report. Use a perfect participle clause.",
+      "keyword": "Having",
+      "target_sentence": "___ the figures, Ana submitted the report.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "Having checked"
+      ]
+    }
+  ]
+}

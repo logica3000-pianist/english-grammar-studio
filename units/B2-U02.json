@@ -1,0 +1,642 @@
+{
+  "id": "B2-U02",
+  "level": "B2",
+  "title": "Past perfect simple and continuous",
+  "order": 2,
+  "prerequisites": [
+    "B2-U01"
+  ],
+  "objectives": [
+    "Choose a form for a stated result or activity focus.",
+    "Form past perfect simple and continuous structures.",
+    "Recognise overlap between the forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "The past perfect simple and continuous both look back from a point in the past. The simple often focuses on a completed result or amount before that point: ‘By noon, she had written three reports’. The continuous often focuses on the duration or activity leading up to the past point: ‘By noon, she had been writing for three hours’.",
+        "A past perfect continuous activity may have continued until the reference point or stopped shortly before it. ‘He was tired because he had been running’ explains a past effect; it does not tell us precisely when the running stopped. The surrounding context can make the sequence clearer."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "Form the past perfect simple with had plus a past participle: ‘They had finished’. Form the past perfect continuous with had been plus an -ing form: ‘They had been working’. Had has the same form with every subject. Negatives use had not or hadn't: ‘She hadn't finished’ and ‘She hadn't been sleeping well’.",
+        "For questions, put had before the subject: ‘Had they finished?’ and ‘Had they been waiting long?’ A short answer uses had or hadn't. The simple can refer to a state as well as a completed event: ‘She had known him for years before they worked together’. Know in this state meaning normally does not use the continuous."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Compare ‘By the time the guests arrived, Maya had cooked dinner’ with ‘Maya had been cooking for an hour when the guests arrived’. The first presents dinner as completed before arrival. The second focuses on how long the cooking activity had lasted; it does not tell us whether dinner was ready.",
+        "With some verbs, both forms can refer to a continuing situation before a past point: ‘He had worked there for years before he left’ and ‘He had been working there for years before he left’. The continuous may highlight duration or activity; the simple can present the same span more neutrally."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not assume the continuous means an activity definitely continued after the later event. ‘They had been waiting before the doors opened’ does not by itself tell us whether they kept waiting afterwards. Likewise, the simple can express duration with state verbs: ‘She had known him for years’.",
+        "Avoid using the past perfect when the context does not need an earlier viewpoint. A simple sequence such as ‘She entered, sat down and opened her book’ normally uses the past simple. In the exercises, a stated result or duration focus guides the choice where both forms might otherwise fit."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "By noon, she had written three reports.",
+      "note": "The simple foregrounds the completed number."
+    },
+    {
+      "sentence": "By noon, she had been writing for three hours.",
+      "note": "The continuous foregrounds the duration."
+    },
+    {
+      "sentence": "He was tired because he had been running.",
+      "note": "The earlier activity explains the past effect."
+    },
+    {
+      "sentence": "Dinner had been cooked before the guests arrived.",
+      "note": "This is a past perfect passive; the form been here is not followed by -ing."
+    },
+    {
+      "sentence": "She had known him for years before they worked together.",
+      "note": "Know normally uses the simple form for this state."
+    },
+    {
+      "sentence": "They had been waiting when the doors opened.",
+      "note": "The activity led up to the past reference point."
+    },
+    {
+      "sentence": "He had worked there for years before he left.",
+      "note": "The simple can describe a continuing period before a past point."
+    },
+    {
+      "sentence": "He had been working there for years before he left.",
+      "note": "The continuous can highlight the same duration as activity."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "She had been write for an hour.",
+      "correct": "She had been writing for an hour.",
+      "reason": "Use an -ing form after had been in this continuous pattern."
+    },
+    {
+      "incorrect": "They had wrote three reports.",
+      "correct": "They had written three reports.",
+      "reason": "Use the participle written after had in the simple."
+    },
+    {
+      "incorrect": "I had been knowing him for years.",
+      "correct": "I had known him for years.",
+      "reason": "Know normally takes the simple form for this state."
+    }
+  ],
+  "summary": [
+    "The simple often foregrounds an earlier result or completed amount.",
+    "The continuous often foregrounds activity or duration before a past reference point.",
+    "Some continuing situations allow both forms; state verbs commonly use the simple."
+  ],
+  "exercises": [
+    {
+      "id": "B2-U02-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on the completed number: By noon, she ___ three reports.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had written presents the completed number.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been write"
+        },
+        {
+          "id": "b",
+          "text": "had been writing three reports for"
+        },
+        {
+          "id": "c",
+          "text": "has wrote"
+        },
+        {
+          "id": "d",
+          "text": "had written"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“had been write” does not fit here. Had written presents the completed number.",
+        "b": "“had been writing three reports for” does not fit here. Had written presents the completed number.",
+        "c": "“has wrote” does not fit here. Had written presents the completed number.",
+        "d": "“had written” fits here. Had written presents the completed number."
+      }
+    },
+    {
+      "id": "B2-U02-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on duration: By noon, they ___ for three hours.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had been working foregrounds the duration before noon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been working"
+        },
+        {
+          "id": "b",
+          "text": "had been work"
+        },
+        {
+          "id": "c",
+          "text": "have been working"
+        },
+        {
+          "id": "d",
+          "text": "had work"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“had been working” fits here. Had been working foregrounds the duration before noon.",
+        "b": "“had been work” does not fit here. Had been working foregrounds the duration before noon.",
+        "c": "“have been working” does not fit here. Had been working foregrounds the duration before noon.",
+        "d": "“had work” does not fit here. Had been working foregrounds the duration before noon."
+      }
+    },
+    {
+      "id": "B2-U02-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which sentence uses the usual state meaning of know?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had known is the usual simple form for this state.",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had been knowing him for years."
+        },
+        {
+          "id": "b",
+          "text": "She had know him for years."
+        },
+        {
+          "id": "c",
+          "text": "She had known him for years."
+        },
+        {
+          "id": "d",
+          "text": "She has been know him for years."
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“She had been knowing him for years.” does not fit here. Had known is the usual simple form for this state.",
+        "b": "“She had know him for years.” does not fit here. Had known is the usual simple form for this state.",
+        "c": "“She had known him for years.” fits here. Had known is the usual simple form for this state.",
+        "d": "“She has been know him for years.” does not fit here. Had known is the usual simple form for this state."
+      }
+    },
+    {
+      "id": "B2-U02-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "He was out of breath after the activity. Choose the past perfect continuous.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had been running focuses on the earlier activity.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He had been run."
+        },
+        {
+          "id": "b",
+          "text": "He had been running."
+        },
+        {
+          "id": "c",
+          "text": "He had running."
+        },
+        {
+          "id": "d",
+          "text": "He had ran been."
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“He had been run.” does not fit here. Had been running focuses on the earlier activity.",
+        "b": "“He had been running.” fits here. Had been running focuses on the earlier activity.",
+        "c": "“He had running.” does not fit here. Had been running focuses on the earlier activity.",
+        "d": "“He had ran been.” does not fit here. Had been running focuses on the earlier activity."
+      }
+    },
+    {
+      "id": "B2-U02-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Choose the correct continuous form: They ___ all morning before lunch.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had been working uses an -ing form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been work"
+        },
+        {
+          "id": "b",
+          "text": "had working"
+        },
+        {
+          "id": "c",
+          "text": "had been working"
+        },
+        {
+          "id": "d",
+          "text": "had been worked"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“had been work” does not fit here. Had been working uses an -ing form.",
+        "b": "“had working” does not fit here. Had been working uses an -ing form.",
+        "c": "“had been working” fits here. Had been working uses an -ing form.",
+        "d": "“had been worked” does not fit here. Had been working uses an -ing form."
+      }
+    },
+    {
+      "id": "B2-U02-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Focus on the completed result: The report was ready because she ___ it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had written presents the completed result.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been write"
+        },
+        {
+          "id": "b",
+          "text": "had written"
+        },
+        {
+          "id": "c",
+          "text": "had wrote"
+        },
+        {
+          "id": "d",
+          "text": "has writing"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“had been write” does not fit here. Had written presents the completed result.",
+        "b": "“had written” fits here. Had written presents the completed result.",
+        "c": "“had wrote” does not fit here. Had written presents the completed result.",
+        "d": "“has writing” does not fit here. Had written presents the completed result."
+      }
+    },
+    {
+      "id": "B2-U02-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which pair can both describe employment continuing until a past departure?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Both forms can describe the period before departure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He had worked there for years; he had been working there for years."
+        },
+        {
+          "id": "b",
+          "text": "He had work there; he had been worked there."
+        },
+        {
+          "id": "c",
+          "text": "He was known there; he has working there."
+        },
+        {
+          "id": "d",
+          "text": "He had knowing there; he had been know there."
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“He had worked there for years; he had been working there for years.” fits here. Both forms can describe the period before departure.",
+        "b": "“He had work there; he had been worked there.” does not fit here. Both forms can describe the period before departure.",
+        "c": "“He was known there; he has working there.” does not fit here. Both forms can describe the period before departure.",
+        "d": "“He had knowing there; he had been know there.” does not fit here. Both forms can describe the period before departure."
+      }
+    },
+    {
+      "id": "B2-U02-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Which statement is accurate?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "The continuous can foreground the activity before the reference point.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The continuous always proves the action continued afterwards."
+        },
+        {
+          "id": "b",
+          "text": "The simple can never describe a duration."
+        },
+        {
+          "id": "c",
+          "text": "Every past event requires the past perfect."
+        },
+        {
+          "id": "d",
+          "text": "The continuous can focus on an activity leading up to a past point."
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“The continuous always proves the action continued afterwards.” does not fit here. The continuous can foreground the activity before the reference point.",
+        "b": "“The simple can never describe a duration.” does not fit here. The continuous can foreground the activity before the reference point.",
+        "c": "“Every past event requires the past perfect.” does not fit here. The continuous can foreground the activity before the reference point.",
+        "d": "“The continuous can focus on an activity leading up to a past point.” fits here. The continuous can foreground the activity before the reference point."
+      }
+    },
+    {
+      "id": "B2-U02-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the simple: She had ___ three reports by noon. (write)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Written is the participle of write.",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U02-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: They had been ___ for hours. (work)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Use an -ing form after had been.",
+      "accepted_answers": [
+        "working"
+      ]
+    },
+    {
+      "id": "B2-U02-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the usual simple state form: I had ___ him for years. (know)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Know normally takes the simple in this state meaning.",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B2-U02-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: He had been ___ before he rested. (run)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Run doubles n before -ing.",
+      "accepted_answers": [
+        "running"
+      ]
+    },
+    {
+      "id": "B2-U02-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the simple: We had ___ the task before lunch. (finish)",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Finished is the participle of finish.",
+      "accepted_answers": [
+        "finished"
+      ]
+    },
+    {
+      "id": "B2-U02-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Use the continuous: She had ___ studying for an hour.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Been precedes the -ing form.",
+      "accepted_answers": [
+        "been"
+      ]
+    },
+    {
+      "id": "B2-U02-E15",
+      "type": "gap",
+      "instruction": "Complete the question using the past perfect continuous.",
+      "prompt": "Past perfect continuous: ___ they been waiting long?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had comes before the subject.",
+      "accepted_answers": [
+        "Had"
+      ]
+    },
+    {
+      "id": "B2-U02-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Complete the question: ___ she finished before noon?",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had comes before the subject.",
+      "accepted_answers": [
+        "Had"
+      ]
+    },
+    {
+      "id": "B2-U02-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: been knowing",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Know normally uses the simple form for this state.",
+      "source_sentence": "I had been knowing him for years.",
+      "target_segment": "been knowing",
+      "accepted_answers": [
+        "known"
+      ]
+    },
+    {
+      "id": "B2-U02-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: write",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Use an -ing form after been.",
+      "source_sentence": "She had been write for an hour.",
+      "target_segment": "write",
+      "accepted_answers": [
+        "writing"
+      ]
+    },
+    {
+      "id": "B2-U02-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: wrote",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Use the participle written after had.",
+      "source_sentence": "They had wrote three letters.",
+      "target_segment": "wrote",
+      "accepted_answers": [
+        "written"
+      ]
+    },
+    {
+      "id": "B2-U02-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Use the past perfect continuous. Replace: has",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had been working looks back from the past departure.",
+      "source_sentence": "He has been working for an hour before the meeting began.",
+      "target_segment": "has",
+      "accepted_answers": [
+        "had"
+      ]
+    },
+    {
+      "id": "B2-U02-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had written foregrounds the completed number.",
+      "source_sentence": "She completed three reports before noon. Use the past perfect simple.",
+      "keyword": "written",
+      "target_sentence": "By noon, she ___ three reports.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had written"
+      ]
+    },
+    {
+      "id": "B2-U02-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had been working foregrounds duration.",
+      "source_sentence": "Their work continued for an hour before lunch. Use the past perfect continuous.",
+      "keyword": "working",
+      "target_sentence": "Before lunch, they ___ for an hour.",
+      "min_words": 3,
+      "max_words": 3,
+      "accepted_answers": [
+        "had been working"
+      ]
+    },
+    {
+      "id": "B2-U02-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Had known describes the earlier state.",
+      "source_sentence": "She met him years before they worked together and still knew him then. Use the usual simple state form.",
+      "keyword": "known",
+      "target_sentence": "She ___ him for years before they worked together.",
+      "min_words": 2,
+      "max_words": 2,
+      "accepted_answers": [
+        "had known"
+      ]
+    },
+    {
+      "id": "B2-U02-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "B2-U02"
+      ],
+      "explanation": "Put had before the subject.",
+      "source_sentence": "They had been waiting. Ask a yes/no question.",
+      "keyword": "Had",
+      "target_sentence": "___ they been waiting?",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "Had"
+      ]
+    }
+  ]
+}

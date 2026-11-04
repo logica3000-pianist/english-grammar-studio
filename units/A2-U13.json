@@ -1,0 +1,642 @@
+{
+  "id": "A2-U13",
+  "level": "A2",
+  "title": "Object and possessive pronouns",
+  "order": 13,
+  "prerequisites": [
+    "A2-U12"
+  ],
+  "objectives": [
+    "Select object pronouns after verbs and prepositions.",
+    "Choose possessive pronouns when the noun is understood.",
+    "Distinguish possessive pronouns from possessive determiners."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning and use",
+      "paragraphs": [
+        "A pronoun is a word that can replace a noun or noun phrase. Object pronouns are me, you, him, her, it, us and them. We use them after a verb when they refer to the person or thing receiving an action: ‘I know Sara’ can become ‘I know her’. We also use object pronouns after prepositions such as with, for and to: ‘Come with us’. ",
+        "Possessive pronouns show who something belongs to. They are mine, yours, his, hers, ours and theirs. They can replace a possessive determiner and noun when the noun is clear: ‘This is my coat’ can become ‘This coat is mine’. The word its can be a possessive determiner before a noun; a standalone possessive pronoun its is very rare and is not practised here."
+      ]
+    },
+    {
+      "heading": "Form",
+      "paragraphs": [
+        "The subject pronouns are I, you, he, she, it, we and they. The object forms are me, you, him, her, it, us and them. Compare ‘She knows me’ with ‘I know her’. The subject normally comes before the main verb in a statement; an object pronoun can come after the verb. You and it have the same form in both lists.",
+        "Possessive determiners come before nouns: my bag, your bag, his bag, her bag, our bag, their bag. Possessive pronouns normally stand without the noun: mine, yours, his, hers, ours, theirs. His has the same form in both patterns: ‘his bag’ and ‘The bag is his’. Do not add an apostrophe to hers, ours, yours or theirs."
+      ]
+    },
+    {
+      "heading": "Examples in context",
+      "paragraphs": [
+        "Look at the examples below. ‘Can you help me?’ asks for help for the speaker. ‘I can help you’ offers help to the person addressed. In ‘The teacher is speaking to them’, them follows the preposition to. The correct form depends on the pronoun’s role in the sentence.",
+        "In a conversation, a noun can be omitted when both people know what it is: ‘Is this your jacket?’ ‘No, it’s hers.’ Here hers means her jacket. The possessive pronoun avoids repeating jacket. A pronoun needs a clear reference, so include the noun or a name if the listener might not understand who or what you mean."
+      ]
+    },
+    {
+      "heading": "Contrasts and common mistakes",
+      "paragraphs": [
+        "Do not use a subject form after an ordinary verb in the patterns taught here: say ‘I can see him’, not ‘I can see he’. After a preposition, say ‘for them’, not ‘for they’. The pronoun refers to the same people, but its grammatical form changes.",
+        "Do not put a noun after mine, yours, hers, ours or theirs in this pattern: say ‘my coat’ or ‘the coat is mine’, not ‘mine coat’. A sentence such as ‘This is her’ identifies a person, while ‘This is hers’ identifies something that belongs to her. Context helps you choose the intended meaning."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I know Anna. I see her every day.",
+      "note": "Her replaces Anna as the object of see."
+    },
+    {
+      "sentence": "Ben calls me after work.",
+      "note": "Me is the object of calls."
+    },
+    {
+      "sentence": "Please come with us.",
+      "note": "Us follows the preposition with."
+    },
+    {
+      "sentence": "We can help them.",
+      "note": "Them refers to the people receiving help."
+    },
+    {
+      "sentence": "This bag is mine.",
+      "note": "Mine means my bag; the noun is understood."
+    },
+    {
+      "sentence": "That coat is hers.",
+      "note": "Hers means her coat."
+    },
+    {
+      "sentence": "Is this seat yours?",
+      "note": "Yours asks whether the seat belongs to the listener."
+    },
+    {
+      "sentence": "Those books are theirs.",
+      "note": "Theirs means their books."
+    }
+  ],
+  "common_errors": [
+    {
+      "incorrect": "I can see she.",
+      "correct": "I can see her.",
+      "reason": "Use the object pronoun her after see."
+    },
+    {
+      "incorrect": "This is mine coat.",
+      "correct": "This is my coat.",
+      "reason": "Use my before the noun coat."
+    },
+    {
+      "incorrect": "These bags are their’s.",
+      "correct": "These bags are theirs.",
+      "reason": "The possessive pronoun theirs has no apostrophe."
+    }
+  ],
+  "summary": [
+    "Use object pronouns such as me, him and them after verbs and prepositions.",
+    "Use possessive determiners before nouns and possessive pronouns without a following noun.",
+    "Use context to make the person or thing a pronoun refers to clear."
+  ],
+  "exercises": [
+    {
+      "id": "A2-U13-E01",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "I know Maya. I see ___ every week.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Her is the object form referring to Maya.",
+      "options": [
+        {
+          "id": "a",
+          "text": "her"
+        },
+        {
+          "id": "b",
+          "text": "she"
+        },
+        {
+          "id": "c",
+          "text": "hers"
+        },
+        {
+          "id": "d",
+          "text": "he"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“her” fits here. Her is the object form referring to Maya.",
+        "b": "“she” does not fit here. Her is the object form referring to Maya.",
+        "c": "“hers” does not fit here. Her is the object form referring to Maya.",
+        "d": "“he” does not fit here. Her is the object form referring to Maya."
+      }
+    },
+    {
+      "id": "A2-U13-E02",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "The children are here. Can you help ___?",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Them is the object form referring to the children.",
+      "options": [
+        {
+          "id": "a",
+          "text": "they"
+        },
+        {
+          "id": "b",
+          "text": "them"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "theirs"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“they” does not fit here. Them is the object form referring to the children.",
+        "b": "“them” fits here. Them is the object form referring to the children.",
+        "c": "“their” does not fit here. Them is the object form referring to the children.",
+        "d": "“theirs” does not fit here. Them is the object form referring to the children."
+      }
+    },
+    {
+      "id": "A2-U13-E03",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This is my book. It is ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Mine is a possessive pronoun meaning my book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "my"
+        },
+        {
+          "id": "b",
+          "text": "me"
+        },
+        {
+          "id": "c",
+          "text": "mine"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“my” does not fit here. Mine is a possessive pronoun meaning my book.",
+        "b": "“me” does not fit here. Mine is a possessive pronoun meaning my book.",
+        "c": "“mine” fits here. Mine is a possessive pronoun meaning my book.",
+        "d": "“I” does not fit here. Mine is a possessive pronoun meaning my book."
+      }
+    },
+    {
+      "id": "A2-U13-E04",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "That coat belongs to Anna. It is ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Hers is a possessive pronoun meaning her coat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "her"
+        },
+        {
+          "id": "b",
+          "text": "she"
+        },
+        {
+          "id": "c",
+          "text": "him"
+        },
+        {
+          "id": "d",
+          "text": "hers"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“her” does not fit here. Hers is a possessive pronoun meaning her coat.",
+        "b": "“she” does not fit here. Hers is a possessive pronoun meaning her coat.",
+        "c": "“him” does not fit here. Hers is a possessive pronoun meaning her coat.",
+        "d": "“hers” fits here. Hers is a possessive pronoun meaning her coat."
+      }
+    },
+    {
+      "id": "A2-U13-E05",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "We are leaving. Please come with ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Use the object pronoun us after with.",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "our"
+        },
+        {
+          "id": "c",
+          "text": "ours"
+        },
+        {
+          "id": "d",
+          "text": "us"
+        }
+      ],
+      "answer": "d",
+      "option_feedback": {
+        "a": "“we” does not fit here. Use the object pronoun us after with.",
+        "b": "“our” does not fit here. Use the object pronoun us after with.",
+        "c": "“ours” does not fit here. Use the object pronoun us after with.",
+        "d": "“us” fits here. Use the object pronoun us after with."
+      }
+    },
+    {
+      "id": "A2-U13-E06",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "This is ___ bag. I own it.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "My is a possessive determiner before the noun bag.",
+      "options": [
+        {
+          "id": "a",
+          "text": "mine"
+        },
+        {
+          "id": "b",
+          "text": "me"
+        },
+        {
+          "id": "c",
+          "text": "my"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "answer": "c",
+      "option_feedback": {
+        "a": "“mine” does not fit here. My is a possessive determiner before the noun bag.",
+        "b": "“me” does not fit here. My is a possessive determiner before the noun bag.",
+        "c": "“my” fits here. My is a possessive determiner before the noun bag.",
+        "d": "“I” does not fit here. My is a possessive determiner before the noun bag."
+      }
+    },
+    {
+      "id": "A2-U13-E07",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "These seats belong to you. They are ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Yours is a possessive pronoun meaning your seats.",
+      "options": [
+        {
+          "id": "a",
+          "text": "yours"
+        },
+        {
+          "id": "b",
+          "text": "your"
+        },
+        {
+          "id": "c",
+          "text": "you’re"
+        },
+        {
+          "id": "d",
+          "text": "you"
+        }
+      ],
+      "answer": "a",
+      "option_feedback": {
+        "a": "“yours” fits here. Yours is a possessive pronoun meaning your seats.",
+        "b": "“your” does not fit here. Yours is a possessive pronoun meaning your seats.",
+        "c": "“you’re” does not fit here. Yours is a possessive pronoun meaning your seats.",
+        "d": "“you” does not fit here. Yours is a possessive pronoun meaning your seats."
+      }
+    },
+    {
+      "id": "A2-U13-E08",
+      "type": "mcq",
+      "instruction": "Choose the best answer.",
+      "prompt": "Ben and I own the house. The house is ___.",
+      "difficulty": "foundation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Ours is a possessive pronoun referring to the speakers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "our"
+        },
+        {
+          "id": "b",
+          "text": "ours"
+        },
+        {
+          "id": "c",
+          "text": "us"
+        },
+        {
+          "id": "d",
+          "text": "we"
+        }
+      ],
+      "answer": "b",
+      "option_feedback": {
+        "a": "“our” does not fit here. Ours is a possessive pronoun referring to the speakers.",
+        "b": "“ours” fits here. Ours is a possessive pronoun referring to the speakers.",
+        "c": "“us” does not fit here. Ours is a possessive pronoun referring to the speakers.",
+        "d": "“we” does not fit here. Ours is a possessive pronoun referring to the speakers."
+      }
+    },
+    {
+      "id": "A2-U13-E09",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "Liam is my friend. I know ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Him is the object form for Liam.",
+      "accepted_answers": [
+        "him"
+      ]
+    },
+    {
+      "id": "A2-U13-E10",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "We are at the station. Meet ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Us is the object form for we.",
+      "accepted_answers": [
+        "us"
+      ]
+    },
+    {
+      "id": "A2-U13-E11",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "The cats are hungry. Feed ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Them is the object form for the cats.",
+      "accepted_answers": [
+        "them"
+      ]
+    },
+    {
+      "id": "A2-U13-E12",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is my phone. It is ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Mine means my phone.",
+      "accepted_answers": [
+        "mine"
+      ]
+    },
+    {
+      "id": "A2-U13-E13",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is her bicycle. It is ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Hers means her bicycle.",
+      "accepted_answers": [
+        "hers"
+      ]
+    },
+    {
+      "id": "A2-U13-E14",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "This is our home. It is ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Ours means our home.",
+      "accepted_answers": [
+        "ours"
+      ]
+    },
+    {
+      "id": "A2-U13-E15",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "These are their books. They are ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Theirs means their books.",
+      "accepted_answers": [
+        "theirs"
+      ]
+    },
+    {
+      "id": "A2-U13-E16",
+      "type": "gap",
+      "instruction": "Complete the gap.",
+      "prompt": "You own the keys. They are ___.",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Yours means your keys.",
+      "accepted_answers": [
+        "yours"
+      ]
+    },
+    {
+      "id": "A2-U13-E17",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: help he",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Use the object form him after help.",
+      "source_sentence": "I can help he.",
+      "target_segment": "help he",
+      "accepted_answers": [
+        "help him"
+      ]
+    },
+    {
+      "id": "A2-U13-E18",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: we",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Use the object form us after the preposition to.",
+      "source_sentence": "The teacher speaks to we.",
+      "target_segment": "we",
+      "accepted_answers": [
+        "us"
+      ]
+    },
+    {
+      "id": "A2-U13-E19",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: hers",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Use her before the noun coat.",
+      "source_sentence": "This is hers coat.",
+      "target_segment": "hers",
+      "accepted_answers": [
+        "her"
+      ]
+    },
+    {
+      "id": "A2-U13-E20",
+      "type": "correction",
+      "instruction": "Replace only the indicated segment to correct the sentence.",
+      "prompt": "Replace: our",
+      "difficulty": "consolidation",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Use the possessive pronoun ours without a following noun.",
+      "source_sentence": "Those seats are our.",
+      "target_segment": "our",
+      "accepted_answers": [
+        "ours"
+      ]
+    },
+    {
+      "id": "A2-U13-E21",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Mine means belonging to me.",
+      "source_sentence": "This bag belongs to me.",
+      "keyword": "mine",
+      "target_sentence": "This bag is ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "mine"
+      ]
+    },
+    {
+      "id": "A2-U13-E22",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Her replaces Sara as the object of see.",
+      "source_sentence": "I can see Sara.",
+      "keyword": "her",
+      "target_sentence": "I can see ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "her"
+      ]
+    },
+    {
+      "id": "A2-U13-E23",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Theirs means belonging to them.",
+      "source_sentence": "These bicycles belong to them.",
+      "keyword": "theirs",
+      "target_sentence": "These bicycles are ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "theirs"
+      ]
+    },
+    {
+      "id": "A2-U13-E24",
+      "type": "transformation",
+      "instruction": "Complete the second sentence so it means the same as the first. Write only the missing words.",
+      "prompt": "Complete the target sentence.",
+      "difficulty": "challenge",
+      "tests_units": [
+        "A2-U13"
+      ],
+      "explanation": "Us replaces my friends and me after to.",
+      "source_sentence": "Please speak to my friends and me.",
+      "keyword": "us",
+      "target_sentence": "Please speak to ___.",
+      "min_words": 1,
+      "max_words": 1,
+      "accepted_answers": [
+        "us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Grammar course unit",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+    },
+    "level": {
+      "enum": [
+        "A2",
+        "B1",
+        "B2",
+        "C1"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "order": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 25
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+      },
+      "uniqueItems": true
+    },
+    "objectives": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 3,
+      "maxItems": 5
+    },
+    "explanation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "heading": {
+            "type": "string",
+            "minLength": 1
+          },
+          "paragraphs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "minItems": 1
+          }
+        },
+        "required": [
+          "heading",
+          "paragraphs"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 4
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sentence": {
+            "type": "string",
+            "minLength": 1
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "sentence",
+          "note"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 6,
+      "maxItems": 10
+    },
+    "common_errors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "incorrect": {
+            "type": "string",
+            "minLength": 1
+          },
+          "correct": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "incorrect",
+          "correct",
+          "reason"
+        ],
+        "additionalProperties": false
+      },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "summary": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 3,
+      "maxItems": 3
+    },
+    "exercises": {
+      "type": "array",
+      "minItems": 24,
+      "maxItems": 24,
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}-E[0-9]{2}$"
+              },
+              "type": {
+                "const": "mcq"
+              },
+              "instruction": {
+                "type": "string",
+                "minLength": 1
+              },
+              "prompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "difficulty": {
+                "enum": [
+                  "foundation",
+                  "consolidation",
+                  "challenge"
+                ]
+              },
+              "tests_units": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "explanation": {
+                "type": "string",
+                "minLength": 1
+              },
+              "grading": {
+                "type": "object",
+                "properties": {
+                  "case_sensitive": {
+                    "type": "boolean"
+                  },
+                  "ignore_terminal_punctuation": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "case_sensitive",
+                  "ignore_terminal_punctuation"
+                ],
+                "additionalProperties": false
+              },
+              "options": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "enum": [
+                        "a",
+                        "b",
+                        "c",
+                        "d"
+                      ]
+                    },
+                    "text": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "text"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 4,
+                "maxItems": 4
+              },
+              "answer": {
+                "enum": [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              },
+              "option_feedback": {
+                "type": "object",
+                "properties": {
+                  "a": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "b": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "c": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "d": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "id",
+              "type",
+              "instruction",
+              "prompt",
+              "difficulty",
+              "tests_units",
+              "explanation",
+              "options",
+              "answer",
+              "option_feedback"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}-E[0-9]{2}$"
+              },
+              "type": {
+                "const": "gap"
+              },
+              "instruction": {
+                "type": "string",
+                "minLength": 1
+              },
+              "prompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "difficulty": {
+                "enum": [
+                  "foundation",
+                  "consolidation",
+                  "challenge"
+                ]
+              },
+              "tests_units": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "explanation": {
+                "type": "string",
+                "minLength": 1
+              },
+              "grading": {
+                "type": "object",
+                "properties": {
+                  "case_sensitive": {
+                    "type": "boolean"
+                  },
+                  "ignore_terminal_punctuation": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "case_sensitive",
+                  "ignore_terminal_punctuation"
+                ],
+                "additionalProperties": false
+              },
+              "accepted_answers": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              }
+            },
+            "required": [
+              "id",
+              "type",
+              "instruction",
+              "prompt",
+              "difficulty",
+              "tests_units",
+              "explanation",
+              "accepted_answers"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}-E[0-9]{2}$"
+              },
+              "type": {
+                "const": "correction"
+              },
+              "instruction": {
+                "type": "string",
+                "minLength": 1
+              },
+              "prompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "difficulty": {
+                "enum": [
+                  "foundation",
+                  "consolidation",
+                  "challenge"
+                ]
+              },
+              "tests_units": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "explanation": {
+                "type": "string",
+                "minLength": 1
+              },
+              "grading": {
+                "type": "object",
+                "properties": {
+                  "case_sensitive": {
+                    "type": "boolean"
+                  },
+                  "ignore_terminal_punctuation": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "case_sensitive",
+                  "ignore_terminal_punctuation"
+                ],
+                "additionalProperties": false
+              },
+              "source_sentence": {
+                "type": "string",
+                "minLength": 1
+              },
+              "target_segment": {
+                "type": "string",
+                "minLength": 1
+              },
+              "accepted_answers": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              }
+            },
+            "required": [
+              "id",
+              "type",
+              "instruction",
+              "prompt",
+              "difficulty",
+              "tests_units",
+              "explanation",
+              "source_sentence",
+              "target_segment",
+              "accepted_answers"
+            ],
+            "additionalProperties": false
+          },
+          {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}-E[0-9]{2}$"
+              },
+              "type": {
+                "const": "transformation"
+              },
+              "instruction": {
+                "type": "string",
+                "minLength": 1
+              },
+              "prompt": {
+                "type": "string",
+                "minLength": 1
+              },
+              "difficulty": {
+                "enum": [
+                  "foundation",
+                  "consolidation",
+                  "challenge"
+                ]
+              },
+              "tests_units": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^(A2|B1|B2|C1)-U[0-9]{2}$"
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              },
+              "explanation": {
+                "type": "string",
+                "minLength": 1
+              },
+              "grading": {
+                "type": "object",
+                "properties": {
+                  "case_sensitive": {
+                    "type": "boolean"
+                  },
+                  "ignore_terminal_punctuation": {
+                    "type": "boolean"
+                  }
+                },
+                "required": [
+                  "case_sensitive",
+                  "ignore_terminal_punctuation"
+                ],
+                "additionalProperties": false
+              },
+              "source_sentence": {
+                "type": "string",
+                "minLength": 1
+              },
+              "keyword": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_sentence": {
+                "type": "string",
+                "minLength": 1
+              },
+              "min_words": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "max_words": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "accepted_answers": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "minItems": 1,
+                "uniqueItems": true
+              }
+            },
+            "required": [
+              "id",
+              "type",
+              "instruction",
+              "prompt",
+              "difficulty",
+              "tests_units",
+              "explanation",
+              "source_sentence",
+              "keyword",
+              "target_sentence",
+              "min_words",
+              "max_words",
+              "accepted_answers"
+            ],
+            "additionalProperties": false
+          }
+        ]
+      },
+      "allOf": [
+        {
+          "contains": {
+            "properties": {
+              "type": {
+                "const": "mcq"
+              }
+            },
+            "required": [
+              "type"
+            ]
+          },
+          "minContains": 8,
+          "maxContains": 8
+        },
+        {
+          "contains": {
+            "properties": {
+              "type": {
+                "const": "gap"
+              }
+            },
+            "required": [
+              "type"
+            ]
+          },
+          "minContains": 8,
+          "maxContains": 8
+        },
+        {
+          "contains": {
+            "properties": {
+              "type": {
+                "const": "correction"
+              }
+            },
+            "required": [
+              "type"
+            ]
+          },
+          "minContains": 4,
+          "maxContains": 4
+        },
+        {
+          "contains": {
+            "properties": {
+              "type": {
+                "const": "transformation"
+              }
+            },
+            "required": [
+              "type"
+            ]
+          },
+          "minContains": 4,
+          "maxContains": 4
+        }
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "level",
+    "title",
+    "order",
+    "prerequisites",
+    "objectives",
+    "explanation",
+    "examples",
+    "common_errors",
+    "summary",
+    "exercises"
+  ],
+  "additionalProperties": false
+}
